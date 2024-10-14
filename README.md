@@ -18,7 +18,7 @@ outras informações. Para acessar a aplicação web:
 6.  [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas)  
 7.  [📝 Licença](#licença)
 
-## 📋 **Sobre o Projeto**
+## **Sobre o Projeto**
 
 Este projeto têm como objetivo facilitar a busca de estudos clínicos
 disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
@@ -86,13 +86,16 @@ aqui](https://felippelazar.github.io/CancerTrialsBR/cni.html).
 
 ## **Estrutura do Repositório**
 
-O repositório é organizado da seguinte maneira: - Na pasta `user_input`
-estão os *logs* de sugestões dos usuários para atualização dos dados. As
-sugestões são divididas em três grupos: inclusão de centros
-(`locations_inclusion`), identificação de centros
-(`locations_identification`) e atualização de status de recrutamento
-(`locations_status`). - Na pasta `data` encontra-se o banco de dados
-propriamente dito em formato excel.
+O repositório é organizado da seguinte maneira:
+
+- Na pasta `user_input` estão os *logs* de sugestões dos usuários para
+  atualização dos dados. As sugestões são divididas em três grupos:
+  inclusão de centros (`locations_inclusion`), identificação de centros
+  (`locations_identification`) e atualização de status de recrutamento
+  (`locations_status`).
+
+- Na pasta `data` encontra-se o banco de dados propriamente dito em
+  formato excel.
 
 ## **Tecnologias Utilizadas**
 
