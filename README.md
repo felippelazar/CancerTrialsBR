@@ -1,6 +1,6 @@
 # CancerTrialsBR
 
-Bem-vindo a página do repositório do projeto **CancerTrialsBR** -
+🏠 Bem-vindo a página do repositório do projeto **CancerTrialsBR** -
 Plataforma Colaborativa de Estudos Clinicos em Oncologia.
 
 Neste página você irá encontrar informações sobre o projeto, o banco de
@@ -43,17 +43,17 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
 2.  Os dados são pré-processados com ferramentas de **grandes modelos de
     linguagem (*Large Language Models*)** para criar os textos em
     português com otimização de *prompts* otimizados
-3.  Os centros são localizados no google e retornados com a sua
+3.  Os centros são **localizados no google** e retornados com a sua
     localização mais precisa. É realizado uma verificação da localização
     encontrada e localidade descrita com uso novamente de modelos de
     LLM.
-4.  Os dados com incompatibilidade ou dúvidas, são revisados
-    manualmente.
+4.  Os dados com incompatibilidade ou dúvidas, são **revisados
+    manualmente**.
 5.  Novos centros ou alterações de status de recrutamento são
-    atualizados diariamente conforme sugestão dos usuários
+    **atualizados diariamente conforme sugestão dos usuários**.
 6.  Um banco de dados formatado é então disponibilizado neste
     repositório para uso de pesquisadores e médicos no Brasil.
-7.  São criados PDFs com os estudos e localidades diariamente para
+7.  São **criados PDFs** com os estudos e localidades diariamente para
     facilitar o compartilhamento e acesso
 
 ## **Como Ajudar**
@@ -118,7 +118,7 @@ Os dados neste repositório estão licenciados sob a [Licença CC BY-NC
 Ao usar os dados deste repositório, cite da seguinte forma:
 
     @misc{cancertrialsBR,
-      author       = {{{CancerTrialsBR}}},
+      author       = {CancerTrialsBR},
       title        = {Plataforma Colaborativa de Estudos Clínicos em Oncologia},
       howpublished = {\url{https://github.com/felippelazar/CancerTrialsBR}},
       year         = {2024},

@@ -9,10 +9,9 @@ params:
   media: ''
 ---
 
-## 📝 PDFs por Tipo de Tumor
-
-Aqui você encontrará os **PDFs disponíveis** para download por tipo de
-tumor. Basta clicar no tumor desejado para acessar o PDF (**download**).
+Aqui você encontrará os 📝 **PDFs disponíveis** para download por tipo
+de tumor. Basta clicar no tumor desejado para acessar o PDF
+(**download**).
 
 **NOTA**: A página é atualizada diariamente, porém as vezes o navegador
 pode manter em cache a versão anterior. Caso você encontre alguma
