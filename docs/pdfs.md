@@ -14,6 +14,13 @@ params:
 Aqui você encontrará os **PDFs disponíveis** para download por tipo de
 tumor. Basta clicar no tumor desejado para acessar o PDF (**download**).
 
+**NOTA**: A página é atualizada diariamente, porém as vezes o navegador
+pode manter em cache a versão anterior. Caso você encontre alguma
+informação desatualizada, tente limpar o cache do seu navegador ou abre
+essa página em navegação privada.
+
+Atualizado em 14/10/2024.
+
 - [**Leucemia**](https://coeoralmeds-e768.restdb.io/media/670cc57df63b804800011932?download=true)
 - [**Sistema Nervoso
   Central**](https://coeoralmeds-e768.restdb.io/media/670cc57ff63b804800011935?download=true)
