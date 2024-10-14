@@ -5,3 +5,8 @@ baseurl: "/CancerTrialsBR"
 url: "https://felippelazar.github.io"
 show_title: false
 
+header_pages:
+  - index.md
+  - dados.md
+  - pdfs.md
+  - cni.md
