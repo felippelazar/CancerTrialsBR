@@ -46,7 +46,7 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
   instituição e não prioriza centros ou estudos na disponibilização dos
   dados.
 
-## 🚀 **Como Funciona**
+## **Como Funciona**
 
 1.  Os dados são baixados diariamente do *clinicaltrials.gov* (via API)
     com os filtros de estudos com **recrutamento ativo** e localidade no
@@ -67,7 +67,7 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
 7.  São criados PDFs com os estudos e localidades diariamente para
     facilitar o compartilhamento e acesso
 
-## 🙌 Como Ajudar
+## **Como Ajudar**
 
 A **qualidade desse banco de dados** depende da sua ajuda! Muitos status
 de recrutamento e informações de identificação de localidades são
@@ -87,22 +87,25 @@ As duas principais formas de ajudar são:
     erro** ao lado do centro e sugira um novo status de recrutamento
     para esse centro.
 
-Em breve disponibilizaremos uma aba na página desse repositório para
-facilitar a identificação de centros.
+Para acessar uma lista de centros não identificados, [clique
+aqui](https://felippelazar.github.io/CancerTrialsBR/cni.html).
 
-## 📄 **Relatórios Disponíveis**
+## **Relatórios Disponíveis**
 
 - Você poderá consultar relatórios disponíveis na aba estatísticas (*em
   produção ainda*).
 
-## 📦 Estrutura do Repositório
+## **Estrutura do Repositório**
 
-O repositório é organizado da seguinte maneira: - Na pasta `raw_data`
-estão os *logs* de sugestões dos usuários para atualização dos dados. -
-Na pasta `data` encontra-se o banco de dados propriamente dito em
-formato excel. Nesta mesma pasta encontra-se o dicionário dos dados.
+O repositório é organizado da seguinte maneira: - Na pasta `user_input`
+estão os *logs* de sugestões dos usuários para atualização dos dados. As
+sugestões são divididas em três grupos: inclusão de centros
+(`locations_inclusion`), identificação de centros
+(`locations_identification`) e atualização de status de recrutamento
+(`locations_status`). - Na pasta `data` encontra-se o banco de dados
+propriamente dito em formato excel.
 
-## 🛠️ Tecnologias Utilizadas
+## **Tecnologias Utilizadas**
 
 - O site, todo o código de atualização dos dados e o código de geração
   dos PDFs foi escrito na linguagem **R** com uso do **Rmarkdown** e
@@ -110,7 +113,7 @@ formato excel. Nesta mesma pasta encontra-se o dicionário dos dados.
 - No momento, o código **não** se encontra disponível publicamente,
   apenas os dados gerados por ele.
 
-## 📜 Licença
+## **Licença**
 
 Os dados neste repositório estão licenciados sob a [Licença CC BY-NC
 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
