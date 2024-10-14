@@ -10,8 +10,8 @@ params:
 
 Você encontrará aqui a lista de centros ainda não identificados, dividos
 por estudo. Caso você reconheça algum centro por meio do estudo em
-andamento e da descrição, clique no estudo que você será redirecionado
-para um formulário para correta identificação desse centro.
+andamento e da descrição, **clique no centro** que você será
+redirecionado para um formulário para identificação dele.
 
 Obrigado por colaborar!
 

@@ -58,8 +58,8 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
 
 ## **Como Ajudar**
 
-A **qualidade desse banco de dados** depende da sua ajuda! Muitos status
-de recrutamento e informações de identificação de localidades são
+A **qualidade desse banco de dados** depende da sua ajuda! 🙌 Muitos
+status de recrutamento e informações de identificação de localidades são
 desatualizados na plataforma *clinicaltrials.gov* e a manutenção dessa
 informação atualizada é chave na qualidade dos dados.
 
@@ -97,6 +97,9 @@ O repositório é organizado da seguinte maneira:
 - Na pasta `data` encontra-se o banco de dados propriamente dito em
   formato excel.
 
+Para acessar o repositório, [clique
+aqui](https://github.com/felippelazar/CancerTrialsBR)
+
 ## **Tecnologias Utilizadas**
 
 - O site, todo o código de atualização dos dados e o código de geração
@@ -115,7 +118,7 @@ Os dados neste repositório estão licenciados sob a [Licença CC BY-NC
 Ao usar os dados deste repositório, cite da seguinte forma:
 
     @misc{cancertrialsBR,
-      author       = {{CancerTrialsBR}},
+      author       = {{{CancerTrialsBR}}},
       title        = {Plataforma Colaborativa de Estudos Clínicos em Oncologia},
       howpublished = {\url{https://github.com/felippelazar/CancerTrialsBR}},
       year         = {2024},
