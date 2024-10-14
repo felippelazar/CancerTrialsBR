@@ -1,0 +1,7 @@
+title: "CancerTrialsBR"
+description: "Plataforma Colaborativa de Estudos Clínicos em Oncologia"
+theme: minima
+baseurl: "/CancerTrialsBR" 
+url: "https://felippelazar.github.io"
+show_title: false
+
