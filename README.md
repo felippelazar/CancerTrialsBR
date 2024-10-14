@@ -21,16 +21,19 @@ outras informações. Para acessar a aplicação web:
 ## 📋 **Sobre o Projeto**
 
 Este projeto têm como objetivo facilitar a busca de estudos clínicos
-disponíveis em oncologia no Brasil. A ideia é que esta plataforma
-seja: - **Colaborativa**: Pesquisadores ou médicos dos centros
-participantes podem sugerir alterações de status de recrutamento dos
-estudos que são automaticamente atualizados no banco de dados. -
-**Transparente**: Todos as sugestões realizadas serão disponibilizadas
-nesse repositório e atualizadas na base diariamente, assim como o
-próprio banco de dados final para fins de pesquisa e consulta. -
-**Independente**: O projeto não apresenta vínculo formal com nenhuma
-instituição e não prioriza centros ou estudos na disponibilização dos
-dados.
+disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
+
+- **Colaborativa**: Pesquisadores ou médicos dos centros participantes
+  podem sugerir alterações de status de recrutamento dos estudos que são
+  automaticamente atualizados no banco de dados.
+
+- **Transparente**: Todos as sugestões realizadas serão disponibilizadas
+  nesse repositório e atualizadas na base diariamente, assim como o
+  próprio banco de dados final para fins de pesquisa e consulta.
+
+- **Independente**: O projeto não apresenta vínculo formal com nenhuma
+  instituição e não prioriza centros ou estudos na disponibilização dos
+  dados.
 
 ## 🚀 **Como Funciona**
 
@@ -60,14 +63,18 @@ de recrutamento e informações de identificação de localidades são
 desatualizados na plataforma *clinicaltrials.gov* e a manutenção dessa
 informação atualizada é chave na qualidade dos dados.
 
-As duas principais formas de ajudar são: - **Identificando Centros**:
-Muitos centros são difíceis de identificar pelas informações
-disponíveis. Nesses centros, disponibilizamos um ícone para sugestão de
-identificação. Caso você reconheça um centro participante pela descrição
-disponível, clique em **identificar centro** no próprio site. -
-**Atualizando Status de Recrutamento**: Se você encontrar um centro de
-pesquisa com recrutamento desatualizado, clique em **reportar erro** ao
-lado do centro e sugira um novo status de recrutamento para esse centro.
+As duas principais formas de ajudar são:
+
+1.  **Identificando Centros**: Muitos centros são difíceis de
+    identificar pelas informações disponíveis. Nesses centros,
+    disponibilizamos um ícone para sugestão de identificação. Caso você
+    reconheça um centro participante pela descrição disponível, clique
+    em **identificar centro** no próprio site.
+
+2.  **Atualizando Status de Recrutamento**: Se você encontrar um centro
+    de pesquisa com recrutamento desatualizado, clique em **reportar
+    erro** ao lado do centro e sugira um novo status de recrutamento
+    para esse centro.
 
 Em breve disponibilizaremos uma aba na página desse repositório para
 facilitar a identificação de centros.
