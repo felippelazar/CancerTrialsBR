@@ -1,4 +1,10 @@
-# CancerTrialsBR
+---
+title: "Início"
+output: 
+  md_document:
+    variant: gfm  # GitHub-flavored Markdown (for better rendering on GitHub)
+    preserve_yaml: true  # Keep YAML metadata in the output
+---
 
 Bem-vindo a página do repositório do projeto **CancerTrialsBR** -
 Plataforma Colaborativa de Estudos Clinicos em Oncologia.
@@ -7,6 +13,11 @@ Neste página você irá encontrar informações sobre o projeto, o banco de
 dados (**aberto**), dicionário de dados, como ajudar, contatos, entre
 outras informações. Para acessar a aplicação web:
 <https://www.cancertrials.com.br>
+
+**NOTA**: A página é atualizada diariamente, porém as vezes o navegador
+pode manter em cache a versão anterior. Caso você encontre alguma
+informação desatualizada, tente limpar o cache do seu navegador ou abre
+essa página em navegação privada.
 
 ## 📑 **Índice**
 
