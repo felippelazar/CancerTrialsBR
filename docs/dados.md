@@ -36,10 +36,7 @@ Aqui está um guia detalhado das variáveis em nosso banco de dados:
 A variável **estudo_tipo_cancer** indica o(s) tipo(s) de câncer
 estudado(s), separados por ‘\|’.
 
-<details>
-<summary>
 📋 Lista completa de acrônimos de tipos de câncer
-</summary>
 
 | Acrônimo | Tipo de Câncer          |
 |----------|-------------------------|
@@ -75,8 +72,6 @@ estudado(s), separados por ‘\|’.
 | RECAL    | Rim                     |
 | PANCR    | Pâncreas                |
 | ANYCA    | Múltiplos Tumores       |
-
-</details>
 
 ### 🏥 Informações do Centro
 

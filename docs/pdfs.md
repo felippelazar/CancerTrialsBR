@@ -9,8 +9,10 @@ params:
   media: ''
 ---
 
+## 📝 PDFs por Tipo de Tumor
+
 Aqui você encontrará os **PDFs disponíveis** para download por tipo de
-tumor. Basta clicar no tumor desejado para acessar o PDF.
+tumor. Basta clicar no tumor desejado para acessar o PDF (**download**).
 
 - [**Leucemia**](https://coeoralmeds-e768.restdb.io/media/670cc57df63b804800011932?download=true)
 - [**Sistema Nervoso
