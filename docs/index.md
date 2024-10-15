@@ -123,21 +123,24 @@ aqui](https://github.com/felippelazar/CancerTrialsBR)
 - No momento, o código **não** se encontra disponível publicamente,
   apenas os dados gerados por ele.
 
-## **Licença**
+## \*\* Citação\*\*
 
-Os dados neste repositório estão licenciados sob a [Licença CC BY-NC
-4.0](http://creativecommons.org/licenses/by-nc/4.0/).
+Os dados desse projeto são baseados nos dados do *clinicaltrials.gov* e
+foram processados e disponibilizados por esse repositório após
+modificação e revisão, seguindo os termos de uso dos dados do
+*clinicaltrials.gov*, que podem ser encontrados
+[aqui](https://clinicaltrials.gov/ct2/about-site/terms-conditions).
 
-### ✔️ Citação
+Antes de utilizar os dados, leia os termos de uso do
+*clinicaltrials.gov* e certifique-se de que está de acordo com eles.
 
-Ao usar os dados deste repositório, cite da seguinte forma:
+Para citar o repositório, utilize a seguinte citação:
 
     @misc{cancertrialsBR,
       author       = {CancerTrialsBR},
-      title        = {Plataforma Colaborativa de Estudos Clínicos em Oncologia},
+      title        = {Plataforma Colaborativa de Estudos Clínicos em Oncologia Baseado no ClinicalTrials.gov},
       howpublished = {\url{https://github.com/felippelazar/CancerTrialsBR}},
-      year         = {2024},
-      note         = {Licenciado sob a Licença CC BY-NC 4.0}
+      year         = {2024}
     }
 
 NOTA: Essa citação pode ser facilmente importada para programas de
@@ -145,7 +148,3 @@ gerenciamento de referências (como Zotero, Mendeley ou EndNote) permite
 que você importe arquivos BibTeX. Copie o código abaixo, salve em uma
 arquivo de texto com o final `.bib` e **importe** diretamente nos
 programa que utiliza.
-
-### 🔒 Uso Não Comercial
-
-Os dados fornecidos aqui não podem ser usados para fins comerciais.
