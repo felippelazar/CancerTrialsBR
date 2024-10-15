@@ -39,10 +39,10 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
 
 1.  Os dados são baixados diariamente do *clinicaltrials.gov* (via API)
     com os filtros de estudos com **recrutamento ativo** e localidade no
-    **Brasil**
+    **Brasil**.
 2.  Os dados são pré-processados com ferramentas de **grandes modelos de
     linguagem (*Large Language Models*)** para criar os textos em
-    português com otimização de *prompts* otimizados
+    português com *prompts* otimizados.
 3.  Os centros são **localizados no google** e retornados com a sua
     localização mais precisa. É realizado uma verificação da localização
     encontrada e localidade descrita com uso novamente de modelos de
@@ -54,7 +54,7 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
 6.  Um banco de dados formatado é então disponibilizado neste
     repositório para uso de pesquisadores e médicos no Brasil.
 7.  São **criados PDFs** com os estudos e localidades diariamente para
-    facilitar o compartilhamento e acesso
+    facilitar o compartilhamento e acesso.
 
 ## **Como Ajudar**
 
