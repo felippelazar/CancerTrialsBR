@@ -108,7 +108,7 @@ aqui](https://github.com/felippelazar/CancerTrialsBR)
 - No momento, o código **não** se encontra disponível publicamente,
   apenas os dados gerados por ele.
 
-## \*\* Citação\*\*
+## **Citação**
 
 Os dados desse projeto são baseados nos dados do *clinicaltrials.gov* e
 foram processados e disponibilizados por esse repositório após

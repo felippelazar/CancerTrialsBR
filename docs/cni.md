@@ -15,13 +15,6 @@ redirecionado para um formulário para identificação dele.
 
 Obrigado por colaborar!
 
-**NCT03975829**: Estudo aberto, multicêntrico e de continuação que
-avalia os efeitos a longo prazo de Tafinlar (Dabrafenib) e/ou Mekinist
-(Trametinib) em pacientes pediátricos.
-
-- [**CNI**: Novartis Investigative Site 04829-310, Sao Paulo,
-  SP](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT03975829&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSP04829310BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2004829-310%2C%20Sao%20Paulo%2C%20SP&form_type=Identificar%20Centro)
-
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
@@ -38,14 +31,6 @@ pulmão, ovário ou mama.
 - [**CNI**: Loema Instituto de Pesquisa Clinica e Consultores Ltda
   13010-001, Campinas, São
   Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT03937154&location_id=LOEMAINSTITUTODEPESQUISACLINICAECONSULTORESLTDACAMPINASSAOPAULO13010001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Loema%20Instituto%20de%20Pesquisa%20Clinica%20e%20Consultores%20Ltda%2013010-001%2C%20Campinas%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-
-**NCT04660344**: (IMvigor011) Estudo duplo-cego de Fase III comparando
-atezolizumab vs placebo como terapia adjuvante em pacientes com câncer
-de bexiga invasivo muscular de alto risco ctDNA-positivos
-pós-cistectomia.
-
-- [**CNI**: CETUS Hospital Dia Oncologia 38082-049, Uberaba,
-  MG](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04660344&location_id=CETUSHOSPITALDIAONCOLOGIAUBERABAMG38082049BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CETUS%20Hospital%20Dia%20Oncologia%2038082-049%2C%20Uberaba%2C%20MG&form_type=Identificar%20Centro)
 
 **NCT04810078**: (CheckMate-67T) Estudo de fase 3 comparando Nivolumab
 subcutâneo vs. intravenoso em pacientes com carcinoma de células renais
@@ -209,6 +194,14 @@ locorregional.
 - [**CNI**: Research Site 40110-060, Salvador,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05774951&location_id=RESEARCHSITESALVADOR40110060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2040110-060%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT05794906**: (ARASTEP) Estudo de fase 3, randomizado e duplo-cego,
+comparando darolutamida mais ADT versus placebo mais ADT em homens com
+recorrência bioquímica de alto risco de câncer de próstata.
+
+- [**CNI**: Hospital Evangélico de Cachoeiro de Itapemirim 29047-660,
+  Vitória, Espírito
+  Santo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05794906&location_id=HOSPITALEVANGELICODECACHOEIRODEITAPEMIRIMVITORIAESPIRITOSANTO29047660BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Evang%C3%A9lico%20de%20Cachoeiro%20de%20Itapemirim%2029047-660%2C%20Vit%C3%B3ria%2C%20Esp%C3%ADrito%20Santo&form_type=Identificar%20Centro)
+
 **NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
 comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
 pacientes com mieloma múltiplo recém-diagnosticado.
@@ -307,6 +300,15 @@ quimiorradioterapia concomitante.
 - [**CNI**: Research Site 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06129864&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
+comparando eficácia, segurança, farmacocinética e imunogenicidade do
+SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
+
+- [**CNI**: SB Investigative Site - , Porto Alegre,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Florianópolis,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
+
 **NCT06357533**: (TROPION-Lung10) Estudo global de Fase III comparando
 Dato-DXd com rilvegostomig ou rilvegostomig isolado versus pembrolizumab
 no tratamento de primeira linha de NSCLC não escamoso avançado com alta
@@ -326,6 +328,13 @@ PALB2, HR-positivo, HER2-negativo.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06380751&location_id=RESEARCHSITEGOIANIA74000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2074000-000%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01509-900, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06380751&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06452277**: (SOHO-02) Estudo de fase 3 comparando BAY 2927088 oral
+com tratamento padrão em pacientes com NSCLC avançado e mutações HER2.
+
+- [**CNI**: Centro de Pesquisa da Clínica de Oncologia Reichow
+  89010-340, Blumenau,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06452277&location_id=CENTRODEPESQUISADACLINICADEONCOLOGIAREICHOWBLUMENAU89010340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20da%20Cl%C3%ADnica%20de%20Oncologia%20Reichow%2089010-340%2C%20Blumenau%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06472076**: (GALAXIES Lung-301) Estudo de fase 3, randomizado e
 duplo-cego, comparando belrestotug mais dostarlimab versus pembrolizumab
@@ -379,6 +388,22 @@ mutação KRAS G12C.
 - [**CNI**: Local Institution - Unk003 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04613596&location_id=LOCALINSTITUTIONUNK003RIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20Unk003%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT05633667**: (VELOCITY-Lung) Estudo de plataforma de Fase 2
+avaliando a segurança e eficácia de novas combinações de tratamento em
+pacientes com NSCLC não tratados, previamente tratados e ressecáveis.
+
+- [**CNI**: Centro Gaúcho Integrado de Oncologia Hematologia, Ensino e
+  Pesquisa Ltda./Hospital Mãe de Deus,Substudy-03 90110-270, Porto
+  Alegre,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05633667&location_id=CENTROGAUCHOINTEGRADODEONCOLOGIAHEMATOLOGIAENSINOEPESQUISALTDAHOSPITALMAEDEDEUSSUBSTUDY03PORTOALEGRE90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Ga%C3%BAcho%20Integrado%20de%20Oncologia%20Hematologia%2C%20Ensino%20e%20Pesquisa%20Ltda.%2FHospital%20M%C3%A3e%20de%20Deus%2CSubstudy-03%2090110-270%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Real e Benemérita Associação Portuguesa de
+  Beneficência/Hospital Beneficência Portuguesa de São Paulo (Hospital
+  BP),Substudy-03 1509, São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05633667&location_id=REALEBENEMERITAASSOCIACAOPORTUGUESADEBENEFICENCIAHOSPITALBENEFICENCIAPORTUGUESADESAOPAULOHOSPITALBPSUBSTUDY03SAOPAULO1509BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Real%20e%20Benem%C3%A9rita%20Associa%C3%A7%C3%A3o%20Portuguesa%20de%20Benefic%C3%AAncia%2FHospital%20Benefic%C3%AAncia%20Portuguesa%20de%20S%C3%A3o%20Paulo%20%28Hospital%20BP%29%2CSubstudy-03%201509%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Fundação Antonio Prudente/A.C. Camargo Cancer
+  Center,Substudy-03 1509, São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05633667&location_id=FUNDACAOANTONIOPRUDENTEACCAMARGOCANCERCENTERSUBSTUDY03SAOPAULO1509BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Funda%C3%A7%C3%A3o%20Antonio%20Prudente%2FA.C.%20Camargo%20Cancer%20Center%2CSubstudy-03%201509%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+
 **NCT05853575**: Estudo randomizado comparando dois regimes de dosagem
 de adagrasib em pacientes previamente tratados com NSCLC com mutação
 KRAS G12C.
@@ -400,6 +425,30 @@ idosos ou frágeis não tratados com linfoma difuso de grandes células B.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITESAOPAULO04502001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2004502-001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06295809**: (INTerpath-007) Estudo adaptativo de Fase 2/3
+comparando V940 (mRNA-4157) mais pembrolizumab versus tratamento padrão
+em pacientes com carcinoma espinocelular cutâneo localmente avançado
+ressecável.
+
+- [**CNI**: Associação Hospitalar Beneficente São Vicente de
+  Paulo-Instituto do Câncer ( Site 1309) 99010-080, Passo Fundo, Rio
+  Grande Do
+  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06295809&location_id=ASSOCIACAOHOSPITALARBENEFICENTESAOVICENTEDEPAULOINSTITUTODOCANCERSITE1309PASSOFUNDORIOGRANDEDOSUL99010080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Associa%C3%A7%C3%A3o%20Hospitalar%20Beneficente%20S%C3%A3o%20Vicente%20de%20Paulo-Instituto%20do%20C%C3%A2ncer%20%28%20Site%201309%29%2099010-080%2C%20Passo%20Fundo%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+
+**NCT06638931**: (ANTARES) Estudo de fase II tipo basket que avalia a
+eficácia tecidual-agnóstica do nivolumabe em pacientes com tumores raros
+avançados expressando PD-L1, focando em resposta e desfechos de
+sobrevivência.
+
+- [**CNI**: Hospital Santa Cruz 80420-090, Curitiba,
+  Paraná](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06638931&location_id=HOSPITALSANTACRUZCURITIBAPARANA80420090BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Santa%20Cruz%2080420-090%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
+- [**CNI**: DF Star 70390-903, Brasília,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06638931&location_id=DFSTARBRASILIA70390903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20DF%20Star%2070390-903%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Hospital São Carlos 60170-170, Fortaleza,
+  Ceará](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06638931&location_id=HOSPITALSAOCARLOSFORTALEZACEARA60170170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20S%C3%A3o%20Carlos%2060170-170%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
+- [**CNI**: IDOR Recife 52010-010, Recife,
+  Pernambuco](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06638931&location_id=IDORRECIFERECIFEPERNAMBUCO52010010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20IDOR%20Recife%2052010-010%2C%20Recife%2C%20Pernambuco&form_type=Identificar%20Centro)
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no

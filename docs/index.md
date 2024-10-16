@@ -31,7 +31,7 @@ essa página em navegação privada.
 4.  [📄 Relatórios Disponíveis](#relatórios-disponíveis)  
 5.  [📦 Estrutura do Repositório](#estrutura-do-repositório)  
 6.  [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas)  
-7.  [📝 Licença](#licença)
+7.  [📝 Citação](#citação)
 
 ## **Sobre o Projeto**
 
@@ -123,7 +123,7 @@ aqui](https://github.com/felippelazar/CancerTrialsBR)
 - No momento, o código **não** se encontra disponível publicamente,
   apenas os dados gerados por ele.
 
-## \*\* Citação\*\*
+## **Citação**
 
 Os dados desse projeto são baseados nos dados do *clinicaltrials.gov* e
 foram processados e disponibilizados por esse repositório após
