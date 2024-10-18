@@ -211,13 +211,6 @@ pacientes com mieloma múltiplo recém-diagnosticado.
 - [**CNI**: Local Institution - 0098 40110-150, Salvador,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05827016&location_id=LOCALINSTITUTION0098SALVADOR40110150BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200098%2040110-150%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT05907122**: Estudo randomizado duplo-cego avaliando a similaridade
-farmacocinética do ABP 206 em comparação com OPDIVO® em pacientes com
-melanoma ressecado em estágio III/IV no cenário adjuvante.
-
-- [**CNI**: Hospital e Maternidade Brasil CEP 04501-000, Sao Paulo, São
-  Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05907122&location_id=HOSPITALEMATERNIDADEBRASILSAOPAULOSAOPAULOCEP04501000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20e%20Maternidade%20Brasil%20CEP%2004501-000%2C%20Sao%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-
 **NCT05952557**: (CAMBRIA-2) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
 precoce ER+/HER2- com risco intermediário-alto ou alto de recidiva após
