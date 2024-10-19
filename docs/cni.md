@@ -232,6 +232,15 @@ tratamento de primeira linha em pacientes com mNSCLC e PD-L1 \< 50%.
 - [**CNI**: Research Site 90619-900, Porto Alegre,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05984277&location_id=RESEARCHSITEPORTOALEGRE90619900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090619-900%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT06074588**: Estudo de fase 3 comparando sacituzumab tirumotecan à
+quimioterapia em pacientes com NSCLC avançado com mutações EGFR ou
+alterações genômicas como ALK, ROS1, BRAF, NTRK, MET, RET ou mutações
+raras de EGFR.
+
+- [**CNI**: Núcleo de Pesquisa Clínica da Rede São Camilo ( Site 0446)
+  04014-002, Sao Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06074588&location_id=NUCLEODEPESQUISACLINICADAREDESAOCAMILOSITE0446SAOPAULO04014002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20N%C3%BAcleo%20de%20Pesquisa%20Cl%C3%ADnica%20da%20Rede%20S%C3%A3o%20Camilo%20%28%20Site%200446%29%2004014-002%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+
 **NCT06079671**: (eVOLVE-Cervical) Estudo de fase III, randomizado,
 duplo-cego, controlado por placebo de volrustomig em mulheres com câncer
 cervical localmente avançado de alto risco após quimiorradiação à base
@@ -293,6 +302,15 @@ quimiorradioterapia concomitante.
 - [**CNI**: Research Site 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06129864&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT06170788**: Estudo de Fase 3 comparando a combinação de MK-2870 e
+pembrolizumabe versus pembrolizumabe sozinho no tratamento de primeira
+linha de câncer de pulmão de células não pequenas metastático com PD-L1
+TPS ≥ 50%.
+
+- [**CNI**: Núcleo de Pesquisa Clínica da Rede São Camilo ( Site 0401)
+  04014-002, Sao Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06170788&location_id=NUCLEODEPESQUISACLINICADAREDESAOCAMILOSITE0401SAOPAULO04014002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20N%C3%BAcleo%20de%20Pesquisa%20Cl%C3%ADnica%20da%20Rede%20S%C3%A3o%20Camilo%20%28%20Site%200401%29%2004014-002%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
 SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
@@ -301,6 +319,15 @@ SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Florianópolis,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06356311**: (TroFuse-015) Estudo de fase 3, multicêntrico e aberto
+comparando a eficácia e segurança do sacituzumab tirumotecano versus
+escolha do médico em adenocarcinoma gastroesofágico
+avançado/metastático.
+
+- [**CNI**: Hospital de Caridade de Ijuí ( Site 0412) 98700 000, Ijui,
+  Rio Grande Do
+  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06356311&location_id=HOSPITALDECARIDADEDEIJUISITE0412IJUIRIOGRANDEDOSUL98700000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Caridade%20de%20Iju%C3%AD%20%28%20Site%200412%29%2098700%20000%2C%20Ijui%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
 
 **NCT06357533**: (TROPION-Lung10) Estudo global de Fase III comparando
 Dato-DXd com rilvegostomig ou rilvegostomig isolado versus pembrolizumab
@@ -321,6 +348,14 @@ PALB2, HR-positivo, HER2-negativo.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06380751&location_id=RESEARCHSITEGOIANIA74000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2074000-000%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01509-900, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06380751&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06393374**: Estudo de Fase 3 comparando a eficácia e segurança de
+sacituzumab tirumotecano com pembrolizumabe versus escolha do médico em
+pacientes com TNBC pós-terapia neoadjuvante sem pCR.
+
+- [**CNI**: Instituto de Oncologia Saint Gallen ( Site 0614) 96830-180,
+  Santa Cruz do Sul, Rio Grande Do
+  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06393374&location_id=INSTITUTODEONCOLOGIASAINTGALLENSITE0614SANTACRUZDOSULRIOGRANDEDOSUL96830180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Oncologia%20Saint%20Gallen%20%28%20Site%200614%29%2096830-180%2C%20Santa%20Cruz%20do%20Sul%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
 
 **NCT06452277**: (SOHO-02) Estudo de fase 3 comparando BAY 2927088 oral
 com tratamento padrão em pacientes com NSCLC avançado e mutações HER2.
