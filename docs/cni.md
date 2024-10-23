@@ -322,6 +322,21 @@ avançado não tratados.
 - [**CNI**: GSK Investigational Site 60336-232, Fortaleza,
   Ceará](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06472076&location_id=GSKINVESTIGATIONALSITEFORTALEZACEARA60336232BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2060336-232%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
 
+**NCT06561386**: (RELATIVITY1093) Estudo de fase 3 randomizado
+comparando Nivolumab + Relatlimab com quimioterapia versus Pembrolizumab
+com quimioterapia em câncer de pulmão não pequenas células NSQ estágio
+IV ou recorrente com PD-L1 1-49%.
+
+- [**CNI**: Local Institution - 0076 90610-000, Porto Alegre, Rio Grande
+  Do
+  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0076PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200076%2090610-000%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0149 17033-490, Bauru, São
+  Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0149BAURUSAOPAULO17033490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200149%2017033-490%2C%20Bauru%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0084 88301-220, Itajaí, Santa
+  Catarina](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0084ITAJAISANTACATARINA88301220BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200084%2088301-220%2C%20Itaja%C3%AD%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0078 30110-022, Belo Horizonte, Minas
+  Gerais](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0078BELOHORIZONTEMINASGERAIS30110022BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200078%2030110-022%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
