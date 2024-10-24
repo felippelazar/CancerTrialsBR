@@ -86,8 +86,6 @@ Patrocinador do Estudo: AstraZeneca
 
 - [**CNI**: Research Site 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05211895&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 01221-900, Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05211895&location_id=RESEARCHSITESAOPAULO01221900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001221-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT05221840**: (PACIFIC-9) Estudo de fase III, duplo-cego, avaliando
 durvalumabe com oleclumabe ou monalizumabe em adultos com NSCLC
@@ -108,8 +106,6 @@ Patrocinador do Estudo: AstraZeneca
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05261399&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 90540-140, Porto Alegre,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05261399&location_id=RESEARCHSITEPORTOALEGRE90540140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090540-140%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 35162-189, Ipatinga,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05261399&location_id=RESEARCHSITEIPATINGA35162189BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2035162-189%2C%20Ipatinga%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 41950-610, Salvador,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05261399&location_id=RESEARCHSITESALVADOR41950610BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2041950-610%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 
@@ -159,23 +155,12 @@ tratamento locorregional.
 
 Patrocinador do Estudo: AstraZeneca
 
-- [**CNI**: Research Site 58013-140, Joao Pessoa,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITEJOAOPESSOA58013140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2058013-140%2C%20Joao%20Pessoa%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 74000-000, Goiânia,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITEGOIANIA74000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2074000-000%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 71615-907, Brasília,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITEBRASILIA71615907BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2071615-907%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01327-001, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT05984277**: (eVOLVE-Lung02) Estudo global de Fase III comparando
-volrustomig mais quimioterapia com pembrolizumab mais quimioterapia para
-tratamento de primeira linha em pacientes com mNSCLC e PD-L1 \< 50%.
-
-Patrocinador do Estudo: AstraZeneca
-
-- [**CNI**: Research Site 90619-900, Porto Alegre,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05984277&location_id=RESEARCHSITEPORTOALEGRE90619900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090619-900%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06079671**: (eVOLVE-Cervical) Estudo de fase III, randomizado,
 duplo-cego, controlado por placebo de volrustomig em mulheres com câncer
@@ -186,17 +171,6 @@ Patrocinador do Estudo: AstraZeneca
 
 - [**CNI**: Research Site 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06079671&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 90619-900, Porto Alegre,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06079671&location_id=RESEARCHSITEPORTOALEGRE90619900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090619-900%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT06097728**: (eVOLVE-Meso) Estudo global de fase III, randomizado e
-aberto, comparando Volrustomig com Carboplatina e Pemetrexed versus
-tratamentos padrão em pacientes com mesotelioma pleural irressecável.
-
-Patrocinador do Estudo: AstraZeneca
-
-- [**CNI**: Research Site 58013-140, Joao Pessoa,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06097728&location_id=RESEARCHSITEJOAOPESSOA58013140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2058013-140%2C%20Joao%20Pessoa%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06103864**: (TROPION-Breast05) Estudo de Fase III comparando
 Dato-DXd com/sem durvalumabe versus quimioterapia mais pembrolizumabe em
@@ -247,8 +221,6 @@ Patrocinador do Estudo: AstraZeneca
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06129864&location_id=RESEARCHSITERIBEIRAOPRETO14051140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2014051-140%2C%20Ribeir%C3%A3o%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01509-900, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06129864&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 35162-189, Ipatinga,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06129864&location_id=RESEARCHSITEIPATINGA35162189BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2035162-189%2C%20Ipatinga%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06129864&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
@@ -259,8 +231,6 @@ PD-L1.
 
 Patrocinador do Estudo: AstraZeneca
 
-- [**CNI**: Research Site 35162-189, Ipatinga,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06357533&location_id=RESEARCHSITEIPATINGA35162189BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2035162-189%2C%20Ipatinga%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 22211-230, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06357533&location_id=RESEARCHSITERIODEJANEIRO22211230BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2022211-230%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
@@ -305,12 +275,6 @@ idosos ou frágeis não tratados com linfoma difuso de grandes células B.
 
 Patrocinador do Estudo: AstraZeneca
 
-- [**CNI**: Research Site 14048-900, Ribeirão Preto,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITERIBEIRAOPRETO14048900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2014048-900%2C%20Ribeir%C3%A3o%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 01229-010, São Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITESAOPAULO01229010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001229-010%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 13060-803, Campinas,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITECAMPINAS13060803BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2013060-803%2C%20Campinas%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 04502-001, São Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITESAOPAULO04502001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2004502-001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 20231-050, Rio de Janeiro,
@@ -403,25 +367,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb
 
 - [**CNI**: Local Institution - 0096 21941-913, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05827016&location_id=LOCALINSTITUTION0096RIODEJANEIRO21941913BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200096%2021941-913%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0098 40110-150, Salvador,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05827016&location_id=LOCALINSTITUTION0098SALVADOR40110150BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200098%2040110-150%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT06561386**: (RELATIVITY1093) Estudo de fase 3 randomizado
-comparando Nivolumab + Relatlimab com quimioterapia versus Pembrolizumab
-com quimioterapia em câncer de pulmão não pequenas células NSQ estágio
-IV ou recorrente com PD-L1 1-49%.
-
-Patrocinador do Estudo: Bristol-Myers Squibb
-
-- [**CNI**: Local Institution - 0076 90610-000, Porto Alegre, Rio Grande
-  Do
-  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0076PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200076%2090610-000%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0149 17033-490, Bauru, São
-  Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0149BAURUSAOPAULO17033490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200149%2017033-490%2C%20Bauru%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0084 88301-220, Itajaí, Santa
-  Catarina](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0084ITAJAISANTACATARINA88301220BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200084%2088301-220%2C%20Itaja%C3%AD%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0078 30110-022, Belo Horizonte, Minas
-  Gerais](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0078BELOHORIZONTEMINASGERAIS30110022BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200078%2030110-022%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
 
 **NCT03899155**: (NA) Estudo observacional de longo prazo avaliando a
 segurança do nivolumab e outras terapias contra o câncer em pacientes de
@@ -491,35 +436,12 @@ Patrocinador do Estudo: Hoffmann-La Roche
 - [**CNI**: NUPEC 30220-140, Belo Horizonte,
   MG](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05646862&location_id=NUPECBELOHORIZONTEMG30220140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20NUPEC%2030220-140%2C%20Belo%20Horizonte%2C%20MG&form_type=Identificar%20Centro)
 
-**NCT06638931**: (ANTARES) Estudo de fase II tipo basket que avalia a
-eficácia tecidual-agnóstica do nivolumabe em pacientes com tumores raros
-avançados expressando PD-L1, focando em resposta e desfechos de
-sobrevivência.
-
-Patrocinador do Estudo: Instituto do Cancer do Estado de São Paulo
-
-- [**CNI**: IDOR Recife 52010-010, Recife,
-  Pernambuco](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06638931&location_id=IDORRECIFERECIFEPERNAMBUCO52010010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20IDOR%20Recife%2052010-010%2C%20Recife%2C%20Pernambuco&form_type=Identificar%20Centro)
-
-**NCT06014580**: (MADONNA) Estudo que avalia características moleculares
-e epidemiológicas do câncer endometrial no Brasil para entender a
-frequência de doença avançada e melhorar os resultados dos pacientes.
-
-Patrocinador do Estudo: Latin American Cooperative Oncology Group
-
-- [**CNI**: Santa Casa de Misericórdia de Feira de Santana - , Feira De
-  Santana,
-  Bahia](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06014580&location_id=SANTACASADEMISERICORDIADEFEIRADESANTANAFEIRADESANTANABAHIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Santa%20Casa%20de%20Miseric%C3%B3rdia%20de%20Feira%20de%20Santana%20%20-%20%2C%20Feira%20De%20Santana%2C%20Bahia&form_type=Identificar%20Centro)
-
 **NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
 pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
 mutação KRAS G12C.
 
 Patrocinador do Estudo: Mirati Therapeutics Inc.
 
-- [**CNI**: Local Institution - Unk015 90619-900, Porto Alegre, Rio
-  Grande Do
-  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04613596&location_id=LOCALINSTITUTIONUNK015PORTOALEGRERIOGRANDEDOSUL90619900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20Unk015%2090619-900%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
 - [**CNI**: Local Institution - Unk003 20231-050, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04613596&location_id=LOCALINSTITUTIONUNK003RIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20Unk003%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
