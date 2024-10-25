@@ -368,7 +368,7 @@ Patrocinador do Estudo: Bristol-Myers Squibb
 - [**CNI**: Local Institution - 0096 21941-913, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05827016&location_id=LOCALINSTITUTION0096RIODEJANEIRO21941913BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200096%2021941-913%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT03899155**: (NA) Estudo observacional de longo prazo avaliando a
+**NCT03899155**: Estudo observacional de longo prazo avaliando a
 segurança do nivolumab e outras terapias contra o câncer em pacientes de
 ensaios BMS em vários tipos de tumor.
 
