@@ -127,10 +127,10 @@ Patrocinador do Estudo: AstraZeneca
 
 - [**CNI**: Research Site 09323-900, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO09323900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2009323-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 01327-001, Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01509-900, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 01327-001, Sao Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT05774951**: (CAMBRIA-1) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -393,18 +393,18 @@ com mutação de inserção no Exon 20 do EGFR.
 
 Patrocinador do Estudo: Dizal Pharmaceuticals
 
+- [**CNI**: WK28 Investigative Site - , São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Cachoeiro De Itapemirim,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITECACHOEIRODEITAPEMIRIMBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Cachoeiro%20De%20Itapemirim%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: WK28 Investigative Site - , Porto Alegre,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Recife,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Rio De Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: WK28 Investigative Site - , São Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Natal,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: WK28 Investigative Site - , Porto Alegre,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT05514054**: (EMBER-4) Estudo de fase 3 randomizado comparando
 Imlunestrant adjuvante à terapia endócrina padrão em pacientes com
