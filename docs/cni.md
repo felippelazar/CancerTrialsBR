@@ -127,10 +127,10 @@ Patrocinador do Estudo: AstraZeneca
 
 - [**CNI**: Research Site 09323-900, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO09323900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2009323-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 01509-900, Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01327-001, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 01509-900, Sao Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT05774951**: (CAMBRIA-1) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -245,6 +245,20 @@ Patrocinador do Estudo: AstraZeneca
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06380751&location_id=RESEARCHSITEGOIANIA74000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2074000-000%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01509-900, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06380751&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06417814**: (TROPION-Lung15) Estudo de Fase III comparando Dato-DXd
+com/sem Osimertinib à quimioterapia de platina em câncer de pulmão não
+pequenas células avançado com mutação EGFR após progressão com
+Osimertinib.
+
+Patrocinador do Estudo: AstraZeneca
+
+- [**CNI**: Research Site 01327-001, Sao Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 01323-900, São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITESAOPAULO01323900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001323-900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 90470-340, Porto Alegre,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITEPORTOALEGRE90470340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090470-340%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
@@ -401,10 +415,10 @@ Patrocinador do Estudo: Dizal Pharmaceuticals
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Rio De Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: WK28 Investigative Site - , Natal,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Porto Alegre,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: WK28 Investigative Site - , Natal,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT05514054**: (EMBER-4) Estudo de fase 3 randomizado comparando
 Imlunestrant adjuvante à terapia endócrina padrão em pacientes com
@@ -435,6 +449,30 @@ Patrocinador do Estudo: Hoffmann-La Roche
 
 - [**CNI**: NUPEC 30220-140, Belo Horizonte,
   MG](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05646862&location_id=NUPECBELOHORIZONTEMG30220140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20NUPEC%2030220-140%2C%20Belo%20Horizonte%2C%20MG&form_type=Identificar%20Centro)
+
+**NCT04262466**: Estudo de Fase 1/2 que avalia a segurança e eficácia do
+brenetafusp (IMC-F106C) em pacientes adultos com cânceres
+PRAME-positivos e marcador tecidual HLA-A2.
+
+Patrocinador do Estudo: Immunocore Ltd
+
+- [**CNI**: National Cancer Institute - , Rio De Janeiro,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04262466&location_id=NATIONALCANCERINSTITUTERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20National%20Cancer%20Institute%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: D’Or Institute for Research and Education - , Rio de
+  Janeiro,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04262466&location_id=DORINSTITUTEFORRESEARCHANDEDUCATIONRIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20D%27Or%20Institute%20for%20Research%20and%20Education%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06345729**: (MK-1084) Estudo de fase 3, randomizado e duplo-cego
+comparando MK-1084 com pembrolizumab versus pembrolizumab mais placebo
+no tratamento inicial de NSCLC metastático com mutação KRAS G12C e PD-L1
+TPS ≥50%.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC
+
+- [**CNI**: Americas ( Site 0431) 22775-001, Rio de Janeiro,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06345729&location_id=AMERICASSITE0431RIODEJANEIRO22775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Americas%20%28%20Site%200431%29%2022775-001%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Hospital de Câncer de Recife ( Site 0447) 50040-000, Recife,
+  Pernambuco](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06345729&location_id=HOSPITALDECANCERDERECIFESITE0447RECIFEPERNAMBUCO50040000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20C%C3%A2ncer%20de%20Recife%20%28%20Site%200447%29%2050040-000%2C%20Recife%2C%20Pernambuco&form_type=Identificar%20Centro)
 
 **NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
 pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
