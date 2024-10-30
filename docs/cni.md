@@ -20,6 +20,8 @@ esse centro já não existe na própria base de dados.
 
 Obrigado por colaborar!
 
+**CNI** = Centro Não Identificado
+
 **NCT05556096**: Estudo multicêntrico de Fase 3 que avalia a segurança e
 eficácia do ALXN1720 em adultos com miastenia gravis generalizada e
 autoanticorpos contra AChR.
@@ -316,22 +318,22 @@ primeira linha de NSCLC avançado sem alterações genômicas.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO09323900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2009323-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01327-001, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 01509-900, Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
   Vitória</span>
 - <span style="color: #808080">PR: Hospital do Câncer de Londrina,
   86015-520, Londrina</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   90035-903, Porto Alegre</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
   Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
 
 **NCT05774951**: (CAMBRIA-1) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -344,8 +346,6 @@ locorregional.
   60430-230, Fortaleza</span>
 - <span style="color: #808080">CE: Oncocentro Ceará, 60170-170,
   Fortaleza</span>
-- [**CNI**: Research Site 14051-140, Ribeirão Preto,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05774951&location_id=RESEARCHSITERIBEIRAOPRETO14051140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2014051-140%2C%20Ribeir%C3%A3o%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 22290-160, Rio De Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05774951&location_id=RESEARCHSITERIODEJANEIRO22290160BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2022290-160%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 01509-900, Sao Paulo,
@@ -372,18 +372,18 @@ locorregional.
   Mastologia, 78040-400, Cuiabá</span>
 - <span style="color: #808080">PE: CPO Oncologia, 50070-030,
   Recife</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">PR: Hospital do Câncer de Londrina,
   86015-520, Londrina</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
 - <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
   24020-096, Niterói</span>
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
 - <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
   Câncer IV, 20560-121, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
@@ -404,6 +404,8 @@ locorregional.
   Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
 - <span style="color: #808080">SP: Saúde Inteligente - Santa Casa Saude
   Piracicaba, 13419-155, Piracicaba</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
   Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
@@ -545,27 +547,6 @@ pacientes com câncer de mama triplo-negativo metastático PD-L1 positivo.
   São Paulo</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
-**NCT06109779**: (ARTEMIDE-Biliary01) Estudo global de Fase III
-avaliando rilvegostomig com quimioterapia versus placebo como tratamento
-adjuvante pós-reseção em pacientes com câncer de vias biliares.
-
-- [**CNI**: Research Site 01327-001, Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06109779&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
-  Vitória</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncocentro - Dr. Felin Dr. Everaldo,
-  97015-450, Santa Maria</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
-- <span style="color: #808080">SP: Centro Universitário Faculdade de
-  Medicina do ABC (FMABC), 09060-870, Santo André</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
@@ -781,61 +762,6 @@ tumores HER2-expressivos selecionados em vários tipos de câncer.
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 
-**NCT05952024**: (ACRUE) Estudo de Fase II que avalia a segurança,
-tolerabilidade e eficácia de acalabrutinibe e rituximabe em pacientes
-idosos ou frágeis não tratados com linfoma difuso de grandes células B.
-
-- [**CNI**: Research Site 04502-001, São Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITESAOPAULO04502001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2004502-001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 20231-050, Rio de Janeiro,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952024&location_id=RESEARCHSITERIODEJANEIRO20231050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020231-050%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital DF Star: Pronto Atendimento,
-  Urgência, Emergência, UTI Brasília DF, 70390-140, Brasília</span>
-- <span style="color: #808080">DF: Hospital Universitário de Brasília,
-  70840-901, Brasília</span>
-- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
-  70200-730, Brasília</span>
-- <span style="color: #808080">GO: UFG, 74605-010, Goiânia</span>
-- <span style="color: #808080">MA: Hospital São Domingos, 65060-645, São
-  Luís</span>
-- <span style="color: #808080">MG: Santa Casa BH, 30150-221, Belo
-  Horizonte</span>
-- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
-  Atendimento, Emergência, Maternidade Recife PE, 50070-490,
-  Recife</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
-  Porto Alegre</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
-- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
-  18030-005, Sorocaba</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
-  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
-- <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
-  São Paulo</span>
-- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
-  São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: QualiVida Angélica \| Hapvida
-  NotreDame Intermédica, 01227-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital da PUC-Campinas, 13034-685,
-  Campinas</span>
-- <span style="color: #808080">SP: Contatos - INSTITUTO AMERICAS,
-  01323-000, São Paulo</span>
-
 **NCT06131424**: (iRetroBC) Estudo multicêntrico retrospectivo que
 avalia a prevalência de HER2-baixo, características clínicas e
 resultados de tratamento em pacientes com câncer de mama metastático
@@ -874,6 +800,13 @@ pacientes brasileiros com carcinoma hepatocelular de 2017 a 2022.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITESAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Jose%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
+
+**NCT06252753**: (LIVER-R) Estudo observacional multicêntrico que avalia
+os resultados reais de regimes baseados em durvalumabe em pacientes com
+câncer hepatobiliar.
+
+- [**CNI**: Research Site 90035-001, Porto Alegre, Rio Grande Do
+  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06252753&location_id=RESEARCHSITEPORTOALEGRERIOGRANDEDOSUL90035001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090035-001%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
 
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
@@ -1163,20 +1096,6 @@ PIK3CA-mutado.
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
-**NCT04262466**: Estudo de Fase 1/2 que avalia a segurança e eficácia do
-brenetafusp (IMC-F106C) em pacientes adultos com cânceres
-PRAME-positivos e marcador tecidual HLA-A2.
-
-- [**CNI**: National Cancer Institute - , Rio De Janeiro,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04262466&location_id=NATIONALCANCERINSTITUTERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20National%20Cancer%20Institute%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: D’Or Institute for Research and Education - , Rio de
-  Janeiro,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04262466&location_id=DORINSTITUTEFORRESEARCHANDEDUCATIONRIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20D%27Or%20Institute%20for%20Research%20and%20Education%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
-
 **NCT06345729**: (MK-1084) Estudo de fase 3, randomizado e duplo-cego
 comparando MK-1084 com pembrolizumab versus pembrolizumab mais placebo
 no tratamento inicial de NSCLC metastático com mutação KRAS G12C e PD-L1
@@ -1184,8 +1103,8 @@ TPS ≥50%.
 
 - [**CNI**: Americas ( Site 0431) 22775-001, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06345729&location_id=AMERICASSITE0431RIODEJANEIRO22775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Americas%20%28%20Site%200431%29%2022775-001%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Hospital de Câncer de Recife ( Site 0447) 50040-000, Recife,
-  Pernambuco](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06345729&location_id=HOSPITALDECANCERDERECIFESITE0447RECIFEPERNAMBUCO50040000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20C%C3%A2ncer%20de%20Recife%20%28%20Site%200447%29%2050040-000%2C%20Recife%2C%20Pernambuco&form_type=Identificar%20Centro)
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
 - <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
   64049-200, Teresina</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
@@ -1295,6 +1214,24 @@ SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Florianópolis,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT05563220**: (ELEVATE) Estudo de fase 1b/2 aberto avaliando
+segurança e eficácia de elacestrant com alpelisib, everolimus,
+palbociclib, abemaciclib e ribociclib em pacientes com câncer de mama
+metastático.
+
+- [**CNI**: Hospital Sirio-Libanes (HSL) - Centro De Oncologia - Sao
+  Paulo 01308-050, Sao Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05563220&location_id=HOSPITALSIRIOLIBANESHSLCENTRODEONCOLOGIASAOPAULOSAOPAULO01308050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Sirio-Libanes%20%28HSL%29%20-%20Centro%20De%20Oncologia%20-%20Sao%20Paulo%2001308-050%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Centro Gaucho Integrado de Oncologia; Hematologia; Ensino e
+  Pesquisa - Hospital Mae de Deus/AESC 90850-170, Porto Alegre,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05563220&location_id=CENTROGAUCHOINTEGRADODEONCOLOGIAHEMATOLOGIAENSINOEPESQUISAHOSPITALMAEDEDEUSAESCPORTOALEGRE90850170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%20de%20Oncologia%3B%20Hematologia%3B%20Ensino%20e%20Pesquisa%20-%20Hospital%20Mae%20de%20Deus%2FAESC%2090850-170%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
+  74605-070, Goiânia</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SC: Neoplasias Litoral -
+  Oncologia/Quimioterapia, 88300-000, Itajaí</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
