@@ -233,10 +233,10 @@ irressecável estágio III após quimiorradiação à base de platina.
   Recife</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
@@ -324,10 +324,10 @@ primeira linha de NSCLC avançado sem alterações genômicas.
   86015-520, Londrina</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   90035-903, Porto Alegre</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
 - <span style="color: #808080">SC: Clínica de Oncologia Reichow,
   89010-340, Blumenau</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
   Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
@@ -682,10 +682,10 @@ PALB2, HR-positivo, HER2-negativo.
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
-- <span style="color: #808080">SP: CRID - Centro de Pesquisa em Doenças
-  Inflamatórias, 14049-900, Ribeirão Preto</span>
 - <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
   Paulo</span>
+- <span style="color: #808080">SP: CRID - Centro de Pesquisa em Doenças
+  Inflamatórias, 14049-900, Ribeirão Preto</span>
 
 **NCT06417814**: (TROPION-Lung15) Estudo de Fase III comparando Dato-DXd
 com/sem Osimertinib à quimioterapia de platina em câncer de pulmão não
@@ -694,20 +694,20 @@ Osimertinib.
 
 - [**CNI**: Research Site 01327-001, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITESAOPAULO01327001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001327-001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 01323-900, São Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITESAOPAULO01323900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001323-900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 90470-340, Porto Alegre,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITEPORTOALEGRE90470340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090470-340%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
   Janeiro</span>
 - <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
   Ensino, 22281-100, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
   HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
   Itajaí</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 
@@ -801,13 +801,6 @@ pacientes brasileiros com carcinoma hepatocelular de 2017 a 2022.
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 
-**NCT06252753**: (LIVER-R) Estudo observacional multicêntrico que avalia
-os resultados reais de regimes baseados em durvalumabe em pacientes com
-câncer hepatobiliar.
-
-- [**CNI**: Research Site 90035-001, Porto Alegre, Rio Grande Do
-  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06252753&location_id=RESEARCHSITEPORTOALEGRERIOGRANDEDOSUL90035001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090035-001%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
 escamoso após falha de quimioterapia à base de platina de 2017 a 2022.
@@ -881,10 +874,10 @@ pacientes com mieloma múltiplo recém-diagnosticado.
   Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
   Paulo</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Clínica do
@@ -943,16 +936,16 @@ CDK4/6.
 base de platina como tratamento de primeira linha para NSCLC avançado
 com mutação de inserção no Exon 20 do EGFR.
 
-- [**CNI**: WK28 Investigative Site - , São Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Cachoeiro De Itapemirim,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITECACHOEIRODEITAPEMIRIMBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Cachoeiro%20De%20Itapemirim%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: WK28 Investigative Site - , Porto Alegre,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Recife,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Rio De Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: WK28 Investigative Site - , Porto Alegre,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: WK28 Investigative Site - , São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: WK28 Investigative Site - , Natal,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
@@ -1096,20 +1089,6 @@ PIK3CA-mutado.
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
-**NCT06345729**: (MK-1084) Estudo de fase 3, randomizado e duplo-cego
-comparando MK-1084 com pembrolizumab versus pembrolizumab mais placebo
-no tratamento inicial de NSCLC metastático com mutação KRAS G12C e PD-L1
-TPS ≥50%.
-
-- [**CNI**: Americas ( Site 0431) 22775-001, Rio de Janeiro,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06345729&location_id=AMERICASSITE0431RIODEJANEIRO22775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Americas%20%28%20Site%200431%29%2022775-001%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
-  50040-000, Recife</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  64049-200, Teresina</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-
 **NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
 pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
 mutação KRAS G12C.
@@ -1121,10 +1100,10 @@ mutação KRAS G12C.
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 - <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
   Lajeado</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 
@@ -1168,10 +1147,10 @@ contínuo.
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
 de linfócitos B ao longo de 15 anos em três coortes.
 
-- [**CNI**: Novartis Investigative Site 34006-059, Minas Gerais, Belo
-  Horizonte](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITEMINASGERAISBELOHORIZONTE34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2034006-059%2C%20Minas%20Gerais%2C%20Belo%20Horizonte&form_type=Identificar%20Centro)
 - [**CNI**: Novartis Investigative Site 04544-000, Sao Paulo,
   SP](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSP04544000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2004544-000%2C%20Sao%20Paulo%2C%20SP&form_type=Identificar%20Centro)
+- [**CNI**: Novartis Investigative Site 34006-059, Minas Gerais, Belo
+  Horizonte](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITEMINASGERAISBELOHORIZONTE34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2034006-059%2C%20Minas%20Gerais%2C%20Belo%20Horizonte&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
   Curitiba</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
@@ -1200,11 +1179,11 @@ cemdisiran em pacientes com miastenia gravis generalizada sintomática.
   Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05070858&location_id=JORDYSINAPSEMEDICINALTDAITAPEVISAOPAULO06655250BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Jordy%20Sinapse%20medicina%20LTDA%2006655-250%2C%20Itapevi%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: IMV Pesquisa Neurológica, 90110-000,
   Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
+  05403-010, São Paulo</span>
 - <span style="color: #808080">SP: Escola Paulista de Medicina da
   Universidade Federal de São Paulo (EPM/UNIFESP), 04023-062, São
   Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
-  05403-010, São Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
@@ -1223,13 +1202,12 @@ metastático.
 - [**CNI**: Hospital Sirio-Libanes (HSL) - Centro De Oncologia - Sao
   Paulo 01308-050, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05563220&location_id=HOSPITALSIRIOLIBANESHSLCENTRODEONCOLOGIASAOPAULOSAOPAULO01308050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Sirio-Libanes%20%28HSL%29%20-%20Centro%20De%20Oncologia%20-%20Sao%20Paulo%2001308-050%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Centro Gaucho Integrado de Oncologia; Hematologia; Ensino e
-  Pesquisa - Hospital Mae de Deus/AESC 90850-170, Porto Alegre,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05563220&location_id=CENTROGAUCHOINTEGRADODEONCOLOGIAHEMATOLOGIAENSINOEPESQUISAHOSPITALMAEDEDEUSAESCPORTOALEGRE90850170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%20de%20Oncologia%3B%20Hematologia%3B%20Ensino%20e%20Pesquisa%20-%20Hospital%20Mae%20de%20Deus%2FAESC%2090850-170%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
   74605-070, Goiânia</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
   90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">SC: Neoplasias Litoral -
   Oncologia/Quimioterapia, 88300-000, Itajaí</span>
 
