@@ -400,12 +400,12 @@ tratamento locorregional.
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITEBRASILIA71615907BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2071615-907%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
   Vitória</span>
+- <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
+  Alegre, 37554-216, Pouso Alegre</span>
 - <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
   37130-087, Alfenas</span>
 - <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
   30130-100, Belo Horizonte</span>
-- <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
-  Alegre, 37554-216, Pouso Alegre</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
   79601-001, Três Lagoas</span>
 - <span style="color: #808080">PB: Hospital Napoleão Laureano,
@@ -429,10 +429,10 @@ tratamento locorregional.
   Porto Velho</span>
 - <span style="color: #808080">RS: Universidade Federal de Ciências da
   Saúde de Porto Alegre, 90050-170, Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
   90035-007, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">SC: Clínica de Oncologia Reichow,
   89010-340, Blumenau</span>
 - <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
