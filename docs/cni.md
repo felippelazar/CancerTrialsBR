@@ -311,14 +311,14 @@ locorregional.
   Brasília</span>
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
+- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
+  30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MG: Santa Casa BH, 30150-221, Belo
   Horizonte</span>
 - <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
   37130-087, Alfenas</span>
 - <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
   Alegre, 37554-216, Pouso Alegre</span>
-- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
-  30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
   79601-001, Três Lagoas</span>
 - <span style="color: #808080">MT: Oncolog - Oncologia, Hematologia,
@@ -786,6 +786,46 @@ de linfócitos B ao longo de 15 anos em três coortes.
   Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
+
+**NCT06105632**: Estudo de fase 3 comparando PF-07220060 mais
+fulvestranto versus escolha do investigador em pacientes com câncer de
+mama avançado HR-positivo, HER2-negativo após terapia com inibidor de
+CDK 4/6.
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: Instituto D’Or de Pesquisa e Ensino (IDOR) - Filial
+  Pernambuco 50070-480, Recife,
+  Pernambuco](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06105632&location_id=INSTITUTODORDEPESQUISAEENSINOIDORFILIALPERNAMBUCORECIFEPERNAMBUCO50070480BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20D%27Or%20de%20Pesquisa%20e%20Ensino%20%28IDOR%29%20-%20Filial%20Pernambuco%2050070-480%2C%20Recife%2C%20Pernambuco&form_type=Identificar%20Centro)
+- <span style="color: #808080">PE: Emergência Geral Hospital Esperança
+  Recife: Emergência Adulto e Pediátrica, Maternidade, 50070-480,
+  Recife</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">SP: Centro de Oncologia CEON+ São
+  Caetano, 09541-270, São Caetano do Sul</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
 
 **NCT05477576**: (ACTION-1) Estudo de fase 1b/3 comparando RYZ101 com
 tratamento padrão em pacientes com GEP-NETs avançados, inoperáveis,
