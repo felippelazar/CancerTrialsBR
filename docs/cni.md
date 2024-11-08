@@ -698,6 +698,50 @@ CDK4/6.
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
 
+**NCT06356129**: (GOLSEEK-1) Estudo multicêntrico de fase 3 comparando a
+eficácia e segurança de Golcadomide mais R-CHOP vs placebo mais R-CHOP
+em pacientes com linfoma de grandes células B de alto risco não
+tratados.
+
+- <span style="color: #808080">CE: NOHC - Núcleo de Oncologia e
+  Hematologia do Ceará, 60115-281, Fortaleza</span>
+- [**CNI**: Clínica Supera 89812-210, Chapecó, Santa
+  Catarina](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06356129&location_id=CLINICASUPERACHAPECOSANTACATARINA89812210BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cl%C3%ADnica%20Supera%2089812-210%2C%20Chapec%C3%B3%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Sírio-Libanês Brasília - Centro de
+  Oncologia Lago Sul, 71635-610, Brasília</span>
+- <span style="color: #808080">GO: UFG, 74605-010, Goiânia</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Hospital São Lucas Copacabana,
+  22061-080, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
+  24020-096, Niterói</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">SC: CHO - Centro de Hematologia e
+  Oncologia de Joinville, 89201-260, Joinville</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
+  São Paulo</span>
+- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
+  05403-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
+
 **NCT05668988**: Estudo de Fase 3 comparando DZD9008 com quimioterapia à
 base de platina como tratamento de primeira linha para NSCLC avançado
 com mutação de inserção no Exon 20 do EGFR.
