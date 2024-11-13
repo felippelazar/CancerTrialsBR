@@ -415,10 +415,10 @@ tratamento locorregional.
   Recife</span>
 - <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
   64049-200, Teresina</span>
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">PR: Oncologia Hospital Evangélico
   Mackenzie, 80730-380, Curitiba</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
   Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
@@ -528,6 +528,24 @@ PALB2, HR-positivo, HER2-negativo.
   Inflamatórias, 14049-900, Ribeirão Preto</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+
+**NCT06467357**: (DESTINY-BTC01) Estudo de fase 3 comparando T-DXd com
+rilvegostomig ou T-DXd sozinho versus gemcitabina, cisplatina e
+durvalumabe em pacientes com câncer de vias biliares avançado
+HER2-expressante e sem tratamento prévio.
+
+- [**CNI**: Research Site 59012-300, Natal,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06467357&location_id=RESEARCHSITENATAL59012300BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2059012-300%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
 
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
@@ -816,10 +834,21 @@ cemdisiran em pacientes com miastenia gravis generalizada sintomática.
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
 SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
 
+- [**CNI**: SB Investigative Site - , Curitiba,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Santo André,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITESANTOANDREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Santo%20Andr%C3%A9%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Pelotas,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPELOTASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Pelotas%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Natal,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Porto Alegre,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Rio De Janeiro,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Florianópolis,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
