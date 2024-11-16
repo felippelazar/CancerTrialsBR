@@ -768,6 +768,26 @@ PIK3CA-mutado.
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
+**NCT06345729**: (MK-1084) Estudo de fase 3, randomizado e duplo-cego
+comparando MK-1084 com pembrolizumab versus pembrolizumab mais placebo
+no tratamento inicial de NSCLC metastático com mutação KRAS G12C e PD-L1
+TPS ≥50%.
+
+- [**CNI**: Fundação Pio XII - Hospital de Câncer de Barretos-Unidade de
+  Pesquisa Clínica ( Site 0437) 14784-400, Barretos, Sao
+  Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06345729&location_id=FUNDACAOPIOXIIHOSPITALDECANCERDEBARRETOSUNIDADEDEPESQUISACLINICASITE0437BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Funda%C3%A7%C3%A3o%20Pio%20XII%20-%20Hospital%20de%20C%C3%A2ncer%20de%20Barretos-Unidade%20de%20Pesquisa%20Cl%C3%ADnica%20%28%20Site%200437%29%2014784-400%2C%20Barretos%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
+  64049-200, Teresina</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Centro Multidisciplinar de Pesquisa
+  Clínica - Santa Casa Misericórdia de Porto Alegre, 90050-170, Porto
+  Alegre</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
