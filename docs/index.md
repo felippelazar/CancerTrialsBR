@@ -12,7 +12,7 @@ Plataforma Colaborativa de Estudos Clinicos em Oncologia.
 Neste página você irá encontrar informações sobre o projeto, o banco de
 dados (**aberto**), dicionário de dados, como ajudar, contatos, entre
 outras informações. Para acessar a aplicação web:
-<https://www.cancertrials.com.br>.
+<https://www.cancertrialsbr.com.br>.
 
 Caso tenha interesse em acessar diretamente o repositório do projeto
 (onde estão os arquivos), [clique
