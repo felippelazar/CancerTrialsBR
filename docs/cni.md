@@ -547,6 +547,22 @@ HER2-expressante e sem tratamento prévio.
 - <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
   05652-900, São Paulo</span>
 
+**NCT06564844**: (TROPION-Lung12) Estudo global de Fase III comparando
+Dato-DXd adjuvante com rilvegostomig ou monoterapia versus tratamento
+padrão em pacientes com adenocarcinoma NSCLC estágio I ctDNA-positivo ou
+de alto risco pós-reseção.
+
+- [**CNI**: Research Site 14784-057, Barretos,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06564844&location_id=RESEARCHSITEBARRETOS14784057BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2014784-057%2C%20Barretos%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
+  70200-730, Brasília</span>
+- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
+  64049-200, Teresina</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
@@ -787,6 +803,36 @@ TPS ≥50%.
 - <span style="color: #808080">RS: Centro Multidisciplinar de Pesquisa
   Clínica - Santa Casa Misericórdia de Porto Alegre, 90050-170, Porto
   Alegre</span>
+
+**NCT04892173**: (NBTXR3-RT) Estudo de fase 3 avaliando NBTXR3 ativado
+por radioterapia±cetuximab em pacientes idosos, inelegíveis para platina
+com LA-HNSCC.
+
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- <span style="color: #808080">CE: Hospital Haroldo Juaçaba: Consultas,
+  Pronto Atendimento, Exames, Complexo hospitalar em Fortaleza CE,
+  60430-230, Fortaleza</span>
+- [**CNI**: Irmandade da Santa Casa de Misericórdia Hospital - Porto
+  Alegre - , Porto Alegre, Rio Grande Do
+  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04892173&location_id=IRMANDADEDASANTACASADEMISERICORDIAHOSPITALPORTOALEGREPORTOALEGRERIOGRANDEDOSULBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Irmandade%20da%20Santa%20Casa%20de%20Miseric%C3%B3rdia%20Hospital%20-%20Porto%20Alegre%20%20-%20%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
+  Belo Horizonte</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
+  01308-050, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
