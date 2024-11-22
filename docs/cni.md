@@ -99,6 +99,30 @@ melanoma ressecado em estágio III/IV no cenário adjuvante.
 - <span style="color: #808080">SP: Faculdade de Medicina de São José do
   Rio Preto FAMERP, 15090-000, São José do Rio Preto</span>
 
+**NCT06211036**: (DeLLphi-305) Estudo de fase 3, aberto, multicêntrico
+comparando tarlatamabe mais durvalumabe vs durvalumabe sozinho em
+pacientes com câncer de pulmão de pequenas células em estágio extenso
+pós-platina, etoposídeo, durvalumabe.
+
+- [**CNI**: Hospital Sao Rafael-Idor 40170-110, Salvador,
+  Bahia](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06211036&location_id=HOSPITALSAORAFAELIDORSALVADORBAHIA40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Sao%20Rafael-Idor%2040170-110%2C%20Salvador%2C%20Bahia&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Santa Casa de Misericórdia de Passos,
+  37904-020, Passos</span>
+- <span style="color: #808080">MG: Cenatron Centro Avançado de
+  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
+- <span style="color: #808080">PR: Hospital Uopeccan de Cascavel,
+  85806-300, Cascavel</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas Ijuí, 98700-000,
+  Ijuí</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
@@ -490,16 +514,16 @@ PD-L1.
   Mackenzie, 80730-150, Curitiba</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">RS: Oncocentro - Dr. Felin Dr. Everaldo,
   97015-450, Santa Maria</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
-- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
-  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
   (Centro Hospitalar), 01221-020, São Paulo</span>
 
@@ -546,22 +570,6 @@ HER2-expressante e sem tratamento prévio.
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
   05652-900, São Paulo</span>
-
-**NCT06564844**: (TROPION-Lung12) Estudo global de Fase III comparando
-Dato-DXd adjuvante com rilvegostomig ou monoterapia versus tratamento
-padrão em pacientes com adenocarcinoma NSCLC estágio I ctDNA-positivo ou
-de alto risco pós-reseção.
-
-- [**CNI**: Research Site 14784-057, Barretos,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06564844&location_id=RESEARCHSITEBARRETOS14784057BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2014784-057%2C%20Barretos%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
-  70200-730, Brasília</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  64049-200, Teresina</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
 
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
@@ -779,56 +787,6 @@ PIK3CA-mutado.
   90610-001, Porto Alegre</span>
 - <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
   Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
-  01308-050, São Paulo</span>
-
-**NCT06345729**: (MK-1084) Estudo de fase 3, randomizado e duplo-cego
-comparando MK-1084 com pembrolizumab versus pembrolizumab mais placebo
-no tratamento inicial de NSCLC metastático com mutação KRAS G12C e PD-L1
-TPS ≥50%.
-
-- [**CNI**: Fundação Pio XII - Hospital de Câncer de Barretos-Unidade de
-  Pesquisa Clínica ( Site 0437) 14784-400, Barretos, Sao
-  Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06345729&location_id=FUNDACAOPIOXIIHOSPITALDECANCERDEBARRETOSUNIDADEDEPESQUISACLINICASITE0437BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Funda%C3%A7%C3%A3o%20Pio%20XII%20-%20Hospital%20de%20C%C3%A2ncer%20de%20Barretos-Unidade%20de%20Pesquisa%20Cl%C3%ADnica%20%28%20Site%200437%29%2014784-400%2C%20Barretos%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
-  50040-000, Recife</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  64049-200, Teresina</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Centro Multidisciplinar de Pesquisa
-  Clínica - Santa Casa Misericórdia de Porto Alegre, 90050-170, Porto
-  Alegre</span>
-
-**NCT04892173**: (NBTXR3-RT) Estudo de fase 3 avaliando NBTXR3 ativado
-por radioterapia±cetuximab em pacientes idosos, inelegíveis para platina
-com LA-HNSCC.
-
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- <span style="color: #808080">CE: Hospital Haroldo Juaçaba: Consultas,
-  Pronto Atendimento, Exames, Complexo hospitalar em Fortaleza CE,
-  60430-230, Fortaleza</span>
-- [**CNI**: Irmandade da Santa Casa de Misericórdia Hospital - Porto
-  Alegre - , Porto Alegre, Rio Grande Do
-  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04892173&location_id=IRMANDADEDASANTACASADEMISERICORDIAHOSPITALPORTOALEGREPORTOALEGRERIOGRANDEDOSULBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Irmandade%20da%20Santa%20Casa%20de%20Miseric%C3%B3rdia%20Hospital%20-%20Porto%20Alegre%20%20-%20%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
-  Belo Horizonte</span>
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
