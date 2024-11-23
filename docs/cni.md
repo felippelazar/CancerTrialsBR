@@ -792,6 +792,32 @@ PIK3CA-mutado.
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
+**NCT03574571**: (DORA) Ensaio de Fase III comparando a eficácia do
+docetaxel isolado versus combinado com rádio-223 em pacientes com câncer
+de próstata resistente à castração metastático.
+
+- [**CNI**: Centro de Pesquisas São Lucas - Sociedade Campineira de
+  Educação e Instrução (SCEI) - , São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT03574571&location_id=CENTRODEPESQUISASSAOLUCASSOCIEDADECAMPINEIRADEEDUCACAOEINSTRUCAOSCEISAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisas%20S%C3%A3o%20Lucas%20-%20Sociedade%20Campineira%20de%20Educa%C3%A7%C3%A3o%20e%20Instru%C3%A7%C3%A3o%20%28SCEI%29%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PE: IMIP Instituto de Medicina Integral
+  Professor Fernando Figueira, 50070-902, Recife</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
@@ -851,6 +877,8 @@ cemdisiran em pacientes com miastenia gravis generalizada sintomática.
 - <span style="color: #808080">SP: Escola Paulista de Medicina da
   Universidade Federal de São Paulo (EPM/UNIFESP), 04023-062, São
   Paulo</span>
+- <span style="color: #808080">SP: Centro Universitário Faculdade de
+  Medicina do ABC (FMABC), 09060-870, Santo André</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 
@@ -873,6 +901,20 @@ SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
 - [**CNI**: SB Investigative Site - , Florianópolis,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+
+**NCT06372145**: (ToleDYNAMIC) Estudo de extensão de Fase 3 que avalia a
+segurança e tolerabilidade a longo prazo do tolebrutinib em adultos com
+RMS, PPMS ou NRSPMS de ensaios pivotais anteriores.
+
+- [**CNI**: Hospital São Lucas da PUCRS - Porto Alegre - Avenida
+  Ipiranga- Site Number : 0760001 90610-000, Porto Alegre, Rio Grande Do
+  Sul](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06372145&location_id=HOSPITALSAOLUCASDAPUCRSPORTOALEGREAVENIDAIPIRANGASITENUMBER0760001PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20S%C3%A3o%20Lucas%20da%20PUCRS%20-%20Porto%20Alegre%20-%20Avenida%20Ipiranga-%20Site%20Number%20%3A%200760001%2090610-000%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: CPQuali Pesquisa Clinica - São Paulo- Site Number : 0760007
+  01228-000, São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06372145&location_id=CPQUALIPESQUISACLINICASAOPAULOSITENUMBER0760007SAOPAULO01228000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CPQuali%20Pesquisa%20Clinica%20-%20S%C3%A3o%20Paulo-%20Site%20Number%20%3A%200760007%2001228-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Instituto de Neurologia de Curitiba - Ecoville- Site Number
+  : 0760002 81210-310, Curitiba,
+  Paraná](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06372145&location_id=INSTITUTODENEUROLOGIADECURITIBAECOVILLESITENUMBER0760002CURITIBAPARANA81210310BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Neurologia%20de%20Curitiba%20-%20Ecoville-%20Site%20Number%20%3A%200760002%2081210-310%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
