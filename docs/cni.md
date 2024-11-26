@@ -818,6 +818,19 @@ de próstata resistente à castração metastático.
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, 01323-001, São Paulo</span>
 
+**NCT06295809**: (INTerpath-007) Estudo adaptativo de Fase 2/3
+comparando V940 (mRNA-4157) mais pembrolizumab versus tratamento padrão
+em pacientes com carcinoma espinocelular cutâneo localmente avançado
+ressecável.
+
+- [**CNI**: Hospital de Cancer de Londrina-Clinical Research Unit (
+  Site 1316) 86015-520, Londrina,
+  Parana](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06295809&location_id=HOSPITALDECANCERDELONDRINACLINICALRESEARCHUNITSITE1316LONDRINAPARANA86015520BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Cancer%20de%20Londrina-Clinical%20Research%20Unit%20%28%20Site%201316%29%2086015-520%2C%20Londrina%2C%20Parana&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo,
+  99010-080, Passo Fundo</span>
+- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
+  Oncológico, 88501-001, Lages</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
@@ -915,6 +928,15 @@ RMS, PPMS ou NRSPMS de ensaios pivotais anteriores.
 - [**CNI**: Instituto de Neurologia de Curitiba - Ecoville- Site Number
   : 0760002 81210-310, Curitiba,
   Paraná](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06372145&location_id=INSTITUTODENEUROLOGIADECURITIBAECOVILLESITENUMBER0760002CURITIBAPARANA81210310BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Neurologia%20de%20Curitiba%20-%20Ecoville-%20Site%20Number%20%3A%200760002%2081210-310%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
+
+**NCT05669989**: Estudo internacional multicêntrico aberto de Fase 2 que
+estende a terapia com isatuximab para pacientes com mieloma múltiplo
+beneficiados por estudos anteriores de Fase 1-3.
+
+- [**CNI**: Instituto Americas - Ensino, Pesquisa e Inovação - Rio de
+  Janeiro - Avenida Jorge Curi- Site Number : 0760001 22775-001, Rio de
+  Janeiro,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05669989&location_id=INSTITUTOAMERICASENSINOPESQUISAEINOVACAORIODEJANEIROAVENIDAJORGECURISITENUMBER0760001RIODEJANEIRO22775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20Americas%20-%20Ensino%2C%20Pesquisa%20e%20Inova%C3%A7%C3%A3o%20-%20Rio%20de%20Janeiro%20-%20Avenida%20Jorge%20Curi-%20Site%20Number%20%3A%200760001%2022775-001%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
