@@ -72,33 +72,6 @@ pulmão, ovário ou mama.
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
 
-**NCT05907122**: Estudo randomizado duplo-cego avaliando a similaridade
-farmacocinética do ABP 206 em comparação com OPDIVO® em pacientes com
-melanoma ressecado em estágio III/IV no cenário adjuvante.
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- <span style="color: #808080">CE: Centro de Oncologia, 60140-061,
-  Fortaleza</span>
-- [**CNI**: Hospital e Maternidade Brasil CEP 04501-000, Sao Paulo, São
-  Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05907122&location_id=HOSPITALEMATERNIDADEBRASILSAOPAULOSAOPAULOCEP04501000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20e%20Maternidade%20Brasil%20CEP%2004501-000%2C%20Sao%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
-  70200-730, Brasília</span>
-- <span style="color: #808080">PA: CTO - Centro de Tratamento
-  Oncológico, 66063-495, Belém</span>
-- <span style="color: #808080">PR: Instituto de Oncologia do Paraná,
-  82305-100, Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Faculdade de Medicina de São José do
-  Rio Preto FAMERP, 15090-000, São José do Rio Preto</span>
-
 **NCT06211036**: (DeLLphi-305) Estudo de fase 3, aberto, multicêntrico
 comparando tarlatamabe mais durvalumabe vs durvalumabe sozinho em
 pacientes com câncer de pulmão de pequenas células em estágio extenso
@@ -599,6 +572,18 @@ câncer gástrico HER2-expressante.
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
+**NCT06526793**: (SOUNDTRACK-B) Estudo de fase 2, braço único,
+multicêntrico que avalia a eficácia e segurança do AZD0486 em adultos
+com linfoma não-Hodgkin de células B recidivado/refratário após duas
+terapias anteriores.
+
+- [**CNI**: Research Site 01401-002, Sao Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06526793&location_id=RESEARCHSITESAOPAULO01401002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001401-002%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
+
 **NCT06131424**: (iRetroBC) Estudo multicêntrico retrospectivo que
 avalia a prevalência de HER2-baixo, características clínicas e
 resultados de tratamento em pacientes com câncer de mama metastático
@@ -606,37 +591,6 @@ HER2-negativo após terapia sistêmica.
 
 - [**CNI**: Research Site - , Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06131424&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT06230328**: (BRA-HEP) Estudo retrospectivo multicêntrico que
-analisa perfis epidemiológicos, manejo clínico e sobrevivência de
-pacientes brasileiros com carcinoma hepatocelular de 2017 a 2022.
-
-- [**CNI**: Research Site - , Salvador,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Natal,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Porto Alegre,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Florianopolis,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Florianopolis%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Vitoria,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITEVITORIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Vitoria%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Sao Bernardo do Campo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITESAOBERNARDODOCAMPOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Bernardo%20do%20Campo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Recife,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Curitiba,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Belo Horizonte,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Sao Jose do Rio Preto,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06230328&location_id=RESEARCHSITESAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Jose%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
-  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
@@ -791,32 +745,6 @@ PIK3CA-mutado.
   do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
-
-**NCT03574571**: (DORA) Ensaio de Fase III comparando a eficácia do
-docetaxel isolado versus combinado com rádio-223 em pacientes com câncer
-de próstata resistente à castração metastático.
-
-- [**CNI**: Centro de Pesquisas São Lucas - Sociedade Campineira de
-  Educação e Instrução (SCEI) - , São Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT03574571&location_id=CENTRODEPESQUISASSAOLUCASSOCIEDADECAMPINEIRADEEDUCACAOEINSTRUCAOSCEISAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisas%20S%C3%A3o%20Lucas%20-%20Sociedade%20Campineira%20de%20Educa%C3%A7%C3%A3o%20e%20Instru%C3%A7%C3%A3o%20%28SCEI%29%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PE: IMIP Instituto de Medicina Integral
-  Professor Fernando Figueira, 50070-902, Recife</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
-  Porto Alegre</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
-  Oncologia, 04014-002, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
 
 **NCT06295809**: (INTerpath-007) Estudo adaptativo de Fase 2/3
 comparando V940 (mRNA-4157) mais pembrolizumab versus tratamento padrão
