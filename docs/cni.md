@@ -623,6 +623,22 @@ irressecável após atezolizumabe mais bevacizumabe ou outras combinações
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT06637501**: Estudo multicêntrico de fase 2 comparando a eficácia e
+segurança de Sonrotoclax mais Zanubrutinib versus Zanubrutinib sozinho
+em adultos com leucemia linfocítica crônica não tratada.
+
+- [**CNI**: Hospital de Clinicas de Porto Alegre 900350-903, Porto
+  AlegreRS,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06637501&location_id=HOSPITALDECLINICASDEPORTOALEGREPORTOALEGRERS900350903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Clinicas%20de%20Porto%20Alegre%20900350-903%2C%20Porto%20AlegreRS%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Centro de Pesquisas Oncologicas Cepon 88034-000,
+  Florianopolis,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06637501&location_id=CENTRODEPESQUISASONCOLOGICASCEPONFLORIANOPOLIS88034000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisas%20Oncologicas%20Cepon%2088034-000%2C%20Florianopolis%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: Sociedade Beneficente Israelita
+  Brasileira Hospital Albert Einstein, 05652-000, São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+
 **NCT04810078**: (CheckMate-67T) Estudo de fase 3 comparando Nivolumab
 subcutâneo vs. intravenoso em pacientes com carcinoma de células renais
 claras avançado após terapia sistêmica.
