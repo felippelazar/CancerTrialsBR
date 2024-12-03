@@ -218,6 +218,8 @@ irressecável estágio III após quimiorradiação à base de platina.
   Florianópolis</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
@@ -260,34 +262,6 @@ mutado por EGFR e superexpressão de MET após osimertinib.
   Paulo</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
-
-**NCT05687266**: (AVANZAR) Estudo global de Fase III comparando
-Datopotamab Deruxtecan com durvalumab e carboplatina versus
-pembrolizumabe com quimioterapia à base de platina no tratamento de
-primeira linha de NSCLC avançado sem alterações genômicas.
-
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- [**CNI**: Research Site 09323-900, Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05687266&location_id=RESEARCHSITESAOPAULO09323900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2009323-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
-  Vitória</span>
-- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
-  86015-520, Londrina</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
-  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
 
 **NCT05774951**: (CAMBRIA-1) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -762,6 +736,28 @@ PIK3CA-mutado.
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
+**NCT06356311**: (TroFuse-015) Estudo de fase 3, multicêntrico e aberto
+comparando a eficácia e segurança do sacituzumab tirumotecano versus
+escolha do médico em adenocarcinoma gastroesofágico
+avançado/metastático.
+
+- [**CNI**: Fundação Pio XII - Hospital de Câncer de Barretos-Unidade de
+  Pesquisa Clínica ( Site 0401) 14784-400, Barretos, Sao
+  Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06356311&location_id=FUNDACAOPIOXIIHOSPITALDECANCERDEBARRETOSUNIDADEDEPESQUISACLINICASITE0401BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Funda%C3%A7%C3%A3o%20Pio%20XII%20-%20Hospital%20de%20C%C3%A2ncer%20de%20Barretos-Unidade%20de%20Pesquisa%20Cl%C3%ADnica%20%28%20Site%200401%29%2014784-400%2C%20Barretos%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital de Clínicas Ijuí, 98700-000,
+  Ijuí</span>
+- <span style="color: #808080">SC: CHO - Centro de Hematologia e
+  Oncologia de Joinville, 89201-260, Joinville</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
+
 **NCT06295809**: (INTerpath-007) Estudo adaptativo de Fase 2/3
 comparando V940 (mRNA-4157) mais pembrolizumab versus tratamento padrão
 em pacientes com carcinoma espinocelular cutâneo localmente avançado
@@ -774,6 +770,8 @@ ressecável.
   99010-080, Passo Fundo</span>
 - <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
   Oncológico, 88501-001, Lages</span>
+- <span style="color: #808080">SP: Santa Casa Instituto de Pesquisa,
+  01223-001, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
