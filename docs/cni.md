@@ -131,16 +131,16 @@ inelegíveis para cisplatina.
   Curitiba</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
   90035-007, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
   90035-007, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncocentro - Dr. Felin Dr. Everaldo,
-  97015-450, Santa Maria</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
+  Maria</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
@@ -216,8 +216,6 @@ irressecável estágio III após quimiorradiação à base de platina.
   HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
@@ -461,8 +459,8 @@ PD-L1.
   Mackenzie, 80730-150, Curitiba</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
-- <span style="color: #808080">RS: Oncocentro - Dr. Felin Dr. Everaldo,
-  97015-450, Santa Maria</span>
+- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
+  Maria</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
@@ -531,8 +529,8 @@ câncer gástrico HER2-expressante.
   Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
-- <span style="color: #808080">RS: Oncocentro - Dr. Felin Dr. Everaldo,
-  97015-450, Santa Maria</span>
+- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
+  Maria</span>
 - <span style="color: #808080">RS: Hospital Ernesto Dornelles,
   90160-092, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
@@ -545,18 +543,6 @@ câncer gástrico HER2-expressante.
   Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
-
-**NCT06526793**: (SOUNDTRACK-B) Estudo de fase 2, braço único,
-multicêntrico que avalia a eficácia e segurança do AZD0486 em adultos
-com linfoma não-Hodgkin de células B recidivado/refratário após duas
-terapias anteriores.
-
-- [**CNI**: Research Site 01401-002, Sao Paulo,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06526793&location_id=RESEARCHSITESAOPAULO01401002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001401-002%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
 
 **NCT06131424**: (iRetroBC) Estudo multicêntrico retrospectivo que
 avalia a prevalência de HER2-baixo, características clínicas e
@@ -604,14 +590,42 @@ em adultos com leucemia linfocítica crônica não tratada.
 - [**CNI**: Hospital de Clinicas de Porto Alegre 900350-903, Porto
   AlegreRS,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06637501&location_id=HOSPITALDECLINICASDEPORTOALEGREPORTOALEGRERS900350903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Clinicas%20de%20Porto%20Alegre%20900350-903%2C%20Porto%20AlegreRS%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Centro de Pesquisas Oncologicas Cepon 88034-000,
-  Florianopolis,
-  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06637501&location_id=CENTRODEPESQUISASONCOLOGICASCEPONFLORIANOPOLIS88034000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisas%20Oncologicas%20Cepon%2088034-000%2C%20Florianopolis%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Hospital Albert Einstein, 05652-000, São Paulo</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
+
+**NCT06120283**: (BGB-43395) Estudo de Fase 1a/1b avaliando segurança,
+tolerabilidade e atividade antitumoral do inibidor de CDK4 BGB-43395
+isolado ou com fulvestranto/letrozol em câncer de mama HR+/HER2-
+metastático e tumores sólidos.
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Hospital Sao Lucas Da Pucrs Uniao Brasileira de Educacao E
+  Assistencia 90610-000, Porto Algre,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06120283&location_id=HOSPITALSAOLUCASDAPUCRSUNIAOBRASILEIRADEEDUCACAOEASSISTENCIAPORTOALGRE90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Sao%20Lucas%20Da%20Pucrs%20Uniao%20Brasileira%20de%20Educacao%20E%20Assistencia%2090610-000%2C%20Porto%20Algre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
+  70200-730, Brasília</span>
+- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
+  Câncer IV, 20560-121, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Instituto de Pesquisas em Saúde,
+  95070-560, Caxias do Sul</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
 
 **NCT04810078**: (CheckMate-67T) Estudo de fase 3 comparando Nivolumab
 subcutâneo vs. intravenoso em pacientes com carcinoma de células renais
@@ -635,6 +649,43 @@ claras avançado após terapia sistêmica.
   Barretos</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
+
+**NCT05625399**: (RELATIVITY-127) Estudo de fase 3 randomizado
+comparando nivolumabe + relatlimabe subcutâneo versus intravenoso em
+pacientes com melanoma metastático ou irressecável não tratado.
+
+- <span style="color: #808080">BA: NOB \| Oncoclínicas, 40170-110,
+  Salvador</span>
+- [**CNI**: Instituto D’Or de Pesquisa e Ensino 60135237, Fortaleza,
+  Ce](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05625399&location_id=INSTITUTODORDEPESQUISAEENSINOFORTALEZACE60135237BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20D%27Or%20de%20Pesquisa%20e%20Ensino%2060135237%2C%20Fortaleza%2C%20Ce&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">MG: Clínica Personal - Oncologia de
+  Precisão e Personalizada, 30130-090, Belo Horizonte</span>
+- <span style="color: #808080">PR: Instituto de Oncologia do Paraná \|
+  Unidade Mateus Leme, 80520-174, Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
+  Oncológico, 88501-001, Lages</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
+  Paulo</span>
 
 **NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
 comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
