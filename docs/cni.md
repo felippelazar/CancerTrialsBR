@@ -735,6 +735,45 @@ CDK4/6.
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
 
+**NCT06578247**: (QuANTUM-WILD) Estudo de Fase 3 comparando Quizartinib
+com placebo junto à quimioterapia em adultos com leucemia mieloide aguda
+FLT3-ITD negativa recém-diagnosticada.
+
+- [**CNI**: Hospital Nove de Julho 01409902, SĂŁo Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06578247&location_id=HOSPITALNOVEDEJULHOSALOPAULO01409902BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Nove%20de%20Julho%2001409902%2C%20S%C4%82%C5%81o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Huwc - Ufc - Hospital Universitărio Walter Cantădio -
+  Universidade Federal Do Ceară 60430-370, Fortaleza,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06578247&location_id=HUWCUFCHOSPITALUNIVERSITARIOWALTERCANTADIOUNIVERSIDADEFEDERALDOCEARAFORTALEZA60430370BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Huwc%20-%20Ufc%20-%20Hospital%20Universit%C4%83rio%20Walter%20Cant%C4%83dio%20-%20Universidade%20Federal%20Do%20Cear%C4%83%2060430-370%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Hospital das Clínicas da UFG /
+  EBSERH, 74605-050, Goiânia</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Pórtico 75 Santa Casa de Porto
+  Alegre, 90035-074, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Ernesto Dornelles,
+  90160-092, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: UNESP-FMB: Administração, 18618-687,
+  Botucatu</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Hemocentro Unicamp, 13083-878,
+  Campinas</span>
+
 **NCT05668988**: Estudo de Fase 3 comparando DZD9008 com quimioterapia à
 base de platina como tratamento de primeira linha para NSCLC avançado
 com mutação de inserção no Exon 20 do EGFR.
