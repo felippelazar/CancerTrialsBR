@@ -858,6 +858,8 @@ ressecável.
   Parana](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06295809&location_id=HOSPITALDECANCERDELONDRINACLINICALRESEARCHUNITSITE1316LONDRINAPARANA86015520BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Cancer%20de%20Londrina-Clinical%20Research%20Unit%20%28%20Site%201316%29%2086015-520%2C%20Londrina%2C%20Parana&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Hospital São Vicente de Paulo,
   99010-080, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
   Oncológico, 88501-001, Lages</span>
 - <span style="color: #808080">SP: Santa Casa Instituto de Pesquisa,
