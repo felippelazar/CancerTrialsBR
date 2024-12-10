@@ -793,6 +793,83 @@ com mutação de inserção no Exon 20 do EGFR.
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 
+**NCT05514054**: (EMBER-4) Estudo de fase 3 randomizado comparando
+Imlunestrant adjuvante à terapia endócrina padrão em pacientes com
+câncer de mama precoce ER+, HER2- com alto risco de recidiva após 2-5
+anos de terapia prévia.
+
+- <span style="color: #808080">BA: NOB \| Oncoclínicas, 40170-110,
+  Salvador</span>
+- <span style="color: #808080">CE: Instituto do Câncer Do Ceara,
+  60430-230, Fortaleza</span>
+- [**CNI**: Oncocentro de Minas Gerais 30180-060, Belo Horizonte, Minas
+  Gerais](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05514054&location_id=ONCOCENTRODEMINASGERAISBELOHORIZONTEMINASGERAIS30180060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20de%20Minas%20Gerais%2030180-060%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
+  70200-730, Brasília</span>
+- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
+  29055-450, Vitória</span>
+- <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
+  74605-070, Goiânia</span>
+- <span style="color: #808080">PA: CTO - Centro de Tratamento
+  Oncológico, 66063-495, Belém</span>
+- <span style="color: #808080">PE: Multi Hemo, 50070-170, Recife</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RJ: Hospital São Lucas Copacabana,
+  22061-080, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
+  Câncer IV, 20560-121, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital Santa Paula, 04556-100, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Centro Universitário Faculdade de
+  Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: Sírio‑Libanês Ensino e Pesquisa,
+  01308-060, São Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Santa Casa Instituto de Pesquisa,
+  01223-001, São Paulo</span>
+- <span style="color: #808080">SP: QualiVida Angélica \| Hapvida
+  NotreDame Intermédica, 01227-000, São Paulo</span>
+- <span style="color: #808080">SP: IEP - Instituto Hemomed, 01236-030,
+  São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
+- <span style="color: #808080">SP: IAMSPE - Hospital do Servidor Público
+  Estadual - Oncologia, 04039-000, São Paulo</span>
+
 **NCT05646862**: (INAVO121) Estudo multicêntrico fase III randomizado
 comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
 Alpelisib mais Fulvestrant em câncer de mama HR-positivo, HER2-negativo,
