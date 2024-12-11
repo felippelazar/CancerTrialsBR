@@ -28,20 +28,36 @@ autoanticorpos contra AChR.
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
+- [**CNI**: Research Site 05403-010, São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05556096&location_id=RESEARCHSITESAOPAULO05403010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2005403-010%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 0438-002, São Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05556096&location_id=RESEARCHSITESAOPAULO0438002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%200438-002%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
   Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">SC: Hospital Municipal São José – HMSJ,
   89202-030, Joinville</span>
-- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
-  05403-010, São Paulo</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
+
+**NCT06607627**: Estudo aberto, de braço único, que avalia
+farmacocinética, farmacodinâmica, segurança e eficácia do Gefurulimab em
+pacientes pediátricos de 6 a 18 anos com miastenia gravis generalizada
+AChR+.
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Research Site 0438-002, São Paulo,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06607627&location_id=RESEARCHSITESAOPAULO0438002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%200438-002%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 89202-451, Joinville,
+  -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06607627&location_id=RESEARCHSITEJOINVILLE89202451BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2089202-451%2C%20Joinville%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
+  05403-010, São Paulo</span>
 
 **NCT03937154**: (PROCLAIM) Estudo de fase 3, randomizado, controlado
 por placebo e duplo-cego, avaliando romiplostim para tratar
@@ -398,26 +414,26 @@ tratamento locorregional.
   Porto Velho</span>
 - <span style="color: #808080">RS: Universidade Federal de Ciências da
   Saúde de Porto Alegre, 90050-170, Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
   HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
 - <span style="color: #808080">SC: Clínica de Oncologia Reichow,
   89010-340, Blumenau</span>
 - <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
   Itajaí</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
   Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
   de Hematologia, 09060-650, Santo André</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
   Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
 
