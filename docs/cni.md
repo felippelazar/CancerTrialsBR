@@ -834,3 +834,47 @@ Centros: 2
   SP](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04236700&location_id=CAIOVINICIUSGONCALVESROMANTORRESSANTOSSP11015001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Caio%20Vinicius%20Gon%C3%A7alves%20Roman%20Torres%2011015001%2C%20Santos%2C%20SP&form_type=Identificar%20Centro)
 - [**CNI**: Caio Torres 11045, Santos,
   SP](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04236700&location_id=CAIOTORRESSANTOSSP11045BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Caio%20Torres%2011045%2C%20Santos%2C%20SP&form_type=Identificar%20Centro)
+
+**NCT05315154**: (VENUS) Estudo prospectivo multicêntrico comparando
+biópsia do linfonodo sentinela versus nenhuma cirurgia axilar em
+mulheres com câncer de mama inicial e status de linfonodo negativo.
+
+Patrocinador do Estudo: University of Campinas, Brazil. Número de
+Centros: 18
+
+- <span style="color: #808080">CE: Hospital Geral de Fortaleza (HGF),
+  60150-160, Fortaleza</span>
+- [**CNI**: Hospital da Mulher - , São Paulo,
+  SP](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05315154&location_id=HOSPITALDAMULHERSAOPAULOSPBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20da%20Mulher%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20SP&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Universidade Federal de Goiás Campus
+  Samambaia, 74690-900, Goiânia</span>
+- <span style="color: #808080">GO: Hospital e Maternidade Dona Iris,
+  74845-250, Goiânia</span>
+- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
+  30130-100, Belo Horizonte</span>
+- <span style="color: #808080">MG: Hospital do Câncer de Muriaé da
+  Fundação Cristiano Varella, 36888-233, Muriaé</span>
+- <span style="color: #808080">PE: Hospital Barão de Lucena, 50731-000,
+  Recife</span>
+- <span style="color: #808080">PI: Oncocenter, 64049-280,
+  Teresina</span>
+- <span style="color: #808080">PI: Universidade Federal do Piauí,
+  64049-550, Teresina</span>
+- <span style="color: #808080">PR: Universidade Federal do Paraná,
+  80060-000, Curitiba</span>
+- <span style="color: #808080">RJ: Hospital Federal da Lagoa, 22470-050,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital da PUC-Campinas, 13034-685,
+  Campinas</span>
+- <span style="color: #808080">SP: Unesp Campus de Botucatu, 18618-687,
+  Botucatu</span>
+- <span style="color: #808080">SP: Hospital da Mulher Prof. Dr. J. A.
+  Pinotti-Caism/Unicamp, 13083-881, Campinas</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital do Servidor Público Estadual
+  Francisco Morato de Oliveira, 04029-000, São Paulo</span>
