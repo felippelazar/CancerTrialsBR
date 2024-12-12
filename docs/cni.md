@@ -26,6 +26,9 @@ Obrigado por colaborar!
 eficácia do ALXN1720 em adultos com miastenia gravis generalizada e
 autoanticorpos contra AChR.
 
+Patrocinador do Estudo: Alexion Pharmaceuticals, Inc.. Número de
+Centros: 8
+
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
 - [**CNI**: Research Site 0438-002, São Paulo,
@@ -48,6 +51,9 @@ farmacocinética, farmacodinâmica, segurança e eficácia do Gefurulimab em
 pacientes pediátricos de 6 a 18 anos com miastenia gravis generalizada
 AChR+.
 
+Patrocinador do Estudo: Alexion Pharmaceuticals, Inc.. Número de
+Centros: 5
+
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
 - [**CNI**: Research Site 0438-002, São Paulo,
@@ -63,6 +69,9 @@ AChR+.
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
 anterior.
+
+Patrocinador do Estudo: Astellas Pharma Global Development, Inc.. Número
+de Centros: 7
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
@@ -82,6 +91,8 @@ anterior.
 eficácia e segurança de Durvalumab com Tremelimumab e Enfortumab Vedotin
 ou Durvalumab com Enfortumab Vedotin em pacientes com câncer de bexiga
 inelegíveis para cisplatina.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 14
 
 - <span style="color: #808080">CE: Hospital São Carlos: Pronto
   Atendimento, Emergência, Pronto Socorro, Fortaleza, 60135-237,
@@ -117,6 +128,8 @@ inelegíveis para cisplatina.
 mais durvalumabe versus sunitinibe e monoterapia com durvalumabe em
 carcinoma de células renais papilar MET-driven, irressecável, localmente
 avançado ou metastático.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 19
 
 - <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
   Salvador</span>
@@ -161,6 +174,8 @@ avançado ou metastático.
 durvalumabe com oleclumabe ou monalizumabe em adultos com NSCLC
 irressecável estágio III após quimiorradiação à base de platina.
 
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
+
 - <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
   Oncologia, 60335-480, Fortaleza</span>
 - [**CNI**: Research Site 30380-090, Belo Horizonte,
@@ -189,6 +204,8 @@ irressecável estágio III após quimiorradiação à base de platina.
 **NCT05261399**: (SAFFRON) Estudo de Fase III comparando savolitinib
 mais osimertinib à quimioterapia de platina em pacientes com NSCLC
 mutado por EGFR e superexpressão de MET após osimertinib.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 17
 
 - <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
   Salvador</span>
@@ -228,6 +245,8 @@ mutado por EGFR e superexpressão de MET após osimertinib.
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
 precoce ER+/HER2- com risco intermediário/alto de recidiva pós-terapia
 locorregional.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
@@ -319,6 +338,8 @@ camizestrant à terapia endócrina padrão em pacientes com câncer de mama
 precoce ER+/HER2- com risco intermediário-alto ou alto de recidiva após
 tratamento locorregional.
 
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 31
+
 - <span style="color: #808080">BA: NOB \| Oncoclínicas, 40170-110,
   Salvador</span>
 - <span style="color: #808080">CE: Hospital São Carlos: Pronto
@@ -388,6 +409,8 @@ tratamento locorregional.
 Dato-DXd com/sem durvalumabe versus quimioterapia mais pembrolizumabe em
 pacientes com câncer de mama triplo-negativo metastático PD-L1 positivo.
 
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
+
 - [**CNI**: Research Site 74000-000, Goiânia,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06103864&location_id=RESEARCHSITEGOIANIA74000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2074000-000%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">PE: Real Hospital Português, 52010-075,
@@ -413,6 +436,8 @@ pacientes com câncer de mama triplo-negativo metastático PD-L1 positivo.
 Dato-DXd com rilvegostomig ou rilvegostomig isolado versus pembrolizumab
 no tratamento de primeira linha de NSCLC não escamoso avançado com alta
 PD-L1.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
 
 - [**CNI**: Research Site 22211-230, Rio de Janeiro,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06357533&location_id=RESEARCHSITERIODEJANEIRO22211230BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2022211-230%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -440,6 +465,8 @@ comparando saruparib mais camizestrant versus inibidor de CDK4/6 mais
 terapia endócrina em câncer de mama avançado com mutações BRCA1/2 ou
 PALB2, HR-positivo, HER2-negativo.
 
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
+
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
 - <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
@@ -466,6 +493,8 @@ rilvegostomig ou T-DXd sozinho versus gemcitabina, cisplatina e
 durvalumabe em pacientes com câncer de vias biliares avançado
 HER2-expressante e sem tratamento prévio.
 
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 6
+
 - [**CNI**: Research Site 59012-300, Natal,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06467357&location_id=RESEARCHSITENATAL59012300BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2059012-300%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
@@ -483,6 +512,8 @@ HER2-expressante e sem tratamento prévio.
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
 câncer gástrico HER2-expressante.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 
 - [**CNI**: Research Site 045202-001, São Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04379596&location_id=RESEARCHSITESAOPAULO045202001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20045202-001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -512,12 +543,16 @@ avalia a prevalência de HER2-baixo, características clínicas e
 resultados de tratamento em pacientes com câncer de mama metastático
 HER2-negativo após terapia sistêmica.
 
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 1
+
 - [**CNI**: Research Site - , Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06131424&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
 escamoso após falha de quimioterapia à base de platina de 2017 a 2022.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
 
 - [**CNI**: Research Site 01333-010, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06491862&location_id=RESEARCHSITESAOPAULO01333010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001333-010%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -535,6 +570,8 @@ tolerância do Larotrectinib em pacientes adultos e pediátricos com
 câncer de fusão TRK localmente avançado ou metastático por 24 a 60
 meses.
 
+Patrocinador do Estudo: Bayer. Número de Centros: 1
+
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04142437&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
@@ -543,12 +580,16 @@ a eficácia do tratamento em adultos com carcinoma hepatocelular
 irressecável após atezolizumabe mais bevacizumabe ou outras combinações
 1L-IO.
 
+Patrocinador do Estudo: Bayer. Número de Centros: 1
+
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04810078**: (CheckMate-67T) Estudo de fase 3 comparando Nivolumab
 subcutâneo vs. intravenoso em pacientes com carcinoma de células renais
 claras avançado após terapia sistêmica.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 10
 
 - [**CNI**: Local Institution - 0096 01327-0001, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04810078&location_id=LOCALINSTITUTION0096SAOPAULO013270001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200096%2001327-0001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -572,6 +613,8 @@ claras avançado após terapia sistêmica.
 **NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
 comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
 pacientes com mieloma múltiplo recém-diagnosticado.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 
 - <span style="color: #808080">BA: CEHON: Oncologia Clínica, Tratamento
   de Câncer, Quimioterapia, Radioterapia, Oncologistas, Canela, Salvador
@@ -602,6 +645,8 @@ gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
 CDK4/6.
 
+Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
+
 - <span style="color: #808080">BA: Hospital da Bahia -Oncologia,
   41810-011, Salvador</span>
 - <span style="color: #808080">CE: Pronutrir: Oncologia, Tratamento de
@@ -620,6 +665,8 @@ CDK4/6.
 **NCT05668988**: Estudo de Fase 3 comparando DZD9008 com quimioterapia à
 base de platina como tratamento de primeira linha para NSCLC avançado
 com mutação de inserção no Exon 20 do EGFR.
+
+Patrocinador do Estudo: Dizal Pharmaceuticals. Número de Centros: 7
 
 - [**CNI**: WK28 Investigative Site - , Porto Alegre,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -640,6 +687,8 @@ com mutação de inserção no Exon 20 do EGFR.
 comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
 Alpelisib mais Fulvestrant em câncer de mama HR-positivo, HER2-negativo,
 PIK3CA-mutado.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
 
 - <span style="color: #808080">BA: Hospital da Bahia -Oncologia,
   41810-011, Salvador</span>
@@ -674,6 +723,8 @@ segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
 contínuo.
 
+Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
+
 - [**CNI**: Novartis Investigative Site 01255-000, Sao Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05161195&location_id=NOVARTISINVESTIGATIVESITESAOPAULO01255000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2001255-000%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
@@ -691,6 +742,8 @@ contínuo.
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
 de linfócitos B ao longo de 15 anos em três coortes.
+
+Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 6
 
 - [**CNI**: Novartis Investigative Site 34006-059, Minas Gerais, Belo
   Horizonte](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITEMINASGERAISBELOHORIZONTE34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2034006-059%2C%20Minas%20Gerais%2C%20Belo%20Horizonte&form_type=Identificar%20Centro)
@@ -710,6 +763,8 @@ de linfócitos B ao longo de 15 anos em três coortes.
 tratamento padrão em pacientes com GEP-NETs avançados, inoperáveis,
 SSTR+ após terapia com 177Lu-SSA.
 
+Patrocinador do Estudo: RayzeBio, Inc.. Número de Centros: 3
+
 - [**CNI**: Research Facility - , São Paulo,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Facility - , Brasília,
@@ -720,6 +775,8 @@ SSTR+ após terapia com 177Lu-SSA.
 **NCT05070858**: (NIMBLE) Estudo que avalia a eficácia e segurança da
 terapia combinada de pozelimab e cemdisiran e da monoterapia com
 cemdisiran em pacientes com miastenia gravis generalizada sintomática.
+
+Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 
 - [**CNI**: Jordy Sinapse medicina LTDA 06655-250, Itapevi, Sao
   Paulo](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT05070858&location_id=JORDYSINAPSEMEDICINALTDAITAPEVISAOPAULO06655250BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Jordy%20Sinapse%20medicina%20LTDA%2006655-250%2C%20Itapevi%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
@@ -736,6 +793,8 @@ cemdisiran em pacientes com miastenia gravis generalizada sintomática.
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
 SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
+
+Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
 
 - [**CNI**: SB Investigative Site - , Curitiba,
   -](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -757,6 +816,9 @@ SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
 mental, física e qualidade de vida por meio de práticas integrativas no
 Brasil.
 
+Patrocinador do Estudo: Universidade Federal do Triangulo Mineiro.
+Número de Centros: 1
+
 - [**CNI**: Núcleo de Praticas Integrativas e Complementares 381000 000,
   Uberaba, Minas
   Gerais](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04152109&location_id=NUCLEODEPRATICASINTEGRATIVASECOMPLEMENTARESUBERABAMINASGERAIS381000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20N%C3%BAcleo%20de%20Praticas%20Integrativas%20e%20Complementares%20381000%20000%2C%20Uberaba%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
@@ -764,6 +826,9 @@ Brasil.
 **NCT04236700**: Estudo que avalia a prevalência de lesões orais e
 periorais em trabalhadores móveis de praia expostos ao sol, investigando
 associações sociodemográficas, ocupacionais e de saúde geral.
+
+Patrocinador do Estudo: Universidade Metropolitana de Santos. Número de
+Centros: 2
 
 - [**CNI**: Caio Vinicius Gonçalves Roman Torres 11015001, Santos,
   SP](https://flazar.shinyapps.io/formsapp?study_nct_id=NCT04236700&location_id=CAIOVINICIUSGONCALVESROMANTORRESSANTOSSP11015001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Caio%20Vinicius%20Gon%C3%A7alves%20Roman%20Torres%2011015001%2C%20Santos%2C%20SP&form_type=Identificar%20Centro)
