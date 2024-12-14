@@ -8,6 +8,8 @@ params:
   db: ''
 ---
 
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 Você encontrará aqui a lista de centros ainda não identificados, dividos
 por estudo. Caso você reconheça algum centro por meio do estudo em
 andamento e da descrição, **clique no centro** que você será

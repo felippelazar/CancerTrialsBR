@@ -9,6 +9,8 @@ params:
   media: ''
 ---
 
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 Aqui você encontrará os 📝 **PDFs disponíveis** para download por tipo
 de tumor. Basta clicar no tumor desejado para acessar o PDF
 (**download**).

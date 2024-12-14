@@ -6,6 +6,8 @@ output:
     preserve_yaml: true  # Keep YAML metadata in the output
 ---
 
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 ## 🗄️ Banco de Dados
 
 O banco de dados do projeto **CancerTrialsBR** está disponível neste
