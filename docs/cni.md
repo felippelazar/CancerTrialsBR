@@ -126,52 +126,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 14
 - <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
   de Hematologia, 09060-650, Santo André</span>
 
-**NCT05043090**: (SAMETA) Estudo de Fase III comparando savolitinibe
-mais durvalumabe versus sunitinibe e monoterapia com durvalumabe em
-carcinoma de células renais papilar MET-driven, irressecável, localmente
-avançado ou metastático.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 19
-
-- <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
-  Salvador</span>
-- <span style="color: #808080">CE: Oncocentro Ceará - Oncologia
-  Integrada, 60135-237, Fortaleza</span>
-- [**CNI**: Research Site 30120-320, Belo Horizonte,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05043090&location_id=RESEARCHSITEBELOHORIZONTE30120320BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2030120-320%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
-  70200-730, Brasília</span>
-- <span style="color: #808080">ES: Hospital Evangélico de Cachoeiro de
-  Itapemirim, 29308-020, Cachoeiro de Itapemirim</span>
-- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
-  Vitória</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Clinica Lacks, 96020-080,
-  Pelotas</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SC: Hospital São José -Oncologia e
-  Hematologia, 88811-010, Criciúma</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
-
 **NCT05221840**: (PACIFIC-9) Estudo de fase III, duplo-cego, avaliando
 durvalumabe com oleclumabe ou monalizumabe em adultos com NSCLC
 irressecável estágio III após quimiorradiação à base de platina.
@@ -641,6 +595,38 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
   Barretos</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
+
+**NCT06561386**: (RELATIVITY1093) Estudo de fase 3 randomizado
+comparando Nivolumab + Relatlimab com quimioterapia versus Pembrolizumab
+com quimioterapia em câncer de pulmão não pequenas células NSQ estágio
+IV ou recorrente com PD-L1 1-49%.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 12
+
+- [**CNI**: Local Institution - 0382 60810180, Fortaleza,
+  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0382FORTALEZACEARA60810180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200382%2060810180%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0373 09541-270, São Caetano do Sul, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0373SAOCAETANODOSULSAOPAULO09541270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200373%2009541-270%2C%20S%C3%A3o%20Caetano%20do%20Sul%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0375 66063-495, Belem,
+  Pará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0375BELEMPARA66063495BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200375%2066063-495%2C%20Belem%2C%20Par%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
+  Horizonte, 30110-022, Belo Horizonte</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
+  Itajaí</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: NAIC Instituto do Câncer de Bauru,
+  17033-490, Bauru</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
