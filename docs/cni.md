@@ -596,38 +596,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 
-**NCT06561386**: (RELATIVITY1093) Estudo de fase 3 randomizado
-comparando Nivolumab + Relatlimab com quimioterapia versus Pembrolizumab
-com quimioterapia em câncer de pulmão não pequenas células NSQ estágio
-IV ou recorrente com PD-L1 1-49%.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 12
-
-- [**CNI**: Local Institution - 0382 60810180, Fortaleza,
-  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0382FORTALEZACEARA60810180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200382%2060810180%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0373 09541-270, São Caetano do Sul, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0373SAOCAETANODOSULSAOPAULO09541270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200373%2009541-270%2C%20S%C3%A3o%20Caetano%20do%20Sul%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0375 66063-495, Belem,
-  Pará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06561386&location_id=LOCALINSTITUTION0375BELEMPARA66063495BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200375%2066063-495%2C%20Belem%2C%20Par%C3%A1&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
-  Horizonte, 30110-022, Belo Horizonte</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
-  Itajaí</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: NAIC Instituto do Câncer de Bauru,
-  17033-490, Bauru</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
