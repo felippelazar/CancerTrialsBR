@@ -464,6 +464,33 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 6
 - <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
   05652-900, São Paulo</span>
 
+**NCT06627647**: (ARTEMIDE-Lung03) Estudo de fase III, randomizado e
+duplo-cego, comparando rilvegostomig e pembrolizumabe com quimioterapia
+à base de platina no tratamento de primeira linha de NSCLC não escamoso
+metastático expressando PD-L1.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
+
+- <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
+  Salvador</span>
+- [**CNI**: Research Site 99010-260, Passo Fundo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06627647&location_id=RESEARCHSITEPASSOFUNDO99010260BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2099010-260%2C%20Passo%20Fundo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
@@ -638,6 +665,42 @@ Patrocinador do Estudo: Dizal Pharmaceuticals. Número de Centros: 7
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05668988&location_id=WK28INVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20WK28%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
+
+**NCT05678673**: (STELLAR-304) Estudo de fase 3 comparando XL092 com
+nivolumab versus sunitinib em pacientes com carcinoma de células renais
+não-claras avançado ou metastático não tratados.
+
+Patrocinador do Estudo: Exelixis. Número de Centros: 14
+
+- [**CNI**: Exelixis Clinical Site \#102 90035-903, Porto Alegre, Rio
+  Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05678673&location_id=EXELIXISCLINICALSITE102PORTOALEGRERIOGRANDEDOSUL90035903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%23102%2090035-903%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#101 01246-000, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05678673&location_id=EXELIXISCLINICALSITE101SAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%23101%2001246-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo,
+  99010-080, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
+  Itajaí</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Centro Universitário Faculdade de
+  Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT05646862**: (INAVO121) Estudo multicêntrico fase III randomizado
 comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
