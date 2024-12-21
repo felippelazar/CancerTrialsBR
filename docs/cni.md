@@ -361,6 +361,38 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 31
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
 
+**NCT06079671**: (eVOLVE-Cervical) Estudo global de fase III,
+randomizado, duplo-cego, controlado por placebo sobre a eficácia e
+segurança do volrustomig em mulheres com câncer cervical localmente
+avançado de alto risco pós-CCRT à base de platina.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
+
+- <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
+  Salvador</span>
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: Research Site 98850-170, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06079671&location_id=RESEARCHSITEPORTOALEGRE98850170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2098850-170%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
+  30130-100, Belo Horizonte</span>
+- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
+  64049-200, Teresina</span>
+- <span style="color: #808080">PR: Hospital Universitário Evangélico
+  Mackenzie, 80730-150, Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
+  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+
 **NCT06103864**: (TROPION-Breast05) Estudo de Fase III comparando
 Dato-DXd com/sem durvalumabe versus quimioterapia mais pembrolizumabe em
 pacientes com câncer de mama triplo-negativo metastático PD-L1 positivo.
@@ -437,12 +469,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
   Paulo</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
 - <span style="color: #808080">SP: CRID - Centro de Pesquisa em Doenças
   Inflamatórias, 14049-900, Ribeirão Preto</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
 
 **NCT06467357**: (DESTINY-BTC01) Estudo de fase 3 comparando T-DXd com
 rilvegostomig ou T-DXd sozinho versus gemcitabina, cisplatina e
