@@ -639,6 +639,52 @@ Patrocinador do Estudo: Dizal Pharmaceuticals. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 
+**NCT06082167**: (STELLAR-305) Estudo fase 2/3, randomizado e
+duplo-cego, comparando zanzalintinib com pembrolizumab versus
+pembrolizumab isolado no tratamento de primeira linha de HNSCC
+recorrente/metastático PD-L1 positivo.
+
+Patrocinador do Estudo: Exelixis. Número de Centros: 18
+
+- [**CNI**: Exelixis Clinical Site \#110 17210 190, Jau, Sao
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE110JAUSAOPAULO17210190BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%23110%2017210%20190%2C%20Jau%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#98 05403 900, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE98SAOPAULO05403900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2398%2005403%20900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#76 01323 030, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE76SAOPAULO01323030BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2376%2001323%20030%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#87 20230 130, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE87RIODEJANEIRO20230130BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2387%2020230%20130%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#88 1221020, Sao Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE88SAOPAULO1221020BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2388%201221020%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#77 01525 001, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE77SAOPAULO01525001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2377%2001525%20001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#101 81520 060, Curitiba,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE101CURITIBA81520060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%23101%2081520%20060%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#116 14784 400, Barretos,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE116BARRETOS14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%23116%2014784%20400%2C%20Barretos%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#97 90110 270, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE97PORTOALEGRE90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2397%2090110%20270%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#83 15090 000, São José Do Rio
+  Preto, Sao
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE83SAOJOSEDORIOPRETOSAOPAULO15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2383%2015090%20000%2C%20S%C3%A3o%20Jos%C3%A9%20Do%20Rio%20Preto%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#75 80810 050, Curitiba,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE75CURITIBA80810050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2375%2080810%20050%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#90 91350 200, Porto Alegre, Rio
+  Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE90PORTOALEGRERIOGRANDEDOSUL91350200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2390%2091350%20200%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Exelixis Clinical Site \#102 50070 225, Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE102RECIFE50070225BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%23102%2050070%20225%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Bitelli e Rigazzi Clinica de Serviços
+  Médicos LTDA, 09041-410, Santo André</span>
+
 **NCT05646862**: (INAVO121) Estudo multicêntrico fase III randomizado
 comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
 Alpelisib mais Fulvestrant em câncer de mama HR-positivo, HER2-negativo,
