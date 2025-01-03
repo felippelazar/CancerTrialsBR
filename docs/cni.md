@@ -719,6 +719,37 @@ Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
+**NCT05894239**: (INAVO122) Estudo de Fase III avaliando inavolisib com
+Phesgo versus placebo com Phesgo como terapia de manutenção em pacientes
+com câncer de mama avançado HER2-positivo mutado PIK3CA.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 11
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: Clinica de Pesquisa e Centro de Estudos em Oncologia
+  Ginecologica e Mamaria Ltda 01317-001, Sao Paulo, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05894239&location_id=CLINICADEPESQUISAECENTRODEESTUDOSEMONCOLOGIAGINECOLOGICAEMAMARIALTDASAOPAULOSAOPAULO01317001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinica%20de%20Pesquisa%20e%20Centro%20de%20Estudos%20em%20Oncologia%20Ginecologica%20e%20Mamaria%20Ltda%2001317-001%2C%20Sao%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Santa Casa de Misericordia de Porto Alegre 90050-170, Porto
+  Alegre, Rio Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05894239&location_id=SANTACASADEMISERICORDIADEPORTOALEGREPORTOALEGRERIOGRANDEDOSUL90050170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Santa%20Casa%20de%20Misericordia%20de%20Porto%20Alegre%2090050-170%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
+  74605-070, Goiânia</span>
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
