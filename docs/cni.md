@@ -67,39 +67,6 @@ Centros: 5
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
-**NCT06252649**: (CodeBreaK 301) Estudo de fase 3 comparando PFS em
-pacientes com mCRC e mutação KRAS p.G12C usando sotorasib, panitumumab e
-FOLFIRI versus FOLFIRI com/sem bevacizumab-awwb.
-
-Patrocinador do Estudo: Amgen. Número de Centros: 13
-
-- [**CNI**: Oncoclinicas Belo Horizonte 14784-400, Barretos, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06252649&location_id=ONCOCLINICASBELOHORIZONTEBARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncoclinicas%20Belo%20Horizonte%2014784-400%2C%20Barretos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
-  70200-730, Brasília</span>
-- <span style="color: #808080">ES: Hospital Evangélico de Cachoeiro de
-  Itapemirim, 29308-020, Cachoeiro de Itapemirim</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  64049-200, Teresina</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SC: Neoplasias Litoral -
-  Oncologia/Quimioterapia, 88300-000, Itajaí</span>
-- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
-  Oncologia, 04014-002, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Clinica OncoStar: Oncologia Clínica,
-  Tratamento de Câncer, Quimioterapia, Radioterapia, Oncologistas, Itaim
-  Bibi, SP, 04543-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
