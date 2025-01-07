@@ -719,6 +719,42 @@ Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
+**NCT06497556**: (Krascendo 1) Estudo randomizado de Fase III comparando
+divarasib com sotorasib ou adagrasib em pacientes com câncer de pulmão
+não pequenas células avançado ou metastático positivo para KRAS G12C.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Santa Casa de Misericordia de Porto Alegre 90020-090, Porto
+  Alegre, Rio Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06497556&location_id=SANTACASADEMISERICORDIADEPORTOALEGREPORTOALEGRERIOGRANDEDOSUL90020090BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Santa%20Casa%20de%20Misericordia%20de%20Porto%20Alegre%2090020-090%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Hospital Brasilia 71635580, Brasilia, Distrito
+  Federal](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06497556&location_id=HOSPITALBRASILIABRASILIADISTRITOFEDERAL71635580BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Brasilia%2071635580%2C%20Brasilia%2C%20Distrito%20Federal&form_type=Identificar%20Centro)
+- [**CNI**: Clinica Onconeo 79002-061, Campo Grande, Mato Grosso Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06497556&location_id=CLINICAONCONEOCAMPOGRANDEMATOGROSSODOSUL79002061BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinica%20Onconeo%2079002-061%2C%20Campo%20Grande%2C%20Mato%20Grosso%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Hospital Nossa Senhora da Conceicao 90040-373, Porto Alegre,
+  Rio Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06497556&location_id=HOSPITALNOSSASENHORADACONCEICAOPORTOALEGRERIOGRANDEDOSUL90040373BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Nossa%20Senhora%20da%20Conceicao%2090040-373%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">MS: Clínica Prognóstica Oncologia,
+  79020-180, Campo Grande</span>
+- <span style="color: #808080">MS: Clínica Prognóstica Oncologia,
+  79020-180, Campo Grande</span>
+- <span style="color: #808080">RJ: Instituto Oncoclínicas de Ensino,
+  Pesquisa e Educação Médica Continuada, 22250-040, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
+  01308-050, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
