@@ -24,30 +24,6 @@ Obrigado por colaborar!
 
 **CNI** = Centro Não Identificado
 
-**NCT05556096**: Estudo multicêntrico de Fase 3 que avalia a segurança e
-eficácia do ALXN1720 em adultos com miastenia gravis generalizada e
-autoanticorpos contra AChR.
-
-Patrocinador do Estudo: Alexion Pharmaceuticals, Inc.. Número de
-Centros: 8
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- [**CNI**: Research Site 0438-002, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05556096&location_id=RESEARCHSITESAOPAULO0438002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%200438-002%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">SC: Hospital Municipal São José – HMSJ,
-  89202-030, Joinville</span>
-- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
-  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT06607627**: Estudo aberto, de braço único, que avalia
 farmacocinética, farmacodinâmica, segurança e eficácia do Gefurulimab em
 pacientes pediátricos de 6 a 18 anos com miastenia gravis generalizada
@@ -67,62 +43,31 @@ Centros: 5
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
-**NCT06311721**: Estudo randomizado duplo-cego comparando eficácia,
-farmacocinética, segurança e imunogenicidade do ABP 234 vs. Keytruda® em
-pacientes com câncer de pulmão não pequenas células não escamosas
-avançado ou metastático.
+**NCT06117774**: (DeLLphi-306) Estudo fase 3, randomizado, duplo-cego
+comparando tarlatamab vs. placebo em pacientes com LS-SCLC
+pós-quimiorradiação para sobrevida livre de progressão.
 
-Patrocinador do Estudo: Amgen. Número de Centros: 22
+Patrocinador do Estudo: Amgen. Número de Centros: 9
 
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- [**CNI**: Centro de Pesquisa em Oncologia - Hospital Sao Lucas da PUC
-  Rio Grande do Sul 90610-000, Porto Alegre,
-  RS](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06311721&location_id=CENTRODEPESQUISAEMONCOLOGIAHOSPITALSAOLUCASDAPUCRIOGRANDEDOSULPORTOALEGRERS90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20em%20Oncologia%20-%20Hospital%20Sao%20Lucas%20da%20PUC%20Rio%20Grande%20do%20Sul%2090610-000%2C%20Porto%20Alegre%2C%20RS&form_type=Identificar%20Centro)
-- [**CNI**: Centro de Ensino e Pesquisa Reichow 89010-340, Jardim
-  Blumenau, Santa
-  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06311721&location_id=CENTRODEENSINOEPESQUISAREICHOWJARDIMBLUMENAUSANTACATARINA89010340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Ensino%20e%20Pesquisa%20Reichow%2089010-340%2C%20Jardim%20Blumenau%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- [**CNI**: Associacao dos Functionarios Publicos do Estado do Rio
-  Grande do Sul - Hospital Ernesto Dornelles (H 90160-093, Porto Alegre
-  Rio Grande Do Sul, Rio Grande Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06311721&location_id=ASSOCIACAODOSFUNCTIONARIOSPUBLICOSDOESTADODORIOGRANDEDOSULHOSPITALERNESTODORNELLESHPORTOALEGRERIOGRANDEDOSULRIOGRANDEDOSUL90160093BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Associacao%20dos%20Functionarios%20Publicos%20do%20Estado%20do%20Rio%20Grande%20do%20Sul%20-%20Hospital%20Ernesto%20Dornelles%20%28H%2090160-093%2C%20Porto%20Alegre%20Rio%20Grande%20Do%20Sul%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Centro de Oncologia de Santa Catarina Ltda / Supera
-  Oncologia 89801-355, Chapeco, Santa
-  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06311721&location_id=CENTRODEONCOLOGIADESANTACATARINALTDASUPERAONCOLOGIACHAPECOSANTACATARINA89801355BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Oncologia%20de%20Santa%20Catarina%20Ltda%20%2F%20Supera%20Oncologia%2089801-355%2C%20Chapeco%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- [**CNI**: Liga Paranaense de Combate ao Cancer - Hospital Erasto
-  Gaertner 81520-060, Curitiba,
-  Parana](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06311721&location_id=LIGAPARANAENSEDECOMBATEAOCANCERHOSPITALERASTOGAERTNERCURITIBAPARANA81520060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Liga%20Paranaense%20de%20Combate%20ao%20Cancer%20-%20Hospital%20Erasto%20Gaertner%2081520-060%2C%20Curitiba%2C%20Parana&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
-  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
-- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
-  Horizonte, 30110-022, Belo Horizonte</span>
+- [**CNI**: Centro Catarinense de Pesquisa LTDA 89015-200, Blumenau,
+  Santa
+  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117774&location_id=CENTROCATARINENSEDEPESQUISALTDABLUMENAUSANTACATARINA89015200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Catarinense%20de%20Pesquisa%20LTDA%2089015-200%2C%20Blumenau%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Hospital do Câncer de Londrina,
   86015-520, Londrina</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital Tacchini Bento Gonçalves,
-  95700-068, Bento Gonçalves</span>
-- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
-  Lajeado</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
-  99010-260, Passo Fundo</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora das Graças,
-  92030-000, Canoas</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SC: CHO - Centro de Hematologia e
-  Oncologia de Joinville, 89201-260, Joinville</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
-- <span style="color: #808080">SP: Instituto Ribeirãopretano de Combate
-  ao Câncer, 14015-130, Ribeirão Preto</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Centro Integrado de Pesquisa em
+  Oncologia, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Oncologia Integrado
+  Hospital Ana Nery, 96835-100, Santa Cruz do Sul</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
 - <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
   Barretos</span>
-- <span style="color: #808080">SP: Centro Oncológico Mogi das Cruzes,
-  08730-500, Mogi das Cruzes</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
@@ -775,6 +720,35 @@ Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
   do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
+
+**NCT05904886**: (SKYSCRAPER-14) Estudo de fase III, randomizado e
+duplo-cego, avaliando tiragolumab com atezolizumab e bevacizumab em
+pacientes com carcinoma hepatocelular avançado não tratado.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 10
+
+- [**CNI**: Oncoclínicas do Brasil - BELO HORIZONTE 30170-080, Belo
+  Horizonte, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05904886&location_id=ONCOCLINICASDOBRASILBELOHORIZONTEBELOHORIZONTEMINASGERAIS30170080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocl%C3%ADnicas%20do%20Brasil%20-%20BELO%20HORIZONTE%2030170-080%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Clinicas Oncologicas Integradas - COI 22290-160, Rio De
+  Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05904886&location_id=CLINICASONCOLOGICASINTEGRADASCOIRIODEJANEIRO22290160BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinicas%20Oncologicas%20Integradas%20-%20COI%2022290-160%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
+  29055-450, Vitória</span>
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
