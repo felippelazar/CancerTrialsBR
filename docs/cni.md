@@ -43,32 +43,6 @@ Centros: 5
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
-**NCT06117774**: (DeLLphi-306) Estudo fase 3, randomizado, duplo-cego
-comparando tarlatamab vs. placebo em pacientes com LS-SCLC
-pós-quimiorradiação para sobrevida livre de progressão.
-
-Patrocinador do Estudo: Amgen. Número de Centros: 9
-
-- [**CNI**: Centro Catarinense de Pesquisa LTDA 89015-200, Blumenau,
-  Santa
-  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117774&location_id=CENTROCATARINENSEDEPESQUISALTDABLUMENAUSANTACATARINA89015200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Catarinense%20de%20Pesquisa%20LTDA%2089015-200%2C%20Blumenau%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
-  86015-520, Londrina</span>
-- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
-  Ensino, 22281-100, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro Integrado de Pesquisa em
-  Oncologia, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Oncologia Integrado
-  Hospital Ana Nery, 96835-100, Santa Cruz do Sul</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, 09060-650, Santo André</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
@@ -720,35 +694,6 @@ Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
   do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
-
-**NCT05904886**: (SKYSCRAPER-14) Estudo de fase III, randomizado e
-duplo-cego, avaliando tiragolumab com atezolizumab e bevacizumab em
-pacientes com carcinoma hepatocelular avançado não tratado.
-
-Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 10
-
-- [**CNI**: Oncoclínicas do Brasil - BELO HORIZONTE 30170-080, Belo
-  Horizonte, Minas
-  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05904886&location_id=ONCOCLINICASDOBRASILBELOHORIZONTEBELOHORIZONTEMINASGERAIS30170080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocl%C3%ADnicas%20do%20Brasil%20-%20BELO%20HORIZONTE%2030170-080%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
-- [**CNI**: Clinicas Oncologicas Integradas - COI 22290-160, Rio De
-  Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05904886&location_id=CLINICASONCOLOGICASINTEGRADASCOIRIODEJANEIRO22290160BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinicas%20Oncologicas%20Integradas%20-%20COI%2022290-160%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
-  29055-450, Vitória</span>
-- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
-  50040-000, Recife</span>
-- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
-  Porto Velho</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
