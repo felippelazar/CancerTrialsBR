@@ -695,6 +695,35 @@ Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
+**NCT05419375**: Estudo de Triagem Master para avaliar o status de
+biomarcadores em pacientes com tumores malignos para potencial
+elegibilidade em ensaio da Roche.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 10
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: COT - Centro Oncologico do Triangulo 38408-150, Uberlandia,
+  Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05419375&location_id=COTCENTROONCOLOGICODOTRIANGULOUBERLANDIAMINASGERAIS38408150BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20COT%20-%20Centro%20Oncologico%20do%20Triangulo%2038408-150%2C%20Uberlandia%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, 30360-680, Belo Horizonte</span>
+- <span style="color: #808080">RJ: Instituto Oncoclínicas de Ensino,
+  Pesquisa e Educação Médica Continuada, 22250-040, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
