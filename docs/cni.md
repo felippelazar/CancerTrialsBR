@@ -660,6 +660,113 @@ Patrocinador do Estudo: Exelixis. Número de Centros: 18
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
+**NCT04961996**: Estudo de Fase III comparando giredestrant adjuvante
+com terapia endócrina à escolha do médico em pacientes com câncer de
+mama precoce ER-positivo, HER2-negativo, com subestudo sobre
+giredestrant e abemaciclib.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 32
+
+- <span style="color: #808080">BA: ONCOVIDA - CENTRO DE ONCOLOGIA DA
+  BAHIA, 41820-021, Salvador</span>
+- <span style="color: #808080">BA: Centro Odonto Médico Linus Pauling,
+  41810-570, Salvador</span>
+- <span style="color: #808080">BA: NOB \| Oncoclínicas, 40170-110,
+  Salvador</span>
+- [**CNI**: Oncoclinicas do Brasil Servicos Medicos As 30360-680, Belo
+  Horizonte, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04961996&location_id=ONCOCLINICASDOBRASILSERVICOSMEDICOSASBELOHORIZONTEMINASGERAIS30360680BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncoclinicas%20do%20Brasil%20Servicos%20Medicos%20As%2030360-680%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Centro Odonito Medico Linus Pauling - Clinica de O
+  41830-907, Salvador,
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04961996&location_id=CENTROODONITOMEDICOLINUSPAULINGCLINICADEOSALVADORBAHIA41830907BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Odonito%20Medico%20Linus%20Pauling%20-%20Clinica%20de%20O%2041830-907%2C%20Salvador%2C%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: Clinica de Pesquisas e Centro de Estudos Oncologia
+  Ginecologica e Mamaria Ltda 0317-0001, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04961996&location_id=CLINICADEPESQUISASECENTRODEESTUDOSONCOLOGIAGINECOLOGICAEMAMARIALTDASAOPAULO03170001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinica%20de%20Pesquisas%20e%20Centro%20de%20Estudos%20Oncologia%20Ginecologica%20e%20Mamaria%20Ltda%200317-0001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Terapia de Inovação Clínica Assistência Multidiciplinar Em
+  Oncologia Ética 41950-640, Salvador,
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04961996&location_id=TERAPIADEINOVACAOCLINICAASSISTENCIAMULTIDICIPLINAREMONCOLOGIAETICASALVADORBAHIA41950640BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Terapia%20de%20Inova%C3%A7%C3%A3o%20Cl%C3%ADnica%20Assist%C3%AAncia%20Multidiciplinar%20Em%20Oncologia%20%C3%89tica%2041950-640%2C%20Salvador%2C%20Bahia&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
+  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
+  74605-070, Goiânia</span>
+- <span style="color: #808080">MG: Cenatron Centro Avançado de
+  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
+  Lajeado</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo,
+  99010-080, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">RS: Universidade de Caxias do Sul,
+  95070-560, Caxias do Sul</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">SC: Neoplasias Litoral -
+  Oncologia/Quimioterapia, 88300-000, Itajaí</span>
+- <span style="color: #808080">SP: Clinica OncoStar: Oncologia Clínica,
+  Tratamento de Câncer, Quimioterapia, Radioterapia, Oncologistas, Itaim
+  Bibi, SP, 04543-000, São Paulo</span>
+- <span style="color: #808080">SP: Instituto de Oncologia Clínica de
+  Piracicaba, 13416-225, Piracicaba</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Centro Universitário Faculdade de
+  Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
+  18030-005, Sorocaba</span>
+
+**NCT05296798**: (pionERA) Estudo de Fase III avaliando a eficácia e
+segurança de Giredestrant com Phesgo versus Phesgo pós-indução em
+pacientes com câncer de mama avançado HER2-positivo, ER-positivo não
+tratados.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 11
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Pronutrir - suporte nutricional e quimioterapia ltda.
+  60810-180, Fortaleza,
+  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05296798&location_id=PRONUTRIRSUPORTENUTRICIONALEQUIMIOTERAPIALTDAFORTALEZACEARA60810180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Pronutrir%20-%20suporte%20nutricional%20e%20quimioterapia%20ltda.%2060810-180%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
+  74605-070, Goiânia</span>
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+
 **NCT05646862**: (INAVO121) Estudo multicêntrico fase III randomizado
 comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
 Alpelisib mais Fulvestrant em câncer de mama HR-positivo, HER2-negativo,
@@ -694,35 +801,6 @@ Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
   do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
-
-**NCT05419375**: Estudo de Triagem Master para avaliar o status de
-biomarcadores em pacientes com tumores malignos para potencial
-elegibilidade em ensaio da Roche.
-
-Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 10
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- [**CNI**: COT - Centro Oncologico do Triangulo 38408-150, Uberlandia,
-  Minas
-  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05419375&location_id=COTCENTROONCOLOGICODOTRIANGULOUBERLANDIAMINASGERAIS38408150BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20COT%20-%20Centro%20Oncologico%20do%20Triangulo%2038408-150%2C%20Uberlandia%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
-  Horizonte, 30360-680, Belo Horizonte</span>
-- <span style="color: #808080">RJ: Instituto Oncoclínicas de Ensino,
-  Pesquisa e Educação Médica Continuada, 22250-040, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
