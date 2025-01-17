@@ -696,6 +696,34 @@ Patrocinador do Estudo: Exelixis. Número de Centros: 18
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
+**NCT04603807**: Estudo randomizado de Fase III comparando a eficácia e
+segurança do Entrectinib vs Crizotinib em pacientes com câncer de pulmão
+não pequenas células ROS1 avançado ou metastático, com ou sem metástases
+no SNC.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 9
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Oncocentro Serviços Médicos e Hospitalares Ltda 60130-241,
+  Fortaleza,
+  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04603807&location_id=ONCOCENTROSERVICOSMEDICOSEHOSPITALARESLTDAFORTALEZACEARA60130241BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20Servi%C3%A7os%20M%C3%A9dicos%20e%20Hospitalares%20Ltda%2060130-241%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
+- [**CNI**: Hospitais Integrados da Gavea S/A 70390-140, Brasilia,
+  Distrito
+  Federal](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04603807&location_id=HOSPITAISINTEGRADOSDAGAVEASABRASILIADISTRITOFEDERAL70390140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospitais%20Integrados%20da%20Gavea%20S%2FA%2070390-140%2C%20Brasilia%2C%20Distrito%20Federal&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, 30360-680, Belo Horizonte</span>
+- <span style="color: #808080">RJ: Instituto Oncoclínicas de Ensino,
+  Pesquisa e Educação Médica Continuada, 22250-040, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
 **NCT05646862**: (INAVO121) Estudo multicêntrico fase III randomizado
 comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
 Alpelisib mais Fulvestrant em câncer de mama HR-positivo, HER2-negativo,
