@@ -420,42 +420,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
-**NCT06417814**: (TROPION-Lung15) Estudo de Fase III comparando Dato-DXd
-com/sem Osimertinib à quimioterapia de platina em câncer de pulmão não
-pequenas células avançado com mutação EGFR após progressão com
-Osimertinib.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 14
-
-- [**CNI**: Research Site 88040-970, Florianópolis,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITEFLORIANOPOLIS88040970BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2088040-970%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 32671-550, Betim,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITEBETIM32671550BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2032671-550%2C%20Betim%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 90035-074, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06417814&location_id=RESEARCHSITEPORTOALEGRE90035074BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090035-074%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
-  Ensino, 22281-100, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Clinica Lacks, 96020-080,
-  Pelotas</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
-- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
-  Itajaí</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
-  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
-
 **NCT06467357**: (DESTINY-BTC01) Estudo de fase 3 comparando T-DXd com
 rilvegostomig ou T-DXd sozinho versus gemcitabina, cisplatina e
 durvalumabe em pacientes com câncer de vias biliares avançado
@@ -696,34 +660,6 @@ Patrocinador do Estudo: Exelixis. Número de Centros: 18
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
-**NCT04603807**: Estudo randomizado de Fase III comparando a eficácia e
-segurança do Entrectinib vs Crizotinib em pacientes com câncer de pulmão
-não pequenas células ROS1 avançado ou metastático, com ou sem metástases
-no SNC.
-
-Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 9
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- [**CNI**: Oncocentro Serviços Médicos e Hospitalares Ltda 60130-241,
-  Fortaleza,
-  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04603807&location_id=ONCOCENTROSERVICOSMEDICOSEHOSPITALARESLTDAFORTALEZACEARA60130241BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20Servi%C3%A7os%20M%C3%A9dicos%20e%20Hospitalares%20Ltda%2060130-241%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
-- [**CNI**: Hospitais Integrados da Gavea S/A 70390-140, Brasilia,
-  Distrito
-  Federal](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04603807&location_id=HOSPITAISINTEGRADOSDAGAVEASABRASILIADISTRITOFEDERAL70390140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospitais%20Integrados%20da%20Gavea%20S%2FA%2070390-140%2C%20Brasilia%2C%20Distrito%20Federal&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
-  Horizonte, 30360-680, Belo Horizonte</span>
-- <span style="color: #808080">RJ: Instituto Oncoclínicas de Ensino,
-  Pesquisa e Educação Médica Continuada, 22250-040, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT05646862**: (INAVO121) Estudo multicêntrico fase III randomizado
 comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
 Alpelisib mais Fulvestrant em câncer de mama HR-positivo, HER2-negativo,
@@ -852,45 +788,6 @@ Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
 - [**CNI**: SB Investigative Site - , Florianópolis,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-
-**NCT05243797**: (MajesTEC-4) Estudo multicêntrico de fase 3 comparando
-teclistamab com lenalidomida, teclistamab isolado e lenalidomida isolada
-como terapia de manutenção em mieloma múltiplo recém-diagnosticado
-pós-transplante.
-
-Patrocinador do Estudo: Stichting European Myeloma Network. Número de
-Centros: 14
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- [**CNI**: Clínica Medica São Germano,Grupo Oncoclínicas Pesquisa
-  Clínica - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05243797&location_id=CLINICAMEDICASAOGERMANOGRUPOONCOCLINICASPESQUISACLINICASAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cl%C3%ADnica%20Medica%20S%C3%A3o%20Germano%2CGrupo%20Oncocl%C3%ADnicas%20Pesquisa%20Cl%C3%ADnica%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Santa Rita, 90050-170, Porto
-  Alegre</span>
-- <span style="color: #808080">SP: Hospital São Paulo, 04024-002, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
-  05403-010, São Paulo</span>
-- <span style="color: #808080">SP: Hemocentro Unicamp, 13083-878,
-  Campinas</span>
-- <span style="color: #808080">SP: Hospital Japonês Santa Cruz,
-  04122-000, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Clinica OncoStar: Oncologia Clínica,
-  Tratamento de Câncer, Quimioterapia, Radioterapia, Oncologistas, Itaim
-  Bibi, SP, 04543-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
-  Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
