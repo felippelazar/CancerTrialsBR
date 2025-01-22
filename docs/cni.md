@@ -665,27 +665,28 @@ comparando eficácia e segurança de Inavolisib mais Fulvestrant versus
 Alpelisib mais Fulvestrant em câncer de mama HR-positivo, HER2-negativo,
 PIK3CA-mutado.
 
-Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 13
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 12
 
-- <span style="color: #808080">BA: Hospital da Bahia -Oncologia,
-  41810-011, Salvador</span>
-- [**CNI**: NUPEC 30220-140, Belo Horizonte,
-  MG](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05646862&location_id=NUPECBELOHORIZONTEMG30220140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20NUPEC%2030220-140%2C%20Belo%20Horizonte%2C%20MG&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital DF Star: Pronto Atendimento,
-  Urgência, Emergência, UTI Brasília DF, 70390-140, Brasília</span>
+- <span style="color: #808080">BA: Hospital da Bahia (HBA), 41810-011,
+  Salvador</span>
+- [**CNI**: Instituto D?Or de Pesquisa e Ensino ? Hospital DF STAR
+  70390-140, Brasilia, Distrito
+  Federal](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05646862&location_id=INSTITUTODORDEPESQUISAEENSINOHOSPITALDFSTARBRASILIADISTRITOFEDERAL70390140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20D%3FOr%20de%20Pesquisa%20e%20Ensino%20%3F%20Hospital%20DF%20STAR%2070390-140%2C%20Brasilia%2C%20Distrito%20Federal&form_type=Identificar%20Centro)
+- [**CNI**: NUPEC 30210-090, Belo Horizonte, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05646862&location_id=NUPECBELOHORIZONTEMINASGERAIS30210090BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20NUPEC%2030210-090%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Liga Norte Riograndense Contra O Câncer 59040150, Natal, Rio
+  Grande Do
+  Norte](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05646862&location_id=LIGANORTERIOGRANDENSECONTRAOCANCERNATALRIOGRANDEDONORTE59040150BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Liga%20Norte%20Riograndense%20Contra%20O%20C%C3%A2ncer%2059040150%2C%20Natal%2C%20Rio%20Grande%20Do%20Norte&form_type=Identificar%20Centro)
+- [**CNI**: Vencer Oncoclínica - Centro de Pesquisa do Piauí 64049-200,
+  Teresina,
+  Piauí](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05646862&location_id=VENCERONCOCLINICACENTRODEPESQUISADOPIAUITERESINAPIAUI64049200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Vencer%20Oncocl%C3%ADnica%20-%20Centro%20de%20Pesquisa%20do%20Piau%C3%AD%2064049-200%2C%20Teresina%2C%20Piau%C3%AD&form_type=Identificar%20Centro)
 - <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
   Atendimento, Emergência, Maternidade Recife PE, 50070-490,
   Recife</span>
 - <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
   50040-000, Recife</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  64049-200, Teresina</span>
 - <span style="color: #808080">PR: Oncologia D’Or Hospital Santa Cruz,
   80440-220, Curitiba</span>
-- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
-  Ensino, 22281-100, Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
   90610-001, Porto Alegre</span>
 - <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
