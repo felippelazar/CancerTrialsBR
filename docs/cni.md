@@ -480,6 +480,23 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 1
 - [**CNI**: Research Site - , Sao Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06131424&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT06252753**: (LIVER-R) Estudo observacional multicêntrico que avalia
+os resultados reais de regimes baseados em durvalumabe em pacientes com
+câncer hepatobiliar.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
+
+- [**CNI**: Research Site 50070-490, Recife - PE,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06252753&location_id=RESEARCHSITERECIFEPE50070490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2050070-490%2C%20Recife%20-%20PE%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
+- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
+  04538-132, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
 escamoso após falha de quimioterapia à base de platina de 2017 a 2022.
