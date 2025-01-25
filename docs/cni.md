@@ -718,6 +718,26 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 6
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 
+**NCT04073706**: (ENDO-3) Ensaio de Fase III comparando biópsia de
+linfonodo sentinela versus sem dissecção de linfonodo retroperitoneal em
+pacientes com câncer endometrial em estágio inicial, avaliando
+recuperação e sobrevivência livre de doença.
+
+Patrocinador do Estudo: Queensland Centre for Gynaecological Cancer.
+Número de Centros: 5
+
+- [**CNI**: Liga Paranaense de Combate ao Câncer - , Curibita,
+  PR](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04073706&location_id=LIGAPARANAENSEDECOMBATEAOCANCERCURIBITAPRBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Liga%20Paranaense%20de%20Combate%20ao%20C%C3%A2ncer%20%20-%20%2C%20Curibita%2C%20PR&form_type=Identificar%20Centro)
+- [**CNI**: Hospital Municipal Vila Santa Catarina - , Santa Catarina,
+  Nelson De
+  Sena](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04073706&location_id=HOSPITALMUNICIPALVILASANTACATARINASANTACATARINANELSONDESENABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Municipal%20Vila%20Santa%20Catarina%20%20-%20%2C%20Santa%20Catarina%2C%20Nelson%20De%20Sena&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+
 **NCT05477576**: (ACTION-1) Estudo de fase 1b/3 comparando RYZ101 com
 tratamento padrão em pacientes com GEP-NETs avançados, inoperáveis,
 SSTR+ após terapia com 177Lu-SSA.
