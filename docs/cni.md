@@ -480,23 +480,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 1
 - [**CNI**: Research Site - , Sao Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06131424&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT06252753**: (LIVER-R) Estudo observacional multicêntrico que avalia
-os resultados reais de regimes baseados em durvalumabe em pacientes com
-câncer hepatobiliar.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
-
-- [**CNI**: Research Site 50070-490, Recife - PE,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06252753&location_id=RESEARCHSITERECIFEPE50070490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2050070-490%2C%20Recife%20-%20PE%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
-- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
-  04538-132, São Paulo</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
 escamoso após falha de quimioterapia à base de platina de 2017 a 2022.
@@ -717,26 +700,6 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 6
   São Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
-
-**NCT04073706**: (ENDO-3) Ensaio de Fase III comparando biópsia de
-linfonodo sentinela versus sem dissecção de linfonodo retroperitoneal em
-pacientes com câncer endometrial em estágio inicial, avaliando
-recuperação e sobrevivência livre de doença.
-
-Patrocinador do Estudo: Queensland Centre for Gynaecological Cancer.
-Número de Centros: 5
-
-- [**CNI**: Liga Paranaense de Combate ao Câncer - , Curibita,
-  PR](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04073706&location_id=LIGAPARANAENSEDECOMBATEAOCANCERCURIBITAPRBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Liga%20Paranaense%20de%20Combate%20ao%20C%C3%A2ncer%20%20-%20%2C%20Curibita%2C%20PR&form_type=Identificar%20Centro)
-- [**CNI**: Hospital Municipal Vila Santa Catarina - , Santa Catarina,
-  Nelson De
-  Sena](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04073706&location_id=HOSPITALMUNICIPALVILASANTACATARINASANTACATARINANELSONDESENABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Municipal%20Vila%20Santa%20Catarina%20%20-%20%2C%20Santa%20Catarina%2C%20Nelson%20De%20Sena&form_type=Identificar%20Centro)
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
 
 **NCT05477576**: (ACTION-1) Estudo de fase 1b/3 comparando RYZ101 com
 tratamento padrão em pacientes com GEP-NETs avançados, inoperáveis,
