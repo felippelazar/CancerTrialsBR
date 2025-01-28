@@ -660,6 +660,22 @@ Patrocinador do Estudo: Exelixis. Número de Centros: 18
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
+**NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança da
+terapia CAR-T BMS-986393 versus regimes padrão em adultos com mieloma
+múltiplo recidivante ou refratário e refratário a lenalidomida.
+
+Patrocinador do Estudo: Juno Therapeutics, Inc., a Bristol-Myers Squibb
+Company. Número de Centros: 4
+
+- [**CNI**: Local Institution - 0031 05652-900, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0031SAOPAULO05652900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200031%2005652-900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0103 04501-000, São Paulo, SAO
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0103SAOPAULOSAOPAULO04501000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200103%2004501-000%2C%20S%C3%A3o%20Paulo%2C%20SAO%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0012 34000-000, Nova Lima, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0012NOVALIMAMINASGERAIS34000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200012%2034000-000%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
@@ -726,11 +742,9 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
   Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
-- <span style="color: #808080">SP: Escola Paulista de Medicina da
-  Universidade Federal de São Paulo (EPM/UNIFESP), 04023-062, São
-  Paulo</span>
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
