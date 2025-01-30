@@ -65,43 +65,6 @@ de Centros: 7
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
 
-**NCT04960709**: (VOLGA) Estudo randomizado de fase III que avalia a
-eficácia e segurança de Durvalumab com Tremelimumab e Enfortumab Vedotin
-ou Durvalumab com Enfortumab Vedotin em pacientes com câncer de bexiga
-inelegíveis para cisplatina.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 14
-
-- <span style="color: #808080">CE: Hospital São Carlos: Pronto
-  Atendimento, Emergência, Pronto Socorro, Fortaleza, 60135-237,
-  Fortaleza</span>
-- [**CNI**: Research Site 03162-065, Săo Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04960709&location_id=RESEARCHSITESAOPAULO03162065BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2003162-065%2C%20S%C4%83o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: OC Oncoclínicas Uberlândia,
-  38408-150, Uberlândia</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
-- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
-  Maria</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
-  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, 09060-650, Santo André</span>
-
 **NCT05221840**: (PACIFIC-9) Estudo de fase III, duplo-cego, avaliando
 durvalumabe com oleclumabe ou monalizumabe em adultos com NSCLC
 irressecável estágio III após quimiorradiação à base de platina.
@@ -667,14 +630,13 @@ múltiplo recidivante ou refratário e refratário a lenalidomida.
 Patrocinador do Estudo: Juno Therapeutics, Inc., a Bristol-Myers Squibb
 Company. Número de Centros: 4
 
-- [**CNI**: Local Institution - 0031 05652-900, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0031SAOPAULO05652900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200031%2005652-900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Local Institution - 0103 04501-000, São Paulo, SAO
   Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0103SAOPAULOSAOPAULO04501000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200103%2004501-000%2C%20S%C3%A3o%20Paulo%2C%20SAO%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0012 34000-000, Nova Lima, Minas
-  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0012NOVALIMAMINASGERAIS34000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200012%2034000-000%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">N/A: N/A, NA, NA</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Sociedade Beneficente Israelita
+  Brasileira Albert Einstei, 05521-200, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
