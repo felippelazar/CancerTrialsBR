@@ -535,31 +535,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 
-**NCT06646276**: (TIGOS) Ensaio de fase 3 comparando BMS-986489
-(BMS-986012+Nivolumab) com Carboplatina e Etoposídeo versus
-Atezolizumabe com Carboplatina e Etoposídeo em câncer de pulmão de
-pequenas células em estágio extenso.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 7
-
-- [**CNI**: Local Institution - 0178 14784400, Barretos, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06646276&location_id=LOCALINSTITUTION0178BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200178%2014784400%2C%20Barretos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0165 90035-903, Porto Alegre, Rio Grande
-  Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06646276&location_id=LOCALINSTITUTION0165PORTOALEGRERIOGRANDEDOSUL90035903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200165%2090035-903%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0163 88301-220, Itajaí, Santa
-  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06646276&location_id=LOCALINSTITUTION0163ITAJAISANTACATARINA88301220BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200163%2088301-220%2C%20Itaja%C3%AD%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0169 90610-000, Porto Alegre, Rio Grande
-  Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06646276&location_id=LOCALINSTITUTION0169PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200169%2090610-000%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0166 60135-237, Fortaleza,
-  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06646276&location_id=LOCALINSTITUTION0166FORTALEZACEARA60135237BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200166%2060135-237%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0111 01509-010, Sao Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06646276&location_id=LOCALINSTITUTION0111SAOPAULOSAOPAULO01509010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200111%2001509-010%2C%20Sao%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0170 96830-180, Santa Cruz do Sul, Rio
-  Grande Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06646276&location_id=LOCALINSTITUTION0170SANTACRUZDOSULRIOGRANDEDOSUL96830180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200170%2096830-180%2C%20Santa%20Cruz%20do%20Sul%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
@@ -647,35 +622,6 @@ Patrocinador do Estudo: Exelixis. Número de Centros: 18
   Médicos LTDA, 09041-410, Santo André</span>
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
-
-**NCT04892173**: Estudo de Fase 3 avaliando NBTXR3 ativado por
-radioterapia±cetuximab para pacientes idosos inelegíveis para platina
-com LA-HNSCC.
-
-Patrocinador do Estudo: Johnson & Johnson Enterprise Innovation Inc..
-Número de Centros: 10
-
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- [**CNI**: Irmandade da Santa Casa de Misericordia de Porto Alegre
-  90050-170, Sao Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04892173&location_id=IRMANDADEDASANTACASADEMISERICORDIADEPORTOALEGRESAOPAULO90050170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Irmandade%20da%20Santa%20Casa%20de%20Misericordia%20de%20Porto%20Alegre%2090050-170%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
-  Belo Horizonte</span>
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
-  01308-050, São Paulo</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança da
 terapia CAR-T BMS-986393 versus regimes padrão em adultos com mieloma
