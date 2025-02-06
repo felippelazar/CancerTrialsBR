@@ -557,33 +557,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
 
-**NCT04975997**: (EXCALIBER-RRMM) Estudo de fase 3, em duas etapas,
-randomizado, comparando Iberdomida, Daratumumabe e Dexametasona (IberDd)
-versus Daratumumabe, Bortezomibe e Dexametasona (DVd) em pacientes com
-MM recidivante ou refratário.
-
-Patrocinador do Estudo: Celgene. Número de Centros: 9
-
-- [**CNI**: Local Institution - 056 80530-010, Curitiba,
-  Parana](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION056CURITIBAPARANA80530010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20056%2080530-010%2C%20Curitiba%2C%20Parana&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 058 90610-000, Porto Alegre, RIO Grande
-  DO
-  SUL](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION058PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20058%2090610-000%2C%20Porto%20Alegre%2C%20RIO%20Grande%20DO%20SUL&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 053 22793-080, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION053RIODEJANEIRO22793080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20053%2022793-080%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 052 04537-080, Sao Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION052SAOPAULO04537080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20052%2004537-080%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 051 14784-400, Barretos, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION051BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20051%2014784-400%2C%20Barretos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 050 90460-030, Porto Alegre,
-  RS](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION050PORTOALEGRERS90460030BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20050%2090460-030%2C%20Porto%20Alegre%2C%20RS&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 054 17210-080, Jau, SAO
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION054JAUSAOPAULO17210080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20054%2017210-080%2C%20Jau%2C%20SAO%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 057 01509-900, Sao Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION057SAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20057%2001509-900%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT05668988**: Estudo de Fase 3 comparando DZD9008 com quimioterapia à
 base de platina como tratamento de primeira linha para NSCLC avançado
 com mutação de inserção no Exon 20 do EGFR.
