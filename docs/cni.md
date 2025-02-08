@@ -83,10 +83,10 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   Recife</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
   HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
