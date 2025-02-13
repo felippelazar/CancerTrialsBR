@@ -535,39 +535,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 
-**NCT03899155**: Estudo observacional de longo prazo avaliando a
-segurança do nivolumab e outras terapias contra o câncer em pacientes de
-ensaios BMS em vários tipos de tumor.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 14
-
-- [**CNI**: Local Institution - 0379 99010-080, Passo Fundo,
-  RS](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT03899155&location_id=LOCALINSTITUTION0379PASSOFUNDORS99010080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200379%2099010-080%2C%20Passo%20Fundo%2C%20RS&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Cenatron Centro Avançado de
-  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
-- <span style="color: #808080">RJ: COI, 22793-080, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
-  20220-430, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Sírio‑Libanês Ensino e Pesquisa,
-  01308-060, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
-  01308-050, São Paulo</span>
-
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
@@ -670,6 +637,35 @@ Company. Número de Centros: 4
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
+
+**NCT06279442**: Adrenal Project: Estudo observacional retrospectivo que
+caracteriza aspectos clínicos e epidemiológicos do carcinoma
+adrenocortical em uma coorte brasileira a partir de 2000.
+
+Patrocinador do Estudo: Latin American Cooperative Oncology Group.
+Número de Centros: 10
+
+- [**CNI**: Pronutrir - Suporte Nutricional e Quimioterapia 60.810-180,
+  Fortaleza,
+  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06279442&location_id=PRONUTRIRSUPORTENUTRICIONALEQUIMIOTERAPIAFORTALEZACEARA60810180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Pronutrir%20-%20Suporte%20Nutricional%20e%20Quimioterapia%2060.810-180%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">MA: Hospital de Oncologia do Maranhão -
+  Dr. Tarquínio Lopes Filho, 65015-460, São Luís</span>
+- <span style="color: #808080">PE: Hospital Santa Joana Recife,
+  52011-906, Recife</span>
+- <span style="color: #808080">PR: Hospital Uopeccan de Cascavel,
+  85806-300, Cascavel</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
