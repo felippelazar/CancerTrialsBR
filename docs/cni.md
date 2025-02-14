@@ -638,35 +638,6 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
 
-**NCT06279442**: Adrenal Project: Estudo observacional retrospectivo que
-caracteriza aspectos clínicos e epidemiológicos do carcinoma
-adrenocortical em uma coorte brasileira a partir de 2000.
-
-Patrocinador do Estudo: Latin American Cooperative Oncology Group.
-Número de Centros: 10
-
-- [**CNI**: Pronutrir - Suporte Nutricional e Quimioterapia 60.810-180,
-  Fortaleza,
-  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06279442&location_id=PRONUTRIRSUPORTENUTRICIONALEQUIMIOTERAPIAFORTALEZACEARA60810180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Pronutrir%20-%20Suporte%20Nutricional%20e%20Quimioterapia%2060.810-180%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
-- <span style="color: #808080">MA: Hospital de Oncologia do Maranhão -
-  Dr. Tarquínio Lopes Filho, 65015-460, São Luís</span>
-- <span style="color: #808080">PE: Hospital Santa Joana Recife,
-  52011-906, Recife</span>
-- <span style="color: #808080">PR: Hospital Uopeccan de Cascavel,
-  85806-300, Cascavel</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
-  01525-001, São Paulo</span>
-
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
@@ -736,6 +707,38 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
+
+**NCT05730036**: (LINKER-MM3) Estudo de fase 3, aberto e randomizado,
+comparando linvoseltamab com EPd em pacientes com mieloma múltiplo
+recidivante/refratário após 1-4 tratamentos prévios.
+
+Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 11
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Centro Gaucho Integrado 90110-270, Porto Alegre, Rio Grande
+  Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05730036&location_id=CENTROGAUCHOINTEGRADOPORTOALEGRERIOGRANDEDOSUL90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%2090110-270%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Associacao Dr Bartholomeu Tacchini 95700084, Bento
+  Goncalves, Rio Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05730036&location_id=ASSOCIACAODRBARTHOLOMEUTACCHINIBENTOGONCALVESRIOGRANDEDOSUL95700084BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Associacao%20Dr%20Bartholomeu%20Tacchini%2095700084%2C%20Bento%20Goncalves%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
+  Oncológico, 88501-001, Lages</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
+  Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
