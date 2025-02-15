@@ -480,6 +480,27 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT06225596**: (Duravelo-2) Estudo randomizado aberto de Fase 2/3
+avaliando BT8009 isolado ou com pembrolizumabe em pacientes com câncer
+urotelial localmente avançado ou metastático.
+
+Patrocinador do Estudo: BicycleTx Limited. Número de Centros: 7
+
+- [**CNI**: Centro Gaucho Integrado de Oncologia, Hematologia, Ensino e
+  Pesquisa 90110-270, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06225596&location_id=CENTROGAUCHOINTEGRADODEONCOLOGIAHEMATOLOGIAENSINOEPESQUISAPORTOALEGRE90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%20de%20Oncologia%2C%20Hematologia%2C%20Ensino%20e%20Pesquisa%2090110-270%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+
 **NCT04810078**: (CheckMate-67T) Estudo de fase 3 comparando Nivolumab
 subcutâneo vs. intravenoso em pacientes com carcinoma de células renais
 claras avançado após terapia sistêmica.
