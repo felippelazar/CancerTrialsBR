@@ -480,27 +480,6 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT06225596**: (Duravelo-2) Estudo randomizado aberto de Fase 2/3
-avaliando BT8009 isolado ou com pembrolizumabe em pacientes com câncer
-urotelial localmente avançado ou metastático.
-
-Patrocinador do Estudo: BicycleTx Limited. Número de Centros: 7
-
-- [**CNI**: Centro Gaucho Integrado de Oncologia, Hematologia, Ensino e
-  Pesquisa 90110-270, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06225596&location_id=CENTROGAUCHOINTEGRADODEONCOLOGIAHEMATOLOGIAENSINOEPESQUISAPORTOALEGRE90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%20de%20Oncologia%2C%20Hematologia%2C%20Ensino%20e%20Pesquisa%2090110-270%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-
 **NCT04810078**: (CheckMate-67T) Estudo de fase 3 comparando Nivolumab
 subcutâneo vs. intravenoso em pacientes com carcinoma de células renais
 claras avançado após terapia sistêmica.
@@ -728,38 +707,6 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
-
-**NCT05730036**: (LINKER-MM3) Estudo de fase 3, aberto e randomizado,
-comparando linvoseltamab com EPd em pacientes com mieloma múltiplo
-recidivante/refratário após 1-4 tratamentos prévios.
-
-Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 11
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- [**CNI**: Centro Gaucho Integrado 90110-270, Porto Alegre, Rio Grande
-  Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05730036&location_id=CENTROGAUCHOINTEGRADOPORTOALEGRERIOGRANDEDOSUL90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%2090110-270%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Associacao Dr Bartholomeu Tacchini 95700084, Bento
-  Goncalves, Rio Grande Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05730036&location_id=ASSOCIACAODRBARTHOLOMEUTACCHINIBENTOGONCALVESRIOGRANDEDOSUL95700084BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Associacao%20Dr%20Bartholomeu%20Tacchini%2095700084%2C%20Bento%20Goncalves%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
-  Oncológico, 88501-001, Lages</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
-  Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
-  Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
