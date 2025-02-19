@@ -248,12 +248,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 31
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITEBRASILIA71615907BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2071615-907%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
   Vitória</span>
+- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
+  30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
   Alegre, 37554-216, Pouso Alegre</span>
 - <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
   37130-087, Alfenas</span>
-- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
-  30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
   79601-001, Três Lagoas</span>
 - <span style="color: #808080">PB: Hospital Napoleão Laureano,
@@ -637,6 +637,25 @@ Company. Número de Centros: 4
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
+
+**NCT06395103**: (LIGHTBEAM-U01) Estudo de Fase 1/2 que avalia a
+segurança e eficácia de zilovertamab vedotin em pacientes pediátricos e
+jovens adultos com B-ALL, DLBCL, linfoma de Burkitt, neuroblastoma ou
+sarcoma de Ewing.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 4
+
+- [**CNI**: Hospital Erasto Gaertner-CEPEP - Pesquisa Clínica (
+  Site 1268) 81520-060, Curitiba,
+  Parana](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06395103&location_id=HOSPITALERASTOGAERTNERCEPEPPESQUISACLINICASITE1268CURITIBAPARANA81520060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Erasto%20Gaertner-CEPEP%20-%20Pesquisa%20Cl%C3%ADnica%20%28%20Site%201268%29%2081520-060%2C%20Curitiba%2C%20Parana&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
