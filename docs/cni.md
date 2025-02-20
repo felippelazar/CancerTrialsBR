@@ -460,6 +460,21 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
+**NCT06676436**: (REALNESS) Estudo observacional que analisa padrões de
+tratamento e resultados em pacientes brasileiros com câncer de mama
+irressecável ou metastático, receptor hormonal positivo e HER2-negativo.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
+
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Fortaleza,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
 câncer de fusão TRK localmente avançado ou metastático por 24 a 60
@@ -726,6 +741,19 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
+
+**NCT06091254**: (OLYMPIA-1) Estudo de fase 3 aberto comparando
+odronextamabe à escolha do investigador em linfoma folicular não
+tratado, avaliando segurança, eficácia e qualidade de vida.
+
+Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 3
+
+- [**CNI**: Casa de Saude Santa Marcelina 08270-070, Sao Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06091254&location_id=CASADESAUDESANTAMARCELINASAOPAULO08270070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Casa%20de%20Saude%20Santa%20Marcelina%2008270-070%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Instituto Americas 22793-334, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06091254&location_id=INSTITUTOAMERICASRIODEJANEIRO22793334BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20Americas%2022793-334%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SC: CHO - Centro de Hematologia e
+  Oncologia de Joinville, 89201-260, Joinville</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do

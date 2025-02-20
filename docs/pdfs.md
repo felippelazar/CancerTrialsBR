@@ -20,7 +20,7 @@ pode manter em cache a versão anterior. Caso você encontre alguma
 informação desatualizada, tente limpar o cache do seu navegador ou abre
 essa página em navegação privada.
 
-Atualizado em 19/02/2025.
+Atualizado em 20/02/2025.
 
 - [**Leucemia**](https://coeoralmeds-e768.restdb.io/media/67b58501f63b80480011ef11?download=true)
 - [**Sistema Nervoso
