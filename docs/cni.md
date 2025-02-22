@@ -468,12 +468,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -503,20 +503,21 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 10
 
 - [**CNI**: Local Institution - 0096 01327-0001, Sao Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04810078&location_id=LOCALINSTITUTION0096SAOPAULO013270001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200096%2001327-0001%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0107 98700-000, Ijui,
+  RS](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04810078&location_id=LOCALINSTITUTION0107IJUIRS98700000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200107%2098700-000%2C%20Ijui%2C%20RS&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Instituto de Oncologia do Paraná \|
   Unidade Mateus Leme, 80520-174, Curitiba</span>
 - <span style="color: #808080">RJ: Instituto Nacional de Câncer José
   Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
 
