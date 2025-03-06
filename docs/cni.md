@@ -468,12 +468,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -492,8 +492,8 @@ irressecável após atezolizumabe mais bevacizumabe ou outras combinações
 
 Patrocinador do Estudo: Bayer. Número de Centros: 1
 
-- [**CNI**: Many Locations - , Multiple Locations,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Many Locations - , Many Locations,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMANYLOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Many%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
 comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
