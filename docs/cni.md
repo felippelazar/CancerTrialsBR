@@ -468,12 +468,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -676,47 +676,6 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
-
-**NCT05608291**: (HARMONY) Ensaio de Fase 3 comparando fianlimab e
-cemiplimab versus pembrolizumabe em pacientes com melanoma de alto risco
-pós-cirurgia.
-
-Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 17
-
-- [**CNI**: Instituto COI 23793-080, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05608291&location_id=INSTITUTOCOIRIODEJANEIRO23793080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20COI%2023793-080%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
-  30130-100, Belo Horizonte</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
-  20220-430, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
-  Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital São Vicente de Paulo -
-  Unidade 1 0- Oncologia, 99010-080, Passo Fundo</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
-  Itajaí</span>
-- <span style="color: #808080">SC: CHO - Centro de Hematologia e
-  Oncologia de Joinville, 89201-260, Joinville</span>
-- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
-  Oncológico, 88501-001, Lages</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Hemomed Instituto de Oncologia e
-  Hematologia - São Paulo, 01236-030, São Paulo</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
-  01308-050, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Faculdade Regional de
-  Medicina de São José do Rio Preto, 15090-000, São José do Rio
-  Preto</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
