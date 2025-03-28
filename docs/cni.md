@@ -468,12 +468,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -482,28 +482,28 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
 
 - [**CNI**: Research Site 01321-001, Bela Vista,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06767462&location_id=RESEARCHSITEBELAVISTA01321001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001321-001%2C%20Bela%20Vista%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 18060-105, Sorocaba,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06767462&location_id=RESEARCHSITESOROCABA18060105BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2018060-105%2C%20Sorocaba%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
 - <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
   Alegre, 37554-216, Pouso Alegre</span>
-- <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
-  37130-087, Alfenas</span>
 - <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
   30130-100, Belo Horizonte</span>
+- <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
+  37130-087, Alfenas</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
   79601-001, Três Lagoas</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
   Câncer IV, 20560-121, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Universidade Federal de Ciências da
-  Saúde de Porto Alegre, 90050-170, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
   90035-007, Porto Alegre</span>
+- <span style="color: #808080">RS: Universidade Federal de Ciências da
+  Saúde de Porto Alegre, 90050-170, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
   Lajeado</span>
+- <span style="color: #808080">SP: Unimed Sorocaba - Núcleo de Atenção
+  Integral à Saúde (NAIS), 18060-105, Sorocaba</span>
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
