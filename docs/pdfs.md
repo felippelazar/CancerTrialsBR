@@ -20,53 +20,53 @@ pode manter em cache a versão anterior. Caso você encontre alguma
 informação desatualizada, tente limpar o cache do seu navegador ou abre
 essa página em navegação privada.
 
-Atualizado em 07/04/2025.
+Atualizado em 08/04/2025.
 
-- [**Leucemia**](https://coeoralmeds-e768.restdb.io/media/67f361e5f63b804800176f7a?download=true)
+- [**Leucemia**](https://coeoralmeds-e768.restdb.io/media/67f4b2caf63b804800178915?download=true)
 - [**Sistema Nervoso
-  Central**](https://coeoralmeds-e768.restdb.io/media/67f361e7f63b804800176f7c?download=true)
-- [**Colorretais**](https://coeoralmeds-e768.restdb.io/media/67f361e9f63b804800176f85?download=true)
+  Central**](https://coeoralmeds-e768.restdb.io/media/67f4b2cbf63b804800178918?download=true)
+- [**Colorretais**](https://coeoralmeds-e768.restdb.io/media/67f4b2cef63b80480017891d?download=true)
 - [**Canal
-  Anal**](https://coeoralmeds-e768.restdb.io/media/67f361eaf63b804800176f87?download=true)
-- [**Neuroendócrinos**](https://coeoralmeds-e768.restdb.io/media/67f361ebf63b804800176f89?download=true)
-- [**Linfomas**](https://coeoralmeds-e768.restdb.io/media/67f361ecf63b804800176f8b?download=true)
-- [**Melanoma**](https://coeoralmeds-e768.restdb.io/media/67f361edf63b804800176f8d?download=true)
-- [**Bexiga**](https://coeoralmeds-e768.restdb.io/media/67f361eef63b804800176f8f?download=true)
+  Anal**](https://coeoralmeds-e768.restdb.io/media/67f4b2d0f63b80480017891f?download=true)
+- [**Neuroendócrinos**](https://coeoralmeds-e768.restdb.io/media/67f4b2d1f63b804800178921?download=true)
+- [**Linfomas**](https://coeoralmeds-e768.restdb.io/media/67f4b2d2f63b804800178923?download=true)
+- [**Melanoma**](https://coeoralmeds-e768.restdb.io/media/67f4b2d4f63b804800178925?download=true)
+- [**Bexiga**](https://coeoralmeds-e768.restdb.io/media/67f4b2d5f63b804800178927?download=true)
 - [**Via
-  Biliar**](https://coeoralmeds-e768.restdb.io/media/67f361eff63b804800176f91?download=true)
-- [**Endométrio**](https://coeoralmeds-e768.restdb.io/media/67f361f1f63b804800176f93?download=true)
+  Biliar**](https://coeoralmeds-e768.restdb.io/media/67f4b2d6f63b804800178929?download=true)
+- [**Endométrio**](https://coeoralmeds-e768.restdb.io/media/67f4b2d8f63b80480017892b?download=true)
 - [**Colo De
-  Útero**](https://coeoralmeds-e768.restdb.io/media/67f361f2f63b804800176f95?download=true)
-- [**Ginecológicos**](https://coeoralmeds-e768.restdb.io/media/67f361f3f63b804800176f97?download=true)
+  Útero**](https://coeoralmeds-e768.restdb.io/media/67f4b2daf63b80480017892d?download=true)
+- [**Ginecológicos**](https://coeoralmeds-e768.restdb.io/media/67f4b2dbf63b80480017892f?download=true)
 - [**Pulmão Pequenas
-  Células**](https://coeoralmeds-e768.restdb.io/media/67f361f4f63b804800176f99?download=true)
+  Células**](https://coeoralmeds-e768.restdb.io/media/67f4b2dcf63b804800178931?download=true)
 - [**Pulmão Não Pequenas
-  Células**](https://coeoralmeds-e768.restdb.io/media/67f361f5f63b804800176f9b?download=true)
+  Células**](https://coeoralmeds-e768.restdb.io/media/67f4b2def63b804800178933?download=true)
 - [**Pulmão
-  Egfrm**](https://coeoralmeds-e768.restdb.io/media/67f361f6f63b804800176f9d?download=true)
-- [**Tireóide**](https://coeoralmeds-e768.restdb.io/media/67f361f8f63b804800176fa1?download=true)
+  Egfrm**](https://coeoralmeds-e768.restdb.io/media/67f4b2dff63b804800178935?download=true)
+- [**Tireóide**](https://coeoralmeds-e768.restdb.io/media/67f4b2e2f63b804800178939?download=true)
 - [**Cabeça E
-  Pescoço**](https://coeoralmeds-e768.restdb.io/media/67f361f9f63b804800176fa3?download=true)
+  Pescoço**](https://coeoralmeds-e768.restdb.io/media/67f4b2e3f63b80480017893b?download=true)
 - [**Glândula
-  Salivar**](https://coeoralmeds-e768.restdb.io/media/67f361faf63b804800176fa5?download=true)
-- [**Mieloma**](https://coeoralmeds-e768.restdb.io/media/67f361fbf63b804800176fa7?download=true)
-- [**Próstata**](https://coeoralmeds-e768.restdb.io/media/67f361fdf63b804800176fa9?download=true)
+  Salivar**](https://coeoralmeds-e768.restdb.io/media/67f4b2e5f63b80480017893d?download=true)
+- [**Mieloma**](https://coeoralmeds-e768.restdb.io/media/67f4b2e6f63b80480017893f?download=true)
+- [**Próstata**](https://coeoralmeds-e768.restdb.io/media/67f4b2e7f63b804800178941?download=true)
 - [**Mama
-  Luminal**](https://coeoralmeds-e768.restdb.io/media/67f361fff63b804800176fad?download=true)
+  Luminal**](https://coeoralmeds-e768.restdb.io/media/67f4b2eaf63b804800178945?download=true)
 - [**Mama Triplo
-  Negativo**](https://coeoralmeds-e768.restdb.io/media/67f36200f63b804800176faf?download=true)
+  Negativo**](https://coeoralmeds-e768.restdb.io/media/67f4b2ecf63b804800178947?download=true)
 - [**Mama
-  Her2**](https://coeoralmeds-e768.restdb.io/media/67f36201f63b804800176fb1?download=true)
-- [**Esôfago**](https://coeoralmeds-e768.restdb.io/media/67f36203f63b804800176fb3?download=true)
-- [**Fígado**](https://coeoralmeds-e768.restdb.io/media/67f36204f63b804800176fb5?download=true)
-- [**Pele**](https://coeoralmeds-e768.restdb.io/media/67f36205f63b804800176fb7?download=true)
-- [**Gástricos**](https://coeoralmeds-e768.restdb.io/media/67f36206f63b804800176fb9?download=true)
+  Her2**](https://coeoralmeds-e768.restdb.io/media/67f4b2edf63b804800178949?download=true)
+- [**Esôfago**](https://coeoralmeds-e768.restdb.io/media/67f4b2eef63b80480017894b?download=true)
+- [**Fígado**](https://coeoralmeds-e768.restdb.io/media/67f4b2f0f63b804800178950?download=true)
+- [**Pele**](https://coeoralmeds-e768.restdb.io/media/67f4b2f1f63b804800178952?download=true)
+- [**Gástricos**](https://coeoralmeds-e768.restdb.io/media/67f4b2f2f63b804800178954?download=true)
 - [**Sarcoma Partes
-  Moles**](https://coeoralmeds-e768.restdb.io/media/67f36207f63b804800176fbb?download=true)
-- [**Gist**](https://coeoralmeds-e768.restdb.io/media/67f36208f63b804800176fbd?download=true)
-- [**Ósseos**](https://coeoralmeds-e768.restdb.io/media/67f36209f63b804800176fbf?download=true)
-- [**Ovário**](https://coeoralmeds-e768.restdb.io/media/67f3620af63b804800176fc1?download=true)
+  Moles**](https://coeoralmeds-e768.restdb.io/media/67f4b2f4f63b804800178956?download=true)
+- [**Gist**](https://coeoralmeds-e768.restdb.io/media/67f4b2f5f63b804800178958?download=true)
+- [**Ósseos**](https://coeoralmeds-e768.restdb.io/media/67f4b2f7f63b80480017895a?download=true)
+- [**Ovário**](https://coeoralmeds-e768.restdb.io/media/67f4b2f8f63b80480017895c?download=true)
 - [**Outros
-  Hematológicos**](https://coeoralmeds-e768.restdb.io/media/67f3620bf63b804800176fc3?download=true)
-- [**Rim**](https://coeoralmeds-e768.restdb.io/media/67f3620df63b804800176fc5?download=true)
-- [**Pâncreas**](https://coeoralmeds-e768.restdb.io/media/67f3620ef63b804800176fc7?download=true)
+  Hematológicos**](https://coeoralmeds-e768.restdb.io/media/67f4b2faf63b80480017895e?download=true)
+- [**Rim**](https://coeoralmeds-e768.restdb.io/media/67f4b2fbf63b804800178960?download=true)
+- [**Pâncreas**](https://coeoralmeds-e768.restdb.io/media/67f4b2fcf63b804800178962?download=true)
