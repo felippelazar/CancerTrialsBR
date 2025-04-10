@@ -468,12 +468,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -636,46 +636,6 @@ Company. Número de Centros: 4
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
-
-**NCT06875310**: (KRYSTAL-4) Estudo de fase 3 comparando adagrasib mais
-pembrolizumab e quimioterapia versus placebo em pacientes com NSCLC não
-escamoso avançado ou metastático não tratados com mutação KRAS G12C.
-
-Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 15
-
-- [**CNI**: Local Institution - 0242 29055450, Vitória, Espírito
-  Santo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0242VITORIAESPIRITOSANTO29055450BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200242%2029055450%2C%20Vit%C3%B3ria%2C%20Esp%C3%ADrito%20Santo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0243 76834-899, Porto Velho,
-  Rondonia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0243PORTOVELHORONDONIA76834899BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200243%2076834-899%2C%20Porto%20Velho%2C%20Rondonia&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0240 14784400, Barretos, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0240BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200240%2014784400%2C%20Barretos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0244 30110-022, Belo Horizonte, Minas
-  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0244BELOHORIZONTEMINASGERAIS30110022BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200244%2030110-022%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0235 98700-000, Ijui, Rio Grande Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0235IJUIRIOGRANDEDOSUL98700000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200235%2098700-000%2C%20Ijui%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0238 96830-180, Santa Cruz do Sul, Rio
-  Grande Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0238SANTACRUZDOSULRIOGRANDEDOSUL96830180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200238%2096830-180%2C%20Santa%20Cruz%20do%20Sul%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0237 89010-340, Blumenau, Santa
-  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0237BLUMENAUSANTACATARINA89010340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200237%2089010-340%2C%20Blumenau%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0257 40170-110, Salvador,
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0257SALVADORBAHIA40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200257%2040170-110%2C%20Salvador%2C%20Bahia&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0241 13561-130, São Carlos, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0241SAOCARLOSSAOPAULO13561130BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200241%2013561-130%2C%20S%C3%A3o%20Carlos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0236 20230-130, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0236RIODEJANEIRO20230130BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200236%2020230-130%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0258 01246-000, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0258SAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200258%2001246-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0245 88301-220, Itajaí, Santa
-  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0245ITAJAISANTACATARINA88301220BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200245%2088301-220%2C%20Itaja%C3%AD%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0239 15090-000, São José do Rio Preto,
-  São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0239SAOJOSEDORIOPRETOSAOPAULO15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200239%2015090-000%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0233 90610-000, Porto Alegre, Rio Grande
-  Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0233PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200233%2090610-000%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
