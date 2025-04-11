@@ -577,6 +577,19 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
 
+**NCT06174987**: Estudo Master Rollover fornecendo acesso contínuo e
+avaliando a segurança a longo prazo das terapias Daiichi Sankyo e
+AstraZeneca para participantes beneficiados de estudos anteriores.
+
+Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 3
+
+- [**CNI**: IBCC Nucleo de Pequisa e Ensino - , Sao Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06174987&location_id=IBCCNUCLEODEPEQUISAEENSINOSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20IBCC%20Nucleo%20de%20Pequisa%20e%20Ensino%20%20-%20%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT06082167**: (STELLAR-305) Estudo fase 2/3, randomizado e
 duplo-cego, comparando zanzalintinib com pembrolizumab versus
 pembrolizumab isolado no tratamento de primeira linha de HNSCC
