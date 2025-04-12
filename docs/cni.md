@@ -43,6 +43,58 @@ Centros: 5
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
+**NCT06117774**: (DeLLphi-306) Estudo fase 3, randomizado, duplo-cego
+comparando tarlatamab vs. placebo em pacientes com LS-SCLC
+pós-quimiorradiação para sobrevida livre de progressão.
+
+Patrocinador do Estudo: Amgen. Número de Centros: 12
+
+- [**CNI**: Liga Paranaense do Combate ao Cancer - Hospital Erasto
+  Gaertner 81520-060, Curitba,
+  Paraná](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117774&location_id=LIGAPARANAENSEDOCOMBATEAOCANCERHOSPITALERASTOGAERTNERCURITBAPARANA81520060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Liga%20Paranaense%20do%20Combate%20ao%20Cancer%20-%20Hospital%20Erasto%20Gaertner%2081520-060%2C%20Curitba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Centro de Oncologia Integrado
+  Hospital Ana Nery, 96835-100, Santa Cruz do Sul</span>
+- <span style="color: #808080">RS: Centro Integrado de Pesquisa em
+  Oncologia, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SC: Hospital Santo Antônio, 89015-200,
+  Blumenau</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
+**NCT06593522**: Estudo de Fase 2 avaliando a eficácia, segurança e
+farmacocinética do AMG 193 em pacientes com NSCLC avançado e deleção de
+MTAP previamente tratados.
+
+Patrocinador do Estudo: Amgen. Número de Centros: 6
+
+- <span style="color: #808080">BA: NOB \| Oncoclínicas, 40170-110,
+  Salvador</span>
+- [**CNI**: Centro Paulista de Oncologia 04538-132, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06593522&location_id=CENTROPAULISTADEONCOLOGIASAOPAULO04538132BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Paulista%20de%20Oncologia%2004538-132%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
@@ -468,12 +520,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -577,18 +629,44 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
 
-**NCT06174987**: Estudo Master Rollover fornecendo acesso contínuo e
-avaliando a segurança a longo prazo das terapias Daiichi Sankyo e
-AstraZeneca para participantes beneficiados de estudos anteriores.
+**NCT06890598**: (SUNRAY-02) Estudo multicêntrico, duplo-cego,
+controlado por placebo de fase 3 avaliando olomorasib com pembrolizumabe
+ou durvalumabe em pacientes com NSCLC mutante KRAS G12C ressecado ou
+irressecável.
 
-Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 3
+Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 15
 
-- [**CNI**: IBCC Nucleo de Pequisa e Ensino - , Sao Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06174987&location_id=IBCCNUCLEODEPEQUISAEENSINOSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20IBCC%20Nucleo%20de%20Pequisa%20e%20Ensino%20%20-%20%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">CE: ICC - Instituto do Câncer do Ceará,
+  60430-230, Fortaleza</span>
+- [**CNI**: Centro de Pesquisa Sao Lucas 13060-803, Campinas, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06890598&location_id=CENTRODEPESQUISASAOLUCASCAMPINASSAOPAULO13060803BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20Sao%20Lucas%2013060-803%2C%20Campinas%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, 30360-680, Belo Horizonte</span>
+- <span style="color: #808080">PA: CTO - Centro de Tratamento
+  Oncológico, 66063-495, Belém</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Tacchini Bento Gonçalves,
+  95700-068, Bento Gonçalves</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital Santa Catarina - Paulista,
+  01310-000, São Paulo</span>
+- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
+  04538-132, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT06082167**: (STELLAR-305) Estudo fase 2/3, randomizado e
 duplo-cego, comparando zanzalintinib com pembrolizumab versus
