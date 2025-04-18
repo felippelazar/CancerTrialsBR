@@ -673,6 +673,26 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
 
+**NCT05853575**: Estudo randomizado comparando dois regimes de dosagem
+de adagrasib em pacientes previamente tratados com NSCLC com mutação
+KRAS G12C.
+
+Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 6
+
+- [**CNI**: AMO Assistencia Multidisciplinar em Oncologia 41950-610,
+  Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05853575&location_id=AMOASSISTENCIAMULTIDISCIPLINAREMONCOLOGIASALVADOR41950610BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20AMO%20Assistencia%20Multidisciplinar%20em%20Oncologia%2041950-610%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Evangélico de Cachoeiro de
+  Itapemirim, 29308-020, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, 30360-680, Belo Horizonte</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
+  Itajaí</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
