@@ -765,6 +765,32 @@ Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 
+**NCT06012435**: (Be6A Lung-01) Ensaio fase 3, randomizado e aberto,
+comparando sigvotatug vedotin e docetaxel em adultos com NSCLC não
+escamoso previamente tratado para avaliar eficácia e efeitos colaterais.
+
+Patrocinador do Estudo: Seagen, a wholly owned subsidiary of Pfizer.
+Número de Centros: 9
+
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: NOB - Nucleo de Oncologia da Bahia 40170-110, Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06012435&location_id=NOBNUCLEODEONCOLOGIADABAHIASALVADOR40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20NOB%20-%20Nucleo%20de%20Oncologia%20da%20Bahia%2040170-110%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Centro Paulista de Oncologia S A 04538-132, Vila Olímpia,
+  SAO
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06012435&location_id=CENTROPAULISTADEONCOLOGIASAVILAOLIMPIASAOPAULO04538132BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Paulista%20de%20Oncologia%20S%20A%2004538-132%2C%20Vila%20Ol%C3%ADmpia%2C%20SAO%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
 Brasil.
