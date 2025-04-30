@@ -320,12 +320,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
   Florianópolis</span>
 - <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
   Itajaí</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT06357533**: (TROPION-Lung10) Estudo global de Fase III comparando
 Dato-DXd com rilvegostomig ou rilvegostomig isolado versus pembrolizumab
@@ -612,6 +612,32 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Paulo</span>
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
+
+**NCT04975997**: (EXCALIBER-RRMM) Estudo de fase 3, em duas etapas,
+randomizado, comparando Iberdomida, Daratumumabe e Dexametasona (IberDd)
+versus Daratumumabe, Bortezomibe e Dexametasona (DVd) em pacientes com
+MM recidivante ou refratário.
+
+Patrocinador do Estudo: Celgene. Número de Centros: 9
+
+- [**CNI**: Local Institution - 055 05403000, Sao Paulo,
+  SP](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION055SAOPAULOSP05403000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20055%2005403000%2C%20Sao%20Paulo%2C%20SP&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Instituto de Oncologia do Paraná \|
+  Unidade Mateus Leme, 80520-174, Curitiba</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, 22793-080, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT06082167**: (STELLAR-305) Estudo fase 2/3, randomizado e
 duplo-cego, comparando zanzalintinib com pembrolizumab versus
