@@ -89,10 +89,10 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 
@@ -374,14 +374,14 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
   Curitiba</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
 - <span style="color: #808080">SP: CRID - Centro de Pesquisa em Doenças
   Inflamatórias, 14049-900, Ribeirão Preto</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
+  Paulo</span>
 
 **NCT06467357**: (DESTINY-BTC01) Estudo de fase 3 comparando T-DXd com
 rilvegostomig ou T-DXd sozinho versus gemcitabina, cisplatina e
@@ -484,22 +484,22 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06767462&location_id=RESEARCHSITEBELAVISTA01321001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001321-001%2C%20Bela%20Vista%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
+- <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
+  37130-087, Alfenas</span>
 - <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
   Alegre, 37554-216, Pouso Alegre</span>
 - <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
   30130-100, Belo Horizonte</span>
-- <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
-  37130-087, Alfenas</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
   79601-001, Três Lagoas</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
   Câncer IV, 20560-121, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
 - <span style="color: #808080">RS: Universidade Federal de Ciências da
   Saúde de Porto Alegre, 90050-170, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
   Lajeado</span>
 - <span style="color: #808080">SP: Unimed Sorocaba - Núcleo de Atenção
@@ -584,10 +584,10 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
   Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Clínica do
-  Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Clínica do
+  Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 
@@ -607,11 +607,11 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">PA: CTO - Centro de Tratamento
   Oncológico, 66063-495, Belém</span>
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
-  01525-001, São Paulo</span>
 
 **NCT04975997**: (EXCALIBER-RRMM) Estudo de fase 3, em duas etapas,
 randomizado, comparando Iberdomida, Daratumumabe e Dexametasona (IberDd)
@@ -694,10 +694,10 @@ Company. Número de Centros: 4
 - [**CNI**: Local Institution - 0103 04501-000, São Paulo, SAO
   Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0103SAOPAULOSAOPAULO04501000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200103%2004501-000%2C%20S%C3%A3o%20Paulo%2C%20SAO%20Paulo&form_type=Identificar%20Centro)
 - <span style="color: #808080">N/A: N/A, NA, NA</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
@@ -746,10 +746,10 @@ SSTR+ após terapia com 177Lu-SSA.
 
 Patrocinador do Estudo: RayzeBio, Inc.. Número de Centros: 3
 
-- [**CNI**: Research Facility - , Brasília,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYBRASILIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Facility - , São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Facility - , Brasília,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYBRASILIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Facility - , Rio De Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYRIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
@@ -765,9 +765,9 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
   Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
+- <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
-- <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
@@ -779,12 +779,12 @@ Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Santo André,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITESANTOANDREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Santo%20Andr%C3%A9%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Pelotas,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPELOTASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Pelotas%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: SB Investigative Site - , Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Rio De Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Florianópolis,
