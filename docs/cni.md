@@ -791,6 +791,19 @@ Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 
+**NCT06153238**: Estudo randomizado e duplo-cego comparando a
+farmacocinética do GME751 e Keytruda® em pacientes com melanoma estágio
+II e III necessitando de tratamento adjuvante com pembrolizumabe.
+
+Patrocinador do Estudo: Sandoz. Número de Centros: 3
+
+- [**CNI**: Sandoz Investigational Site - , Barretos,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEBARRETOSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Barretos%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Novartis Biociências S/A, 80250-210,
+  Curitiba</span>
+
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
 Brasil.
