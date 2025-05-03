@@ -699,6 +699,28 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
+**NCT06170788**: Estudo de Fase 3 comparando a combinação de MK-2870 e
+pembrolizumabe versus pembrolizumabe sozinho no tratamento de primeira
+linha de câncer de pulmão de células não pequenas metastático com PD-L1
+TPS ≥ 50%.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 6
+
+- [**CNI**: Núcleo de Pesquisa Clínica da Rede São Camilo ( Site 0401)
+  04014-012, Sao Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06170788&location_id=NUCLEODEPESQUISACLINICADAREDESAOCAMILOSITE0401SAOPAULO04014012BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20N%C3%BAcleo%20de%20Pesquisa%20Cl%C3%ADnica%20da%20Rede%20S%C3%A3o%20Camilo%20%28%20Site%200401%29%2004014-012%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
+  Maria</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
 pacientes em estudo global da Novartis que se beneficiam do tratamento
