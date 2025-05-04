@@ -613,32 +613,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
-**NCT04975997**: (EXCALIBER-RRMM) Estudo de fase 3, em duas etapas,
-randomizado, comparando Iberdomida, Daratumumabe e Dexametasona (IberDd)
-versus Daratumumabe, Bortezomibe e Dexametasona (DVd) em pacientes com
-MM recidivante ou refratário.
-
-Patrocinador do Estudo: Celgene. Número de Centros: 9
-
-- [**CNI**: Local Institution - 055 05403000, Sao Paulo,
-  SP](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION055SAOPAULOSP05403000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20055%2005403000%2C%20Sao%20Paulo%2C%20SP&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Instituto de Oncologia do Paraná \|
-  Unidade Mateus Leme, 80520-174, Curitiba</span>
-- <span style="color: #808080">RJ: Americas Centro de Oncologia
-  Integrado, 22793-080, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-
 **NCT06082167**: (STELLAR-305) Estudo fase 2/3, randomizado e
 duplo-cego, comparando zanzalintinib com pembrolizumab versus
 pembrolizumab isolado no tratamento de primeira linha de HNSCC
@@ -698,28 +672,6 @@ Company. Número de Centros: 4
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
-
-**NCT06170788**: Estudo de Fase 3 comparando a combinação de MK-2870 e
-pembrolizumabe versus pembrolizumabe sozinho no tratamento de primeira
-linha de câncer de pulmão de células não pequenas metastático com PD-L1
-TPS ≥ 50%.
-
-Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 6
-
-- [**CNI**: Núcleo de Pesquisa Clínica da Rede São Camilo ( Site 0401)
-  04014-012, Sao Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06170788&location_id=NUCLEODEPESQUISACLINICADAREDESAOCAMILOSITE0401SAOPAULO04014012BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20N%C3%BAcleo%20de%20Pesquisa%20Cl%C3%ADnica%20da%20Rede%20S%C3%A3o%20Camilo%20%28%20Site%200401%29%2004014-012%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
-  Maria</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Fundação Faculdade Regional de
-  Medicina de São José do Rio Preto, 15090-000, São José do Rio
-  Preto</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
@@ -819,12 +771,12 @@ II e III necessitando de tratamento adjuvante com pembrolizumabe.
 
 Patrocinador do Estudo: Sandoz. Número de Centros: 3
 
-- [**CNI**: Sandoz Investigational Site - , Barretos,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEBARRETOSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Barretos%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Sandoz Investigational Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Novartis Biociências S/A, 80250-210,
   Curitiba</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
