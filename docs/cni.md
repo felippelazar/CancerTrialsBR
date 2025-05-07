@@ -34,10 +34,10 @@ Centros: 5
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
-- [**CNI**: Research Site 0438-002, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06607627&location_id=RESEARCHSITESAOPAULO0438002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%200438-002%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site 89202-451, Joinville,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06607627&location_id=RESEARCHSITEJOINVILLE89202451BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2089202-451%2C%20Joinville%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 0438-002, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06607627&location_id=RESEARCHSITESAOPAULO0438002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%200438-002%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
@@ -591,6 +591,43 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 
+**NCT03899155**: Estudo observacional de longo prazo avaliando a
+segurança do nivolumab e outras terapias contra o câncer em pacientes de
+ensaios BMS em vários tipos de tumor.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 15
+
+- [**CNI**: Instituto de Educao Pesquisa e Gesto em Sade Instituto COI
+  22775-001, Rio De Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT03899155&location_id=INSTITUTODEEDUCAOPESQUISAEGESTOEMSADEINSTITUTOCOIRIODEJANEIRO22775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Educao%20Pesquisa%20e%20Gesto%20em%20Sade%20Instituto%20COI%2022775-001%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Clínica Personal - Oncologia de
+  Precisão e Personalizada, 30130-090, Belo Horizonte</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
+  20220-430, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo,
+  99010-080, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
+  01308-050, São Paulo</span>
+- <span style="color: #808080">SP: Sírio‑Libanês Ensino e Pesquisa,
+  01308-060, São Paulo</span>
+
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
@@ -687,12 +724,12 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
 - <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
   Paulo</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
 
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
