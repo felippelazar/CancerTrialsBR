@@ -43,6 +43,42 @@ Centros: 5
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
+**NCT06117774**: (DeLLphi-306) Estudo fase 3, randomizado, duplo-cego
+comparando tarlatamab vs. placebo em pacientes com LS-SCLC
+pós-quimiorradiação para sobrevida livre de progressão.
+
+Patrocinador do Estudo: Amgen. Número de Centros: 14
+
+- [**CNI**: Oncoclinicas Onco Vida Distrito Federal 70200-730, Brasilia,
+  Distrito
+  Federal](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117774&location_id=ONCOCLINICASONCOVIDADISTRITOFEDERALBRASILIADISTRITOFEDERAL70200730BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncoclinicas%20Onco%20Vida%20Distrito%20Federal%2070200-730%2C%20Brasilia%2C%20Distrito%20Federal&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Centro de Oncologia Integrado
+  Hospital Ana Nery, 96835-100, Santa Cruz do Sul</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro Integrado de Pesquisa em
+  Oncologia, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SC: Hospital Santo Antônio, 89015-200,
+  Blumenau</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
