@@ -403,6 +403,29 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 6
 - <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
   05652-900, São Paulo</span>
 
+**NCT06868277**: (ARTEMIDE-Lung04) Estudo de fase III, randomizado e
+duplo-cego comparando rilvegostomig e pembrolizumab em monoterapia para
+tratamento de primeira linha em pacientes com câncer de pulmão não
+pequenas células metastático com alta expressão de PD-L1.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 8
+
+- [**CNI**: Research Site 60336-550, Fortaleza,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06868277&location_id=RESEARCHSITEFORTALEZA60336550BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2060336-550%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
+  Itajaí</span>
+
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
@@ -672,6 +695,24 @@ Company. Número de Centros: 4
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+
+**NCT06717347**: (waveLINE-010) Estudo de fase 3, randomizado e aberto,
+comparando Zilovertamab Vedotin com R-CHP versus R-CHOP em pacientes com
+Linfoma Difuso de Grandes Células B não tratados.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 6
+
+- [**CNI**: Hope ( Site 0413) 14026-610, Ribeirao Preto, Sao
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06717347&location_id=HOPESITE0413RIBEIRAOPRETOSAOPAULO14026610BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hope%20%28%20Site%200413%29%2014026-610%2C%20Ribeirao%20Preto%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SP: Advanze, 13561-130, São Carlos</span>
+- <span style="color: #808080">SP: São José do Rio Preto, NA, São José
+  do Rio Preto</span>
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
