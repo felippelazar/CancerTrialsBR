@@ -525,10 +525,9 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT06846671**: Estudo de fase 3 aberto comparando BGB-16673 a
-idelalisib, bendamustina ou venetoclax mais rituximabe em pacientes com
-leucemia linfocítica crônica previamente tratados com inibidores de BTK
-e BCL2.
+**NCT06846671**: Estudo de fase 3 aberto comparando BGB-16673 com
+terapias à escolha do investigador em pacientes com LLC ou LLS
+previamente tratados com inibidores de BTK e BCL2.
 
 Patrocinador do Estudo: BeiGene. Número de Centros: 13
 
@@ -612,51 +611,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-
-**NCT06082167**: (STELLAR-305) Estudo fase 2/3, randomizado e
-duplo-cego, comparando zanzalintinib com pembrolizumab versus
-pembrolizumab isolado no tratamento de primeira linha de HNSCC
-recorrente/metastático PD-L1 positivo.
-
-Patrocinador do Estudo: Exelixis. Número de Centros: 18
-
-- [**CNI**: Exelixis Clinical Site \#98 05403 900, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE98SAOPAULO05403900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2398%2005403%20900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Exelixis Clinical Site \#77 01525 001, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06082167&location_id=EXELIXISCLINICALSITE77SAOPAULO01525001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Exelixis%20Clinical%20Site%20%2377%2001525%20001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
-  Atendimento, Emergência, Maternidade Recife PE, 50070-490,
-  Recife</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
-  99010-260, Passo Fundo</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
-  Oncologia, 04014-002, São Paulo</span>
-- <span style="color: #808080">SP: BP Mirante, 01323-001, São
-  Paulo</span>
-- <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
-  (Centro Hospitalar), 01221-020, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Bitelli e Rigazzi Clinica de Serviços
-  Médicos LTDA, 09041-410, Santo André</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança da
 terapia CAR-T BMS-986393 versus regimes padrão em adultos com mieloma
