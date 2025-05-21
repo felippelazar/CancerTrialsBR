@@ -612,36 +612,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
-**NCT05502237**: (STAR-121) Estudo randomizado de fase 3 comparando
-zimberelimab e domvanalimab com quimioterapia versus pembrolizumab com
-quimioterapia para pacientes com câncer de pulmão de células não
-pequenas metastático não tratado.
-
-Patrocinador do Estudo: Gilead Sciences. Número de Centros: 11
-
-- <span style="color: #808080">CE: ICC - Instituto do Câncer do Ceará,
-  60430-230, Fortaleza</span>
-- [**CNI**: Centro Des Pesquisas Clinicas da Fundacao Doutor Amaral
-  Carvalho 17210080, Sao Paolo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05502237&location_id=CENTRODESPESQUISASCLINICASDAFUNDACAODOUTORAMARALCARVALHOSAOPAOLO17210080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Des%20Pesquisas%20Clinicas%20da%20Fundacao%20Doutor%20Amaral%20Carvalho%2017210080%2C%20Sao%20Paolo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Hospital Evangélico de Cachoeiro de
-  Itapemirim, 29308-020, Cachoeiro de Itapemirim</span>
-- <span style="color: #808080">MG: Cenatron Centro Avançado de
-  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Ana Nery - SCS, 96835-100,
-  Santa Cruz do Sul</span>
-- <span style="color: #808080">RS: Universidade de Caxias do Sul,
-  95070-560, Caxias do Sul</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Santa Casa de Porto Alegre,
-  90035-074, Porto Alegre</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
-
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança da
 terapia CAR-T BMS-986393 versus regimes padrão em adultos com mieloma
 múltiplo recidivante ou refratário e refratário a lenalidomida.
