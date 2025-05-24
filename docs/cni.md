@@ -24,6 +24,29 @@ Obrigado por colaborar!
 
 **CNI** = Centro Não Identificado
 
+**NCT04928846**: Estudo global de Fase 3 comparando Telisotuzumab
+Vedotin e Docetaxel em adultos previamente tratados com NSCLC não
+escamoso avançado, superexpressão de c-Met e EGFR tipo selvagem.
+
+Patrocinador do Estudo: AbbVie. Número de Centros: 8
+
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: OC Oncoclínicas SP /ID# 261828 05874-230, São Paulo, Sao
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04928846&location_id=OCONCOCLINICASSPID261828SAOPAULOSAOPAULO05874230BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20OC%20Oncocl%C3%ADnicas%20SP%20%2FID%23%20261828%2005874-230%2C%20S%C3%A3o%20Paulo%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
+  São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: IEP - Instituto Hemomed, 01236-030,
+  São Paulo</span>
+
 **NCT06607627**: Estudo aberto, de braço único, que avalia
 farmacocinética, farmacodinâmica, segurança e eficácia do Gefurulimab em
 pacientes pediátricos de 6 a 18 anos com miastenia gravis generalizada
@@ -560,6 +583,32 @@ Patrocinador do Estudo: BeiGene. Número de Centros: 13
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
+**NCT06627530**: (COAction) Ensaio randomizado comparando leuprorelina,
+darolutamida ou ambos como neoadjuvantes antes da prostatectomia radical
+em 144 pacientes com câncer de próstata de risco intermediário/alto.
+
+Patrocinador do Estudo: Brazilian Clinical Research Institute. Número de
+Centros: 9
+
+- <span style="color: #808080">BA: Hospital Dom Pedro de Alcântara,
+  44001-032, Feira de Santana</span>
+- [**CNI**: Santa Casa de Misericórdia de Feira de Santana 44001-032,
+  Feira de Santana,
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06627530&location_id=SANTACASADEMISERICORDIADEFEIRADESANTANAFEIRADESANTANABAHIA44001032BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Santa%20Casa%20de%20Miseric%C3%B3rdia%20de%20Feira%20de%20Santana%2044001-032%2C%20Feira%20de%20Santana%2C%20Bahia&form_type=Identificar%20Centro)
+- <span style="color: #808080">PA: Hospital Ophir Loyola, 66063-240,
+  Belém</span>
+- <span style="color: #808080">PI: Hospital São Marcos, 64001-280,
+  Teresina</span>
+- <span style="color: #808080">RJ: Hospital Universitário Pedro Ernesto,
+  20551-030, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital de Clínicas Ijuí, 98700-000,
+  Ijuí</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">SP: Pronto-Socorro do Hospital BP,
+  01323-001, São Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+
 **NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
 comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
 pacientes com mieloma múltiplo recém-diagnosticado.
@@ -608,6 +657,51 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+
+**NCT06472076**: (GALAXIES Lung-301) Estudo de fase 3, randomizado e
+duplo-cego, comparando belrestotug mais dostarlimab versus pembrolizumab
+mais placebo em pacientes com NSCLC PD-L1 alto, não ressecável e
+avançado não tratados.
+
+Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 11
+
+- <span style="color: #808080">BA: Obras Sociais Irmã Dulce (OSID),
+  40415-006, Salvador</span>
+- [**CNI**: GSK Investigational Site 15090-000, SAo JosE Do Rio PretoSP,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06472076&location_id=GSKINVESTIGATIONALSITESAOJOSEDORIOPRETOSP15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2015090-000%2C%20SAo%20JosE%20Do%20Rio%20PretoSP%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: GSK Investigational Site 88034-000, Florianopolis,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06472076&location_id=GSKINVESTIGATIONALSITEFLORIANOPOLIS88034000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2088034-000%2C%20Florianopolis%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: GSK Investigational Site 60336-232, Fortaleza,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06472076&location_id=GSKINVESTIGATIONALSITEFORTALEZA60336232BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2060336-232%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: GSK Investigational Site 86015-520, Londrina,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06472076&location_id=GSKINVESTIGATIONALSITELONDRINA86015520BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2086015-520%2C%20Londrina%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: GSK Investigational Site 66.073-005, BelEm,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06472076&location_id=GSKINVESTIGATIONALSITEBELEM66073005BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2066.073-005%2C%20BelEm%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: GSK Investigational Site 80810-050, CuritibaPR,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06472076&location_id=GSKINVESTIGATIONALSITECURITIBAPR80810050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2080810-050%2C%20CuritibaPR%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">SP: Faculdade de Medicina da Universidade
+  de São Paulo (FMUSP), 01246-903, Pacaembu</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+
+**NCT04811560**: Estudo de Fase 1/2 que avalia a segurança,
+tolerabilidade e eficácia do inibidor Menin-KMT2A Bleximenib em
+pacientes com leucemia aguda.
+
+Patrocinador do Estudo: Janssen Research & Development, LLC. Número de
+Centros: 3
+
+- [**CNI**: Instituto D Or de Pesquisa e Ensino 70390 700, Brasilia,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04811560&location_id=INSTITUTODORDEPESQUISAEENSINOBRASILIA70390700BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20D%20Or%20de%20Pesquisa%20e%20Ensino%2070390%20700%2C%20Brasilia%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
