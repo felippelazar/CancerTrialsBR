@@ -644,6 +644,45 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
+**NCT06112314**: (PRISM-MEL-301) Estudo randomizado de fase 3 comparando
+IMC-F106C mais nivolumab versus nivolumab isolado em pacientes
+HLA-A\*02:01-positivos com melanoma avançado não tratado.
+
+Patrocinador do Estudo: Immunocore Ltd. Número de Centros: 15
+
+- [**CNI**: Centro Gaucho Integrado de Oncologia, Hematologia, Ensino e
+  Pesquisa Ltda 90110-270, Porto Alegre,
+  RS](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06112314&location_id=CENTROGAUCHOINTEGRADODEONCOLOGIAHEMATOLOGIAENSINOEPESQUISALTDAPORTOALEGRERS90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%20de%20Oncologia%2C%20Hematologia%2C%20Ensino%20e%20Pesquisa%20Ltda%2090110-270%2C%20Porto%20Alegre%2C%20RS&form_type=Identificar%20Centro)
+- [**CNI**: Hospital Sirio-Libanes (HSL) - Centro de Oncologia -
+  Brasilia DF CEP 70200-730, Brasília,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06112314&location_id=HOSPITALSIRIOLIBANESHSLCENTRODEONCOLOGIABRASILIABRASILIADFCEP70200730BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Sirio-Libanes%20%28HSL%29%20-%20Centro%20de%20Oncologia%20-%20Brasilia%20DF%20CEP%2070200-730%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Oncocentro Sao Carlos Hospital 60135-237, Fortaleza,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06112314&location_id=ONCOCENTROSAOCARLOSHOSPITALFORTALEZA60135237BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20Sao%20Carlos%20Hospital%2060135-237%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
+  Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
+- <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa,
+  NA, São José do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
+  São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança da
 terapia CAR-T BMS-986393 versus regimes padrão em adultos com mieloma
 múltiplo recidivante ou refratário e refratário a lenalidomida.
