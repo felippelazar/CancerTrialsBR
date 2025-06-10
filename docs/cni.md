@@ -652,8 +652,8 @@ de linfócitos B ao longo de 15 anos em três coortes.
 
 Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 
-- [**CNI**: Novartis Investigative Site 41253-190, Salvador,
-  BA](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITESALVADORBA41253190BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2041253-190%2C%20Salvador%2C%20BA&form_type=Identificar%20Centro)
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
 - [**CNI**: Novartis Investigative Site 34006-059, Minas Gerais, Belo
   Horizonte](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITEMINASGERAISBELOHORIZONTE34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2034006-059%2C%20Minas%20Gerais%2C%20Belo%20Horizonte&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
@@ -687,8 +687,8 @@ cemdisiran em pacientes com miastenia gravis generalizada sintomática.
 
 Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 
-- [**CNI**: Jordy Sinapse medicina LTDA 06655-250, Itapevi, Sao
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05070858&location_id=JORDYSINAPSEMEDICINALTDAITAPEVISAOPAULO06655250BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Jordy%20Sinapse%20medicina%20LTDA%2006655-250%2C%20Itapevi%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Jordy Sinapse Medicina LTDA 06655-250, Itapevi, Sao
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05070858&location_id=JORDYSINAPSEMEDICINALTDAITAPEVISAOPAULO06655250BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Jordy%20Sinapse%20Medicina%20LTDA%2006655-250%2C%20Itapevi%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: IMV Pesquisa Neurológica, 90110-000,
   Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
