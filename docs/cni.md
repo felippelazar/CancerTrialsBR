@@ -609,6 +609,37 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
+**NCT06635824**: (ABBIL1TY NSCLC-06) Ensaio de Fase 3 comparando
+acasunlimab com pembrolizumab versus docetaxel em pacientes com NSCLC
+metastático PD-L1 positivo após inibidor de PD-1/PD-L1 e quimioterapia
+com platina.
+
+Patrocinador do Estudo: Genmab. Número de Centros: 11
+
+- [**CNI**: Centro Paulista de Oncologia S.A. - , São Paulo, Sao
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06635824&location_id=CENTROPAULISTADEONCOLOGIASASAOPAULOSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Paulista%20de%20Oncologia%20S.A.%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Oncoclínicas do Brasil Serviços
+  Médicos, 30170-080, Belo Horizonte</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Oncoclínicas de Ensino,
+  Pesquisa e Educação Médica Continuada, 22250-040, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Ipanema, 22421-022,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Ernesto Dornelles,
+  90160-092, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas Ijuí, 98700-000,
+  Ijuí</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
+  01308-050, São Paulo</span>
+
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança da
 terapia CAR-T BMS-986393 versus regimes padrão em adultos com mieloma
 múltiplo recidivante ou refratário e refratário a lenalidomida.
@@ -624,6 +655,16 @@ Company. Número de Centros: 4
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
+
+**NCT06499285**: (RENEW) Estudo de fase 3, randomizado, duplo-cego,
+controlado por placebo, avaliando elritercept (KER-050) para tratar
+anemia dependente de transfusão em adultos com síndromes
+mielodisplásicas de baixo risco.
+
+Patrocinador do Estudo: Keros Therapeutics, Inc.. Número de Centros: 1
+
+- [**CNI**: Study Site 1202 - , Sao Jose do Rio Preto,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06499285&location_id=STUDYSITE1202SAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Study%20Site%201202%20%20-%20%2C%20Sao%20Jose%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
 segurança a longo prazo do ribociclib com outros medicamentos para
@@ -696,6 +737,28 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
+
+**NCT06097364**: (OLYMPIA-2) Estudo de fase 3 aberto comparando
+odronextamab mais quimioterapia versus rituximabe mais quimioterapia em
+pacientes com linfoma folicular não tratados.
+
+Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 7
+
+- [**CNI**: Hospital das Clinicas da Faculdade de Medicina de Ribeirao
+  Preto 14048900, Ribeirao Preto, Sao
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06097364&location_id=HOSPITALDASCLINICASDAFACULDADEDEMEDICINADERIBEIRAOPRETORIBEIRAOPRETOSAOPAULO14048900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20das%20Clinicas%20da%20Faculdade%20de%20Medicina%20de%20Ribeirao%20Preto%2014048900%2C%20Ribeirao%20Preto%2C%20Sao%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
+  70200-730, Brasília</span>
+- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
+  Belo Horizonte</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Clínica do
+  Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
