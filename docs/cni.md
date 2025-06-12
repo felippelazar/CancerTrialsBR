@@ -89,10 +89,10 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 
@@ -500,12 +500,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -608,6 +608,57 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
+
+**NCT06578247**: (QuANTUM-WILD) Estudo de Fase 3 comparando Quizartinib
+com placebo junto à quimioterapia em adultos com leucemia mieloide aguda
+FLT3-ITD negativa recém-diagnosticada.
+
+Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 21
+
+- <span style="color: #808080">CE: Hospital Universitário Walter
+  Cantídio, 60430-372, Fortaleza</span>
+- [**CNI**: HC-UFG - Hospital das Clínicas da Universidade Federal de
+  Goiás 74680160, Goiania,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06578247&location_id=HCUFGHOSPITALDASCLINICASDAUNIVERSIDADEFEDERALDEGOIASGOIANIA74680160BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20HC-UFG%20-%20Hospital%20das%20Cl%C3%ADnicas%20da%20Universidade%20Federal%20de%20Goi%C3%A1s%2074680160%2C%20Goiania%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Hospital das Clínicas da UFG /
+  EBSERH, 74605-050, Goiânia</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">RS: Santa Casa de Porto Alegre,
+  90035-074, Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Ernesto Dornelles,
+  90160-092, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Hemocentro Unicamp, 13083-878,
+  Campinas</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
+  São Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: UNESP-FMB: Administração, 18618-687,
+  Botucatu</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
 
 **NCT06635824**: (ABBIL1TY NSCLC-06) Ensaio de Fase 3 comparando
 acasunlimab com pembrolizumab versus docetaxel em pacientes com NSCLC
