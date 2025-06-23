@@ -500,12 +500,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -609,56 +609,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
-**NCT06757634**: (VIKTORIA-2) Estudo de fase 3 randomizado avaliando
-gedatolisib com fulvestrant e inibidores de CDK4/6 para tratamento de
-primeira linha em pacientes com câncer de mama avançado HR-positivo,
-HER2-negativo.
-
-Patrocinador do Estudo: Celcuity Inc. Número de Centros: 11
-
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- <span style="color: #808080">CE: Pronutrir: Oncologia, Tratamento de
-  câncer em Fortaleza CE, 60810-180, Fortaleza</span>
-- [**CNI**: CTO Centro de Tratamento Oncológico 66073-005, Belém,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06757634&location_id=CTOCENTRODETRATAMENTOONCOLOGICOBELEM66073005BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CTO%20Centro%20de%20Tratamento%20Oncol%C3%B3gico%2066073-005%2C%20Bel%C3%A9m%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Bahia Oncology Center 40170-110, Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06757634&location_id=BAHIAONCOLOGYCENTERSALVADOR40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Bahia%20Oncology%20Center%2040170-110%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
-  Horizonte, 30360-680, Belo Horizonte</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
-  Itajaí</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
-  01525-001, São Paulo</span>
-- <span style="color: #808080">SP: Clinica OncoStar: Oncologia Clínica,
-  Tratamento de Câncer, Quimioterapia, Radioterapia, Oncologistas, Itaim
-  Bibi, SP, 04543-000, São Paulo</span>
-
-**NCT06435429**: Estudo de Fase 3 avaliando zanidatamabe com
-quimioterapia versus trastuzumabe com quimioterapia em pacientes com
-câncer de mama HER2-positivo metastático intolerantes ao tratamento
-prévio com T-DXd.
-
-Patrocinador do Estudo: Jazz Pharmaceuticals. Número de Centros: 6
-
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- [**CNI**: Nucleo de Oncologia Da Bahia 40.170-070, Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06435429&location_id=NUCLEODEONCOLOGIADABAHIASALVADOR40170070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Nucleo%20de%20Oncologia%20Da%20Bahia%2040.170-070%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital Brasília, 71681-603,
-  Brasília</span>
-- <span style="color: #808080">PE: Real Hospital Português, 52010-075,
-  Recife</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">SP: Centro de Oncologia CEON+ São
-  Caetano, 09541-270, São Caetano do Sul</span>
-
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança da
 terapia CAR-T BMS-986393 versus regimes padrão em adultos com mieloma
 múltiplo recidivante ou refratário e refratário a lenalidomida.
@@ -746,48 +696,6 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
-
-**NCT06091254**: (OLYMPIA-1) Estudo de fase 3 aberto comparando
-odronextamabe à escolha do investigador em linfoma folicular não
-tratado, avaliando segurança, eficácia e qualidade de vida.
-
-Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 17
-
-- [**CNI**: Ensino e Terapia de Inovacao Clinica Amo (Etica) 41950640,
-  Salvador,
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06091254&location_id=ENSINOETERAPIADEINOVACAOCLINICAAMOETICASALVADORBAHIA41950640BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Ensino%20e%20Terapia%20de%20Inovacao%20Clinica%20Amo%20%28Etica%29%2041950640%2C%20Salvador%2C%20Bahia&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital DF Star: Pronto Atendimento,
-  Urgência, Emergência, UTI Brasília DF, 70390-140, Brasília</span>
-- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
-  Belo Horizonte</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Americas Centro de Oncologia
-  Integrado, 22793-080, Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital São Vicente de Paulo -
-  Unidade 1 0- Oncologia, 99010-080, Passo Fundo</span>
-- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
-  Oncológico, 88501-001, Lages</span>
-- <span style="color: #808080">SC: CHO - Centro de Hematologia e
-  Oncologia de Joinville, 89201-260, Joinville</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Clínica do
-  Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
-  05403-010, São Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
