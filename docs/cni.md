@@ -388,7 +388,7 @@ rilvegostomig ou T-DXd sozinho versus gemcitabina, cisplatina e
 durvalumabe em pacientes com câncer de vias biliares avançado
 HER2-expressante e sem tratamento prévio.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 6
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 7
 
 - [**CNI**: Research Site 59012-300, Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06467357&location_id=RESEARCHSITENATAL59012300BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2059012-300%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -398,6 +398,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 6
   90035-007, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
+  Maria</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
@@ -500,12 +502,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -625,27 +627,6 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
 
-**NCT05161195**: Estudo aberto, multicêntrico de extensão avaliando a
-segurança a longo prazo do ribociclib com outros medicamentos para
-pacientes em estudo global da Novartis que se beneficiam do tratamento
-contínuo.
-
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
-
-- [**CNI**: Novartis Investigative Site 01255-000, Sao Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05161195&location_id=NOVARTISINVESTIGATIVESITESAOPAULO01255000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2001255-000%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
-  São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
 de linfócitos B ao longo de 15 anos em três coortes.
@@ -731,6 +712,21 @@ Patrocinador do Estudo: Sandoz. Número de Centros: 3
   Curitiba</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
+
+**NCT05704049**: (IZALCO) Estudo de fase 2 avaliando isatuximab
+subcutâneo com carfilzomibe e dexametasona em adultos com mieloma
+múltiplo recidivado/refratário após 1-3 terapias, comparando
+administração manual e OBDS.
+
+Patrocinador do Estudo: Sanofi. Número de Centros: 3
+
+- [**CNI**: Hospital Mae de Deus Site Number : 0760002 90110-270, Porto
+  Alegre, Rio Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05704049&location_id=HOSPITALMAEDEDEUSSITENUMBER0760002PORTOALEGRERIOGRANDEDOSUL90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Mae%20de%20Deus%20Site%20Number%20%3A%200760002%2090110-270%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
+  05403-010, São Paulo</span>
+- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
+  Paulo</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
