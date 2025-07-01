@@ -467,6 +467,27 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
+**NCT06996782**: (ALTAIR) Estudo de fase Ib/II, aberto e multicêntrico,
+avaliando novas combinações em pacientes com câncer de pulmão de células
+não pequenas avançado ou metastático.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 7
+
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: Research Site 05651-901, Sao Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06996782&location_id=RESEARCHSITESAOPAULO05651901BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2005651-901%2C%20Sao%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 096015-280, Pelotas,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06996782&location_id=RESEARCHSITEPELOTAS096015280BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20096015-280%2C%20Pelotas%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
+  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
 **NCT06131424**: (iRetroBC) Estudo multicêntrico retrospectivo que
 avalia a prevalência de HER2-baixo, características clínicas e
 resultados de tratamento em pacientes com câncer de mama metastático
@@ -502,12 +523,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -586,6 +607,23 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
   05403-010, São Paulo</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Clínica do
   Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+
+**NCT06946797**: (CheckMate-1533) Estudo de fase 2, aberto, avaliando
+dois regimes de dosagem de Nivolumab subcutâneo com Ipilimumab
+intravenoso e quimioterapia em pacientes com NSCLC metastático ou
+recorrente não tratados.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
+
+- [**CNI**: Local Institution - 0041 70200-730, Brasilia, Distrito
+  Federal](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06946797&location_id=LOCALINSTITUTION0041BRASILIADISTRITOFEDERAL70200730BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200041%2070200-730%2C%20Brasilia%2C%20Distrito%20Federal&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0038 90035-903, Porto Alegre, Rio Grande
+  Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06946797&location_id=LOCALINSTITUTION0038PORTOALEGRERIOGRANDEDOSUL90035903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200038%2090035-903%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0034 01246-000, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06946797&location_id=LOCALINSTITUTION0034SAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200034%2001246-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 
@@ -727,6 +765,43 @@ Patrocinador do Estudo: Sanofi. Número de Centros: 3
   05403-010, São Paulo</span>
 - <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
   Paulo</span>
+
+**NCT03165734**: (PACIFICA) Ensaio controlado randomizado de fase 3
+comparando pacritinibe à escolha do médico em pacientes com mielofibrose
+primária, pós-policitemia vera ou pós-trombocitemia essencial com
+trombocitopenia grave.
+
+Patrocinador do Estudo: Swedish Orphan Biovitrum. Número de Centros: 15
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Integrare Therapeutics - , Fortaleza,
+  Ceara](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT03165734&location_id=INTEGRARETHERAPEUTICSFORTALEZACEARABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Integrare%20Therapeutics%20%20-%20%2C%20Fortaleza%2C%20Ceara&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Hospital das Clínicas da UFG /
+  EBSERH, 74605-050, Goiânia</span>
+- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
+  Horizonte, 30110-022, Belo Horizonte</span>
+- <span style="color: #808080">PR: Hospital de Clínicas, 80060-900,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Hospital São Lucas Copacabana,
+  22061-080, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Humane, 59603-020, Mossoró</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">SC: Centro de Ciências da Saúde,
+  88040-370, Florianópolis</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Hospital Samaritano, 01232-010, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital Universitário da
+  Universidade de São Paulo (HU/USP), 05508-000, São Paulo</span>
+- <span style="color: #808080">SP: Universidade Estadual de Campinas,
+  13083-970, Campinas</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
