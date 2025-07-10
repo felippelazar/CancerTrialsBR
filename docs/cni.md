@@ -553,12 +553,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -637,6 +637,42 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
   05403-010, São Paulo</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Clínica do
   Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+
+**NCT03899155**: Estudo observacional de longo prazo avaliando a
+segurança do nivolumab e outras terapias contra o câncer em pacientes de
+ensaios BMS em vários tipos de tumor.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 15
+
+- [**CNI**: Local Institution - 0266 20220-280, Rio De Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT03899155&location_id=LOCALINSTITUTION0266RIODEJANEIRO20220280BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200266%2020220-280%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0258 22775-001, Rio De Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT03899155&location_id=LOCALINSTITUTION0258RIODEJANEIRO22775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200258%2022775-001%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cenatron Centro Avançado de
+  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo,
+  99010-080, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
+  01308-050, São Paulo</span>
+- <span style="color: #808080">SP: Sírio‑Libanês Ensino e Pesquisa,
+  01308-060, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 
@@ -782,14 +818,58 @@ Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
 farmacocinética do GME751 e Keytruda® em pacientes com melanoma estágio
 II e III necessitando de tratamento adjuvante com pembrolizumabe.
 
-Patrocinador do Estudo: Sandoz. Número de Centros: 3
+Patrocinador do Estudo: Sandoz. Número de Centros: 12
 
+- [**CNI**: Sandoz Investigational Site - , Itajaí,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEITAJAIBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Itaja%C3%AD%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Fortaleza,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Florianópolis,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Sandoz Investigational Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Canoas,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITECANOASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Canoas%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Caxias Do Sul,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITECAXIASDOSULBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Caxias%20Do%20Sul%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Belo Horizonte,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , São José Do Rio Preto,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITESAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20S%C3%A3o%20Jos%C3%A9%20Do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Porto Velho,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOVELHOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Velho%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Novartis Biociências S/A, 80250-210,
   Curitiba</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
+
+**NCT06492616**: (ELEGANT) Estudo global de Fase 3 comparando
+elacestrant à terapia endócrina padrão em pacientes com câncer de mama
+precoce, positivo para ER, negativo para HER2, com linfonodos positivos
+e alto risco de recorrência.
+
+Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
+8
+
+- [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Clínica de Pesquisas e Centro de Estudos em Oncologia
+  Ginecológica e Mamária Ltda 01317-904, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=CLINICADEPESQUISASECENTRODEESTUDOSEMONCOLOGIAGINECOLOGICAEMAMARIALTDASAOPAULO01317904BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cl%C3%ADnica%20de%20Pesquisas%20e%20Centro%20de%20Estudos%20em%20Oncologia%20Ginecol%C3%B3gica%20e%20Mam%C3%A1ria%20Ltda%2001317-904%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
+  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
+  Porto Velho</span>
+- <span style="color: #808080">RS: Sociedade Beneficência e Caridade de
+  Lajeado, 95900-000, Lajeado</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
