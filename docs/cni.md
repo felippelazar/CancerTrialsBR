@@ -502,12 +502,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -690,6 +690,21 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
+
+**NCT06456580**: Estudo de fase 3, randomizado, duplo-cego, controlado
+por placebo com extensão aberta para avaliar a eficácia e segurança do
+telitacicept em pacientes com miastenia gravis generalizada.
+
+Patrocinador do Estudo: RemeGen Co., Ltd.. Número de Centros: 4
+
+- [**CNI**: Porto Alegre Site 90619-900, Porto Alegre, Rio Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06456580&location_id=PORTOALEGRESITEPORTOALEGRERIOGRANDEDOSUL90619900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Porto%20Alegre%20Site%2090619-900%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Curitiba Site 81210-310, Curitiba,
+  Paraná](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06456580&location_id=CURITIBASITECURITIBAPARANA81210310BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Curitiba%20Site%2081210-310%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">N/A: Ribeirão Preto, NA, Ribeirão
+  Preto</span>
+- <span style="color: #808080">SP: HRIM – Hospital do Rim, 04038-002,
+  São Paulo</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
