@@ -502,12 +502,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -691,20 +691,59 @@ Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 5
 - <span style="color: #808080">SP: Centro Universitário Faculdade de
   Medicina do ABC (FMABC), 09060-870, Santo André</span>
 
-**NCT06456580**: Estudo de fase 3, randomizado, duplo-cego, controlado
-por placebo com extensão aberta para avaliar a eficácia e segurança do
-telitacicept em pacientes com miastenia gravis generalizada.
+**NCT06097364**: (OLYMPIA-2) Estudo de fase 3 aberto comparando
+odronextamab mais quimioterapia versus rituximabe mais quimioterapia em
+pacientes com linfoma folicular não tratados.
 
-Patrocinador do Estudo: RemeGen Co., Ltd.. Número de Centros: 4
+Patrocinador do Estudo: Regeneron Pharmaceuticals. Número de Centros: 23
 
-- [**CNI**: Porto Alegre Site 90619-900, Porto Alegre, Rio Grande do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06456580&location_id=PORTOALEGRESITEPORTOALEGRERIOGRANDEDOSUL90619900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Porto%20Alegre%20Site%2090619-900%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Curitiba Site 81210-310, Curitiba,
-  Paraná](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06456580&location_id=CURITIBASITECURITIBAPARANA81210310BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Curitiba%20Site%2081210-310%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
-- <span style="color: #808080">N/A: Ribeirão Preto, NA, Ribeirão
-  Preto</span>
-- <span style="color: #808080">SP: HRIM – Hospital do Rim, 04038-002,
-  São Paulo</span>
+- <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
+  Salvador</span>
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: Centro Oncologico do Triangulo (COT) - Uberlandia 38408,
+  Uberlandia, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06097364&location_id=CENTROONCOLOGICODOTRIANGULOCOTUBERLANDIAUBERLANDIAMINASGERAIS38408BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Oncologico%20do%20Triangulo%20%28COT%29%20-%20Uberlandia%2038408%2C%20Uberlandia%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Hospital DF Star: Pronto Atendimento,
+  Urgência, Emergência, UTI Brasília DF, 70390-140, Brasília</span>
+- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
+  70200-730, Brasília</span>
+- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
+  Belo Horizonte</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital Tacchini Bento Gonçalves,
+  95700-068, Bento Gonçalves</span>
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo -
+  Unidade 1 0- Oncologia, 99010-080, Passo Fundo</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SC: CHO - Centro de Hematologia e
+  Oncologia de Joinville, 89201-260, Joinville</span>
+- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
+  Oncológico, 88501-001, Lages</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
+  05403-010, São Paulo</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Clínica do
+  Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 
 **NCT06348199**: (SB27) Estudo de fase III, randomizado e duplo-cego,
 comparando eficácia, segurança, farmacocinética e imunogenicidade do
