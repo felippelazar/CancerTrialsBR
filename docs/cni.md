@@ -502,12 +502,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06767462**: Estudo multicêntrico que avalia a segurança
 oftalmológica em pacientes com câncer de mama em coortes paralelas.
@@ -610,6 +610,27 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
+
+**NCT06624059**: (HORIZON 2) Estudo multicêntrico de Fase I-III
+avaliando a eficácia e segurança de alectinibe com quimioterapia em
+pacientes selecionados por biomarcadores com NSCLC ressecável Estágio
+I-III.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 6
+
+- [**CNI**: Hospital de Clínicas de Porto Alegre X DUMMY_VALUE, Porto
+  Alegre, Rio Grande Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06624059&location_id=HOSPITALDECLINICASDEPORTOALEGREXPORTOALEGRERIOGRANDEDOSULDUMMY_VALUEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Cl%C3%ADnicas%20de%20Porto%20Alegre%20X%20DUMMY_VALUE%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Universidade de Caxias do Sul,
+  95070-560, Caxias do Sul</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
