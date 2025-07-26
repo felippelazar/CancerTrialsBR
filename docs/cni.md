@@ -436,20 +436,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
-**NCT06535607**: (eVOLVE-02) Estudo multicêntrico de Fase II que avalia
-a eficácia e segurança do volrustomig isolado ou com agentes anticâncer
-em pacientes com tumores sólidos avançados/metastáticos.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
-
-- [**CNI**: Research Site 09541-270, São Caetano do Sul,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06535607&location_id=RESEARCHSITESAOCAETANODOSUL09541270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2009541-270%2C%20S%C3%A3o%20Caetano%20do%20Sul%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
-  Vitória</span>
-- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
-  86015-520, Londrina</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-
 **NCT06131424**: (iRetroBC) Estudo multicêntrico retrospectivo que
 avalia a prevalência de HER2-baixo, características clínicas e
 resultados de tratamento em pacientes com câncer de mama metastático
@@ -485,12 +471,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -511,6 +497,27 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT05552976**: (SUCCESSOR-2) Estudo de fase 3 randomizado comparando
+Mezigdomide, Carfilzomib e Dexametasona (MeziKD) versus Carfilzomib e
+Dexametasona (Kd) em pacientes com mieloma múltiplo recidivado ou
+refratário.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 6
+
+- [**CNI**: Local Institution - 0085 01509-010, Sao Paulo, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0085SAOPAULOSAOPAULO01509010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200085%2001509-010%2C%20Sao%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0121 41253-190, Salvador,
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0121SALVADORBAHIA41253190BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200121%2041253-190%2C%20Salvador%2C%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0075 20775-001, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0075RIODEJANEIRO20775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200075%2020775-001%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0073 04537-080, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0073SAOPAULO04537080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200073%2004537-080%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0076 90470-340, Porto Alegre, Rio Grande
+  Do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0076PORTOALEGRERIOGRANDEDOSUL90470340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200076%2090470-340%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
 
 **NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
 comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
@@ -564,27 +571,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
-**NCT06624059**: (HORIZON 2) Estudo multicêntrico de Fase I-III
-avaliando a eficácia e segurança de alectinibe com quimioterapia em
-pacientes selecionados por biomarcadores com NSCLC ressecável Estágio
-I-III.
-
-Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 6
-
-- [**CNI**: Hospital de Clínicas de Porto Alegre X DUMMY_VALUE, Porto
-  Alegre, Rio Grande Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06624059&location_id=HOSPITALDECLINICASDEPORTOALEGREXPORTOALEGRERIOGRANDEDOSULDUMMY_VALUEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Cl%C3%ADnicas%20de%20Porto%20Alegre%20X%20DUMMY_VALUE%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Universidade de Caxias do Sul,
-  95070-560, Caxias do Sul</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
@@ -608,22 +594,22 @@ ou metastático.
 
 Patrocinador do Estudo: Merus N.V.. Número de Centros: 8
 
-- [**CNI**: Site 138 22281-100, Rio De Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE138RIODEJANEIRO22281100BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20138%2022281-100%2C%20Rio%20De%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site 142 91350-200, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE142PORTOALEGRE91350200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20142%2091350-200%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site 137 50040-000, Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE137RECIFE50040000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20137%2050040-000%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Site 144 59020-340, Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE144NATAL59020340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20144%2059020-340%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site 140 90610-000, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE140PORTOALEGRE90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20140%2090610-000%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site 141 30.360-680, Belo Horizonte,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE141BELOHORIZONTE30360680BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20141%2030.360-680%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site 134 01509-900, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE134SAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20134%2001509-900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site 136 04538-132, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE136SAOPAULO04538132BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20136%2004538-132%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, 30360-680, Belo Horizonte</span>
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
+  04538-132, São Paulo</span>
 
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
