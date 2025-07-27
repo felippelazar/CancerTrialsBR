@@ -471,12 +471,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -497,27 +497,6 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT05552976**: (SUCCESSOR-2) Estudo de fase 3 randomizado comparando
-Mezigdomide, Carfilzomib e Dexametasona (MeziKD) versus Carfilzomib e
-Dexametasona (Kd) em pacientes com mieloma múltiplo recidivado ou
-refratário.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 6
-
-- [**CNI**: Local Institution - 0085 01509-010, Sao Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0085SAOPAULOSAOPAULO01509010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200085%2001509-010%2C%20Sao%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0121 41253-190, Salvador,
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0121SALVADORBAHIA41253190BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200121%2041253-190%2C%20Salvador%2C%20Bahia&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0075 20775-001, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0075RIODEJANEIRO20775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200075%2020775-001%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0073 04537-080, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0073SAOPAULO04537080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200073%2004537-080%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0076 90470-340, Porto Alegre, Rio Grande
-  Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05552976&location_id=LOCALINSTITUTION0076PORTOALEGRERIOGRANDEDOSUL90470340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200076%2090470-340%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
 
 **NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
 comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
