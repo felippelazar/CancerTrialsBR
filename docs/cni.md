@@ -471,12 +471,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -527,6 +527,24 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
   Hospital Santa Marcelina – CEPEC, 08270-070, São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
+
+**NCT06946797**: (CheckMate-1533) Estudo de fase 2, aberto, avaliando
+dois regimes de dosagem de Nivolumab subcutâneo com Ipilimumab
+intravenoso e quimioterapia em pacientes com NSCLC metastático ou
+recorrente não tratados.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 5
+
+- [**CNI**: Local Institution - 0043 30380-490, Belo Horizonte, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06946797&location_id=LOCALINSTITUTION0043BELOHORIZONTEMINASGERAIS30380490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200043%2030380-490%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
+  70200-730, Brasília</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
