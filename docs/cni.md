@@ -43,6 +43,86 @@ Centros: 5
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
 
+**NCT06311721**: Estudo randomizado duplo-cego comparando eficácia,
+farmacocinética, segurança e imunogenicidade do ABP 234 vs. Keytruda® em
+pacientes com câncer de pulmão não pequenas células não escamosas
+avançado ou metastático.
+
+Patrocinador do Estudo: Amgen. Número de Centros: 36
+
+- <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
+  Salvador</span>
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: OC Oncoclinicas Oncovida 70390-150, Brasilia, Destrito
+  Federal](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06311721&location_id=OCONCOCLINICASONCOVIDABRASILIADESTRITOFEDERAL70390150BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20OC%20Oncoclinicas%20Oncovida%2070390-150%2C%20Brasilia%2C%20Destrito%20Federal&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
+  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">ES: Associação Feminina de Educação e
+  Combate ao Câncer, 29043-260, Vitória</span>
+- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
+  Belo Horizonte</span>
+- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
+  Horizonte, 30110-022, Belo Horizonte</span>
+- <span style="color: #808080">MG: Hospital Márcio Cunha I, 35160-158,
+  Ipatinga</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital Tacchini Bento Gonçalves,
+  95700-068, Bento Gonçalves</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
+  Lajeado</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">RS: Centro Integrado de Pesquisa em
+  Oncologia, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Ernesto Dornelles,
+  90160-092, Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Unidade De Pesquisa Clinica Em
+  Oncologia Ltda, 96015-280, Pelotas</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora das Graças,
+  92030-000, Canoas</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SC: Supera Oncologia, 89812-210,
+  Chapecó</span>
+- <span style="color: #808080">SC: CHO - Centro de Hematologia e
+  Oncologia de Joinville, 89201-260, Joinville</span>
+- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Centro Universitário Faculdade de
+  Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Instituto Ribeirãopretano de Combate
+  ao Câncer, 14015-130, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Hospital da PUC-Campinas, 13034-685,
+  Campinas</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Centro Oncológico Mogi das Cruzes,
+  08730-500, Mogi das Cruzes</span>
+
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
@@ -471,12 +551,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -700,24 +780,50 @@ precoce, positivo para ER, negativo para HER2, com linfonodos positivos
 e alto risco de recorrência.
 
 Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
-8
+20
 
 - [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande Do
   Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Centro de Pesquisas Oncologicas - CEPON 88034000,
+  Florianópolis, Santa
+  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=CENTRODEPESQUISASONCOLOGICASCEPONFLORIANOPOLISSANTACATARINA88034000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisas%20Oncologicas%20-%20CEPON%2088034000%2C%20Florian%C3%B3polis%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
+- [**CNI**: Hospital Universitario y Politecnico La Fe - Oncología
+  Médica 46026, Valencia,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=HOSPITALUNIVERSITARIOYPOLITECNICOLAFEONCOLOGIAMEDICAVALENCIA46026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Universitario%20y%20Politecnico%20La%20Fe%20-%20Oncolog%C3%ADa%20M%C3%A9dica%2046026%2C%20Valencia%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
   Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
+  29055-450, Vitória</span>
+- <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
+  74605-070, Goiânia</span>
+- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
+  Horizonte, 30110-022, Belo Horizonte</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
 - <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
   Porto Velho</span>
 - <span style="color: #808080">RS: Sociedade Beneficência e Caridade de
   Lajeado, 95900-000, Lajeado</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SC: Neoplasias Litoral -
+  Oncologia/Quimioterapia, 88300-000, Itajaí</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
+- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Instituto de Assistência Médica ao
+  Servidor Público Estadual de S. Paulo, 04039-000, São Paulo</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
