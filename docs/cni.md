@@ -471,12 +471,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
 - [**CNI**: Research Site - , Fortaleza,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -533,31 +533,30 @@ crizotinib em pacientes com NSCLC ROS1-positivo e TKI-naïve.
 
 Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 
-- [**CNI**: Local Institution - 0098 22061-080, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0098RIODEJANEIRO22061080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200098%2022061-080%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0032 01401-002, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0032SAOPAULO01401002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200032%2001401-002%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0033 90110-270, Porto Alegre, Rio Grande
-  Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0033PORTOALEGRERIOGRANDEDOSUL90110270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200033%2090110-270%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0029 14784400, Barretos, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0029BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200029%2014784400%2C%20Barretos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0034 90610-000, Porto Alegre, Rio Grande
-  Do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0034PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200034%2090610-000%2C%20Porto%20Alegre%2C%20Rio%20Grande%20Do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0037 15090000, São José do Rio Preto,
-  São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0037SAOJOSEDORIOPRETOSAOPAULO15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200037%2015090000%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
 - [**CNI**: Local Institution - 0147 01321-001, Sao Paulo, São
   Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0147SAOPAULOSAOPAULO01321001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200147%2001321-001%2C%20Sao%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0108 22250-905, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0108RIODEJANEIRO22250905BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200108%2022250-905%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0073 30380-490, Belo Horizonte, Minas
-  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06140836&location_id=LOCALINSTITUTION0073BELOHORIZONTEMINASGERAIS30380490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200073%2030380-490%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Hospital Luxemburgo, 30380-490, Belo
+  Horizonte</span>
+- <span style="color: #808080">RJ: Hospital São Lucas Copacabana,
+  22061-080, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
 - <span style="color: #808080">SP: Sírio‑Libanês Ensino e Pesquisa,
   01308-060, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
   05652-900, São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
 
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
