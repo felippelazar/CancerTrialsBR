@@ -1181,18 +1181,18 @@ anos de terapia prévia.
 
 Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 36
 
-- <span style="color: #808080">CE: Instituto do Câncer Do Ceara,
+- <span style="color: #808080">CE: ICC - Instituto do Câncer do Ceará,
   60430-230, Fortaleza</span>
-- [**CNI**: Nucleo de Oncologia da Bahia 40170-110, Salvador, Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05514054&location_id=NUCLEODEONCOLOGIADABAHIASALVADORESTADODEBAHIA40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Nucleo%20de%20Oncologia%20da%20Bahia%2040170-110%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: Nucleo de Oncologia da Bahia 40170-110, Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05514054&location_id=NUCLEODEONCOLOGIADABAHIASALVADOR40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Nucleo%20de%20Oncologia%20da%20Bahia%2040170-110%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Oncocentro de Minas Gerais 30180-060, Belo Horizonte,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05514054&location_id=ONCOCENTRODEMINASGERAISBELOHORIZONTE30180060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20de%20Minas%20Gerais%2030180-060%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
   70200-730, Brasília</span>
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
 - <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
   74605-070, Goiânia</span>
-- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
-  Horizonte, 30360-680, Belo Horizonte</span>
 - <span style="color: #808080">PA: CTO - Centro de Tratamento
   Oncológico, 66063-495, Belém</span>
 - <span style="color: #808080">PE: Multi Hemo, 50070-170, Recife</span>
@@ -1200,59 +1200,59 @@ Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 36
   86015-520, Londrina</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
+  Câncer IV, 20560-121, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Hospital São Lucas Copacabana,
   22061-080, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
   Janeiro</span>
-- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
-  Câncer IV, 20560-121, Rio de Janeiro</span>
 - <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
   Porto Velho</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
   Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
-  Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
   90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Centro Universitário Faculdade de
+  Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: QualiVida Angélica \| Hapvida
+  NotreDame Intermédica, 01227-000, São Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: IAMSPE - Hospital do Servidor Público
+  Estadual - Oncologia, 04039-000, São Paulo</span>
 - <span style="color: #808080">SP: Fundação Faculdade Regional de
   Medicina de São José do Rio Preto, 15090-000, São José do Rio
   Preto</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital Santa Paula, 04556-100, São
-  Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
-- <span style="color: #808080">SP: IEP - Instituto Hemomed, 01236-030,
-  São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
+  01308-050, São Paulo</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
-- <span style="color: #808080">SP: Sírio‑Libanês Ensino e Pesquisa,
-  01308-060, São Paulo</span>
 - <span style="color: #808080">SP: Santa Casa Instituto de Pesquisa,
   01223-001, São Paulo</span>
-- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
-  Oncologia, 04014-002, São Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Centro Universitário Faculdade de
-  Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: Hospital Santa Paula, 04556-100, São
+  Paulo</span>
+- <span style="color: #808080">SP: IEP - Instituto Hemomed, 01236-030,
+  São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-- <span style="color: #808080">SP: QualiVida Angélica \| Hapvida
-  NotreDame Intermédica, 01227-000, São Paulo</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: IAMSPE - Hospital do Servidor Público
-  Estadual - Oncologia, 04039-000, São Paulo</span>
 
 **NCT06119581**: (SUNRAY-01) Estudo global comparando LY3537982 e
 Pembrolizumab vs placebo em pacientes com NSCLC avançado mutante KRAS
@@ -1401,15 +1401,9 @@ melhorar a compreensão e recomendações de cuidados.
 
 Patrocinador do Estudo: Genzyme, a Sanofi Company. Número de Centros: 11
 
-- [**CNI**: Clínica Senhor do Bonfim LTDA- Site Number : 076008
-  44001328, Feira de Santana, Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=CLINICASENHORDOBONFIMLTDASITENUMBER076008FEIRADESANTANAESTADODEBAHIA44001328BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cl%C3%ADnica%20Senhor%20do%20Bonfim%20LTDA-%20Site%20Number%20%3A%20076008%2044001328%2C%20Feira%20de%20Santana%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
 - [**CNI**: Medicordis- Site Number : 076009 71950-904, Brasília,
   Federal
   District](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=MEDICORDISSITENUMBER076009BRASILIAFEDERALDISTRICT71950904BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Medicordis-%20Site%20Number%20%3A%20076009%2071950-904%2C%20Bras%C3%ADlia%2C%20Federal%20District&form_type=Identificar%20Centro)
-- [**CNI**: CTDR - Centro de Tratamento de Doenças Renais EIRELI- Site
-  Number : 076007 38408-028, Uberlândia, Minas
-  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=CTDRCENTRODETRATAMENTODEDOENCASRENAISEIRELISITENUMBER076007UBERLANDIAMINASGERAIS38408028BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CTDR%20-%20Centro%20de%20Tratamento%20de%20Doen%C3%A7as%20Renais%20EIRELI-%20Site%20Number%20%3A%20076007%2038408-028%2C%20Uberl%C3%A2ndia%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
 - [**CNI**: Instituto de Medicina Integral Professor Fernando Figueira -
   IMIP - Site Number : 076005 50070-550, Recife,
   Pernambuco](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=INSTITUTODEMEDICINAINTEGRALPROFESSORFERNANDOFIGUEIRAIMIPSITENUMBER076005RECIFEPERNAMBUCO50070550BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Medicina%20Integral%20Professor%20Fernando%20Figueira%20-%20IMIP%20-%20Site%20Number%20%3A%20076005%2050070-550%2C%20Recife%2C%20Pernambuco&form_type=Identificar%20Centro)
@@ -1428,6 +1422,12 @@ Patrocinador do Estudo: Genzyme, a Sanofi Company. Número de Centros: 11
 - [**CNI**: Serviço de Terapia Renal de Ourinhos- Site Number : 076011
   19900280, Ourinhos, São
   Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=SERVICODETERAPIARENALDEOURINHOSSITENUMBER076011OURINHOSSAOPAULO19900280BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Servi%C3%A7o%20de%20Terapia%20Renal%20de%20Ourinhos-%20Site%20Number%20%3A%20076011%2019900280%2C%20Ourinhos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Clínica Senhor do Bonfim LTDA- Site Number : 076008
+  44001328, Feira de Santana, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=CLINICASENHORDOBONFIMLTDASITENUMBER076008FEIRADESANTANAESTADODEBAHIA44001328BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cl%C3%ADnica%20Senhor%20do%20Bonfim%20LTDA-%20Site%20Number%20%3A%20076008%2044001328%2C%20Feira%20de%20Santana%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: CTDR - Centro de Tratamento de Doenças Renais EIRELI- Site
+  Number : 076007 38408-028, Uberlândia, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=CTDRCENTRODETRATAMENTODEDOENCASRENAISEIRELISITENUMBER076007UBERLANDIAMINASGERAIS38408028BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CTDR%20-%20Centro%20de%20Tratamento%20de%20Doen%C3%A7as%20Renais%20EIRELI-%20Site%20Number%20%3A%20076007%2038408-028%2C%20Uberl%C3%A2ndia%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
 - [**CNI**: Instituto do Rim do Paraná- Site Number : 076004 80250-070,
   Curitiba,
   Paraná](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=INSTITUTODORIMDOPARANASITENUMBER076004CURITIBAPARANA80250070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20do%20Rim%20do%20Paran%C3%A1-%20Site%20Number%20%3A%20076004%2080250-070%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
@@ -2397,6 +2397,8 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 19
   Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
   Paulo</span>
 - <span style="color: #808080">SP: Hospital Samaritano, 01232-010, São
@@ -2415,8 +2417,6 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 19
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 
 **NCT04680442**: (SCHOLAR-2) Ensaio randomizado avaliando a segurança de
 continuar trastuzumabe, pertuzumabe ou T-DM1 em pacientes com câncer de
@@ -2785,17 +2785,20 @@ precoce, positivo para ER, negativo para HER2, com linfonodos positivos
 e alto risco de recorrência.
 
 Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
-20
+23
 
-- [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Onco Star SP Oncologia LTDA (Onco Star) 04062-001, São
+  Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=ONCOSTARSPONCOLOGIALTDAONCOSTARSAOPAULO04062001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Onco%20Star%20SP%20Oncologia%20LTDA%20%28Onco%20Star%29%2004062-001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Hospital Universitario y Politecnico La Fe - Oncología
   Médica 46026, Valência,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=HOSPITALUNIVERSITARIOYPOLITECNICOLAFEONCOLOGIAMEDICAVALENCIA46026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Universitario%20y%20Politecnico%20La%20Fe%20-%20Oncolog%C3%ADa%20M%C3%A9dica%2046026%2C%20Val%C3%AAncia%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
-  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
+- [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
+- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
+  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
 - <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
   74605-070, Goiânia</span>
 - <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
@@ -2804,30 +2807,35 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">PR: Hospital do Câncer de Londrina,
   86015-520, Londrina</span>
+- <span style="color: #808080">PR: Hospital Santa Cruz: Pronto
+  Atendimento, Urgência, Emergência Curitiba PR, 80420-090,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
 - <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
   Porto Velho</span>
 - <span style="color: #808080">RS: Sociedade Beneficência e Caridade de
   Lajeado, 95900-000, Lajeado</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
   90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
 - <span style="color: #808080">SC: Neoplasias Litoral -
   Oncologia/Quimioterapia, 88300-000, Itajaí</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
-  São Paulo</span>
 - <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
   Barretos</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
 - <span style="color: #808080">SP: Instituto de Assistência Médica ao
   Servidor Público Estadual de S. Paulo, 04039-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
+  Paulo</span>
 
 **NCT04965129**: Estudo sobre o impacto de dieta rica em proteínas e
 ácidos graxos n-3 na massa muscular, toxicidade e microbiota em
