@@ -1556,24 +1556,26 @@ pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
 de carcinoma de células escamosas de cabeça e pescoço PD-L1+ recorrente
 ou metastático.
 
-Patrocinador do Estudo: Merus N.V.. Número de Centros: 8
+Patrocinador do Estudo: Merus N.V.. Número de Centros: 9
 
 - [**CNI**: Site 144 59020-340, Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE144NATAL59020340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20144%2059020-340%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Site 149 22.250-905, Rio de Janeiro, Rio de
+  Janeiro](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE149RIODEJANEIRORIODEJANEIRO22250905BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20149%2022.250-905%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro&form_type=Identificar%20Centro)
 - <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
   Horizonte, 30360-680, Belo Horizonte</span>
 - <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
   50040-000, Recife</span>
 - <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
   Ensino, 22281-100, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
   90610-001, Porto Alegre</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT06875310**: (KRYSTAL-4) Estudo de fase 3 comparando adagrasib mais
 pembrolizumab e quimioterapia versus placebo em pacientes com NSCLC não
