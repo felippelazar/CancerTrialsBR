@@ -763,6 +763,33 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
+**NCT06486441**: (ASCENT-GYN-01) Estudo de fase 3, randomizado e aberto,
+comparando sacituzumab govitecan ao tratamento à escolha do médico em
+pacientes com câncer endometrial após quimioterapia com platina e
+imunoterapia.
+
+Patrocinador do Estudo: Gilead Sciences. Número de Centros: 8
+
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: Centro de Pesquisa Clínica do Hospital Moinhos de Vento
+  90035001, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=CENTRODEPESQUISACLINICADOHOSPITALMOINHOSDEVENTOPORTOALEGRE90035001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20Cl%C3%ADnica%20do%20Hospital%20Moinhos%20de%20Vento%2090035001%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: BP - A Beneficência Portuguesa da São Paulo / Hospital BP
+  Mirante 01321-001, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=BPABENEFICENCIAPORTUGUESADASAOPAULOHOSPITALBPMIRANTESAOPAULO01321001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20BP%20-%20A%20Benefic%C3%AAncia%20Portuguesa%20da%20S%C3%A3o%20Paulo%20%2F%20Hospital%20BP%20Mirante%2001321-001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Instituto D’Or Pesquisa e Ensino 22281-100, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=INSTITUTODORPESQUISAEENSINORIODEJANEIRO22281100BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20D%27Or%20Pesquisa%20e%20Ensino%2022281-100%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: AC Camargo Cancer Center (Fundação Antonio Prudente)
+  01509-900, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=ACCAMARGOCANCERCENTERFUNDACAOANTONIOPRUDENTESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20AC%20Camargo%20Cancer%20Center%20%28Funda%C3%A7%C3%A3o%20Antonio%20Prudente%29%2001509-900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SC: Neoplasias Litoral -
+  Oncologia/Quimioterapia, 88300-000, Itajaí</span>
+- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
+  São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
@@ -862,6 +889,32 @@ Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 15
 - <span style="color: #808080">SP: Advanze, 13561-130, São Carlos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
+**NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
+pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
+mutação KRAS G12C.
+
+Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 10
+
+- [**CNI**: Local Institution - 007-459 91350-200, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04613596&location_id=LOCALINSTITUTION007459PORTOALEGRE91350200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20007-459%2091350-200%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
+  Lajeado</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 
 **NCT04877522**: Estudo aberto, multicêntrico que avalia a segurança a
 longo prazo do asciminib em pacientes que completaram um estudo da
