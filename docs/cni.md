@@ -48,7 +48,7 @@ farmacocinética, segurança e imunogenicidade do ABP 234 vs. Keytruda® em
 pacientes com câncer de pulmão não pequenas células não escamosas
 avançado ou metastático.
 
-Patrocinador do Estudo: Amgen. Número de Centros: 37
+Patrocinador do Estudo: Amgen. Número de Centros: 38
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
@@ -80,6 +80,8 @@ Patrocinador do Estudo: Amgen. Número de Centros: 37
   Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Instituto Nacional de Câncer José
   Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
 - <span style="color: #808080">RS: Hospital Tacchini Bento Gonçalves,
@@ -763,6 +765,61 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
+**NCT06824168**: Estudo de Fase 2 avaliando segurança e eficácia de duas
+doses de quizartinib como manutenção em pacientes adultos com leucemia
+mieloide aguda FLT3-ITD (+) em remissão completa sem alo-HSCT.
+
+Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 8
+
+- [**CNI**: Cetus Hospital Dia Oncologia - , Minas Gerai,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06824168&location_id=CETUSHOSPITALDIAONCOLOGIAMINASGERAIBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cetus%20Hospital%20Dia%20Oncologia%20%20-%20%2C%20Minas%20Gerai%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Centro Multidisciplinar de Pesquisa
+  Clínica - Santa Casa Misericórdia de Porto Alegre, 90050-170, Porto
+  Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
+  São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
+**NCT04576156**: Estudo aberto randomizado de fase 3 comparando
+Imetelstat à melhor terapia disponível em pacientes com mielofibrose de
+risco intermediário-2 ou alto, refratários/recidivados a inibidores de
+JAK.
+
+Patrocinador do Estudo: Geron Corporation. Número de Centros: 10
+
+- <span style="color: #808080">CE: Centro de Oncologia, 60140-061,
+  Fortaleza</span>
+- [**CNI**: Instituto de Educação, Pesquisa e Gestão em Saúde 01323000,
+  São Paulo, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04576156&location_id=INSTITUTODEEDUCACAOPESQUISAEGESTAOEMSAUDESAOPAULOSAOPAULO01323000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Educa%C3%A7%C3%A3o%2C%20Pesquisa%20e%20Gest%C3%A3o%20em%20Sa%C3%BAde%2001323000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Fundacao Doutor Amaral Carvalho / Hospital Amaral Carvalho
+  17210-120, São Paulo, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04576156&location_id=FUNDACAODOUTORAMARALCARVALHOHOSPITALAMARALCARVALHOSAOPAULOSAOPAULO17210120BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Fundacao%20Doutor%20Amaral%20Carvalho%20%2F%20Hospital%20Amaral%20Carvalho%2017210-120%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Hospital das Clínicas da UFG /
+  EBSERH, 74605-050, Goiânia</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT06486441**: (ASCENT-GYN-01) Estudo de fase 3, randomizado e aberto,
 comparando sacituzumab govitecan ao tratamento à escolha do médico em
 pacientes com câncer endometrial após quimioterapia com platina e
@@ -828,6 +885,29 @@ Número de Centros: 7
   Barretos</span>
 - <span style="color: #808080">SP: Hospital da Mulher Prof. Dr. J. A.
   Pinotti-Caism/Unicamp, 13083-881, Campinas</span>
+
+**NCT06422143**: Estudo de fase 3 avaliando pembrolizumab com
+carboplatina/taxano seguido de pembrolizumab com/sem MK-2870 no
+tratamento de primeira linha do câncer de pulmão de células não pequenas
+escamosas metastático.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 7
+
+- [**CNI**: Vencer Centro de Pesquisa Clínica ( Site 0309) 64049-200,
+  Teresina,
+  Piauí](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06422143&location_id=VENCERCENTRODEPESQUISACLINICASITE0309TERESINAPIAUI64049200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Vencer%20Centro%20de%20Pesquisa%20Cl%C3%ADnica%20%28%20Site%200309%29%2064049-200%2C%20Teresina%2C%20Piau%C3%AD&form_type=Identificar%20Centro)
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">RS: Saint Gallen - Ações e Terapias em
+  Saúde, 96830-000, Santa Cruz do Sul</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
 
 **NCT06525220**: Estudo de fase 3 aberto comparando petosemtamabe mais
 pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
