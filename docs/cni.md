@@ -1052,6 +1052,46 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
 
+**NCT06629779**: (MEVPRO-2) Estudo de fase 3, randomizado, duplo-cego,
+controlado por placebo de PF-06821497 com enzalutamida em pacientes com
+câncer de próstata resistente à castração metastático, naïve a ARSi ou
+abiraterona.
+
+Patrocinador do Estudo: Pfizer. Número de Centros: 14
+
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- <span style="color: #808080">CE: Hospital São Carlos: Pronto
+  Atendimento, Emergência, Pronto Socorro, Fortaleza, 60135-237,
+  Fortaleza</span>
+- <span style="color: #808080">CE: Oncocentro Ceará - Oncologia
+  Integrada, 60135-237, Fortaleza</span>
+- [**CNI**: Oncocentro Servico Medicos e Hospitalares Ltda 60130-241,
+  Fortaleza,
+  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06629779&location_id=ONCOCENTROSERVICOMEDICOSEHOSPITALARESLTDAFORTALEZACEARA60130241BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20Servico%20Medicos%20e%20Hospitalares%20Ltda%2060130-241%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Medplex Eixo Norte, 91010-004, Porto
+  Alegre</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+
 **NCT04680442**: (SCHOLAR-2) Ensaio randomizado avaliando a segurança de
 continuar trastuzumabe, pertuzumabe ou T-DM1 em pacientes com câncer de
 mama HER-2 positivo em estágio inicial com disfunção ventricular
