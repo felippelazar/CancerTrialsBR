@@ -636,20 +636,21 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 - <span style="color: #808080">BA: CEHON: Oncologia Clínica, Tratamento
   de Câncer, Quimioterapia, Radioterapia, Oncologistas, Canela, Salvador
   BA, 40110-150, Salvador</span>
-- [**CNI**: Local Institution - 0096 21941-913, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05827016&location_id=LOCALINSTITUTION0096RIODEJANEIRO21941913BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200096%2021941-913%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Instituto COI de Pesquisa, Educação e Gestão 21941-913, Rio
+  de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05827016&location_id=INSTITUTOCOIDEPESQUISAEDUCACAOEGESTAORIODEJANEIRO21941913BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20COI%20de%20Pesquisa%2C%20Educa%C3%A7%C3%A3o%20e%20Gest%C3%A3o%2021941-913%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Instituto de Oncologia do Paraná \|
   Unidade Mateus Leme, 80520-174, Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Tecnologia,
-  20081-312, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
   24020-096, Niterói</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
   Porto Alegre</span>
-- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
-  Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
+- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
+  Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
@@ -885,6 +886,43 @@ Número de Centros: 7
   Barretos</span>
 - <span style="color: #808080">SP: Hospital da Mulher Prof. Dr. J. A.
   Pinotti-Caism/Unicamp, 13083-881, Campinas</span>
+
+**NCT05254743**: (BRUIN-CLL-314) Estudo de fase 3 comparando
+pirtobrutinib (LOXO-305) versus ibrutinib em pacientes com LLC/LLS,
+incluindo não tratados com deleções 17p, por até seis anos.
+
+Patrocinador do Estudo: Loxo Oncology, Inc.. Número de Centros: 14
+
+- [**CNI**: Centro Integrado de Pesquisa Clinica 15090-000, São José do
+  Rio Preto,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05254743&location_id=CENTROINTEGRADODEPESQUISACLINICASAOJOSEDORIOPRETO15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Integrado%20de%20Pesquisa%20Clinica%2015090-000%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Hospital Uopeccan de Cascavel,
+  85806-300, Cascavel</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo -
+  Unidade 1 0- Oncologia, 99010-080, Passo Fundo</span>
+- <span style="color: #808080">SP: Hemocentro Unicamp, 13083-878,
+  Campinas</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
+  São Paulo</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
+  05403-010, São Paulo</span>
+- <span style="color: #808080">SP: UPECLIN - Unidade de Pesquisa Clínica
+  da Faculdade de Medicina de Botucatu - UNESP, 18618-686,
+  Botucatu</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
 
 **NCT06422143**: Estudo de fase 3 avaliando pembrolizumab com
 carboplatina/taxano seguido de pembrolizumab com/sem MK-2870 no
