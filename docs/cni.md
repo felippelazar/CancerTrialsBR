@@ -43,90 +43,6 @@ Centros: 5
 - <span style="color: #808080">SP: HRIM – Hospital do Rim, 04038-002,
   São Paulo</span>
 
-**NCT06311721**: Estudo randomizado duplo-cego comparando eficácia,
-farmacocinética, segurança e imunogenicidade do ABP 234 vs. Keytruda® em
-pacientes com câncer de pulmão não pequenas células não escamosas
-avançado ou metastático.
-
-Patrocinador do Estudo: Amgen. Número de Centros: 38
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
-  Salvador</span>
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- [**CNI**: Centro de Pesquisa Sao Lucas 13060-904, Campinas, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06311721&location_id=CENTRODEPESQUISASAOLUCASCAMPINASSAOPAULO13060904BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20Sao%20Lucas%2013060-904%2C%20Campinas%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Onco-Vida Oncologia Clínica,
-  70390-150, Brasília</span>
-- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
-  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
-- <span style="color: #808080">ES: Associação Feminina de Educação e
-  Combate ao Câncer, 29043-260, Vitória</span>
-- <span style="color: #808080">MG: Instituto Mário Penna, 30380-420,
-  Belo Horizonte</span>
-- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
-  Horizonte, 30110-022, Belo Horizonte</span>
-- <span style="color: #808080">MG: Hospital Márcio Cunha I, 35160-158,
-  Ipatinga</span>
-- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
-  86015-520, Londrina</span>
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
-  Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital Tacchini Bento Gonçalves,
-  95700-068, Bento Gonçalves</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
-  99010-260, Passo Fundo</span>
-- <span style="color: #808080">RS: Centro Integrado de Pesquisa em
-  Oncologia, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Ernesto Dornelles,
-  90160-092, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Unidade De Pesquisa Clinica Em
-  Oncologia Ltda, 96015-280, Pelotas</span>
-- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
-  Lajeado</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora das Graças,
-  92030-000, Canoas</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
-- <span style="color: #808080">SC: Supera Oncologia, 89812-210,
-  Chapecó</span>
-- <span style="color: #808080">SC: CHO - Centro de Hematologia e
-  Oncologia de Joinville, 89201-260, Joinville</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Centro Universitário Faculdade de
-  Medicina do ABC (FMABC), 09060-870, Santo André</span>
-- <span style="color: #808080">SP: Fundação Faculdade Regional de
-  Medicina de São José do Rio Preto, 15090-000, São José do Rio
-  Preto</span>
-- <span style="color: #808080">SP: Instituto Ribeirãopretano de Combate
-  ao Câncer, 14015-130, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Centro Oncológico Mogi das Cruzes,
-  08730-500, Mogi das Cruzes</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital da PUC-Campinas, 13034-685,
-  Campinas</span>
-
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
@@ -530,23 +446,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 1
 - [**CNI**: Research Site - , São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06131424&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT06252753**: (LIVER-R) Estudo observacional multicêntrico que avalia
-os resultados reais de regimes baseados em durvalumabe em pacientes com
-câncer hepatobiliar.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
-
-- [**CNI**: Research Site 50070-490, Recife - PE, Recife -
-  PE](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06252753&location_id=RESEARCHSITERECIFEPERECIFEPE50070490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2050070-490%2C%20Recife%20-%20PE%2C%20Recife%20-%20PE&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
-- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
-  04538-132, São Paulo</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
 escamoso após falha de quimioterapia à base de platina de 2017 a 2022.
@@ -599,65 +498,6 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT06627530**: (COAction) Ensaio randomizado comparando leuprorelina,
-darolutamida ou ambos como neoadjuvantes antes da prostatectomia radical
-em 144 pacientes com câncer de próstata de risco intermediário/alto.
-
-Patrocinador do Estudo: Brazilian Clinical Research Institute. Número de
-Centros: 10
-
-- <span style="color: #808080">BA: Hospital Dom Pedro de Alcântara,
-  44001-032, Feira de Santana</span>
-- [**CNI**: Santa Casa de Misericórdia de Feira de Santana 44001-032,
-  Feira de Santana, Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06627530&location_id=SANTACASADEMISERICORDIADEFEIRADESANTANAFEIRADESANTANAESTADODEBAHIA44001032BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Santa%20Casa%20de%20Miseric%C3%B3rdia%20de%20Feira%20de%20Santana%2044001-032%2C%20Feira%20de%20Santana%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
-- <span style="color: #808080">PA: Hospital Ophir Loyola, 66063-240,
-  Belém</span>
-- <span style="color: #808080">PI: Hospital São Marcos, 64001-280,
-  Teresina</span>
-- <span style="color: #808080">RJ: Hospital Universitário Pedro Ernesto,
-  20551-030, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital de Clínicas Ijuí, 98700-000,
-  Ijuí</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Pronto-Socorro do Hospital BP,
-  01323-001, São Paulo</span>
-- <span style="color: #808080">SP: HR Hospital Regional de Presidente
-  Prudente, 19050-680, Presidente Prudente</span>
-
-**NCT05827016**: (EXCALIBER-Maintenance) Estudo de fase 3 randomizado
-comparando iberdomide vs. lenalidomide como manutenção pós-ASCT em
-pacientes com mieloma múltiplo recém-diagnosticado.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
-
-- <span style="color: #808080">BA: CEHON: Oncologia Clínica, Tratamento
-  de Câncer, Quimioterapia, Radioterapia, Oncologistas, Canela, Salvador
-  BA, 40110-150, Salvador</span>
-- [**CNI**: Instituto COI de Pesquisa, Educação e Gestão 21941-913, Rio
-  de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05827016&location_id=INSTITUTOCOIDEPESQUISAEDUCACAOEGESTAORIODEJANEIRO21941913BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20COI%20de%20Pesquisa%2C%20Educa%C3%A7%C3%A3o%20e%20Gest%C3%A3o%2021941-913%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Instituto de Oncologia do Paraná \|
-  Unidade Mateus Leme, 80520-174, Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
-  24020-096, Niterói</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
-  Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
-  05403-010, São Paulo</span>
-- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
-  São Paulo</span>
-
 **NCT06140836**: (TRIDENT-3) Ensaio de fase 3 comparando repotrectinib e
 crizotinib em pacientes com NSCLC ROS1-positivo e TKI-naïve.
 
@@ -688,62 +528,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
   Medicina de São José do Rio Preto, 15090-000, São José do Rio
   Preto</span>
 
-**NCT03899155**: Estudo observacional de longo prazo avaliando a
-segurança do nivolumab e outras terapias contra o câncer em pacientes de
-ensaios BMS em vários tipos de tumor.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 15
-
-- [**CNI**: Local Institution - 0379 99010-080, Passo Fundo, Rio Grande
-  do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT03899155&location_id=LOCALINSTITUTION0379PASSOFUNDORIOGRANDEDOSUL99010080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200379%2099010-080%2C%20Passo%20Fundo%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
-- [**CNI**: Local Institution - 0399 91350-250, Porto Alegre, Rio Grande
-  do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT03899155&location_id=LOCALINSTITUTION0399PORTOALEGRERIOGRANDEDOSUL91350250BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200399%2091350-250%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Cenatron Centro Avançado de
-  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
-  20220-430, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
-  01308-050, São Paulo</span>
-- <span style="color: #808080">SP: Sírio‑Libanês Ensino e Pesquisa,
-  01308-060, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-
-**NCT06946797**: (CheckMate-1533) Estudo de fase 2, aberto, avaliando
-dois regimes de dosagem de Nivolumab subcutâneo com Ipilimumab
-intravenoso e quimioterapia em pacientes com NSCLC metastático ou
-recorrente não tratados.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 5
-
-- [**CNI**: Local Institution - 0041 70200-730, Brasília, Federal
-  District](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06946797&location_id=LOCALINSTITUTION0041BRASILIAFEDERALDISTRICT70200730BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200041%2070200-730%2C%20Bras%C3%ADlia%2C%20Federal%20District&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Hospital Luxemburgo, 30380-490, Belo
-  Horizonte</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
@@ -765,61 +549,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-
-**NCT06824168**: Estudo de Fase 2 avaliando segurança e eficácia de duas
-doses de quizartinib como manutenção em pacientes adultos com leucemia
-mieloide aguda FLT3-ITD (+) em remissão completa sem alo-HSCT.
-
-Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 8
-
-- [**CNI**: Cetus Hospital Dia Oncologia - , Minas Gerai,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06824168&location_id=CETUSHOSPITALDIAONCOLOGIAMINASGERAIBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cetus%20Hospital%20Dia%20Oncologia%20%20-%20%2C%20Minas%20Gerai%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro Multidisciplinar de Pesquisa
-  Clínica - Santa Casa Misericórdia de Porto Alegre, 90050-170, Porto
-  Alegre</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SP: Fundação Faculdade Regional de
-  Medicina de São José do Rio Preto, 15090-000, São José do Rio
-  Preto</span>
-- <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
-  São Paulo</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
-**NCT04576156**: Estudo aberto randomizado de fase 3 comparando
-Imetelstat à melhor terapia disponível em pacientes com mielofibrose de
-risco intermediário-2 ou alto, refratários/recidivados a inibidores de
-JAK.
-
-Patrocinador do Estudo: Geron Corporation. Número de Centros: 10
-
-- <span style="color: #808080">CE: Centro de Oncologia, 60140-061,
-  Fortaleza</span>
-- [**CNI**: Instituto de Educação, Pesquisa e Gestão em Saúde 01323000,
-  São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04576156&location_id=INSTITUTODEEDUCACAOPESQUISAEGESTAOEMSAUDESAOPAULOSAOPAULO01323000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Educa%C3%A7%C3%A3o%2C%20Pesquisa%20e%20Gest%C3%A3o%20em%20Sa%C3%BAde%2001323000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Fundacao Doutor Amaral Carvalho / Hospital Amaral Carvalho
-  17210-120, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04576156&location_id=FUNDACAODOUTORAMARALCARVALHOHOSPITALAMARALCARVALHOSAOPAULOSAOPAULO17210120BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Fundacao%20Doutor%20Amaral%20Carvalho%20%2F%20Hospital%20Amaral%20Carvalho%2017210-120%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">GO: Hospital das Clínicas da UFG /
-  EBSERH, 74605-050, Goiânia</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT06486441**: (ASCENT-GYN-01) Estudo de fase 3, randomizado e aberto,
 comparando sacituzumab govitecan ao tratamento à escolha do médico em
@@ -864,89 +593,6 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
 
-**NCT06068985**: (CHERRY-PICK) Estudo para classificar pacientes com
-câncer de mama precoce HER2+ para tratamento neoadjuvante com PHESGO™
-sem quimioterapia usando biomarcadores HR e HER2 IHC.
-
-Patrocinador do Estudo: Latin American Cooperative Oncology Group.
-Número de Centros: 7
-
-- [**CNI**: NOB - Núcleo de Oncologia da Bahia (Oncoclínicas)
-  40.170-110, Salvador, Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06068985&location_id=NOBNUCLEODEONCOLOGIADABAHIAONCOCLINICASSALVADORESTADODEBAHIA40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20NOB%20-%20N%C3%BAcleo%20de%20Oncologia%20da%20Bahia%20%28Oncocl%C3%ADnicas%29%2040.170-110%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
-  Horizonte, 30360-680, Belo Horizonte</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
-  04538-132, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital da Mulher Prof. Dr. J. A.
-  Pinotti-Caism/Unicamp, 13083-881, Campinas</span>
-
-**NCT05254743**: (BRUIN-CLL-314) Estudo de fase 3 comparando
-pirtobrutinib (LOXO-305) versus ibrutinib em pacientes com LLC/LLS,
-incluindo não tratados com deleções 17p, por até seis anos.
-
-Patrocinador do Estudo: Loxo Oncology, Inc.. Número de Centros: 14
-
-- [**CNI**: Centro Integrado de Pesquisa Clinica 15090-000, São José do
-  Rio Preto,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05254743&location_id=CENTROINTEGRADODEPESQUISACLINICASAOJOSEDORIOPRETO15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Integrado%20de%20Pesquisa%20Clinica%2015090-000%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Hospital Uopeccan de Cascavel,
-  85806-300, Cascavel</span>
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital São Vicente de Paulo -
-  Unidade 1 0- Oncologia, 99010-080, Passo Fundo</span>
-- <span style="color: #808080">SP: Hemocentro Unicamp, 13083-878,
-  Campinas</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
-  São Paulo</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, 09060-650, Santo André</span>
-- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
-  05403-010, São Paulo</span>
-- <span style="color: #808080">SP: UPECLIN - Unidade de Pesquisa Clínica
-  da Faculdade de Medicina de Botucatu - UNESP, 18618-686,
-  Botucatu</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-
-**NCT06422143**: Estudo de fase 3 avaliando pembrolizumab com
-carboplatina/taxano seguido de pembrolizumab com/sem MK-2870 no
-tratamento de primeira linha do câncer de pulmão de células não pequenas
-escamosas metastático.
-
-Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 7
-
-- [**CNI**: Vencer Centro de Pesquisa Clínica ( Site 0309) 64049-200,
-  Teresina,
-  Piauí](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06422143&location_id=VENCERCENTRODEPESQUISACLINICASITE0309TERESINAPIAUI64049200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Vencer%20Centro%20de%20Pesquisa%20Cl%C3%ADnica%20%28%20Site%200309%29%2064049-200%2C%20Teresina%2C%20Piau%C3%AD&form_type=Identificar%20Centro)
-- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
-  50040-000, Recife</span>
-- <span style="color: #808080">RS: Saint Gallen - Ações e Terapias em
-  Saúde, 96830-000, Santa Cruz do Sul</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-
 **NCT06525220**: Estudo de fase 3 aberto comparando petosemtamabe mais
 pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
 de carcinoma de células escamosas de cabeça e pescoço PD-L1+ recorrente
@@ -956,12 +602,12 @@ Patrocinador do Estudo: Merus N.V.. Número de Centros: 9
 
 - [**CNI**: Site 144 59020-340, Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE144NATAL59020340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20144%2059020-340%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site 149 22.250-905, Rio de Janeiro, Rio de
-  Janeiro](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE149RIODEJANEIRORIODEJANEIRO22250905BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20149%2022.250-905%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro&form_type=Identificar%20Centro)
 - <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
   Horizonte, 30360-680, Belo Horizonte</span>
 - <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
   50040-000, Recife</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
 - <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
   Ensino, 22281-100, Rio de Janeiro</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
@@ -972,41 +618,6 @@ Patrocinador do Estudo: Merus N.V.. Número de Centros: 9
   04538-132, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
-
-**NCT06875310**: (KRYSTAL-4) Estudo de fase 3 comparando adagrasib mais
-pembrolizumab e quimioterapia versus placebo em pacientes com NSCLC não
-escamoso avançado ou metastático não tratados com mutação KRAS G12C.
-
-Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 15
-
-- [**CNI**: Local Institution - 0257 40170-110, Salvador, Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06875310&location_id=LOCALINSTITUTION0257SALVADORESTADODEBAHIA40170110BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200257%2040170-110%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
-  29055-450, Vitória</span>
-- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
-  Horizonte, 30110-022, Belo Horizonte</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
-  Porto Velho</span>
-- <span style="color: #808080">RS: Saint Gallen - Ações e Terapias em
-  Saúde, 96830-000, Santa Cruz do Sul</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SC: Neoplasias Litoral -
-  Oncologia/Quimioterapia, 88300-000, Itajaí</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Advanze, 13561-130, São Carlos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
 pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
@@ -1034,41 +645,6 @@ Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 10
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 
-**NCT04877522**: Estudo aberto, multicêntrico que avalia a segurança a
-longo prazo do asciminib em pacientes que completaram um estudo da
-Novartis e se beneficiam do tratamento contínuo.
-
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 3
-
-- [**CNI**: Novartis Investigative Site 08270-070, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04877522&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSAOPAULO08270070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2008270-070%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Novartis Investigative Site 05403 000, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04877522&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSAOPAULO05403000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2005403%20000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">RJ: Hemorio, 20211-030, Rio de
-  Janeiro</span>
-
-**NCT05939414**: (PSMA-DC) Estudo de Fase III comparando Lutécio (177Lu)
-Vipivotide Tetraxetan versus observação para retardar a recorrência em
-homens adultos com câncer de próstata oligometastático PSMA-positivo.
-
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 2
-
-- [**CNI**: Novartis Investigative Site 01246 000, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05939414&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2001246%20000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
-**NCT05849298**: (PSMACare) Estudo de Fase II que avalia a eficácia do
-Lutetium \[177Lu\] Vipivotide Tetraxetan sozinho e com ARPI em pacientes
-com câncer de próstata resistente à castração positivo no PET scan PSMA.
-
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 2
-
-- [**CNI**: Novartis Investigative Site 05652-000, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05849298&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSAOPAULO05652000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2005652-000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Novartis Investigative Site 01308-050, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05849298&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSAOPAULO01308050BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2001308-050%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
 de linfócitos B ao longo de 15 anos em três coortes.
@@ -1077,115 +653,19 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
-- [**CNI**: Novartis Investigative Site 04544-000, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSAOPAULO04544000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2004544-000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- [**CNI**: Novartis Investigative Site 01323-900, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITESAOPAULOSAOPAULO01323900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2001323-900%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
 - [**CNI**: Novartis Investigative Site 34006-059, Minas Gerais, Belo
   Horizonte](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITEMINASGERAISBELOHORIZONTE34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2034006-059%2C%20Minas%20Gerais%2C%20Belo%20Horizonte&form_type=Identificar%20Centro)
-- [**CNI**: Novartis Investigative Site 81520-060, Curitiba,
-  Paraná](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITECURITIBAPARANA81520060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2081520-060%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
-
-**NCT06629779**: (MEVPRO-2) Estudo de fase 3, randomizado, duplo-cego,
-controlado por placebo de PF-06821497 com enzalutamida em pacientes com
-câncer de próstata resistente à castração metastático, naïve a ARSi ou
-abiraterona.
-
-Patrocinador do Estudo: Pfizer. Número de Centros: 14
-
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- <span style="color: #808080">CE: Hospital São Carlos: Pronto
-  Atendimento, Emergência, Pronto Socorro, Fortaleza, 60135-237,
-  Fortaleza</span>
-- <span style="color: #808080">CE: Oncocentro Ceará - Oncologia
-  Integrada, 60135-237, Fortaleza</span>
-- [**CNI**: Oncocentro Servico Medicos e Hospitalares Ltda 60130-241,
-  Fortaleza,
-  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06629779&location_id=ONCOCENTROSERVICOMEDICOSEHOSPITALARESLTDAFORTALEZACEARA60130241BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20Servico%20Medicos%20e%20Hospitalares%20Ltda%2060130-241%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Medplex Eixo Norte, 91010-004, Porto
-  Alegre</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
-  Oncologia, 04014-002, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Faculdade Regional de
-  Medicina de São José do Rio Preto, 15090-000, São José do Rio
-  Preto</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, 09060-650, Santo André</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-
-**NCT04680442**: (SCHOLAR-2) Ensaio randomizado avaliando a segurança de
-continuar trastuzumabe, pertuzumabe ou T-DM1 em pacientes com câncer de
-mama HER-2 positivo em estágio inicial com disfunção ventricular
-esquerda leve.
-
-Patrocinador do Estudo: Population Health Research Institute. Número de
-Centros: 4
-
-- [**CNI**: Clínica de Pesquisa e Centro de Estudos em Oncologia
-  Ginecológica e Mamária Ltda 1317000, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04680442&location_id=CLINICADEPESQUISAECENTRODEESTUDOSEMONCOLOGIAGINECOLOGICAEMAMARIALTDASAOPAULOSAOPAULO1317000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cl%C3%ADnica%20de%20Pesquisa%20e%20Centro%20de%20Estudos%20em%20Oncologia%20Ginecol%C3%B3gica%20e%20Mam%C3%A1ria%20Ltda%201317000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
-
-**NCT05429632**: (MO-TRANS) Estudo de Fase III que avalia a eficácia e
-segurança do Mocravimod como tratamento adjuvante e de manutenção em
-pacientes adultos com LMA submetidos a TCT alogênico.
-
-Patrocinador do Estudo: Priothera SAS. Número de Centros: 7
-
-- [**CNI**: Unicamp 13083-878, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05429632&location_id=UNICAMPSAOPAULO13083878BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Unicamp%2013083-878%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
-  Curitiba</span>
-- <span style="color: #808080">SC: CEPON, 88034-000,
-  Florianópolis</span>
-- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
-  05403-010, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-
-**NCT05951179**: (ADVANCED-2) Estudo de fase 2, aberto, que avalia a
-segurança e atividade antitumoral do TARA-002 em adultos com câncer de
-bexiga não invasivo de alto grau, incluindo coortes BCG virgem de
-tratamento e não responsivas.
-
-Patrocinador do Estudo: Protara Therapeutics. Número de Centros: 4
-
-- [**CNI**: Nucleo de Pesquisa Clinica do Rio Grande so Sul 90430-001,
-  Porto Alegre, Rio Grande do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05951179&location_id=NUCLEODEPESQUISACLINICADORIOGRANDESOSULPORTOALEGRERIOGRANDEDOSUL90430001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Nucleo%20de%20Pesquisa%20Clinica%20do%20Rio%20Grande%20so%20Sul%2090430-001%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Santa Casa de Porto Alegre,
-  90035-074, Porto Alegre</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
-  Paulo</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, 09060-650, Santo André</span>
 
 **NCT05477576**: (ACTION-1) Estudo de fase 1b/3 comparando RYZ101 com
 tratamento padrão em pacientes com GEP-NETs avançados, inoperáveis,
@@ -1206,10 +686,10 @@ SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
 
 Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
 
-- [**CNI**: SB Investigative Site - , Curitiba,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Santo André,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITESANTOANDREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Santo%20Andr%C3%A9%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Curitiba,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Porto Alegre,
@@ -1321,47 +801,3 @@ Número de Centros: 1
 - [**CNI**: Núcleo de Praticas Integrativas e Complementares 381000 000,
   Uberaba, Minas
   Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04152109&location_id=NUCLEODEPRATICASINTEGRATIVASECOMPLEMENTARESUBERABAMINASGERAIS381000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20N%C3%BAcleo%20de%20Praticas%20Integrativas%20e%20Complementares%20381000%20000%2C%20Uberaba%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
-
-**NCT05315154**: (VENUS) Estudo prospectivo multicêntrico comparando
-biópsia do linfonodo sentinela versus nenhuma cirurgia axilar em
-mulheres com câncer de mama inicial e status de linfonodo negativo.
-
-Patrocinador do Estudo: University of Campinas, Brazil. Número de
-Centros: 18
-
-- <span style="color: #808080">CE: Hospital Geral de Fortaleza (HGF),
-  60150-160, Fortaleza</span>
-- [**CNI**: Universidade Federal de Goiás - , Goiânia,
-  Goiás](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05315154&location_id=UNIVERSIDADEFEDERALDEGOIASGOIANIAGOIASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Universidade%20Federal%20de%20Goi%C3%A1s%20%20-%20%2C%20Goi%C3%A2nia%2C%20Goi%C3%A1s&form_type=Identificar%20Centro)
-- <span style="color: #808080">GO: Hospital e Maternidade Dona Iris,
-  74845-250, Goiânia</span>
-- <span style="color: #808080">MG: Hospital do Câncer de Muriaé da
-  Fundação Cristiano Varella, 36888-233, Muriaé</span>
-- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
-  30130-100, Belo Horizonte</span>
-- <span style="color: #808080">PE: Hospital Barão de Lucena, 50731-000,
-  Recife</span>
-- <span style="color: #808080">PI: Universidade Federal do Piauí,
-  64049-550, Teresina</span>
-- <span style="color: #808080">PI: Oncocenter, 64049-280,
-  Teresina</span>
-- <span style="color: #808080">PR: Universidade Federal do Paraná,
-  80060-000, Curitiba</span>
-- <span style="color: #808080">RJ: Hospital Federal da Lagoa, 22470-050,
-  Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  90035-903, Porto Alegre</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital da Mulher Prof. Dr. J. A.
-  Pinotti-Caism/Unicamp, 13083-881, Campinas</span>
-- <span style="color: #808080">SP: Hospital da PUC-Campinas, 13034-685,
-  Campinas</span>
-- <span style="color: #808080">SP: Unesp Campus de Botucatu, 18618-687,
-  Botucatu</span>
-- <span style="color: #808080">SP: Hospital da Mulher, 01215-000, São
-  Paulo</span>
-- <span style="color: #808080">SP: Hospital do Servidor Público Estadual
-  Francisco Morato de Oliveira, 04029-000, São Paulo</span>
