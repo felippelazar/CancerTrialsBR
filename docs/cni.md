@@ -528,6 +528,67 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
   Medicina de São José do Rio Preto, 15090-000, São José do Rio
   Preto</span>
 
+**NCT07063745**: (MountainTAP-29) Estudo randomizado de Fase 2/3
+comparando BMS-986504 com pembrolizumabe e quimioterapia versus placebo
+em câncer de pulmão não pequenas células metastático de primeira linha
+com deleção homozigótica de MTAP.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 12
+
+- [**CNI**: Local Institution - 0079 59062-000, Natal, Rio Grande do
+  Norte](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0079NATALRIOGRANDEDONORTE59062000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200079%2059062-000%2C%20Natal%2C%20Rio%20Grande%20do%20Norte&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0081 14784400, Barretos, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0081BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200081%2014784400%2C%20Barretos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0088 29055450, Vitória, Espírito
+  Santo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0088VITORIAESPIRITOSANTO29055450BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200088%2029055450%2C%20Vit%C3%B3ria%2C%20Esp%C3%ADrito%20Santo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0078 01246-000, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0078SAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200078%2001246-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0355 09541-270, São Caetano do Sul, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0355SAOCAETANODOSULSAOPAULO09541270BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200355%2009541-270%2C%20S%C3%A3o%20Caetano%20do%20Sul%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0346 91350-200, Porto Alegre, Rio Grande
+  do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0346PORTOALEGRERIOGRANDEDOSUL91350200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200346%2091350-200%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0076 17033-490, Bauru, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0076BAURUSAOPAULO17033490BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200076%2017033-490%2C%20Bauru%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0351 15090000, São José do Rio Preto,
+  São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0351SAOJOSEDORIOPRETOSAOPAULO15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200351%2015090000%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0085 89010-340, Blumenau, Santa
+  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0085BLUMENAUSANTACATARINA89010340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200085%2089010-340%2C%20Blumenau%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0094 13060-803, Campinas, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0094CAMPINASSAOPAULO13060803BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200094%2013060-803%2C%20Campinas%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Centro de pesquisa -INCA, 20231-050,
+  Rio de Janeiro</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
+**NCT07076121**: Estudo de Fase 2/3 comparando BMS-986504 com
+Nab-paclitaxel/Gemcitabina versus placebo em pacientes com
+Adenocarcinoma Ductal Pancreático metastático não tratado com deleção
+homozigótica de MTAP.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 9
+
+- [**CNI**: Local Institution - 0104 96830-180, Santa Cruz do Sul, Rio
+  Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0104SANTACRUZDOSULRIOGRANDEDOSUL96830180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200104%2096830-180%2C%20Santa%20Cruz%20do%20Sul%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0100 22250-905, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0100RIODEJANEIRO22250905BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200100%2022250-905%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0332 01401-002, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0332SAOPAULO01401002BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200332%2001401-002%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0291 41253-190, Salvador, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0291SALVADORESTADODEBAHIA41253190BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200291%2041253-190%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0074 59062-000, Natal, Rio Grande do
+  Norte](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0074NATALRIOGRANDEDONORTE59062000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200074%2059062-000%2C%20Natal%2C%20Rio%20Grande%20do%20Norte&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0101 30380-472, Belo Horizonte, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0101BELOHORIZONTEMINASGERAIS30380472BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200101%2030380-472%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0075 01246-000, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0075SAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200075%2001246-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0102 29055450, Vitória, Espírito
+  Santo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07076121&location_id=LOCALINSTITUTION0102VITORIAESPIRITOSANTO29055450BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200102%2029055450%2C%20Vit%C3%B3ria%2C%20Esp%C3%ADrito%20Santo&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
@@ -592,6 +653,21 @@ Company. Número de Centros: 4
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
+
+**NCT06863272**: (IDeate-Prostate02) Estudo de fase 1/2 aberto que
+avalia a segurança e eficácia do ifinatamab deruxtecan isolado ou em
+combinação para pacientes com câncer de próstata metastático resistente
+à castração.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 3
+
+- [**CNI**: IPITEC ( Site 0275) 01221-020, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06863272&location_id=IPITECSITE0275SAOPAULO01221020BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20IPITEC%20%28%20Site%200275%29%2001221-020%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
 
 **NCT06525220**: Estudo de fase 3 aberto comparando petosemtamabe mais
 pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
