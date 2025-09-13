@@ -638,6 +638,25 @@ Patrocinador do Estudo: Gilead Sciences. Número de Centros: 8
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
+**NCT06500884**: (Talisman) Estudo de fase 2, aberto e randomizado,
+avaliando intervenções profiláticas para minimizar a toxicidade oral
+relacionada ao talquetamab em termos de ocorrência, gravidade e duração.
+
+Patrocinador do Estudo: Janssen Research & Development, LLC. Número de
+Centros: 5
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- [**CNI**: Clinica Medica Sao Germano S/S LTDA 01455 010, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06500884&location_id=CLINICAMEDICASAOGERMANOSSLTDASAOPAULO01455010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinica%20Medica%20Sao%20Germano%20S%2FS%20LTDA%2001455%20010%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RS: Universidade de Caxias do Sul,
+  95070-560, Caxias do Sul</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
@@ -815,11 +834,14 @@ precoce, positivo para ER, negativo para HER2, com linfonodos positivos
 e alto risco de recorrência.
 
 Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
-23
+24
 
 - [**CNI**: Hospital Universitario y Politecnico La Fe - Oncología
   Médica 46026, Valência,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=HOSPITALUNIVERSITARIOYPOLITECNICOLAFEONCOLOGIAMEDICAVALENCIA46026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Universitario%20y%20Politecnico%20La%20Fe%20-%20Oncolog%C3%ADa%20M%C3%A9dica%2046026%2C%20Val%C3%AAncia%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Instituto Nacional do Cancer - INCA-HC III 20560-120, Rio de
+  Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=INSTITUTONACIONALDOCANCERINCAHCIIIRIODEJANEIRO20560120BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20Nacional%20do%20Cancer%20-%20INCA-HC%20III%2020560-120%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande do
   Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
@@ -854,8 +876,6 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
 - <span style="color: #808080">SP: Clinica OncoStar: Oncologia Clínica,
   Tratamento de Câncer, Quimioterapia, Radioterapia, Oncologistas, Itaim
   Bibi, SP, 04543-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Instituto de Assistência Médica ao
   Servidor Público Estadual de S. Paulo, 04039-000, São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
@@ -866,6 +886,8 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   São Paulo</span>
 - <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
   Paulo</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
