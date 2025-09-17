@@ -793,6 +793,66 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 
+**NCT07128199**: (REZILIENT4) Estudo de fase 3 comparando zipalertinib
+mais quimioterapia adjuvante ao placebo em pacientes com NSCLC estágio
+IB-IIIA com mutações EGFR incomuns após ressecção tumoral.
+
+Patrocinador do Estudo: Taiho Oncology, Inc.. Número de Centros: 26
+
+- <span style="color: #808080">BA: NOB \| Oncoclínicas, 40170-110,
+  Salvador</span>
+- <span style="color: #808080">CE: NOHC - Núcleo de Oncologia e
+  Hematologia do Ceará, 60115-281, Fortaleza</span>
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: Centro de Pesquisa Vencer e Oncoclínica - Teresina
+  64.049-200, Teresina,
+  Piauí](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07128199&location_id=CENTRODEPESQUISAVENCEREONCOCLINICATERESINATERESINAPIAUI64049200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20Vencer%20e%20Oncocl%C3%ADnica%20-%20Teresina%2064.049-200%2C%20Teresina%2C%20Piau%C3%AD&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Onco-Vida Oncologia Clínica,
+  70390-150, Brasília</span>
+- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
+  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
+  Horizonte, 30110-022, Belo Horizonte</span>
+- <span style="color: #808080">MG: Cenatron Centro Avançado de
+  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
+- <span style="color: #808080">PE: IMIP Instituto de Medicina Integral
+  Professor Fernando Figueira, 50070-902, Recife</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital São Vicente de Paulo,
+  99010-080, Passo Fundo</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
+  Maria</span>
+- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
+  Lajeado</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SC: CHO - Centro de Hematologia e
+  Oncologia de Joinville, 89201-260, Joinville</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
+  18030-005, Sorocaba</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Instituto de Assistência Médica ao
+  Servidor Público Estadual de S. Paulo, 04039-000, São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
 Brasil.
