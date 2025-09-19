@@ -436,16 +436,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
-**NCT06131424**: (iRetroBC) Estudo multicêntrico retrospectivo que
-avalia a prevalência de HER2-baixo, características clínicas e
-resultados de tratamento em pacientes com câncer de mama metastático
-HER2-negativo após terapia sistêmica.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 1
-
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06131424&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
 médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
 escamoso após falha de quimioterapia à base de platina de 2017 a 2022.
