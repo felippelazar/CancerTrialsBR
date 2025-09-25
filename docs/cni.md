@@ -488,6 +488,19 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT07190638**: (CORTEX) Ensaio clínico randomizado comparando
+resultados e tempo cirúrgico de suturas córtico-medulares vs. apenas
+medulares em nefrectomia parcial assistida por robô de 2025 a 2027.
+
+Patrocinador do Estudo: Brazilian Institute of Robotic Surgery. Número
+de Centros: 2
+
+- <span style="color: #808080">BA: Hospital MaterDei Salvador,
+  40220-005, Salvador</span>
+- [**CNI**: Brazilian Institute of Robotic Surgery 43017030, Salvador,
+  Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07190638&location_id=BRAZILIANINSTITUTEOFROBOTICSURGERYSALVADORESTADODEBAHIA43017030BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Brazilian%20Institute%20of%20Robotic%20Surgery%2043017030%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+
 **NCT06140836**: (TRIDENT-3) Ensaio de fase 3 comparando repotrectinib e
 crizotinib em pacientes com NSCLC ROS1-positivo e TKI-naïve.
 
@@ -564,6 +577,22 @@ Patrocinador do Estudo: Gilead Sciences. Número de Centros: 8
   Oncologia/Quimioterapia, 88300-000, Itajaí</span>
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
+**NCT06796907**: (BEHOLD-2) Estudo fase I/II randomizado avaliando
+segurança, tolerabilidade, farmacocinética e atividade clínica do
+GSK5733584 com agentes anticâncer em pacientes com tumores sólidos
+avançados.
+
+Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 4
+
+- [**CNI**: GSK Investigational Site 90020-090, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06796907&location_id=GSKINVESTIGATIONALSITEPORTOALEGRE90020090BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2090020-090%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
