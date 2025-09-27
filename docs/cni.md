@@ -580,6 +580,40 @@ Patrocinador do Estudo: Gilead Sciences. Número de Centros: 8
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
+**NCT06256588**: (JADE) Estudo de fase 3, randomizado, duplo-cego,
+controlado por placebo, avaliando Dostarlimab como terapia sequencial
+após quimiorradiação em adultos com CEC de cabeça e pescoço localmente
+avançado não ressecado.
+
+Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 13
+
+- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
+  Salvador</span>
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: GSK Investigational Site 98700-000, Ijuí,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06256588&location_id=GSKINVESTIGATIONALSITEIJUI98700000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2098700-000%2C%20Iju%C3%AD%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: GSK Investigational Site 17210-120, Jaú,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06256588&location_id=GSKINVESTIGATIONALSITEJAU17210120BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2017210-120%2C%20Ja%C3%BA%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
+  Horizonte, 30110-022, Belo Horizonte</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">SC: CHO - Centro de Hematologia e
+  Oncologia de Joinville, 89201-260, Joinville</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+
 **NCT06796907**: (BEHOLD-2) Estudo fase I/II randomizado avaliando
 segurança, tolerabilidade, farmacocinética e atividade clínica do
 GSK5733584 com agentes anticâncer em pacientes com tumores sólidos
