@@ -436,9 +436,9 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
-**NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários
-médicos no Brasil para avaliar desfechos em pacientes com NSCLC não
-escamoso após falha de quimioterapia à base de platina de 2017 a 2022.
+**NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários de
+pacientes brasileiros com NSCLC não escamoso após falha na quimioterapia
+de platina, tratados com terapia sistêmica de 2017 a 2024.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
 
@@ -487,19 +487,6 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT07190638**: (CORTEX) Ensaio clínico randomizado comparando
-resultados e tempo cirúrgico de suturas córtico-medulares vs. apenas
-medulares em nefrectomia parcial assistida por robô de 2025 a 2027.
-
-Patrocinador do Estudo: Brazilian Institute of Robotic Surgery. Número
-de Centros: 2
-
-- <span style="color: #808080">BA: Hospital MaterDei Salvador,
-  40220-005, Salvador</span>
-- [**CNI**: Brazilian Institute of Robotic Surgery 43017030, Salvador,
-  Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07190638&location_id=BRAZILIANINSTITUTEOFROBOTICSURGERYSALVADORESTADODEBAHIA43017030BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Brazilian%20Institute%20of%20Robotic%20Surgery%2043017030%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
 
 **NCT06140836**: (TRIDENT-3) Ensaio de fase 3 comparando repotrectinib e
 crizotinib em pacientes com NSCLC ROS1-positivo e TKI-naïve.
@@ -577,56 +564,6 @@ Patrocinador do Estudo: Gilead Sciences. Número de Centros: 8
   Oncologia/Quimioterapia, 88300-000, Itajaí</span>
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
-**NCT06256588**: (JADE) Estudo de fase 3, randomizado, duplo-cego,
-controlado por placebo, avaliando Dostarlimab como terapia sequencial
-após quimiorradiação em adultos com CEC de cabeça e pescoço localmente
-avançado não ressecado.
-
-Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 13
-
-- <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
-  Salvador</span>
-- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
-  Salvador</span>
-- [**CNI**: GSK Investigational Site 98700-000, Ijuí,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06256588&location_id=GSKINVESTIGATIONALSITEIJUI98700000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2098700-000%2C%20Iju%C3%AD%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: GSK Investigational Site 17210-120, Jaú,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06256588&location_id=GSKINVESTIGATIONALSITEJAU17210120BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2017210-120%2C%20Ja%C3%BA%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
-  Vitória</span>
-- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
-  Horizonte, 30110-022, Belo Horizonte</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">SC: CHO - Centro de Hematologia e
-  Oncologia de Joinville, 89201-260, Joinville</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-
-**NCT06796907**: (BEHOLD-2) Estudo fase I/II randomizado avaliando
-segurança, tolerabilidade, farmacocinética e atividade clínica do
-GSK5733584 com agentes anticâncer em pacientes com tumores sólidos
-avançados.
-
-Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 4
-
-- [**CNI**: GSK Investigational Site 90020-090, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06796907&location_id=GSKINVESTIGATIONALSITEPORTOALEGRE90020090BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2090020-090%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
-  Vitória</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
@@ -845,66 +782,6 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-
-**NCT07128199**: (REZILIENT4) Estudo de fase 3 comparando zipalertinib
-mais quimioterapia adjuvante ao placebo em pacientes com NSCLC estágio
-IB-IIIA com mutações EGFR incomuns após ressecção tumoral.
-
-Patrocinador do Estudo: Taiho Oncology, Inc.. Número de Centros: 26
-
-- <span style="color: #808080">BA: NOB \| Oncoclínicas, 40170-110,
-  Salvador</span>
-- <span style="color: #808080">CE: NOHC - Núcleo de Oncologia e
-  Hematologia do Ceará, 60115-281, Fortaleza</span>
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- [**CNI**: Centro de Pesquisa Vencer e Oncoclínica - Teresina
-  64.049-200, Teresina,
-  Piauí](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07128199&location_id=CENTRODEPESQUISAVENCEREONCOCLINICATERESINATERESINAPIAUI64049200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20Vencer%20e%20Oncocl%C3%ADnica%20-%20Teresina%2064.049-200%2C%20Teresina%2C%20Piau%C3%AD&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Onco-Vida Oncologia Clínica,
-  70390-150, Brasília</span>
-- <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
-  Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
-- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
-  Vitória</span>
-- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
-  Horizonte, 30110-022, Belo Horizonte</span>
-- <span style="color: #808080">MG: Cenatron Centro Avançado de
-  Tratamento Oncológico, 30130-090, Belo Horizonte</span>
-- <span style="color: #808080">PE: IMIP Instituto de Medicina Integral
-  Professor Fernando Figueira, 50070-902, Recife</span>
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
-  Ensino, 22281-100, Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital São Vicente de Paulo,
-  99010-080, Passo Fundo</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">RS: Clínica Viver, 97010-200, Santa
-  Maria</span>
-- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
-  Lajeado</span>
-- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
-  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
-- <span style="color: #808080">SC: CHO - Centro de Hematologia e
-  Oncologia de Joinville, 89201-260, Joinville</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
-  18030-005, Sorocaba</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: Instituto de Assistência Médica ao
-  Servidor Público Estadual de S. Paulo, 04039-000, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
