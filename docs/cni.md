@@ -406,6 +406,31 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
 
+**NCT07044336**: (Bluestar-Endometrial01) Estudo de fase III randomizado
+comparando puxitatug samrotecan à quimioterapia em câncer endometrial
+avançado/metastático B7-H4 selecionado após terapia com platina e
+anti-PD-1/PD-L1.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 8
+
+- [**CNI**: Research Site 59062-000, Natal,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07044336&location_id=RESEARCHSITENATAL59062000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2059062-000%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
+  Atendimento, Emergência, Maternidade Recife PE, 50070-490,
+  Recife</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
+  18030-005, Sorocaba</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+- <span style="color: #808080">SP: Centro de Oncologia CEON+ São
+  Caetano, 09541-270, São Caetano do Sul</span>
+
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
@@ -517,6 +542,34 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 - <span style="color: #808080">SP: Fundação Faculdade Regional de
   Medicina de São José do Rio Preto, 15090-000, São José do Rio
   Preto</span>
+
+**NCT06926868**: (TNBC-Study) Estudo randomizado de Fase 2/3 comparando
+Izalontamab Brengitecan à escolha do médico em pacientes com TNBC
+metastático ou BC ER-baixo, HER2-negativo não elegíveis para terapia
+anti-PD1/PD-L1.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 10
+
+- <span style="color: #808080">CE: Oncocentro Ceará - Oncologia
+  Integrada, 60135-237, Fortaleza</span>
+- [**CNI**: Local Institution - 0148 14784400, Barretos, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06926868&location_id=LOCALINSTITUTION0148BARRETOSSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200148%2014784400%2C%20Barretos%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0159 81480-580, Curitiba,
+  Paraná](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06926868&location_id=LOCALINSTITUTION0159CURITIBAPARANA81480580BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200159%2081480-580%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
+  29055-450, Vitória</span>
+- <span style="color: #808080">N/A: N/A, NA, NA</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
 
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
@@ -680,14 +733,14 @@ Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITESANTOANDREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Santo%20Andr%C3%A9%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Curitiba,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: SB Investigative Site - , Pelotas,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPELOTASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Pelotas%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: SB Investigative Site - , Pelotas,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEPELOTASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Pelotas%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Florianópolis,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
