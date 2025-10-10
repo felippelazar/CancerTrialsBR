@@ -539,6 +539,30 @@ Patrocinador do Estudo: Gilead Sciences. Número de Centros: 9
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
+**NCT05633667**: (VELOCITY-Lung) Estudo de plataforma de Fase 2
+avaliando a segurança e eficácia de novas combinações de tratamento em
+pacientes com NSCLC não tratados, previamente tratados e ressecáveis.
+
+Patrocinador do Estudo: Gilead Sciences. Número de Centros: 8
+
+- [**CNI**: Fundação Pio XII - Hospital de Amor,Substudy-01 14784-400,
+  Barretos,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05633667&location_id=FUNDACAOPIOXIIHOSPITALDEAMORSUBSTUDY01BARRETOS14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Funda%C3%A7%C3%A3o%20Pio%20XII%20-%20Hospital%20de%20Amor%2CSubstudy-01%2014784-400%2C%20Barretos%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
