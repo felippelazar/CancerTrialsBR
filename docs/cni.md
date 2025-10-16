@@ -488,6 +488,23 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT07106762**: (IZABRIGHT-Bladder01) Ensaio randomizado, aberto, de
+Fase 2/3 comparando Izalontamab Brengitecan à quimioterapia à base de
+platina em pacientes com câncer urotelial metastático após progressão
+pós-imunoterapia.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
+
+- [**CNI**: Local Institution - 0121 90610-000, Porto Alegre, Rio Grande
+  do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07106762&location_id=LOCALINSTITUTION0121PORTOALEGRERIOGRANDEDOSUL90610000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200121%2090610-000%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0129 41253-190, Salvador, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07106762&location_id=LOCALINSTITUTION0129SALVADORESTADODEBAHIA41253190BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200129%2041253-190%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0124 01452-000, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07106762&location_id=LOCALINSTITUTION0124SAOPAULO01452000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200124%2001452-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Local Institution - 0130 22451-100, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07106762&location_id=LOCALINSTITUTION0130RIODEJANEIRO22451100BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200130%2022451-100%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+
 **NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
 gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
 câncer de mama avançado HR+/HER2- após tratamento com inibidor de
@@ -701,40 +718,48 @@ precoce, positivo para ER, negativo para HER2, com linfonodos positivos
 e alto risco de recorrência.
 
 Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
-24
+28
 
+- [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Instituto do Cancer do Estado de Sao Paulo (ICESP)
+  01246-000, Barueri, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=INSTITUTODOCANCERDOESTADODESAOPAULOICESPBARUERISAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20do%20Cancer%20do%20Estado%20de%20Sao%20Paulo%20%28ICESP%29%2001246-000%2C%20Barueri%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
 - [**CNI**: Hospital Universitario y Politecnico La Fe - Oncología
   Médica 46026, Valência,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=HOSPITALUNIVERSITARIOYPOLITECNICOLAFEONCOLOGIAMEDICAVALENCIA46026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Universitario%20y%20Politecnico%20La%20Fe%20-%20Oncolog%C3%ADa%20M%C3%A9dica%2046026%2C%20Val%C3%AAncia%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
-  29055-450, Vitória</span>
+- [**CNI**: Instituto D’Or de Pesquisa e Ensino (Oncocentro Servicos
+  Medicos e Hospitalares LTDA) 61160-070, Fortaleza,
+  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=INSTITUTODORDEPESQUISAEENSINOONCOCENTROSERVICOSMEDICOSEHOSPITALARESLTDAFORTALEZACEARA61160070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20D%27Or%20de%20Pesquisa%20e%20Ensino%20%28Oncocentro%20Servicos%20Medicos%20e%20Hospitalares%20LTDA%29%2061160-070%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Centro de Pesquisas Clínicas em
   Oncologia, 29308-014, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
+  29055-450, Vitória</span>
 - <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
   74605-070, Goiânia</span>
 - <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
   Horizonte, 30110-022, Belo Horizonte</span>
+- <span style="color: #808080">PA: CTO - Centro de Tratamento
+  Oncológico, 66063-495, Belém</span>
 - <span style="color: #808080">PR: Hospital Santa Cruz: Pronto
   Atendimento, Urgência, Emergência Curitiba PR, 80420-090,
   Curitiba</span>
-- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
-  86015-520, Londrina</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
 - <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
   Câncer IV, 20560-121, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
 - <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
   Porto Velho</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">RS: Sociedade Beneficência e Caridade de
   Lajeado, 95900-000, Lajeado</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
   90610-001, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, 88034-000,
   Florianópolis</span>
 - <span style="color: #808080">SC: Neoplasias Litoral -
@@ -742,18 +767,20 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
 - <span style="color: #808080">SP: Clinica OncoStar: Oncologia Clínica,
   Tratamento de Câncer, Quimioterapia, Radioterapia, Oncologistas, Itaim
   Bibi, SP, 04543-000, São Paulo</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Instituto de Assistência Médica ao
   Servidor Público Estadual de S. Paulo, 04039-000, São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
   do Rio Preto</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
 - <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
   Paulo</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
