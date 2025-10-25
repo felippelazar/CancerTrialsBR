@@ -675,6 +675,29 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 
+**NCT05951179**: (ADVANCED-2) Estudo de fase 2, aberto, que avalia a
+segurança e atividade antitumoral do TARA-002 em adultos com câncer de
+bexiga não invasivo de alto grau, incluindo coortes BCG virgem de
+tratamento e não responsivas.
+
+Patrocinador do Estudo: Protara Therapeutics. Número de Centros: 7
+
+- [**CNI**: Kyushu University Hospital 34006-059, Nova Lima, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05951179&location_id=KYUSHUUNIVERSITYHOSPITALNOVALIMAMINASGERAIS34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Kyushu%20University%20Hospital%2034006-059%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Fuji City General Hospital 34006-059, Nova Lima, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05951179&location_id=FUJICITYGENERALHOSPITALNOVALIMAMINASGERAIS34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Fuji%20City%20General%20Hospital%2034006-059%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Office of Lucas Nougeria MA 34006-059, Nova Lima, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05951179&location_id=OFFICEOFLUCASNOUGERIAMANOVALIMAMINASGERAIS34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Office%20of%20Lucas%20Nougeria%20MA%2034006-059%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Santa Casa de Porto Alegre,
+  90035-074, Porto Alegre</span>
+- <span style="color: #808080">RS: Núcleo de Pesquisa Clínica do Rio
+  Grande do Sul, 90430-001, Porto Alegre</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+
 **NCT05477576**: (ACTION-1) Estudo de fase 1b/3 comparando RYZ101 com
 tratamento padrão em pacientes com GEP-NETs avançados, inoperáveis,
 SSTR+ após terapia com 177Lu-SSA.
