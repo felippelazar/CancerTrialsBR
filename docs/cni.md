@@ -440,18 +440,30 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 pacientes brasileiros com NSCLC não escamoso após falha na quimioterapia
 de platina, tratados com terapia sistêmica de 2017 a 2024.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 
 - [**CNI**: Research Site 01333-010, São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06491862&location_id=RESEARCHSITESAOPAULO01333010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001333-010%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 01509-010, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06491862&location_id=RESEARCHSITESAOPAULO01509010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2001509-010%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 30380-420, Belo Horizonte, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06491862&location_id=RESEARCHSITEBELOHORIZONTEMINASGERAIS30380420BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2030380-420%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 30110-934, Belo Horizonte, Minas
+  Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06491862&location_id=RESEARCHSITEBELOHORIZONTEMINASGERAIS30110934BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2030110-934%2C%20Belo%20Horizonte%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 15090-000, São José do Rio Preto, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06491862&location_id=RESEARCHSITESAOJOSEDORIOPRETOSAOPAULO15090000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2015090-000%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 90560-032, Porto Alegre, Rio Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06491862&location_id=RESEARCHSITEPORTOALEGRERIOGRANDEDOSUL90560032BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090560-032%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
-- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
-  05652-900, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
+  05652-900, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
+  Paulo</span>
 
 **NCT06676436**: (REALNESS) Estudo observacional que analisa padrões de
 tratamento e resultados em pacientes brasileiros com câncer de mama
@@ -565,6 +577,38 @@ Patrocinador do Estudo: Gilead Sciences. Número de Centros: 9
   São Paulo</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
+**NCT06801834**: (EVOKE-SCLC-04) Estudo global de fase 3 comparando
+sacituzumab govitecan ao tratamento padrão em pacientes com câncer de
+pulmão de pequenas células em estágio extenso previamente tratados,
+focando na taxa de resposta e sobrevivência.
+
+Patrocinador do Estudo: Gilead Sciences. Número de Centros: 12
+
+- <span style="color: #808080">CE: ICC - Instituto do Câncer do Ceará,
+  60430-230, Fortaleza</span>
+- [**CNI**: Hospital de Caridade de Ijui 98700-000, Ijuí,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06801834&location_id=HOSPITALDECARIDADEDEIJUIIJUI98700000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20de%20Caridade%20de%20Ijui%2098700-000%2C%20Iju%C3%AD%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Fundação Pio XII - Hospital de Amor 14784400, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06801834&location_id=FUNDACAOPIOXIIHOSPITALDEAMORSAOPAULO14784400BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Funda%C3%A7%C3%A3o%20Pio%20XII%20-%20Hospital%20de%20Amor%2014784400%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, 30360-680, Belo Horizonte</span>
+- <span style="color: #808080">PE: IMIP Instituto de Medicina Integral
+  Professor Fernando Figueira, 50070-902, Recife</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Hemomed Instituto de Oncologia e
+  Hematologia - São Paulo, 01236-030, São Paulo</span>
+- <span style="color: #808080">SP: HB Onco Rio Preto, 15090-000, São
+  José do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
