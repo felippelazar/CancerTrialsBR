@@ -374,6 +374,40 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital Israelita Albert Einstein,
   05652-900, São Paulo</span>
 
+**NCT06952803**: (EvoPAR-Prostate02) Estudo de fase III, randomizado,
+duplo-cego, controlado por placebo, avaliando Saruparib (AZD5305) com
+radioterapia e ADT em pacientes com câncer de próstata de alto risco
+BRCAm.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
+
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: Research Site - , Curitiba,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06952803&location_id=RESEARCHSITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Evangélico de Cachoeiro de
+  Itapemirim, 29308-020, Cachoeiro de Itapemirim</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
+- <span style="color: #808080">RS: Clinica Lacks, 96020-080,
+  Pelotas</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+
 **NCT06989112**: (DESTINY-Endometrial01) Estudo multicêntrico de fase
 III comparando T-DXd mais rilvegostomig ou pembrolizumab versus
 quimioterapia mais pembrolizumab em câncer endometrial avançado ou
@@ -399,12 +433,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
   Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
-  São Paulo</span>
 
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
@@ -547,6 +581,42 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
+
+**NCT07174336**: (PIKALO-2) Estudo fase 3, randomizado, duplo-cego
+avaliando LY4064809 com inibidor de CDK4/6 e terapia endócrina em câncer
+de mama avançado HR+, HER2- com mutação PIK3CA não tratado.
+
+Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 14
+
+- <span style="color: #808080">CE: ICC - Instituto do Câncer do Ceará,
+  60430-230, Fortaleza</span>
+- [**CNI**: Instituto Atena de Pesquisa Clinica - Mossoró 59603-020,
+  Mossoró,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07174336&location_id=INSTITUTOATENADEPESQUISACLINICAMOSSOROMOSSORO59603020BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20Atena%20de%20Pesquisa%20Clinica%20-%20Mossor%C3%B3%2059603-020%2C%20Mossor%C3%B3%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: ACCG - Hospital Araújo Jorge,
+  74605-070, Goiânia</span>
+- <span style="color: #808080">MA: Hospital São Domingos, 65060-645, São
+  Luís</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+- <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
+  (Centro Hospitalar), 01221-020, São Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Santa Catarina - Paulista,
+  01310-000, São Paulo</span>
 
 **NCT06486441**: (ASCENT-GYN-01) Estudo de fase 3, randomizado e aberto,
 comparando sacituzumab govitecan ao tratamento à escolha do médico em
