@@ -110,7 +110,7 @@ camizestrant à terapia endócrina padrão em pacientes com câncer de mama
 precoce ER+/HER2- com risco intermediário/alto de recidiva pós-terapia
 locorregional.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 43
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
@@ -126,14 +126,14 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Brasília</span>
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
+- <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
+  Alegre, 37554-216, Pouso Alegre</span>
 - <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
   30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MG: Santa Casa BH, 30150-221, Belo
   Horizonte</span>
 - <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
   37130-087, Alfenas</span>
-- <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
-  Alegre, 37554-216, Pouso Alegre</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
   79601-001, Três Lagoas</span>
 - <span style="color: #808080">MT: Oncolog - Oncologia, Hematologia,
@@ -172,10 +172,14 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Chapecó</span>
 - <span style="color: #808080">SP: IEP - Instituto Hemomed, 01236-030,
   São Paulo</span>
+- <span style="color: #808080">SP: BP Mirante, 01323-001, São
+  Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
   Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
 - <span style="color: #808080">SP: Saúde Inteligente - Santa Casa Saude
   Piracicaba, 13419-155, Piracicaba</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
@@ -194,8 +198,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
   Paulo</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
-  São Paulo</span>
 
 **NCT05952557**: (CAMBRIA-2) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -618,35 +620,6 @@ Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 14
 - <span style="color: #808080">SP: Hospital Santa Catarina - Paulista,
   01310-000, São Paulo</span>
 
-**NCT06486441**: (ASCENT-GYN-01) Estudo de fase 3, randomizado e aberto,
-comparando sacituzumab govitecan ao tratamento à escolha do médico em
-pacientes com câncer endometrial após quimioterapia com platina e
-imunoterapia.
-
-Patrocinador do Estudo: Gilead Sciences. Número de Centros: 9
-
-- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
-  Salvador</span>
-- [**CNI**: Centro de Pesquisa Clínica do Hospital Moinhos de Vento
-  90035001, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=CENTRODEPESQUISACLINICADOHOSPITALMOINHOSDEVENTOPORTOALEGRE90035001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20Cl%C3%ADnica%20do%20Hospital%20Moinhos%20de%20Vento%2090035001%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Instituto D’Or Pesquisa e Ensino 22281-100, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=INSTITUTODORPESQUISAEENSINORIODEJANEIRO22281100BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20D%27Or%20Pesquisa%20e%20Ensino%2022281-100%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: BP - A Beneficência Portuguesa da São Paulo / Hospital BP
-  Mirante 01321-001, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=BPABENEFICENCIAPORTUGUESADASAOPAULOHOSPITALBPMIRANTESAOPAULO01321001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20BP%20-%20A%20Benefic%C3%AAncia%20Portuguesa%20da%20S%C3%A3o%20Paulo%20%2F%20Hospital%20BP%20Mirante%2001321-001%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: AC Camargo Cancer Center (Fundação Antonio Prudente)
-  01509-900, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06486441&location_id=ACCAMARGOCANCERCENTERFUNDACAOANTONIOPRUDENTESAOPAULO01509900BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20AC%20Camargo%20Cancer%20Center%20%28Funda%C3%A7%C3%A3o%20Antonio%20Prudente%29%2001509-900%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PE: Hospital Santa Joana Recife,
-  52011-906, Recife</span>
-- <span style="color: #808080">SC: Neoplasias Litoral -
-  Oncologia/Quimioterapia, 88300-000, Itajaí</span>
-- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
-  São Paulo</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
@@ -688,32 +661,6 @@ Patrocinador do Estudo: Merus N.V.. Número de Centros: 9
   04538-132, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
-
-**NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
-pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
-mutação KRAS G12C.
-
-Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 10
-
-- [**CNI**: Local Institution - 007-459 91350-200, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04613596&location_id=LOCALINSTITUTION007459PORTOALEGRE91350200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20007-459%2091350-200%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
-  Lajeado</span>
-- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
-  do Rio Preto</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
 
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
@@ -779,8 +726,6 @@ SB27 vs. Keytruda em pacientes com NSCLC metastático não-escamoso.
 
 Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
 
-- [**CNI**: SB Investigative Site - , Santo André,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITESANTOANDREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Santo%20Andr%C3%A9%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Curitiba,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: SB Investigative Site - , Pelotas,
@@ -794,6 +739,8 @@ Patrocinador do Estudo: Samsung Bioepis Co., Ltd.. Número de Centros: 8
 - [**CNI**: SB Investigative Site - , Florianópolis,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06348199&location_id=SBINVESTIGATIVESITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20SB%20Investigative%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
 
 **NCT06153238**: Estudo randomizado e duplo-cego comparando a
 farmacocinética do GME751 e Keytruda® em pacientes com melanoma estágio
