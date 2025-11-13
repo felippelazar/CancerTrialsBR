@@ -584,6 +584,70 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
+**NCT06578247**: (QuANTUM-WILD) Estudo de Fase 3 comparando Quizartinib
+com placebo junto à quimioterapia em adultos com leucemia mieloide aguda
+FLT3-ITD negativa recém-diagnosticada.
+
+Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 22
+
+- <span style="color: #808080">CE: Hospital Universitário Walter
+  Cantídio, 60430-372, Fortaleza</span>
+- [**CNI**: Sírio-Libanês Brasilia-Centro de Oncologia-Asa Sul - , São
+  Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06578247&location_id=SIRIOLIBANESBRASILIACENTRODEONCOLOGIAASASULSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20S%C3%ADrio-Liban%C3%AAs%20Brasilia-Centro%20de%20Oncologia-Asa%20Sul%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Hospital das Clínicas da UFG /
+  EBSERH, 74605-050, Goiânia</span>
+- <span style="color: #808080">GO: Hospital das Clínicas da UFG /
+  EBSERH, 74605-050, Goiânia</span>
+- <span style="color: #808080">MG: Cetus Oncologia - Unidade Belo
+  Horizonte, 30110-022, Belo Horizonte</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">RS: Santa Casa de Porto Alegre,
+  90035-074, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Ernesto Dornelles,
+  90160-092, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Passo Fundo,
+  99010-260, Passo Fundo</span>
+- <span style="color: #808080">SC: CEPON, 88034-000,
+  Florianópolis</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: UNESP-FMB: Administração, 18618-687,
+  Botucatu</span>
+- <span style="color: #808080">SP: Hemocentro Unicamp, 13083-878,
+  Campinas</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
+  São Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+
+**NCT06578247**: (QuANTUM-WILD) Estudo de Fase 3 comparando Quizartinib
+com placebo junto à quimioterapia em adultos com leucemia mieloide aguda
+FLT3-ITD negativa recém-diagnosticada.
+
+Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 2
+
+- <span style="color: #808080">CE: Hospital Universitário Walter
+  Cantídio, 60430-372, Fortaleza</span>
+- <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
+  São Paulo</span>
+
 **NCT07174336**: (PIKALO-2) Estudo fase 3, randomizado, duplo-cego
 avaliando LY4064809 com inibidor de CDK4/6 e terapia endócrina em câncer
 de mama avançado HR+, HER2- com mutação PIK3CA não tratado.
@@ -619,6 +683,27 @@ Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 14
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Santa Catarina - Paulista,
   01310-000, São Paulo</span>
+
+**NCT07213804**: (FRAmework-01) Estudo de fase 3 comparando LY4170156
+com quimioterapia ou mirvetuximabe soravtansina em câncer de ovário
+resistente a platina, e LY4170156 mais bevacizumabe versus quimioterapia
+à base de platina mais bevacizumabe em câncer de ovário sensível a
+platina.
+
+Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 6
+
+- <span style="color: #808080">BA: AMO - Rio Vermelho, 41950-640,
+  Salvador</span>
+- [**CNI**: CPAM - Centro de Pesquisas da Amazônia 66063-495, Belém,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07213804&location_id=CPAMCENTRODEPESQUISASDAAMAZONIABELEM66063495BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CPAM%20-%20Centro%20de%20Pesquisas%20da%20Amaz%C3%B4nia%2066063-495%2C%20Bel%C3%A9m%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
+  Rio de Janeiro</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SP: Centro de Oncologia CEON+ São
+  Caetano, 09541-270, São Caetano do Sul</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
@@ -683,6 +768,56 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
+
+**NCT06152575**: Estudo de fase 3, aberto, comparando monoterapia com
+elranatamab a EPd, PVd ou Kd em adultos com mieloma múltiplo
+recidivante/refratário após terapia anti-CD38.
+
+Patrocinador do Estudo: Pfizer. Número de Centros: 20
+
+- [**CNI**: INSUMA 04086-011, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06152575&location_id=INSUMASAOPAULO04086011BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20INSUMA%2004086-011%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">N/A: Oncomed Niterói Icaraí, 24220-300,
+  NA</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, 22793-080, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital Samaritano, 01232-010, São
+  Paulo</span>
+- <span style="color: #808080">SP: Escola Paulista de Medicina da
+  Universidade Federal de São Paulo (EPM/UNIFESP), 04023-062, São
+  Paulo</span>
+- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
+  Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: SPDM Associação Paulista para
+  Desenvolvimento da Medicina Hsp, 04024-002, São Paulo</span>
+- <span style="color: #808080">SP: Hcor, 04004-030, São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
 
 **NCT05951179**: (ADVANCED-2) Estudo de fase 2, aberto, que avalia a
 segurança e atividade antitumoral do TARA-002 em adultos com câncer de
