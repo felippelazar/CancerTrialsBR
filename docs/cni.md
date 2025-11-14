@@ -126,14 +126,14 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 43
   Brasília</span>
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
+- <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
+  37130-087, Alfenas</span>
 - <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
   Alegre, 37554-216, Pouso Alegre</span>
 - <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
   30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MG: Santa Casa BH, 30150-221, Belo
   Horizonte</span>
-- <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
-  37130-087, Alfenas</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
   79601-001, Três Lagoas</span>
 - <span style="color: #808080">MT: Oncolog - Oncologia, Hematologia,
