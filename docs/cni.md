@@ -584,6 +584,20 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
 
+**NCT06885034**: Estudo multicêntrico de Fase 1b/2 aberto que avalia a
+eficácia e segurança do GSK5764227 isolado e em combinação em pacientes
+com tumores gastrointestinais avançados ou metastáticos previamente
+tratados.
+
+Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 3
+
+- [**CNI**: GSK Investigational Site 90850-170, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06885034&location_id=GSKINVESTIGATIONALSITEPORTOALEGRE90850170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2090850-170%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
+  64049-200, Teresina</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
