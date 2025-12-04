@@ -516,6 +516,19 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 - [**CNI**: Research Site - , São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
+**NCT07070128**: (STAR-BREAST) Estudo observacional retrospectivo que
+utiliza ferramenta de IA via WhatsApp para prever risco genético de
+câncer de mama em mulheres acima de 18 anos identificadas como alto
+risco por especialistas.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 3
+
+- [**CNI**: Research Site 90035-903, Porto Alegre, Rio Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07070128&location_id=RESEARCHSITEPORTOALEGRERIOGRANDEDOSUL90035903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090035-903%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: RAN ICMBio, 74605-090, Goiânia</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
+
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
 recém-diagnosticados ou recorrentes no Brasil a partir de janeiro de
