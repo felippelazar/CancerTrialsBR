@@ -516,19 +516,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 - [**CNI**: Research Site - , São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06676436&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT07070128**: (STAR-BREAST) Estudo observacional retrospectivo que
-utiliza ferramenta de IA via WhatsApp para prever risco genético de
-câncer de mama em mulheres acima de 18 anos identificadas como alto
-risco por especialistas.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 3
-
-- [**CNI**: Research Site 90035-903, Porto Alegre, Rio Grande do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07070128&location_id=RESEARCHSITEPORTOALEGRERIOGRANDEDOSUL90035903BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090035-903%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">GO: RAN ICMBio, 74605-090, Goiânia</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
-  90035-007, Porto Alegre</span>
-
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
 recém-diagnosticados ou recorrentes no Brasil a partir de janeiro de
@@ -596,33 +583,6 @@ Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-
-**NCT06819007**: (DESTINY-Ovarian01/ENGOT-ov89/GEICO144-O/GOG-3112)
-Estudo de fase 3 comparando Trastuzumab Deruxtecan com Bevacizumab
-versus Bevacizumab isolado em pacientes com câncer de ovário avançado
-expressando HER2.
-
-Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 9
-
-- [**CNI**: Oncocentro Belo Horizonte - , Belo Horizonte,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06819007&location_id=ONCOCENTROBELOHORIZONTEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Oncocentro%20Belo%20Horizonte%20%20-%20%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
-  Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Centro de Oncologia CEON + Santo
-  André, 09090-401, Santo André</span>
-- <span style="color: #808080">SP: Fundação Faculdade Regional de
-  Medicina de São José do Rio Preto, 15090-000, São José do Rio
-  Preto</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
