@@ -562,28 +562,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
 
-**NCT05501886**: (VIKTORIA-1) Estudo de fase 3, aberto, comparando
-gedatolisib com fulvestranto, com/sem palbociclibe, a terapias padrão em
-câncer de mama avançado HR+/HER2- após tratamento com inibidor de
-CDK4/6.
-
-Patrocinador do Estudo: Celcuity Inc. Número de Centros: 7
-
-- <span style="color: #808080">CE: Pronutrir: Oncologia, Tratamento de
-  câncer em Fortaleza CE, 60810-180, Fortaleza</span>
-- [**CNI**: Bahia Oncology Center - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05501886&location_id=BAHIAONCOLOGYCENTERSALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Bahia%20Oncology%20Center%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Juiz de Fora Eurolatino Research Center - , Minas Gerais,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05501886&location_id=JUIZDEFORAEUROLATINORESEARCHCENTERMINASGERAISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Juiz%20de%20Fora%20Eurolatino%20Research%20Center%20%20-%20%2C%20Minas%20Gerais%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PA: CTO - Centro de Tratamento
-  Oncológico, 66063-495, Belém</span>
-- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
-  01525-001, São Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
-  Paulo</span>
-
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
