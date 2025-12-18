@@ -403,12 +403,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
   90035-007, Porto Alegre</span>
 - <span style="color: #808080">RS: Clinica Lacks, 96020-080,
   Pelotas</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
-  01323-020, São Paulo</span>
 
 **NCT06989112**: (DESTINY-Endometrial01) Estudo multicêntrico de fase
 III comparando T-DXd mais rilvegostomig ou pembrolizumab versus
