@@ -562,6 +562,30 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
 
+**NCT07221357**: (ROSETTA CRC-203) Estudo fase 2/3, duplo-cego e
+randomizado, comparando pumitamig mais quimioterapia versus bevacizumabe
+mais quimioterapia em pacientes com câncer colorretal irressecável ou
+metastático não tratado.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 7
+
+- [**CNI**: Local Institution - 0268 01246-000, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07221357&location_id=LOCALINSTITUTION0268SAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200268%2001246-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Associação Brasil SGI, 81540-300,
+  Curitiba</span>
+- <span style="color: #808080">RN: SRA/RN Superintendência Regional de
+  Administração do Ministério da Gestão e Inovação no Rio Grande do
+  Norte, 59015-290, Natal</span>
+- <span style="color: #808080">RS: Instituto Penal Feminino de Porto
+  Alegre, 90690-000, Porto Alegre</span>
+- <span style="color: #808080">RS: A Igreja de Jesus Cristo dos Santos
+  dos Últimos Dias, 96810-330, Santa Cruz do Sul</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: Campus São Paulo \| Instituto Federal
+  de Educação, Ciência e Tecnologia de São Paulo \|, 01109-010, São
+  Paulo</span>
+
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
 com mieloma múltiplo recidivante ou refratário expostos ao Lenalidomida.
@@ -713,37 +737,6 @@ Patrocinador do Estudo: RayzeBio, Inc.. Número de Centros: 3
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYRIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Facility - , Brasília,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYBRASILIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT06153238**: Estudo randomizado e duplo-cego comparando a
-farmacocinética do GME751 e Keytruda® em pacientes com melanoma estágio
-II e III necessitando de tratamento adjuvante com pembrolizumabe.
-
-Patrocinador do Estudo: Sandoz. Número de Centros: 12
-
-- [**CNI**: Sandoz Investigational Site - , Itajaí,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEITAJAIBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Itaja%C3%AD%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Fortaleza,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Florianópolis,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Canoas,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITECANOASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Canoas%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Caxias do Sul,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITECAXIASDOSULBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Caxias%20do%20Sul%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Belo Horizonte,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , São José do Rio Preto,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITESAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Sandoz Investigational Site - , Porto Velho,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOVELHOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Velho%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Novartis Biociências S/A, 80250-210,
-  Curitiba</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
 
 **NCT06492616**: (ELEGANT) Estudo global de Fase 3 comparando
 elacestrant à terapia endócrina padrão em pacientes com câncer de mama
