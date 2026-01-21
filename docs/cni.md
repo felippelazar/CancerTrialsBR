@@ -397,12 +397,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
   Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
   Janeiro</span>
+- <span style="color: #808080">RS: Clinica Lacks, 96020-080,
+  Pelotas</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
   90035-007, Porto Alegre</span>
-- <span style="color: #808080">RS: Clinica Lacks, 96020-080,
-  Pelotas</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
@@ -523,14 +523,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -755,10 +755,10 @@ Patrocinador do Estudo: RayzeBio, Inc.. Número de Centros: 3
 
 - [**CNI**: Research Facility - , São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Facility - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYRIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Facility - , Brasília,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYBRASILIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Facility - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYRIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT06492616**: (ELEGANT) Estudo global de Fase 3 comparando
 elacestrant à terapia endócrina padrão em pacientes com câncer de mama
