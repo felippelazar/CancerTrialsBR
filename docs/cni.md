@@ -410,6 +410,30 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
+**NCT06960577**: (NIAGARA-2) Estudo global de Fase IIIb avaliando
+durvalumabe perioperatório com ddMVAC neoadjuvante ou
+gemcitabina/cisplatina em pacientes com câncer de bexiga invasivo
+muscular.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 8
+
+- [**CNI**: Research Site 20230-130, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06960577&location_id=RESEARCHSITERIODEJANEIRO20230130BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2020230-130%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site 17210-080, Jaú,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06960577&location_id=RESEARCHSITEJAU17210080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2017210-080%2C%20Ja%C3%BA%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
+  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+
 **NCT06989112**: (DESTINY-Endometrial01) Estudo multicêntrico de fase
 III comparando T-DXd mais rilvegostomig ou pembrolizumab versus
 quimioterapia mais pembrolizumab em câncer endometrial avançado ou
@@ -523,14 +547,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -561,6 +585,28 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT07195695**: BEAMION LUNG-3: Ensaio randomizado e controlado que
+compara zongertinibe adjuvante ao tratamento padrão em adultos com CPNPC
+inicial ressecado com mutações ativadoras do domínio tirosina quinase do
+HER2.
+
+Patrocinador do Estudo: Boehringer Ingelheim. Número de Centros: 7
+
+- [**CNI**: NewData Clinical Research - Maceió 57020-360, Maceió,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07195695&location_id=NEWDATACLINICALRESEARCHMACEIOMACEIO57020360BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20NewData%20Clinical%20Research%20-%20Macei%C3%B3%2057020-360%2C%20Macei%C3%B3%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Oncology Group - Unidade
+  Oncoclinicas, 59020-505, Natal</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
 
 **NCT07106762**: (IZABRIGHT-Bladder01) Ensaio randomizado, aberto, de
 Fase 2/3 comparando Izalontamab Brengitecan à quimioterapia à base de
