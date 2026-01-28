@@ -547,14 +547,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -805,8 +805,10 @@ segurança e atividade antitumoral do TARA-002 em adultos com câncer de
 bexiga não invasivo de alto grau, incluindo coortes BCG virgem de
 tratamento e não responsivas.
 
-Patrocinador do Estudo: Protara Therapeutics. Número de Centros: 8
+Patrocinador do Estudo: Protara Therapeutics. Número de Centros: 10
 
+- [**CNI**: Komaki City Hospital 91350-200, Porto Alegre, Rio Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05951179&location_id=KOMAKICITYHOSPITALPORTOALEGRERIOGRANDEDOSUL91350200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Komaki%20City%20Hospital%2091350-200%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
 - [**CNI**: Kyushu University Hospital 34006-059, Nova Lima, Minas
   Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05951179&location_id=KYUSHUUNIVERSITYHOSPITALNOVALIMAMINASGERAIS34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Kyushu%20University%20Hospital%2034006-059%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
 - [**CNI**: Fuji City General Hospital 34006-059, Nova Lima, Minas
@@ -815,12 +817,14 @@ Patrocinador do Estudo: Protara Therapeutics. Número de Centros: 8
   Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05951179&location_id=OFFICEOFLUCASNOUGERIAMANOVALIMAMINASGERAIS34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Office%20of%20Lucas%20Nougeria%20MA%2034006-059%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Santa Casa de Porto Alegre,
   90035-074, Porto Alegre</span>
+- <span style="color: #808080">RS: Central de Urologia RS, 90020-170,
+  Porto Alegre</span>
 - <span style="color: #808080">RS: Núcleo de Pesquisa Clínica do Rio
   Grande do Sul, 90430-001, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital de Clínicas, 13083-888,
-  Campinas</span>
 - <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
   de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">SP: Hospital de Clínicas, 13083-888,
+  Campinas</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
