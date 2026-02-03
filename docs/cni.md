@@ -442,6 +442,51 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
+**NCT07044336**: (Bluestar-Endometrial01) Estudo de fase III randomizado
+comparando puxitatug samrotecan à quimioterapia em câncer endometrial
+avançado/metastático B7-H4 selecionado após terapia com platina e
+anti-PD-1/PD-L1.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 18
+
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: Research Site 18052-210, Sorocaba,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07044336&location_id=RESEARCHSITESOROCABA18052210BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2018052-210%2C%20Sorocaba%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
+  Atendimento, Emergência, Maternidade Recife PE, 50070-490,
+  Recife</span>
+- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
+  64049-200, Teresina</span>
+- <span style="color: #808080">PR: CRC Pesquisa - Cline Research Center,
+  80030-480, Curitiba</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
+  18030-005, Sorocaba</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+- <span style="color: #808080">SP: Centro de Oncologia CEON+ São
+  Caetano, 09541-270, São Caetano do Sul</span>
+- <span style="color: #808080">SP: IPT - Instituto de Pesquisas
+  Tecnológicas, 05508-901, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
@@ -523,14 +568,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -629,7 +674,7 @@ pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
 de carcinoma de células escamosas de cabeça e pescoço PD-L1+ recorrente
 ou metastático.
 
-Patrocinador do Estudo: Merus N.V.. Número de Centros: 9
+Patrocinador do Estudo: Merus B.V.. Número de Centros: 9
 
 - [**CNI**: Site 144 59020-340, Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE144NATAL59020340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20144%2059020-340%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
