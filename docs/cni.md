@@ -523,14 +523,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -577,6 +577,38 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
   90610-001, Porto Alegre</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
+
+**NCT00196742**: O Registro Fabry é um estudo observacional
+internacional que acompanha os resultados clínicos e dados de gravidez
+em pacientes com doença de Fabry, incluindo aqueles em Fabrazyme®, para
+melhorar a compreensão e recomendações de cuidados.
+
+Patrocinador do Estudo: Genzyme, a Sanofi Company. Número de Centros: 11
+
+- <span style="color: #808080">CE: NPDM- Núcleo de Pesquisa e
+  Desenvolvimento de Medicamentos, 60430-275, Fortaleza</span>
+- [**CNI**: Hospital Geral Universitario de Cuiaba- Site Number : 076006
+  78025-000, Cuiabá, Mato
+  Grosso](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=HOSPITALGERALUNIVERSITARIODECUIABASITENUMBER076006CUIABAMATOGROSSO78025000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hospital%20Geral%20Universitario%20de%20Cuiaba-%20Site%20Number%20%3A%20076006%2078025-000%2C%20Cuiab%C3%A1%2C%20Mato%20Grosso&form_type=Identificar%20Centro)
+- [**CNI**: Clínica Senhor do Bonfim- Site Number : 076008 44001-584,
+  Feira de Santana, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT00196742&location_id=CLINICASENHORDOBONFIMSITENUMBER076008FEIRADESANTANAESTADODEBAHIA44001584BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Cl%C3%ADnica%20Senhor%20do%20Bonfim-%20Site%20Number%20%3A%20076008%2044001-584%2C%20Feira%20de%20Santana%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Hospital Infantil de Campinas,
+  74520-100, Goiânia</span>
+- <span style="color: #808080">N/A: N/A, NA, NA</span>
+- <span style="color: #808080">PE: IMIP Instituto de Medicina Integral
+  Professor Fernando Figueira, 50070-902, Recife</span>
+- <span style="color: #808080">PR: Universidade Federal do Paraná,
+  80060-000, Curitiba</span>
+- <span style="color: #808080">SC: Hospital Universitário Polydoro
+  Ernani de São Thiago, 88036-800, Florianópolis</span>
+- <span style="color: #808080">SP: Centro Saúde Escola Dr. Joel Domingos
+  Machado - FMRP - USP, 14055-380, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Hospital da PUC-Campinas, 13034-685,
+  Campinas</span>
+- <span style="color: #808080">SP: IGEIM - Instituto de Genética e Erros
+  Inatos do Metabolismo e Outras Doenças Raras., 04020-041, São
+  Paulo</span>
 
 **NCT06679101**: (DREAMM-10) Ensaio aberto randomizado de fase 3
 comparando BRd versus DRd para sobrevida livre de progressão e
@@ -759,6 +791,48 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 20
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
+
+**NCT06758401**: (Be6A Lung-02) Ensaio de fase 3 randomizado que compara
+Sigvotatug Vedotin mais pembrolizumabe versus pembrolizumabe isolado
+como tratamento inicial em pacientes com CPNPC avançado ou metastático e
+PD-L1 alto.
+
+Patrocinador do Estudo: Pfizer. Número de Centros: 17
+
+- <span style="color: #808080">BA: AMO - Rio Vermelho, 41950-640,
+  Salvador</span>
+- <span style="color: #808080">CE: ICC - Instituto do Câncer do Ceará,
+  60430-230, Fortaleza</span>
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, 60335-480, Fortaleza</span>
+- [**CNI**: Vencer Centro de Pesquisa LTDA 64049-200, Teresina,
+  Piauí](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06758401&location_id=VENCERCENTRODEPESQUISALTDATERESINAPIAUI64049200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Vencer%20Centro%20de%20Pesquisa%20LTDA%2064049-200%2C%20Teresina%2C%20Piau%C3%AD&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Associação Feminina de Educação e
+  Combate ao Câncer, 29043-260, Vitória</span>
+- <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
+  Curitiba</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
+  Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Centro Universitário Faculdade de
+  Medicina do ABC (FMABC), 09060-870, Santo André</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
 
 **NCT05951179**: (ADVANCED-2) Estudo de fase 2, aberto, que avalia a
 segurança e atividade antitumoral do TARA-002 em adultos com câncer de
