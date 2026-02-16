@@ -110,7 +110,7 @@ camizestrant à terapia endócrina padrão em pacientes com câncer de mama
 precoce ER+/HER2- com risco intermediário/alto de recidiva pós-terapia
 locorregional.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 43
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
@@ -194,8 +194,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 43
   Paulo</span>
 - <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
   São Paulo</span>
-- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
-  Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
@@ -746,7 +744,7 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 elranatamab a EPd, PVd ou Kd em adultos com mieloma múltiplo
 recidivante/refratário após terapia anti-CD38.
 
-Patrocinador do Estudo: Pfizer. Número de Centros: 20
+Patrocinador do Estudo: Pfizer. Número de Centros: 15
 
 - [**CNI**: INSUMA 04086-011, São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06152575&location_id=INSUMASAOPAULO04086011BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20INSUMA%2004086-011%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -756,25 +754,16 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 20
   Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
   Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
   Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
   Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
   Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
-  Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
-  Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
-  Paulo</span>
 - <span style="color: #808080">SP: Hospital Samaritano, 01232-010, São
   Paulo</span>
 - <span style="color: #808080">SP: Escola Paulista de Medicina da
@@ -788,9 +777,6 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 20
 - <span style="color: #808080">SP: SPDM Associação Paulista para
   Desenvolvimento da Medicina Hsp, 04024-002, São Paulo</span>
 - <span style="color: #808080">SP: Hcor, 04004-030, São Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
-  Paulo</span>
 
 **NCT06758401**: (Be6A Lung-02) Ensaio de fase 3 randomizado que compara
 Sigvotatug Vedotin mais pembrolizumabe versus pembrolizumabe isolado
