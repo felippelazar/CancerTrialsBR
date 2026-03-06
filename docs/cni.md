@@ -506,14 +506,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -578,13 +578,15 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 segurança e eficácia de BGB-16673 versus pirtobrutinibe em pacientes com
 LLC ou LLS recidivados ou refratários previamente tratados com cBTKi.
 
-Patrocinador do Estudo: BeOne Medicines. Número de Centros: 4
+Patrocinador do Estudo: BeOne Medicines. Número de Centros: 5
 
 - [**CNI**: Centro de Pesquisa Clinica Dom Bosco Ltda 16015-150,
   Araçatuba,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06973187&location_id=CENTRODEPESQUISACLINICADOMBOSCOLTDAARACATUBA16015150BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20de%20Pesquisa%20Clinica%20Dom%20Bosco%20Ltda%2016015-150%2C%20Ara%C3%A7atuba%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">GO: Hospital das Clínicas da UFG /
   EBSERH, 74605-050, Goiânia</span>
+- <span style="color: #808080">PR: ICTR Instituto do Câncer e
+  Transplante de Curitiba, 80510-130, Curitiba</span>
 - <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
   05403-010, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
@@ -833,13 +835,13 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   Horizonte, 30110-022, Belo Horizonte</span>
 - <span style="color: #808080">PA: CTO - Centro de Tratamento
   Oncológico, 66063-495, Belém</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
 - <span style="color: #808080">PR: Hospital Santa Cruz: Pronto
   Atendimento, Urgência, Emergência Curitiba PR, 80420-090,
   Curitiba</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
-  86015-520, Londrina</span>
 - <span style="color: #808080">RJ: Hospital da FOA \| H.FOA, 27251-260,
   Volta Redonda</span>
 - <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
@@ -863,6 +865,8 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   Bibi, SP, 04543-000, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+  Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
@@ -875,8 +879,6 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   São Paulo</span>
 - <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
   Paulo</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
