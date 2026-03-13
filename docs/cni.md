@@ -433,12 +433,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
   Alegre, 90020-090, Porto Alegre</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
-  São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
 
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
@@ -506,14 +506,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -815,3 +815,44 @@ Número de Centros: 1
 - [**CNI**: Núcleo de Praticas Integrativas e Complementares 381000 000,
   Uberaba, Minas
   Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04152109&location_id=NUCLEODEPRATICASINTEGRATIVASECOMPLEMENTARESUBERABAMINASGERAIS381000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20N%C3%BAcleo%20de%20Praticas%20Integrativas%20e%20Complementares%20381000%20000%2C%20Uberaba%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
+
+**NCT07463235**: (SPARAGMOS) Ensaio multicêntrico e randomizado que
+compara doses altas versus padrão de cabergolina para remissão em
+mulheres com microprolactinomas sem tratamento prévio.
+
+Patrocinador do Estudo: University of Sao Paulo General Hospital. Número
+de Centros: 16
+
+- [**CNI**: CPC - , Ponta Grossa,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07463235&location_id=CPCPONTAGROSSABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CPC%20%20-%20%2C%20Ponta%20Grossa%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Universidade de Brasília, 70910-900,
+  Brasília</span>
+- <span style="color: #808080">GO: Universidade Federal de Goiás Campus
+  Samambaia, 74690-900, Goiânia</span>
+- <span style="color: #808080">MG: Universidade Federal de Minas Gerais,
+  31270-901, Belo Horizonte</span>
+- <span style="color: #808080">PE: Universidade Federal de Pernambuco,
+  50670-901, Recife</span>
+- <span style="color: #808080">PR: Universidade Federal do Paraná,
+  80060-000, Curitiba</span>
+- <span style="color: #808080">RJ: Universidade Federal do Rio de
+  Janeiro, 21941-853, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">SP: Universidade Federal de São Paulo,
+  04021-001, São Paulo</span>
+- <span style="color: #808080">SP: Irmandade da Santa Casa de
+  Misericórdia de São Paulo - Hospital Central, 01221-010, São
+  Paulo</span>
+- <span style="color: #808080">SP: USP Campus de Ribeirão Preto,
+  14040-900, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Hospital das Clínicas FMUSP,
+  05403-010, São Paulo</span>
+- <span style="color: #808080">SP: Universidade Estadual de Campinas,
+  13083-970, Campinas</span>
+- <span style="color: #808080">SP: Unesp Campus de Botucatu, 18618-687,
+  Botucatu</span>
