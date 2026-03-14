@@ -506,14 +506,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -654,6 +654,45 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
+
+**NCT06016738**: (OPERA-01) Estudo randomizado de fase 3 comparando a
+monoterapia OP-1250 ao tratamento padrão em pacientes com câncer de mama
+ER+, HER2- avançado após terapia endócrina e inibidor de CDK 4/6.
+
+Patrocinador do Estudo: Olema Pharmaceuticals, Inc.. Número de Centros:
+15
+
+- [**CNI**: Clinical Trial Site 70.390-140, Brasília, Federal
+  District](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06016738&location_id=CLINICALTRIALSITEBRASILIAFEDERALDISTRICT70390140BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinical%20Trial%20Site%2070.390-140%2C%20Bras%C3%ADlia%2C%20Federal%20District&form_type=Identificar%20Centro)
+- [**CNI**: Clinical Trial Site 17210-080, Jaú, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06016738&location_id=CLINICALTRIALSITEJAUSAOPAULO17210080BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinical%20Trial%20Site%2017210-080%2C%20Ja%C3%BA%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: Clinical Trial Site 91350-200, Porto Alegre, Rio Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06016738&location_id=CLINICALTRIALSITEPORTOALEGRERIOGRANDEDOSUL91350200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinical%20Trial%20Site%2091350-200%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- [**CNI**: Clinical Trial Site 65.060-645, São Luís,
+  Maranhão](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06016738&location_id=CLINICALTRIALSITESAOLUISMARANHAO65060645BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinical%20Trial%20Site%2065.060-645%2C%20S%C3%A3o%20Lu%C3%ADs%2C%20Maranh%C3%A3o&form_type=Identificar%20Centro)
+- [**CNI**: Clinical Trial Site 41253-190, Salvador, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06016738&location_id=CLINICALTRIALSITESALVADORESTADODEBAHIA41253190BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinical%20Trial%20Site%2041253-190%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: Clinical Trial Site 90470-340, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06016738&location_id=CLINICALTRIALSITEPORTOALEGRE90470340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinical%20Trial%20Site%2090470-340%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Santa Casa BH, 30150-221, Belo
+  Horizonte</span>
+- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
+  Atendimento, Emergência, Maternidade Recife PE, 50070-490,
+  Recife</span>
+- <span style="color: #808080">PR: CRC Pesquisa - Cline Research Center,
+  80030-480, Curitiba</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
+  90035-903, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
+  90035-007, Porto Alegre</span>
+- <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
+  Itajaí</span>
+- <span style="color: #808080">SP: Centro de Ciências Humanas e
+  Biológicas (CCHB) UFSCar Sorocaba, 18052-780, Sorocaba</span>
+- <span style="color: #808080">SP: Unimed Sorocaba - Núcleo de Atenção
+  Integral à Saúde (NAIS), 18060-105, Sorocaba</span>
 
 **NCT06152575**: Estudo de fase 3, aberto, comparando monoterapia com
 elranatamab a EPd, PVd ou Kd em adultos com mieloma múltiplo
