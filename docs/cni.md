@@ -506,14 +506,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -544,6 +544,29 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06233942**: Estudo de Fase 1a/1b que avalia a segurança,
+tolerabilidade e eficácia preliminar do BG-C9074 isolado e em combinação
+com outras terapias em pacientes com tumores sólidos avançados.
+
+Patrocinador do Estudo: BeOne Medicines. Número de Centros: 7
+
+- [**CNI**: Instituto Nacional de Cancer Hospital Do Cancer Ii
+  20220-410, Rio de Janerio,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06233942&location_id=INSTITUTONACIONALDECANCERHOSPITALDOCANCERIIRIODEJANERIO20220410BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20Nacional%20de%20Cancer%20Hospital%20Do%20Cancer%20Ii%2020220-410%2C%20Rio%20de%20Janerio%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">DF: Hospital Sírio-Libanês \| Brasília,
+  70200-730, Brasília</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+- <span style="color: #808080">SP: Fundação Faculdade Regional de
+  Medicina de São José do Rio Preto, 15090-000, São José do Rio
+  Preto</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
 **NCT07106762**: (IZABRIGHT-Bladder01) Ensaio randomizado, aberto, de
 Fase 2/3 comparando Izalontamab Brengitecan à quimioterapia à base de
@@ -632,6 +655,34 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 9
   04538-132, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+
+**NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
+pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
+mutação KRAS G12C.
+
+Patrocinador do Estudo: Mirati Therapeutics Inc.. Número de Centros: 11
+
+- <span style="color: #808080">BA: Sindicato dos Bancários da Bahia,
+  40020-450, Salvador</span>
+- [**CNI**: Local Institution - 007-5051 88034-000, Florianópolis, Santa
+  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04613596&location_id=LOCALINSTITUTION0075051FLORIANOPOLISSANTACATARINA88034000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20007-5051%2088034-000%2C%20Florian%C3%B3polis%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
+  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
+- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
+  Lajeado</span>
+- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
+  HNSC, 91350-200, Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital de Base, 15090-000, São José
+  do Rio Preto</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
