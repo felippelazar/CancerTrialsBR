@@ -647,14 +647,14 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 9
   Rio de Janeiro</span>
 - <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
   Ensino, 22281-100, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
-  04538-132, São Paulo</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
+  04538-132, São Paulo</span>
 
 **NCT04613596**: Estudo de Fase 2/3 avaliando adagrasib isolado e com
 pembrolizumab versus pembrolizumab em pacientes com NSCLC avançado com
