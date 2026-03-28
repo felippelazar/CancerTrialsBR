@@ -608,6 +608,46 @@ Patrocinador do Estudo: BeOne Medicines. Número de Centros: 7
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 
+**NCT07361497**: ROSETTA Lung-201: Ensaio de fase 3 randomizado,
+multicêntrico e aberto comparando Pumitamig em monoterapia com
+Durvalumabe em pacientes com CPNPC estágio III irressecável após
+quimiorradioterapia à base de platina.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 6
+
+- [**CNI**: Local Institution - 0912 01246-000, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07361497&location_id=LOCALINSTITUTION0912SAOPAULO01246000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200912%2001246-000%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PI: Universidade Estadual do Piauí,
+  64018-030, Teresina</span>
+- <span style="color: #808080">RN: BN, 59042-125, Natal</span>
+- <span style="color: #808080">RS: Bourbon Hipermercado Assis Brasil,
+  91010-001, Porto Alegre</span>
+- <span style="color: #808080">SP: SEBRAE-SP - Escritório Regional São
+  José do Rio Preto, 15020-000, São José do Rio Preto</span>
+- <span style="color: #808080">SP: IFSP - Campus Barretos - Unidade
+  Agrícola (Instituto Federal de São Paulo), NA, Barretos</span>
+
+**NCT07361510**: (ROSETTA Lung-202) Ensaio fase 3 randomizado e
+duplo-cego que compara pumitamig em monoterapia com pembrolizumabe como
+tratamento inicial em câncer de pulmão de não pequenas células avançado
+com PD-L1 ≥ 50%.
+
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 7
+
+- <span style="color: #808080">CE: APAE, 60810-475, Fortaleza</span>
+- [**CNI**: Local Institution - 0375 01509-010, São Paulo, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07361510&location_id=LOCALINSTITUTION0375SAOPAULOSAOPAULO01509010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200375%2001509-010%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Agência Desenvolve RN - antiga AGN -
+  Agência de Fomento do RN S.A., 59020-010, Natal</span>
+- <span style="color: #808080">RS: IPF - Instituto Psiquiátrico Forense
+  Doutor Maurício Cardoso, 90650-001, Porto Alegre</span>
+- <span style="color: #808080">SP: The One Office Tower, 12030-212,
+  Taubaté</span>
+- <span style="color: #808080">SP: IPMB - INSTITUTO DE PREVIDÊNCIA DO
+  MUNICÍPIO DE BARRETOS, 14780-192, Barretos</span>
+- <span style="color: #808080">SP: BR Partners Banco de Investimento,
+  04538-133, São Paulo</span>
+
 **NCT07106762**: (IZABRIGHT-Bladder01) Ensaio randomizado, aberto, de
 Fase 2/3 comparando Izalontamab Brengitecan à quimioterapia à base de
 platina em pacientes com câncer urotelial metastático após progressão
@@ -832,10 +872,13 @@ precoce, positivo para ER, negativo para HER2, com linfonodos positivos
 e alto risco de recorrência.
 
 Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
-29
+30
 
 - <span style="color: #808080">CE: Oncocentro Ceará, 60170-170,
   Fortaleza</span>
+- [**CNI**: Impar Servicos Hospitalares S/A - Hospital Brasília
+  71635-580, Brasília, Federal
+  District](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=IMPARSERVICOSHOSPITALARESSAHOSPITALBRASILIABRASILIAFEDERALDISTRICT71635580BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Impar%20Servicos%20Hospitalares%20S%2FA%20-%20Hospital%20Bras%C3%ADlia%2071635-580%2C%20Bras%C3%ADlia%2C%20Federal%20District&form_type=Identificar%20Centro)
 - [**CNI**: Futtura Oncologia 055026, Porto Alegre, Rio Grande do
   Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%20055026%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
 - [**CNI**: Hospital Universitario y Politecnico La Fe - Oncología
