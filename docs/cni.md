@@ -56,14 +56,14 @@ de Centros: 7
 - [**CNI**: Site BR55008 - , Campinas,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT02960022&location_id=SITEBR55008CAMPINASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55008%20%20-%20%2C%20Campinas%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Oncosite, 98700-000, Ijuí</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
-  90610-001, Porto Alegre</span>
 - <span style="color: #808080">RS: CliniOnco, 90430-090, Porto
   Alegre</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, 09060-650, Santo André</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
+  90610-001, Porto Alegre</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
+- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
+  de Hematologia, 09060-650, Santo André</span>
 
 **NCT05774951**: (CAMBRIA-1) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -86,12 +86,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Urgência, Emergência, UTI Brasília DF, 70390-140, Brasília</span>
 - <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
   29055-450, Vitória</span>
-- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
-  30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MG: Centro de Oncologia de Alfenas,
   37130-087, Alfenas</span>
 - <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
   Alegre, 37554-216, Pouso Alegre</span>
+- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
+  30130-100, Belo Horizonte</span>
 - <span style="color: #808080">MG: Santa Casa BH, 30150-221, Belo
   Horizonte</span>
 - <span style="color: #808080">MS: Instituto do Câncer Brasil,
@@ -100,52 +100,48 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Mastologia, 78040-400, Cuiabá</span>
 - <span style="color: #808080">PE: CPO Oncologia, 50070-030,
   Recife</span>
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
   Curitiba</span>
 - <span style="color: #808080">PR: Hospital do Câncer de Londrina,
   86015-520, Londrina</span>
-- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
-  Câncer IV, 20560-121, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
-  24020-096, Niterói</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
   Integrado, 22793-080, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
+  24020-096, Niterói</span>
+- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
+  Câncer IV, 20560-121, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
   90035-007, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
-  Lajeado</span>
-- <span style="color: #808080">RS: Universidade Federal de Ciências da
-  Saúde de Porto Alegre, 90050-170, Porto Alegre</span>
 - <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
   HSL, 90610-000, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   90035-903, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Bruno Born, 95900-010,
+  Lajeado</span>
+- <span style="color: #808080">RS: Universidade Federal de Ciências da
+  Saúde de Porto Alegre, 90050-170, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
   Porto Alegre</span>
 - <span style="color: #808080">SC: Supera Oncologia, 89812-210,
   Chapecó</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
-  Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
 - <span style="color: #808080">SP: BP Mirante, 01323-001, São
   Paulo</span>
-- <span style="color: #808080">SP: IEP - Instituto de Pesquisa São
-  Lucas, 01236-030, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
-  Paulo</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
+  Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
 - <span style="color: #808080">SP: Saúde Inteligente - Santa Casa Saude
   Piracicaba, 13419-155, Piracicaba</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
-  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
@@ -154,8 +150,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Paulo</span>
 - <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
   São Paulo</span>
+- <span style="color: #808080">SP: IEP - Instituto de Pesquisa São
+  Lucas, 01236-030, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
+  Paulo</span>
 
 **NCT05952557**: (CAMBRIA-2) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -400,6 +400,67 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
 
+**NCT07044336**: (Bluestar-Endometrial01) Estudo de fase III randomizado
+comparando puxitatug samrotecan à quimioterapia em câncer endometrial
+avançado/metastático B7-H4 selecionado após terapia com platina e
+anti-PD-1/PD-L1.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 26
+
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: Research Site 95700-084, Bento Gonçalves,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07044336&location_id=RESEARCHSITEBENTOGONCALVES95700084BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2095700-084%2C%20Bento%20Gon%C3%A7alves%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Price Survey, 30350-577, Belo
+  Horizonte</span>
+- <span style="color: #808080">PA: Instituto Tecnológico Vale,
+  66055-090, Belém</span>
+- <span style="color: #808080">PE: Real Hospital Português, 52010-075,
+  Recife</span>
+- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
+  Atendimento, Emergência, Maternidade Recife PE, 50070-490,
+  Recife</span>
+- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
+  64049-200, Teresina</span>
+- <span style="color: #808080">PR: CRC Pesquisa - Cline Research Center,
+  80030-480, Curitiba</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
+  Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
+  18030-005, Sorocaba</span>
+- <span style="color: #808080">SP: Science Valley Research Institute,
+  04551-010, São Paulo</span>
+- <span style="color: #808080">SP: USP Campus de Ribeirão Preto,
+  14040-900, Ribeirão Preto</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
+  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Centro de Oncologia CEON+ São
+  Caetano, 09541-270, São Caetano do Sul</span>
+- <span style="color: #808080">SP: IPT - Instituto de Pesquisas
+  Tecnológicas, 05508-901, São Paulo</span>
+- <span style="color: #808080">SP: Unimed Sorocaba - Hospital Dr. Miguel
+  Soeiro (HMS), 18052-210, Sorocaba</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
@@ -466,14 +527,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
