@@ -110,8 +110,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
   24020-096, Niterói</span>
-- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
-  Câncer IV, 20560-121, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
+  20220-430, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
@@ -132,8 +132,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Chapecó</span>
 - <span style="color: #808080">SP: BP Mirante, 01323-001, São
   Paulo</span>
-- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
-  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
   Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
 - <span style="color: #808080">SP: Saúde Inteligente - Santa Casa Saude
@@ -146,8 +144,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Santa Marcelina, 08270-070,
   São Paulo</span>
 - <span style="color: #808080">SP: IEP - Instituto de Pesquisa São
@@ -156,6 +154,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
   Paulo</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
 
 **NCT05952557**: (CAMBRIA-2) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -198,8 +198,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 31
   de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
   Integrado, 22793-080, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
-  Câncer IV, 20560-121, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
+  20220-430, Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
 - <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
@@ -216,8 +216,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 31
   Itajaí</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
@@ -303,8 +303,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
   Curitiba</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
   Jaú</span>
 - <span style="color: #808080">SP: CRID - Centro de Pesquisa em Doenças
@@ -353,8 +353,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
   de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
 - <span style="color: #808080">RS: Clinica Lacks, 96020-080,
@@ -425,8 +425,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
   do Rio Preto</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
   Antônio Prudente, 01509-010, São Paulo</span>
 
@@ -466,14 +466,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -619,7 +619,7 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 elranatamab a EPd, PVd ou Kd em adultos com mieloma múltiplo
 recidivante/refratário após terapia anti-CD38.
 
-Patrocinador do Estudo: Pfizer. Número de Centros: 15
+Patrocinador do Estudo: Pfizer. Número de Centros: 14
 
 - [**CNI**: INSUMA 04086-011, São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06152575&location_id=INSUMASAOPAULO04086011BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20INSUMA%2004086-011%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -627,16 +627,12 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 15
   NA</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
   Integrado, 22793-080, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
   Integrado de Oncologia, 90110-270, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
   Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
   Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Hospital Samaritano, 01232-010, São
@@ -652,6 +648,8 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 15
 - <span style="color: #808080">SP: SPDM Associação Paulista para
   Desenvolvimento da Medicina Hsp, 04024-002, São Paulo</span>
 - <span style="color: #808080">SP: Hcor, 04004-030, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
 
 **NCT05951179**: (ADVANCED-2) Estudo de fase 2, aberto, que avalia a
 segurança e atividade antitumoral do TARA-002 em adultos com câncer de
@@ -731,10 +729,10 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   de Curitiba, 80810-050, Curitiba</span>
 - <span style="color: #808080">RJ: Hospital da FOA \| H.FOA, 27251-260,
   Volta Redonda</span>
-- <span style="color: #808080">RJ: INCA - Vila Isabel - Hospital do
-  Câncer IV, 20560-121, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Américas, 22775-001, Rio de
-  Janeiro</span>
+- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
+  20220-430, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
   Porto Velho</span>
 - <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
@@ -764,8 +762,8 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   do Rio Preto</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
   São Paulo</span>
-- <span style="color: #808080">SP: IBCC Oncologia, 03102-002, São
-  Paulo</span>
+- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
+  Oncologia, 04014-002, São Paulo</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
