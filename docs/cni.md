@@ -106,14 +106,14 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   86015-520, Londrina</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
-- <span style="color: #808080">RJ: Americas Centro de Oncologia
-  Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: CHN - Complexo Hospitalar de Niterói,
   24020-096, Niterói</span>
 - <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
   20220-430, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, 22793-080, Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
 - <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA,
@@ -130,8 +130,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Porto Alegre</span>
 - <span style="color: #808080">SC: Supera Oncologia, 89812-210,
   Chapecó</span>
-- <span style="color: #808080">SP: BP Mirante, 01323-001, São
-  Paulo</span>
 - <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
   Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
 - <span style="color: #808080">SP: Saúde Inteligente - Santa Casa Saude
@@ -156,6 +154,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Paulo</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
   Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, 01323-001, São Paulo</span>
 
 **NCT05952557**: (CAMBRIA-2) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
@@ -347,10 +347,10 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06952803&location_id=RESEARCHSITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">ES: Hospital Evangélico de Cachoeiro de
   Itapemirim, 29308-020, Cachoeiro de Itapemirim</span>
-- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
-  86015-520, Londrina</span>
 - <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
   de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">PR: Hospital do Câncer de Londrina,
+  86015-520, Londrina</span>
 - <span style="color: #808080">RJ: OC Oncoclínicas Botafogo, 22250-905,
   Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
