@@ -581,7 +581,7 @@ pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
 de carcinoma de células escamosas de cabeça e pescoço PD-L1+ recorrente
 ou metastático.
 
-Patrocinador do Estudo: Merus B.V.. Número de Centros: 9
+Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
 
 - [**CNI**: Site 144 59020-340, Natal,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06525220&location_id=SITE144NATAL59020340BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20144%2059020-340%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -589,10 +589,12 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 9
   Horizonte, 30360-680, Belo Horizonte</span>
 - <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
   50040-000, Recife</span>
-- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
-  Ensino, 22281-100, Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Instituto Brasileiro de Petróleo e
   Gás, 20031-918, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS,
   90610-001, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
@@ -601,6 +603,16 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 9
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
+
+**NCT06744920**: RELIEVE Estudo de fase III randomizado, duplo-cego,
+controlado por placebo que avalia eficácia, segurança e tolerabilidade
+do Remibrutinibe em adultos com miastenia gravis generalizada em
+tratamento padrão estável.
+
+Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 1
+
+- [**CNI**: Novartis Investigative Site 40050-410, Salvador, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06744920&location_id=NOVARTISINVESTIGATIVESITESALVADORESTADODEBAHIA40050410BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2040050-410%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
 
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
@@ -701,6 +713,39 @@ Patrocinador do Estudo: RayzeBio, Inc.. Número de Centros: 3
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYBRASILIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Facility - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05477576&location_id=RESEARCHFACILITYRIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Facility%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+
+**NCT06153238**: Estudo randomizado e duplo-cego comparando a
+farmacocinética do GME751 e Keytruda® em pacientes com melanoma estágio
+II e III necessitando de tratamento adjuvante com pembrolizumabe.
+
+Patrocinador do Estudo: Sandoz. Número de Centros: 13
+
+- [**CNI**: Sandoz Investigational Site - , Florianópolis,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEFLORIANOPOLISBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Florian%C3%B3polis%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Fortaleza,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEFORTALEZABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Fortaleza%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Canoas,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITECANOASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Canoas%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , São José do Rio Preto,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITESAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Caxias do Sul,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITECAXIASDOSULBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Caxias%20do%20Sul%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Belo Horizonte,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Itajaí,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEITAJAIBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Itaja%C3%AD%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Sandoz Investigational Site - , Porto Velho,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06153238&location_id=SANDOZINVESTIGATIONALSITEPORTOVELHOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Sandoz%20Investigational%20Site%20%20-%20%2C%20Porto%20Velho%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">PR: Novartis Biociências S/A, 80250-210,
+  Curitiba</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 
 **NCT06492616**: (ELEGANT) Estudo global de Fase 3 comparando
 elacestrant à terapia endócrina padrão em pacientes com câncer de mama
