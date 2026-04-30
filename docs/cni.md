@@ -43,6 +43,29 @@ Centros: 5
 - <span style="color: #808080">SP: HRIM – Hospital do Rim, 04038-002,
   São Paulo</span>
 
+**NCT06901531**: (LUCERNA) Ensaio fase 3 duplo-cego randomizado que
+compara zolbetuximabe mais pembrolizumabe e quimioterapia versus placebo
+no tratamento inicial de adenocarcinoma gástrico ou de junção
+gastroesofágica avançado HER2-negativo, CLDN18.2- e PD-L1-positivo.
+
+Patrocinador do Estudo: Astellas Pharma Global Development, Inc.. Número
+de Centros: 7
+
+- [**CNI**: Site BR55014 - , Belo Horizonte,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55014BELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55014%20%20-%20%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Site BR55008 - , Jaú,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55008JAUBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55008%20%20-%20%2C%20Ja%C3%BA%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Site BR55004 - , Lages,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55004LAGESBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55004%20%20-%20%2C%20Lages%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Site BR55003 - , Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55003PORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55003%20%20-%20%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Site BR55006 - , São Caetano do Sul,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55006SAOCAETANODOSULBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55006%20%20-%20%2C%20S%C3%A3o%20Caetano%20do%20Sul%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Site BR55001 - , São José do Rio Preto,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55001SAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55001%20%20-%20%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
+  Jaú</span>
+
 **NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
 segurança a longo prazo para pacientes com câncer de próstata
 beneficiando-se de Enzalutamida após participação em estudo clínico
@@ -466,14 +489,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário

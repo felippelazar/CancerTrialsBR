@@ -22,16 +22,16 @@ Aqui está um guia detalhado das variáveis em nosso banco de dados:
 
 ### 📝 Informações do Estudo
 
-| Variável                     | Descrição                                              |
-|------------------------------|--------------------------------------------------------|
-| **estudo_id**                | 🆔 Identificador do estudo no *clinicaltrials.gov*     |
-| **estudo_acronimo**          | 🏷️ Acrônimo do estudo                                  |
-| **estudo_patrocinador**      | 💼 Patrocinador do estudo                              |
-| **estudo_titulo**            | 📰 Título oficial do estudo                            |
-| **estudo_desenho**           | 🎨 Desenho do estudo                                   |
-| **estudo_resumo_ia**         | 🤖 Resumo do estudo gerado por Inteligência Artificial |
-| **estudo_sentenca_ia**       | 🖋️ Título em formato de sentença gerado por IA         |
-| **estudo_paciente_ideal_ia** | 👤 Perfil do paciente ideal gerado por IA              |
+| Variável | Descrição |
+|----|----|
+| **estudo_id** | 🆔 Identificador do estudo no *clinicaltrials.gov* |
+| **estudo_acronimo** | 🏷️ Acrônimo do estudo |
+| **estudo_patrocinador** | 💼 Patrocinador do estudo |
+| **estudo_titulo** | 📰 Título oficial do estudo |
+| **estudo_desenho** | 🎨 Desenho do estudo |
+| **estudo_resumo_ia** | 🤖 Resumo do estudo gerado por Inteligência Artificial |
+| **estudo_sentenca_ia** | 🖋️ Título em formato de sentença gerado por IA |
+| **estudo_paciente_ideal_ia** | 👤 Perfil do paciente ideal gerado por IA |
 
 ### 🩺 Tipos de Câncer
 
