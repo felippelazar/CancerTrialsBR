@@ -526,6 +526,16 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 
+**NCT07101081**: (GYNGHER) Estudo de coorte que analisa a expressão de
+HER2 por imuno-histoquímica em pacientes brasileiras com cânceres
+endometrial, ovariano, cervical, vulvar e vaginal usando múltiplos
+critérios de avaliação.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 1
+
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07101081&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+
 **NCT07109154**: (DeniLA) Estudo observacional prospectivo e pesquisa
 multicêntrica que analisa padrões de tratamento inicial e adesão a
 diretrizes em pacientes brasileiros com CPNPC metastático e seus
