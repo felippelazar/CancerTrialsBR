@@ -49,12 +49,10 @@ no tratamento inicial de adenocarcinoma gástrico ou de junção
 gastroesofágica avançado HER2-negativo, CLDN18.2- e PD-L1-positivo.
 
 Patrocinador do Estudo: Astellas Pharma Global Development, Inc.. Número
-de Centros: 7
+de Centros: 6
 
 - [**CNI**: Site BR55014 - , Belo Horizonte,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55014BELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55014%20%20-%20%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Site BR55008 - , Jaú,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55008JAUBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55008%20%20-%20%2C%20Ja%C3%BA%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Site BR55004 - , Lages,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55004LAGESBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55004%20%20-%20%2C%20Lages%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Site BR55003 - , Porto Alegre,
@@ -251,50 +249,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 31
   São Paulo</span>
 - <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
   de Hematologia, 09060-650, Santo André</span>
-
-**NCT06079671**: (eVOLVE-Cervical) Estudo global de fase III,
-randomizado, duplo-cego, controlado por placebo sobre a eficácia e
-segurança do volrustomig em mulheres com câncer cervical localmente
-avançado de alto risco pós-CCRT à base de platina.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 18
-
-- <span style="color: #808080">BA: Hospital Santa Izabel, 40050-410,
-  Salvador</span>
-- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
-  Oncologia, 60335-480, Fortaleza</span>
-- <span style="color: #808080">CE: Instituto do Câncer Do Ceara,
-  60430-230, Fortaleza</span>
-- [**CNI**: Research Site 74110-060, Goiânia,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06079671&location_id=RESEARCHSITEGOIANIA74110060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2074110-060%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site 90570-060, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06079671&location_id=RESEARCHSITEPORTOALEGRE90570060BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2090570-060%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Hospital das Clínicas da UFMG,
-  30130-100, Belo Horizonte</span>
-- <span style="color: #808080">PE: Real Hospital Português, 52010-075,
-  Recife</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  64049-200, Teresina</span>
-- <span style="color: #808080">PR: Hospital Universitário Evangélico
-  Mackenzie, 80730-150, Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
-  20220-430, Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RO: Hospital de Amor Amazônia, 76834-899,
-  Porto Velho</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, 90880-481,
-  Porto Alegre</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
-  Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Science Valley Research Institute,
-  04551-010, São Paulo</span>
 
 **NCT06103864**: (TROPION-Breast05) Estudo de Fase III comparando
 Dato-DXd com/sem durvalumabe versus quimioterapia mais pembrolizumabe em
@@ -543,14 +497,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -606,44 +560,6 @@ Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 1
 
 - [**CNI**: Centro a definir 00000-000, Cidade a definir, Estado a
   definir](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04956640&location_id=CENTROADEFINIRCIDADEADEFINIRESTADOADEFINIR00000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20a%20definir%2000000-000%2C%20Cidade%20a%20definir%2C%20Estado%20a%20definir&form_type=Identificar%20Centro)
-
-**NCT05633654**: Ensaio de fase 3, randomizado e aberto, que compara
-sacituzumabe govitecano mais pembrolizumabe versus tratamento à escolha
-do médico em pacientes com câncer de mama triplo negativo residual após
-cirurgia e terapia neoadjuvante.
-
-Patrocinador do Estudo: Gilead Sciences. Número de Centros: 15
-
-- <span style="color: #808080">BA: Av. Milton Santos, 123, 40170-110,
-  Salvador</span>
-- [**CNI**: Rua Gardênia, 710, Edifício Prime, 4º andar, Bairro Jóquei,
-  Teresina - PI, CEP 60449-200 60449-200, Teresina,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05633654&location_id=RUAGARDENIA710EDIFICIOPRIME4%C2%BAANDARBAIRROJOQUEITERESINAPICEP60449200TERESINA60449200BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Rua%20Gard%C3%AAnia%2C%20710%2C%20Edif%C3%ADcio%20Prime%2C%204%C2%BA%20andar%2C%20Bairro%20J%C3%B3quei%2C%20Teresina%20-%20PI%2C%20CEP%2060449-200%2060449-200%2C%20Teresina%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Hospital Brasília, 71681-603,
-  Brasília</span>
-- <span style="color: #808080">N/A: N/A, NA, NA</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  64049-200, Teresina</span>
-- <span style="color: #808080">PR: Rua Myltho Anselmo da Silva, 870,
-  80510-130, Curitiba</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RN: Av. Miguel Castro, 1355, 59075-740,
-  Natal</span>
-- <span style="color: #808080">RS: Rua Professor Annes Dias, 295,
-  90020-090, Porto Alegre</span>
-- <span style="color: #808080">RS: Av. Ipiranga, 6690, 90610-000, Porto
-  Alegre</span>
-- <span style="color: #808080">SC: R. Aderbal Ramos da Silva, 148,
-  88301-220, Itajaí</span>
-- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
-  Paulo, 01323-001, São Paulo</span>
-- <span style="color: #808080">SP: Av. Brigadeiro Luís Antônio, 733 -
-  Loja 8, 01317-001, São Paulo</span>
-- <span style="color: #808080">SP: R. Martiniano de Carvalho, 965,
-  01323-001, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
-  Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
 
 **NCT06679101**: (DREAMM-10) Ensaio aberto randomizado de fase 3
 comparando BRd versus DRd para sobrevida livre de progressão e
@@ -718,16 +634,6 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
   Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
-
-**NCT06744920**: RELIEVE Estudo de fase III randomizado, duplo-cego,
-controlado por placebo que avalia eficácia, segurança e tolerabilidade
-do Remibrutinibe em adultos com miastenia gravis generalizada em
-tratamento padrão estável.
-
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 1
-
-- [**CNI**: Novartis Investigative Site 40050-410, Salvador, Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06744920&location_id=NOVARTISINVESTIGATIVESITESALVADORESTADODEBAHIA40050410BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2040050-410%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
 
 **NCT05541341**: Estudo de registro prospectivo que avalia a eficácia e
 segurança do Tisagenlecleucel em pacientes brasileiros com malignidades
