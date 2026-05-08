@@ -91,7 +91,7 @@ camizestrant à terapia endócrina padrão em pacientes com câncer de mama
 precoce ER+/HER2- com risco intermediário/alto de recidiva pós-terapia
 locorregional.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 41
 
 - <span style="color: #808080">BA: Hospital São Rafael, 41253-190,
   Salvador</span>
@@ -151,8 +151,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   Porto Alegre</span>
 - <span style="color: #808080">SC: Supera Oncologia, 89812-210,
   Chapecó</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Centro
-  Internacional de Pesquisa (CIPE), 01508-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Saúde Inteligente - Santa Casa Saude
   Piracicaba, 13419-155, Piracicaba</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
@@ -169,8 +169,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 42
   São Paulo</span>
 - <span style="color: #808080">SP: IEP - Instituto de Pesquisa São
   Lucas, 01236-030, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
   Paulo</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
@@ -330,8 +328,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
   Jaú</span>
 - <span style="color: #808080">SP: CRID - Centro de Pesquisa em Doenças
   Inflamatórias, 14049-900, Ribeirão Preto</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 
 **NCT06467357**: (DESTINY-BTC01) Estudo de fase 3 comparando T-DXd com
 rilvegostomig ou T-DXd sozinho versus gemcitabina, cisplatina e
@@ -416,8 +414,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
   Medicina de Ribeirão Preto, 14015-010, Ribeirão Preto</span>
 - <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
   Oncologia, 04014-002, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 
 **NCT06491862**: (RACE-2L) Estudo retrospectivo revisando prontuários de
 pacientes brasileiros com NSCLC não escamoso após falha na quimioterapia
@@ -439,8 +437,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
   05652-900, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Sírio-Libanês \| Bela Vista,
   01308-050, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Paulistano, 01321-001, São
   Paulo</span>
 - <span style="color: #808080">SP: Faculdade de Medicina de São José do
@@ -465,14 +463,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -503,45 +501,6 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
-
-**NCT07063745**: (MountainTAP-29) Estudo randomizado de Fase 2/3
-comparando BMS-986504 com pembrolizumabe e quimioterapia versus placebo
-em câncer de pulmão não pequenas células metastático de primeira linha
-com deleção homozigótica de MTAP.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 15
-
-- [**CNI**: Local Institution - 0077 60810180, Fortaleza,
-  Ceará](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07063745&location_id=LOCALINSTITUTION0077FORTALEZACEARA60810180BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200077%2060810180%2C%20Fortaleza%2C%20Cear%C3%A1&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico,
-  29055-450, Vitória</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer José
-  Alencar Gomes da Silva - INCA, 20230-130, Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
-- <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
-  HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">RS: Novotel Porto Alegre Tres Figueiras,
-  90470-340, Porto Alegre</span>
-- <span style="color: #808080">RS: UNISC, 96815-900, Santa Cruz do
-  Sul</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
-  89010-340, Blumenau</span>
-- <span style="color: #808080">SP: NAIC Instituto do Câncer de Bauru,
-  17033-490, Bauru</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
-  Barretos</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Faculdade Regional de
-  Medicina de São José do Rio Preto, 15090-000, São José do Rio
-  Preto</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Hospital da PUC-Campinas, 13034-685,
-  Campinas</span>
-- <span style="color: #808080">SP: Centro de Oncologia CEON + Santo
-  André, 09090-401, Santo André</span>
 
 **NCT07106762**: (IZABRIGHT-Bladder01) Ensaio randomizado, aberto, de
 Fase 2/3 comparando Izalontamab Brengitecan à quimioterapia à base de
@@ -589,8 +548,8 @@ Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 11
   90035-903, Porto Alegre</span>
 - <span style="color: #808080">SC: CHO - Centro de Hematologia e
   Oncologia de Joinville, 89201-260, Joinville</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
   Paulo</span>
 - <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
@@ -609,8 +568,8 @@ Company. Número de Centros: 4
   Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0103SAOPAULOSAOPAULO04501000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200103%2004501-000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
 - [**CNI**: Local Institution - 0012 34000-000, Nova Lima, Minas
   Gerais](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06615479&location_id=LOCALINSTITUTION0012NOVALIMAMINASGERAIS34000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%200012%2034000-000%2C%20Nova%20Lima%2C%20Minas%20Gerais&form_type=Identificar%20Centro)
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, 05521-200, São Paulo</span>
 
@@ -637,8 +596,8 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
   90610-001, Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
   HNSC, 91350-200, Porto Alegre</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
 
@@ -666,8 +625,8 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   Horizonte](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITEMINASGERAISBELOHORIZONTE34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2034006-059%2C%20Minas%20Gerais%2C%20Belo%20Horizonte&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
   Curitiba</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
@@ -839,11 +798,11 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   Florianópolis</span>
 - <span style="color: #808080">SC: Catarina Pesquisa Clínica, 88301-220,
   Itajaí</span>
-- <span style="color: #808080">SP: Clinica OncoStar: Oncologia Clínica,
-  Tratamento de Câncer, Quimioterapia, Radioterapia, Oncologistas, Itaim
-  Bibi, SP, 04543-000, São Paulo</span>
-- <span style="color: #808080">SP: A.C.Camargo Cancer Center - Unidade
-  Antônio Prudente, 01509-010, São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
+  Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
   Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
