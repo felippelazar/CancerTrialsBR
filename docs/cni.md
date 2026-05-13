@@ -492,16 +492,6 @@ Patrocinador do Estudo: Bayer. Número de Centros: 1
 - [**CNI**: Many Locations - , Multiple Locations,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04142437&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
 
-**NCT06117891**: (REFINE-IO) Estudo observacional que coleta dados sobre
-a eficácia do tratamento em adultos com carcinoma hepatocelular
-irressecável após atezolizumabe mais bevacizumabe ou outras combinações
-1L-IO.
-
-Patrocinador do Estudo: Bayer. Número de Centros: 1
-
-- [**CNI**: Many Locations - , Multiple Locations,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06117891&location_id=MANYLOCATIONSMULTIPLELOCATIONSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Many%20Locations%20%20-%20%2C%20Multiple%20Locations%2C%20%20-%20&form_type=Identificar%20Centro)
-
 **NCT07106762**: (IZABRIGHT-Bladder01) Ensaio randomizado, aberto, de
 Fase 2/3 comparando Izalontamab Brengitecan à quimioterapia à base de
 platina em pacientes com câncer urotelial metastático após progressão
@@ -552,7 +542,7 @@ Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 11
   01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
   Paulo</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 - <span style="color: #808080">SP: Glaxosmithkline Brasil, 04144-000,
   São Paulo</span>
@@ -625,13 +615,13 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   Horizonte](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05541341&location_id=NOVARTISINVESTIGATIVESITEMINASGERAISBELOHORIZONTE34006059BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2034006-059%2C%20Minas%20Gerais%2C%20Belo%20Horizonte&form_type=Identificar%20Centro)
 - <span style="color: #808080">PR: Hospital Erasto Gaertner, 81520-060,
   Curitiba</span>
-- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
-  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Nove de Julho, 01409-002,
   São Paulo</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 
@@ -801,9 +791,7 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
-  01525-001, São Paulo</span>
-- <span style="color: #808080">SP: Fundação Pio XII, 14780-360,
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
   Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
@@ -817,6 +805,8 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   São Paulo</span>
 - <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
   Oncologia, 04014-002, São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
