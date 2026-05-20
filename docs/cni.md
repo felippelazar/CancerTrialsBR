@@ -466,14 +466,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -510,34 +510,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
   90610-001, Porto Alegre</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
-
-**NCT04975997**: (EXCALIBER-RRMM) Estudo de fase 3, em duas etapas,
-randomizado, comparando Iberdomida, Daratumumabe e Dexametasona (IberDd)
-versus Daratumumabe, Bortezomibe e Dexametasona (DVd) em pacientes com
-MM recidivante ou refratário.
-
-Patrocinador do Estudo: Celgene. Número de Centros: 10
-
-- [**CNI**: Local Institution - 055 05403000, São Paulo, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04975997&location_id=LOCALINSTITUTION055SAOPAULOSAOPAULO05403000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Local%20Institution%20-%20055%2005403000%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">PR: Instituto de Oncologia do Paraná \|
-  Unidade Mateus Leme, 80520-174, Curitiba</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
-  20220-430, Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Americas Centro de Oncologia
-  Integrado, 22793-080, Rio de Janeiro</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, 90610-000, Porto Alegre</span>
-- <span style="color: #808080">RS: Escola de Negócios da PUCRS,
-  90619-900, Porto Alegre</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
-- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
-  01525-001, São Paulo</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, 17210-070,
-  Jaú</span>
-- <span style="color: #808080">SP: Clinica São Germano, 04537-081, São
-  Paulo</span>
 
 **NCT04956640**: Ensaio de Fase 1/2 que avalia a segurança e eficácia do
 LY3537982 em pacientes com tumores sólidos avançados com mutação KRAS
@@ -631,9 +603,8 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 3
 
 - [**CNI**: Novartis Investigative Site 89202-165, Joinville, Santa
   Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06517758&location_id=NOVARTISINVESTIGATIVESITEJOINVILLESANTACATARINA89202165BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2089202-165%2C%20Joinville%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- [**CNI**: Novartis Investigative Site 90560-030, Porto Alegre, Rio
-  Grande do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06517758&location_id=NOVARTISINVESTIGATIVESITEPORTOALEGRERIOGRANDEDOSUL90560030BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2090560-030%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
 - <span style="color: #808080">SP: PSEG, 04038-002, São Paulo</span>
 
 **NCT06934967**: Estudo de fase 3, aberto, braço único e multicêntrico
@@ -683,11 +654,8 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 elranatamab a EPd, PVd ou Kd em adultos com mieloma múltiplo
 recidivante/refratário após terapia anti-CD38.
 
-Patrocinador do Estudo: Pfizer. Número de Centros: 15
+Patrocinador do Estudo: Pfizer. Número de Centros: 14
 
-- [**CNI**: Instituto Oncomed de Educação e Pesquisa 24220-070, Niterói,
-  Rio de
-  Janeiro](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06152575&location_id=INSTITUTOONCOMEDDEEDUCACAOEPESQUISANITEROIRIODEJANEIRO24220070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20Oncomed%20de%20Educa%C3%A7%C3%A3o%20e%20Pesquisa%2024220-070%2C%20Niter%C3%B3i%2C%20Rio%20de%20Janeiro&form_type=Identificar%20Centro)
 - [**CNI**: INSUMA 04086-011, São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06152575&location_id=INSUMASAOPAULO04086011BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20INSUMA%2004086-011%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">N/A: Oncomed Niterói Icaraí, 24220-300,
