@@ -269,17 +269,17 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 10
   Itajaí</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
-- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
-  São Paulo</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
 
 **NCT06357533**: (TROPION-Lung10) Estudo global de Fase III comparando
 Dato-DXd com rilvegostomig ou rilvegostomig isolado versus pembrolizumab
 no tratamento de primeira linha de NSCLC não escamoso avançado com alta
 PD-L1.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 
 - [**CNI**: Research Site 22211-230, Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06357533&location_id=RESEARCHSITERIODEJANEIRO22211230BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2022211-230%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -287,8 +287,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   Ipatinga</span>
 - <span style="color: #808080">PR: Hospital Universitário Evangélico
   Mackenzie, 80730-150, Curitiba</span>
-- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
-  Ensino, 22281-100, Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   59062-000, Natal</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
@@ -299,12 +297,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   Florianópolis</span>
 - <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
   Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, 14784-400, Barretos</span>
 - <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
   (Centro Hospitalar), 01221-020, São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
 
 **NCT06380751**: (EvoPAR-Breast01) Estudo de fase III randomizado
 comparando saruparib mais camizestrant com inibidor de CDK4/6 mais
@@ -387,6 +385,71 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
   Jaú</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
+  01323-020, São Paulo</span>
+
+**NCT07044336**: (Bluestar-Endometrial01) Estudo de fase III randomizado
+comparando puxitatug samrotecan à quimioterapia em câncer endometrial
+avançado/metastático B7-H4 selecionado após terapia com platina e
+anti-PD-1/PD-L1.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 28
+
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, 41940-396,
+  Salvador</span>
+- [**CNI**: Research Site 89201-260, Joinville,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07044336&location_id=RESEARCHSITEJOINVILLE89201260BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2089201-260%2C%20Joinville%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Price Survey, 30350-577, Belo
+  Horizonte</span>
+- <span style="color: #808080">PA: Instituto Tecnológico Vale,
+  66055-090, Belém</span>
+- <span style="color: #808080">PE: Real Hospital Português, 52010-075,
+  Recife</span>
+- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
+  Atendimento, Emergência, Maternidade Recife PE, 50070-490,
+  Recife</span>
+- <span style="color: #808080">PE: Hospital do Câncer de Pernambuco,
+  50040-000, Recife</span>
+- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
+  64049-200, Teresina</span>
+- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
+  de Curitiba, 80810-050, Curitiba</span>
+- <span style="color: #808080">PR: CRC Pesquisa - Cline Research Center,
+  80030-480, Curitiba</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, 22281-100, Rio de Janeiro</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, 22793-080, Rio de Janeiro</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, 90110-270, Porto Alegre</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Tacchini Bento Gonçalves,
+  95700-068, Bento Gonçalves</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, 90610-000, Porto Alegre</span>
+- <span style="color: #808080">SC: CEPEN - CENTRO DE PESQUISA E ENSINO
+  EM SAÚDE DE SANTA CATARINA, 88020-210, Florianópolis</span>
+- <span style="color: #808080">SC: Clínica de Oncologia Reichow,
+  89010-340, Blumenau</span>
+- <span style="color: #808080">SP: Instituto de Oncologia de Sorocaba,
+  18030-005, Sorocaba</span>
+- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
+  Unidade Taubaté \| Oncologista em Taubaté, 12030-200, Taubaté</span>
+- <span style="color: #808080">SP: Science Valley Research Institute,
+  04551-010, São Paulo</span>
+- <span style="color: #808080">SP: USP Campus de Ribeirão Preto,
+  14040-900, Ribeirão Preto</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
+  01525-001, São Paulo</span>
+- <span style="color: #808080">SP: Centro de Oncologia CEON + Santo
+  André, 09090-401, Santo André</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, 01317-000,
+  São Paulo</span>
+- <span style="color: #808080">SP: Unimed Sorocaba - Hospital Dr. Miguel
+  Soeiro (HMS), 18052-210, Sorocaba</span>
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz,
   01323-020, São Paulo</span>
 
