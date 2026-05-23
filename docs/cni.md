@@ -529,14 +529,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site - , Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site - , São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site - , Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site - , Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%20%20-%20%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -573,6 +573,23 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
   90610-001, Porto Alegre</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima,
   04538-132, São Paulo</span>
+
+**NCT06161025**: Ensaio multicêntrico randomizado de Fase 2/3 que avalia
+a segurança e eficácia de Raludotatug Deruxtecan (R-DXd) em pacientes
+com câncer de ovário, peritônio ou tuba de Falópio resistente à platina.
+
+Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 5
+
+- [**CNI**: Instituto COI de Pesquisa 22775-001, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06161025&location_id=INSTITUTOCOIDEPESQUISARIODEJANEIRO22775001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20COI%20de%20Pesquisa%2022775-001%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, 30360-680, Belo Horizonte</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, 22793-080, Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, 90560-032,
+  Porto Alegre</span>
+- <span style="color: #808080">RS: Hospital Ernesto Dornelles,
+  90160-092, Porto Alegre</span>
 
 **NCT04956640**: Ensaio de Fase 1/2 que avalia a segurança e eficácia do
 LY3537982 em pacientes com tumores sólidos avançados com mutação KRAS
@@ -612,6 +629,39 @@ Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 11
   Barretos</span>
 - <span style="color: #808080">SP: Glaxosmithkline Brasil, 04144-000,
   São Paulo</span>
+
+**NCT06431594**: (BEHOLD-1) Ensaio de fase I que avalia a segurança,
+tolerabilidade, farmacocinética e atividade clínica do GSK5733584 em
+pacientes com tumores sólidos avançados.
+
+Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 3
+
+- [**CNI**: GSK Investigational Site 74605-070, Goiânia,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06431594&location_id=GSKINVESTIGATIONALSITEGOIANIA74605070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2074605-070%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: GSK - Jacarepaguá, 22783-110, Rio de
+  Janeiro</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
+
+**NCT06796907**: (BEHOLD-2) Ensaio fase 1/2 randomizado multicohorte que
+avalia segurança, tolerabilidade, farmacocinética e eficácia de
+Mocertatug Rezetecan com agentes antineoplásicos em pacientes com
+tumores sólidos avançados.
+
+Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 6
+
+- [**CNI**: GSK Investigational Site 74605-070, Goiânia,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06796907&location_id=GSKINVESTIGATIONALSITEGOIANIA74605070BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GSK%20Investigational%20Site%2074605-070%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Hospital Santa Rita, 29043-260,
+  Vitória</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  59062-000, Natal</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, 90020-090, Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
+  Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
@@ -882,8 +932,6 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
   Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, 01246-000, São Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
@@ -898,6 +946,8 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   Oncologia, 04014-002, São Paulo</span>
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center,
   01525-001, São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
+  Barretos</span>
 
 **NCT04152109**: (PICS) Avaliação do impacto do Passe Espírita na saúde
 mental, física e qualidade de vida por meio de práticas integrativas no
