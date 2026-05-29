@@ -29,7 +29,7 @@ que avalia a segurança e eficácia de combinações com telisotuzumab
 adizutecan versus tratamentos padrão em adultos com câncer colorretal
 metastático.
 
-Patrocinador do Estudo: AbbVie. Número de Centros: 4
+Patrocinador do Estudo: AbbVie. Número de Centros: 5
 
 - [**CNI**: Nucleo De Pesquisa Clinica Da Rede Sao Camilo /ID# 272311,
   São Paulo,
@@ -37,6 +37,8 @@ Patrocinador do Estudo: AbbVie. Número de Centros: 4
 - <span style="color: #808080">RS: Oncosite, — Ijuí</span>
 - <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa, —
   São José do Rio Preto</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 
 **NCT06607627**: Estudo aberto, de braço único, que avalia
@@ -63,7 +65,7 @@ no tratamento inicial de adenocarcinoma gástrico ou de junção
 gastroesofágica avançado HER2-negativo, CLDN18.2- e PD-L1-positivo.
 
 Patrocinador do Estudo: Astellas Pharma Global Development, Inc.. Número
-de Centros: 6
+de Centros: 7
 
 - [**CNI**: Site BR55014, Belo Horizonte,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55014BELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55014%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
@@ -75,6 +77,8 @@ de Centros: 6
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55006SAOCAETANODOSULBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55006%2C%20S%C3%A3o%20Caetano%20do%20Sul%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Site BR55001, São José do Rio Preto,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55001SAOJOSEDORIOPRETOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55001%2C%20S%C3%A3o%20Jos%C3%A9%20do%20Rio%20Preto%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Site BR55007, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06901531&location_id=SITEBR55007SAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55007%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, —
   Jaú</span>
 
@@ -284,13 +288,15 @@ Dato-DXd com rilvegostomig ou rilvegostomig isolado versus pembrolizumab
 no tratamento de primeira linha de NSCLC não escamoso avançado com alta
 PD-L1.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
 
 - [**CNI**: Research Site, Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06357533&location_id=RESEARCHSITERIODEJANEIRO22211230BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">MG: HMC - Oncologia, — Ipatinga</span>
 - <span style="color: #808080">PR: Hospital Universitário Evangélico
   Mackenzie, — Curitiba</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, — Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
   — Natal</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
@@ -301,10 +307,9 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
   Unidade Taubaté \| Oncologista em Taubaté, — Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, — Barretos</span>
+- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 - <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
   (Centro Hospitalar), — São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, 14784-400,
-  Barretos</span>
 
 **NCT06380751**: (EvoPAR-Breast01) Estudo de fase III randomizado
 comparando saruparib mais camizestrant com inibidor de CDK4/6 mais
@@ -539,10 +544,29 @@ analisa práticas de cuidado para pacientes com câncer de ovário
 recém-diagnosticados ou recorrentes no Brasil a partir de janeiro de
 2021, abrangendo estágios IA a IVB.
 
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 1
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 
 - [**CNI**: Research Site, Porto Alegre,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Natal,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Goiânia,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEGOIANIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Belo Horizonte,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">IDF: Brasil Research, — Paris</span>
+- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
+  Bernardini Cutrale - Hospital de Amor, — Barretos</span>
+- <span style="color: #808080">SP: PIT - Parque de Inovação Tecnológica
+  São José dos Campos, — São José dos Campos</span>
 
 **NCT04464226**: Estudo aberto, de braço único, fornecendo tratamento
 contínuo com darolutamida para pacientes de estudos anteriores da Bayer
@@ -624,7 +648,7 @@ Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 5
 - <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
   Horizonte, — Belo Horizonte</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
-  Integrado, 22793-080, Rio de Janeiro</span>
+  Integrado, — Rio de Janeiro</span>
 - <span style="color: #808080">RS: Hospital Moinhos de Vento, — Porto
   Alegre</span>
 - <span style="color: #808080">RS: Hospital Ernesto Dornelles, — Porto
@@ -731,7 +755,7 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
 - <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
   Ensino, — Rio de Janeiro</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
+  — Natal</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS, — Porto
   Alegre</span>
 - <span style="color: #808080">RS: Hospital Nossa Senhora da Conceição -
@@ -772,8 +796,7 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, 01401-002, São
-  Paulo</span>
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
@@ -901,7 +924,7 @@ Patrocinador do Estudo: Sandoz. Número de Centros: 13
 - <span style="color: #808080">PR: Novartis Biociências S/A, —
   Curitiba</span>
 - <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  59062-000, Natal</span>
+  — Natal</span>
 - <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 
 **NCT06492616**: (ELEGANT) Estudo global de Fase 3 comparando
@@ -910,12 +933,9 @@ precoce, positivo para ER, negativo para HER2, com linfonodos positivos
 e alto risco de recorrência.
 
 Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
-31
+30
 
 - <span style="color: #808080">CE: Oncocentro Ceará, — Fortaleza</span>
-- <span style="color: #808080">CE: Hospital São Carlos: Pronto
-  Atendimento, Emergência, Pronto Socorro, Fortaleza, 60135-237,
-  Fortaleza</span>
 - [**CNI**: Futtura Oncologia, Porto Alegre, Rio Grande do
   Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06492616&location_id=FUTTURAONCOLOGIAPORTOALEGRERIOGRANDEDOSUL055026BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Futtura%20Oncologia%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
 - [**CNI**: Hospital Universitario y Politecnico La Fe - Oncología
@@ -955,8 +975,6 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
 - <span style="color: #808080">SC: CEPON, — Florianópolis</span>
 - <span style="color: #808080">SC: Catarina Pesquisa Clínica, —
   Itajaí</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, — São Paulo</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
@@ -969,6 +987,8 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   Paulo</span>
 - <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
   Oncologia, — São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center, —
   São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
