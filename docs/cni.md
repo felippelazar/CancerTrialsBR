@@ -456,14 +456,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site, Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -472,8 +472,8 @@ recém-diagnosticados ou recorrentes no Brasil a partir de janeiro de
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 
-- [**CNI**: Research Site, Belo Horizonte,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Rio de Janeiro,
@@ -484,8 +484,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEGOIANIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Belo Horizonte,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">IDF: Brasil Research, — Paris</span>
@@ -519,26 +519,6 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
   Alegre</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima, — São
   Paulo</span>
-
-**NCT07221149**: (ROSETTA Gastric-204) Ensaio fase 2/3, duplo-cego e
-randomizado, comparando Pumitamig mais quimioterapia versus Nivolumabe
-mais quimioterapia em adenocarcinoma gástrico, de JEG ou esofágico não
-tratado.
-
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 6
-
-- <span style="color: #808080">CE: UNIFOR - Universidade de Fortaleza, —
-  Fortaleza</span>
-- [**CNI**: Clinica Viver, Santa Maria, Rio Grande do
-  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07221149&location_id=CLINICAVIVERSANTAMARIARIOGRANDEDOSUL97015373BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Clinica%20Viver%2C%20Santa%20Maria%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
-- <span style="color: #808080">MG: Estácio EAD BH Centro, — Belo
-  Horizonte</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  — Natal</span>
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  — Porto Alegre</span>
-- <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa, —
-  São José do Rio Preto</span>
 
 **NCT04956640**: Ensaio de Fase 1/2 que avalia a segurança e eficácia do
 LY3537982 em pacientes com tumores sólidos avançados com mutação KRAS
@@ -619,27 +599,6 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center, —
   São Paulo</span>
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima, — São
-  Paulo</span>
-
-**NCT05827081**: (Adjuvant WIDER) Estudo de fase IIIb aberto que avalia
-eficácia e segurança de ribociclibe mais terapia endócrina em pacientes
-com câncer de mama inicial HR+ HER2- em cenário clínico real.
-
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
-
-- <span style="color: #808080">BA: NOB \| Oncoclínicas, —
-  Salvador</span>
-- [**CNI**: Novartis Investigative Site, Salvador, Estado de
-  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05827081&location_id=NOVARTISINVESTIGATIVESITESALVADORESTADODEBAHIA41825010BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Hospital Moinhos de Vento, — Porto
-  Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
-  Alegre</span>
-- <span style="color: #808080">SP: Sociedade Beneficente Israelita
-  Brasileira Hospital Albert Einstein, — São Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
-- <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
 
 **NCT06517758**: Ensaio de Fase III randomizado, duplo-cego e controlado
