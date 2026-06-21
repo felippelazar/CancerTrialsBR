@@ -509,12 +509,10 @@ comparando Izalontamab Brengitecan à escolha do médico em pacientes com
 TNBC metastático ou BC ER-baixo, HER2-negativo não elegíveis para
 terapia anti-PD1/PD-L1.
 
-Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 12
+Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 11
 
 - <span style="color: #808080">AM: IOAM - Instituto de Oncologia da
   Amazônia, — Manaus</span>
-- <span style="color: #808080">CE: Hospital São Carlos: Pronto
-  Atendimento, Emergência, Pronto Socorro, Fortaleza, — Fortaleza</span>
 - <span style="color: #808080">CE: Oncocentro Ceará - Oncologia
   Integrada, — Fortaleza</span>
 - [**CNI**: Local Institution - 1038, Lago Sul, Federal
@@ -530,11 +528,11 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 12
   Alegre</span>
 - <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa, —
   São José do Rio Preto</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, — São
   Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 
 **NCT07106762**: (IZABRIGHT-Bladder01) Ensaio randomizado, aberto, de
 Fase 2/3 comparando Izalontamab Brengitecan à quimioterapia à base de
@@ -585,9 +583,9 @@ Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 11
   São Paulo</span>
 - <span style="color: #808080">SP: Clinica São Germano, — São
   Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 - <span style="color: #808080">SP: Glaxosmithkline Brasil, — São
   Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
