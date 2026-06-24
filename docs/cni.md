@@ -296,9 +296,9 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   Unidade Taubaté \| Oncologista em Taubaté, — Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, — Barretos</span>
-- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 - <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
   (Centro Hospitalar), — São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 
 **NCT06380751**: (EvoPAR-Breast01) Estudo de fase III randomizado
 comparando saruparib mais camizestrant com inibidor de CDK4/6 mais
@@ -456,14 +456,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site, Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -472,8 +472,8 @@ recém-diagnosticados ou recorrentes no Brasil a partir de janeiro de
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
 
-- [**CNI**: Research Site, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Belo Horizonte,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Rio de Janeiro,
@@ -484,8 +484,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 11
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEGOIANIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Belo Horizonte,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">IDF: Brasil Research, — Paris</span>
@@ -661,8 +661,10 @@ por placebo que avalia a eficácia, segurança e tolerabilidade do
 iptacopan em pacientes com miastenia gravis generalizada AChR+ em
 tratamento SOC estável.
 
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 4
+Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 5
 
+- [**CNI**: Novartis Investigative Site, Bahia,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06517758&location_id=NOVARTISINVESTIGATIVESITEBAHIA40290000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2C%20Bahia%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Novartis Investigative Site, Joinville, Santa
   Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06517758&location_id=NOVARTISINVESTIGATIVESITEJOINVILLESANTACATARINA89202165BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2C%20Joinville%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
@@ -683,11 +685,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
@@ -885,6 +887,22 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center, —
   São Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
+
+**NCT06625775**: (BREAKER-101) Estudo aberto de fase 1a/1b avaliando
+segurança, tolerabilidade, farmacocinética e eficácia do BBO-10203
+isolado ou combinado em pacientes com tumores sólidos avançados.
+
+Patrocinador do Estudo: TheRas, Inc., d/b/a BBOT (BridgeBio Oncology
+Therapeutics). Número de Centros: 4
+
+- [**CNI**: IEPE - Unimed Sorocaba, Sorocaba, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06625775&location_id=IEPEUNIMEDSOROCABASOROCABASAOPAULO18056BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20IEPE%20-%20Unimed%20Sorocaba%2C%20Sorocaba%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS, — Porto
+  Alegre</span>
+- <span style="color: #808080">RS: FUTTURA Oncologia, — Porto
+  Alegre</span>
+- <span style="color: #808080">SP: Centro de Pesquisa Pérola, — São
+  Paulo</span>
 
 **NCT07463235**: (SPARAGMOS) Ensaio multicêntrico e randomizado que
 compara doses altas versus padrão de cabergolina para remissão em
