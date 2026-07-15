@@ -593,15 +593,6 @@ Patrocinador do Estudo: Daiichi Sankyo. Número de Centros: 5
 - <span style="color: #808080">SP: Centro de Pesquisa Pérola, — São
   Paulo</span>
 
-**NCT04956640**: Ensaio de Fase 1/2 que avalia a segurança e eficácia do
-LY3537982 em pacientes com tumores sólidos avançados com mutação KRAS
-G12C após falha das terapias padrão.
-
-Patrocinador do Estudo: Eli Lilly and Company. Número de Centros: 1
-
-- [**CNI**: Centro a definir, Cidade a definir, Estado a
-  definir](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT04956640&location_id=CENTROADEFINIRCIDADEADEFINIRESTADOADEFINIR00000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20a%20definir%2C%20Cidade%20a%20definir%2C%20Estado%20a%20definir&form_type=Identificar%20Centro)
-
 **NCT06679101**: (DREAMM-10) Ensaio aberto randomizado de fase 3
 comparando BRd versus DRd para sobrevida livre de progressão e
 negatividade de MRD em pacientes com mieloma múltiplo
@@ -674,6 +665,35 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima, — São
   Paulo</span>
 
+**NCT05827081**: (Adjuvant WIDER) Estudo de fase IIIb aberto que avalia
+eficácia e segurança de ribociclibe mais terapia endócrina em pacientes
+com câncer de mama inicial HR+ HER2- em cenário clínico real.
+
+Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 11
+
+- <span style="color: #808080">BA: AMO Medicina Diagnóstica, —
+  Salvador</span>
+- <span style="color: #808080">BA: NOB \| Oncoclínicas, —
+  Salvador</span>
+- [**CNI**: Novartis Investigative Site, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05827081&location_id=NOVARTISINVESTIGATIVESITERIODEJANEIRO22281100BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Novartis Biociências, — Belo
+  Horizonte</span>
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, — Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS, — Porto
+  Alegre</span>
+- <span style="color: #808080">RS: Hospital Moinhos de Vento, — Porto
+  Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
+  Alegre</span>
+- <span style="color: #808080">SP: Sociedade Beneficente Israelita
+  Brasileira Hospital Albert Einstein, — São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
+- <span style="color: #808080">SP: Novartis Biociências S.A., — São
+  Paulo</span>
+
 **NCT06517758**: Ensaio de Fase III randomizado, duplo-cego e controlado
 por placebo que avalia a eficácia, segurança e tolerabilidade do
 iptacopan em pacientes com miastenia gravis generalizada AChR+ em
@@ -703,11 +723,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
