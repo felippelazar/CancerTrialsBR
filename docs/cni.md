@@ -296,9 +296,9 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   Unidade Taubaté \| Oncologista em Taubaté, — Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, — Barretos</span>
+- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 - <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
   (Centro Hospitalar), — São Paulo</span>
-- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 
 **NCT06380751**: (EvoPAR-Breast01) Estudo de fase III randomizado
 comparando saruparib mais camizestrant com inibidor de CDK4/6 mais
@@ -671,7 +671,7 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
 eficácia e segurança de ribociclibe mais terapia endócrina em pacientes
 com câncer de mama inicial HR+ HER2- em cenário clínico real.
 
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 11
+Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 12
 
 - <span style="color: #808080">BA: AMO Medicina Diagnóstica, —
   Salvador</span>
@@ -681,13 +681,15 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 11
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05827081&location_id=NOVARTISINVESTIGATIVESITERIODEJANEIRO22281100BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">MG: Novartis Biociências, — Belo
   Horizonte</span>
+- <span style="color: #808080">RJ: IDOR - Instituto D’Or de Pesquisa e
+  Ensino, — Rio de Janeiro</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
   Integrado, — Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
+  Alegre</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS, — Porto
   Alegre</span>
 - <span style="color: #808080">RS: Hospital Moinhos de Vento, — Porto
-  Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
   Alegre</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Hospital Albert Einstein, — São Paulo</span>
@@ -725,11 +727,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
