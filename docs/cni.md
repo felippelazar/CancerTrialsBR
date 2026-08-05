@@ -490,33 +490,33 @@ recém-diagnosticados ou recorrentes no Brasil a partir de janeiro de
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 14
 
-- [**CNI**: Research Site, Porto Alegre,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGREBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Natal,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITENATALBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Natal%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Goiânia,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEGOIANIABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Belo Horizonte,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Curitiba,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITECURITIBABRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Curitiba%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">DF: Instituto Rio Branco, —
-  Brasília</span>
-- <span style="color: #808080">IDF: Brasil Research, — Paris</span>
-- <span style="color: #808080">PB: Instituto Histórico e Geográfico
-  Paraibano, — João Pessoa</span>
-- <span style="color: #808080">SP: Instituto de Pesquisa Amelia
-  Bernardini Cutrale - Hospital de Amor, — Barretos</span>
+- <span style="color: #808080">AC: Aeroporto Internacional de Rio
+  Branco - Plácido de Castro, — Rio Branco</span>
+- <span style="color: #808080">BA: RR Centro de Atividade de Pesquisa
+  Subaquáticas, — Salvador</span>
+- [**CNI**: Research Site, Barretos/SP,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBARRETOSSPBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Barretos%2FSP%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Belo Horizonte/MG,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEMGBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2FMG%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Porto Alegre/RS,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGRERSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2FRS%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Recife/PE,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERECIFEPEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2FPE%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Bras lia/DF,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBRASLIADFBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Bras%20lia%2FDF%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">GO: Serviço Geológico do Brasil -
+  SGB/CPRM, — Goiânia</span>
+- <span style="color: #808080">PB: Estação Cabo Branco - Ciência,
+  Cultura e Artes, — João Pessoa</span>
+- <span style="color: #808080">PR: CRC Pesquisa - Cline Research Center,
+  — Curitiba</span>
+- <span style="color: #808080">RJ: Centro Brasileiro de Pesquisas
+  Físicas, — Rio de Janeiro</span>
+- <span style="color: #808080">RN: Instituto Internacional de Física, —
+  Natal</span>
 - <span style="color: #808080">SP: PIT - Parque de Inovação Tecnológica
   São José dos Campos, — São José dos Campos</span>
+- <span style="color: #808080">SP: BR Trials, — São Paulo</span>
 
 **NCT04142437**: (ON-TRK) Estudo observacional que avalia a eficácia e
 tolerância do Larotrectinib em pacientes adultos e pediátricos com
@@ -696,11 +696,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
