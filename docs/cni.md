@@ -474,14 +474,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site, Salvador,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Rio de Janeiro,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Recife,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Salvador,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Rio de Janeiro,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -498,12 +498,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 14
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBARRETOSSPBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Barretos%2FSP%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Belo Horizonte/MG,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEMGBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2FMG%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Porto Alegre/RS,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGRERSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2FRS%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Recife/PE,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERECIFEPEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2FPE%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Bras lia/DF,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBRASLIADFBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Bras%20lia%2FDF%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Porto Alegre/RS,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGRERSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2FRS%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">GO: Serviço Geológico do Brasil -
   SGB/CPRM, — Goiânia</span>
 - <span style="color: #808080">PB: Estação Cabo Branco - Ciência,
@@ -622,6 +622,31 @@ Patrocinador do Estudo: GlaxoSmithKline. Número de Centros: 11
 - <span style="color: #808080">SP: Glaxosmithkline Brasil, — São
   Paulo</span>
 - <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
+
+**NCT06084936**: (GLOBRYTE) Estudo de fase III aberto comparando
+monoterapia com glofitamabe a regimes baseados em rituximabe em
+pacientes com linfoma de células do manto recidivante/refratário.
+
+Patrocinador do Estudo: Hoffmann-La Roche. Número de Centros: 9
+
+- <span style="color: #808080">BA: Hospital São Rafael, —
+  Salvador</span>
+- [**CNI**: Ictrials Pesquisa e Desenvolvimento, Curitiba,
+  Paraná](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06084936&location_id=ICTRIALSPESQUISAEDESENVOLVIMENTOCURITIBAPARANA80510130BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Ictrials%20Pesquisa%20e%20Desenvolvimento%2C%20Curitiba%2C%20Paran%C3%A1&form_type=Identificar%20Centro)
+- <span style="color: #808080">RJ: Americas Centro de Oncologia
+  Integrado, — Rio de Janeiro</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
+  Alegre</span>
+- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz, — São
+  Paulo</span>
+- <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
+  Paulo, — São Paulo</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center, —
+  São Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
+- <span style="color: #808080">SP: Hospital Paulistano, — São
+  Paulo</span>
 
 **NCT06615479**: Estudo de Fase 3 comparando a eficácia e segurança do
 Arlocabtagene Autoleucel (BMS-986393) versus regimes padrão em adultos
