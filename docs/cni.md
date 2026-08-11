@@ -177,75 +177,6 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 41
 - <span style="color: #808080">SP: Hospital Paulistano, — São
   Paulo</span>
 
-**NCT05952557**: (CAMBRIA-2) Estudo de fase III aberto comparando
-camizestrant à terapia endócrina padrão em pacientes com câncer de mama
-precoce ER+/HER2- com risco intermediário-alto ou alto de recidiva após
-tratamento locorregional.
-
-Patrocinador do Estudo: AstraZeneca. Número de Centros: 31
-
-- <span style="color: #808080">BA: NOB \| Oncoclínicas, —
-  Salvador</span>
-- <span style="color: #808080">CE: Hospital São Carlos: Pronto
-  Atendimento, Emergência, Pronto Socorro, Fortaleza, — Fortaleza</span>
-- <span style="color: #808080">CE: Instituto do Câncer Do Ceara, —
-  Fortaleza</span>
-- [**CNI**: Research Site, Goiânia,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITEGOIANIA74000000BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Goi%C3%A2nia%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Brasília,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05952557&location_id=RESEARCHSITEBRASILIA71615907BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Bras%C3%ADlia%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Hospital Santa Rita, — Vitória</span>
-- <span style="color: #808080">MG: Hospital das Clínicas da UFMG, — Belo
-  Horizonte</span>
-- <span style="color: #808080">MG: Centro de Oncologia de Alfenas, —
-  Alfenas</span>
-- <span style="color: #808080">MG: Grupo Oncominas - Unidade Pouso
-  Alegre, — Pouso Alegre</span>
-- <span style="color: #808080">MS: Instituto do Câncer Brasil, — Três
-  Lagoas</span>
-- <span style="color: #808080">PB: Hospital Napoleão Laureano, — João
-  Pessoa</span>
-- <span style="color: #808080">PE: Hospital Esperança Recife: Pronto
-  Atendimento, Emergência, Maternidade Recife PE, — Recife</span>
-- <span style="color: #808080">PI: Oncoclínica Oncologistas Associados,
-  — Teresina</span>
-- <span style="color: #808080">PR: Oncologia Hospital Evangélico
-  Mackenzie, — Curitiba</span>
-- <span style="color: #808080">PR: CIONC-Centro Integrado de Oncologia
-  de Curitiba, — Curitiba</span>
-- <span style="color: #808080">RJ: Americas Centro de Oncologia
-  Integrado, — Rio de Janeiro</span>
-- <span style="color: #808080">RJ: Instituto Nacional de Câncer - INCA,
-  — Rio de Janeiro</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  — Natal</span>
-- <span style="color: #808080">RO: Hospital de Amor Amazônia, — Porto
-  Velho</span>
-- <span style="color: #808080">RS: Universidade Federal de Ciências da
-  Saúde de Porto Alegre, — Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa Clínica - HCPA, —
-  Porto Alegre</span>
-- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
-  HSL, — Porto Alegre</span>
-- <span style="color: #808080">SC: Clínica de Oncologia Reichow, —
-  Blumenau</span>
-- <span style="color: #808080">SC: Catarina Pesquisa Clínica, —
-  Itajaí</span>
-- <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
-  Medicina de Ribeirão Preto, — Ribeirão Preto</span>
-- <span style="color: #808080">SP: Núcleo de Pesquisa e Ensino IBCC
-  Oncologia, — São Paulo</span>
-- <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz, — São
-  Paulo</span>
-- <span style="color: #808080">SP: ICB - Instituto do Câncer Brasil \|
-  Unidade Taubaté \| Oncologista em Taubaté, — Taubaté</span>
-- <span style="color: #808080">SP: Instituto do Câncer do Estado de São
-  Paulo - ICESP Unidade São Paulo, — São Paulo</span>
-- <span style="color: #808080">SP: Hospital Nove de Julho, — São
-  Paulo</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, — Santo André</span>
-
 **NCT06103864**: (TROPION-Breast05) Estudo de Fase III comparando
 Dato-DXd com/sem durvalumabe versus quimioterapia mais pembrolizumabe em
 pacientes com câncer de mama triplo-negativo metastático PD-L1 positivo.
@@ -474,14 +405,14 @@ oncologistas.
 
 Patrocinador do Estudo: AstraZeneca. Número de Centros: 4
 
-- [**CNI**: Research Site, Recife,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Salvador,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESALVADORBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Salvador%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, São Paulo,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Rio de Janeiro,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERIODEJANEIROBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Rio%20de%20Janeiro%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITESAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Recife,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07109154&location_id=RESEARCHSITERECIFEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2C%20%20-%20&form_type=Identificar%20Centro)
 
 **NCT07167433**: (Estudo OLIVIA) Estudo observacional e bidirecional que
 analisa práticas de cuidado para pacientes com câncer de ovário
@@ -496,12 +427,12 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 14
   Subaquáticas, — Salvador</span>
 - [**CNI**: Research Site, Belo Horizonte/MG,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBELOHORIZONTEMGBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Belo%20Horizonte%2FMG%2C%20%20-%20&form_type=Identificar%20Centro)
+- [**CNI**: Research Site, Porto Alegre/RS,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGRERSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2FRS%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Recife/PE,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITERECIFEPEBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Recife%2FPE%2C%20%20-%20&form_type=Identificar%20Centro)
 - [**CNI**: Research Site, Bras lia/DF,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEBRASLIADFBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Bras%20lia%2FDF%2C%20%20-%20&form_type=Identificar%20Centro)
-- [**CNI**: Research Site, Porto Alegre/RS,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07167433&location_id=RESEARCHSITEPORTOALEGRERSBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20Porto%20Alegre%2FRS%2C%20%20-%20&form_type=Identificar%20Centro)
 - <span style="color: #808080">GO: Serviço Geológico do Brasil -
   SGB/CPRM, — Goiânia</span>
 - <span style="color: #808080">PB: Estação Cabo Branco - Ciência,
@@ -587,6 +518,25 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 
+**NCT07489495**: (LITESPARK-034) Ensaio fase 3 randomizado e duplo-cego
+que compara belzutifan mais zanzalintinibe versus belzutifan mais
+placebo em pacientes com carcinoma renal avançado após terapias PD-1/L1
+e VEGF-TKI.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 5
+
+- [**CNI**: Hope - Humanizacao Em Oncologia, Pesquisa E Ensino ( Site
+  0306), Ribeirão Preto, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07489495&location_id=HOPEHUMANIZACAOEMONCOLOGIAPESQUISAEENSINOSITE0306RIBEIRAOPRETOSAOPAULO14026610BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hope%20-%20Humanizacao%20Em%20Oncologia%2C%20Pesquisa%20E%20Ensino%20%28%20Site%200306%29%2C%20Ribeir%C3%A3o%20Preto%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico, —
+  Vitória</span>
+- <span style="color: #808080">PR: ICTR Instituto do Câncer e
+  Transplante de Curitiba, — Curitiba</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  — Natal</span>
+- <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa, —
+  São José do Rio Preto</span>
+
 **NCT06525220**: Estudo de fase 3 aberto comparando petosemtamabe mais
 pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
 de carcinoma de células escamosas de cabeça e pescoço PD-L1+ recorrente
@@ -644,11 +594,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
