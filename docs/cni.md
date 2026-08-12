@@ -227,9 +227,9 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 12
   Unidade Taubaté \| Oncologista em Taubaté, — Taubaté</span>
 - <span style="color: #808080">SP: Instituto de Pesquisa Amelia
   Bernardini Cutrale - Hospital de Amor, — Barretos</span>
-- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 - <span style="color: #808080">SP: Instituto de Câncer Dr. Arnaldo
   (Centro Hospitalar), — São Paulo</span>
+- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
 
 **NCT06380751**: (EvoPAR-Breast01) Estudo de fase III randomizado
 comparando saruparib mais camizestrant com inibidor de CDK4/6 mais
@@ -594,11 +594,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
