@@ -71,27 +71,6 @@ de Centros: 10
 - <span style="color: #808080">SP: Hospital Amaral Carvalho, —
   Jaú</span>
 
-**NCT02960022**: Estudo de extensão de fase 2 aberto coletando dados de
-segurança a longo prazo para pacientes com câncer de próstata
-beneficiando-se de Enzalutamida após participação em estudo clínico
-anterior.
-
-Patrocinador do Estudo: Astellas Pharma Global Development, Inc.. Número
-de Centros: 7
-
-- <span style="color: #808080">BA: Hospital São Rafael, —
-  Salvador</span>
-- [**CNI**: Site BR55008, Campinas,
-  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT02960022&location_id=SITEBR55008CAMPINASBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Site%20BR55008%2C%20Campinas%2C%20%20-%20&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Oncosite, — Ijuí</span>
-- <span style="color: #808080">RS: CliniOnco, — Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital São Lucas da PUCRS, — Porto
-  Alegre</span>
-- <span style="color: #808080">SP: Hospital Amaral Carvalho, —
-  Jaú</span>
-- <span style="color: #808080">SP: CEPHO - Centro de Estudos e Pesquisa
-  de Hematologia, — Santo André</span>
-
 **NCT05774951**: (CAMBRIA-1) Estudo de fase III aberto comparando
 camizestrant à terapia endócrina padrão em pacientes com câncer de mama
 precoce ER+/HER2- com risco intermediário/alto de recidiva pós-terapia
@@ -474,6 +453,15 @@ Patrocinador do Estudo: Bristol-Myers Squibb. Número de Centros: 4
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima, — São
   Paulo</span>
 
+**NCT05489887**: Estudo multicêntrico de Fase II que avalia a eficácia e
+segurança da adição de naxitamabe à quimioterapia de indução em
+pacientes com neuroblastoma de alto risco recém-diagnosticado.
+
+Patrocinador do Estudo: Giselle Sholler. Número de Centros: 1
+
+- [**CNI**: GRAACC Hospital, São Paulo, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05489887&location_id=GRAACCHOSPITALSAOPAULOSAOPAULO04039001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20GRAACC%20Hospital%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+
 **NCT06679101**: (DREAMM-10) Ensaio aberto randomizado de fase 3
 comparando BRd versus DRd para sobrevida livre de progressão e
 negatividade de MRD em pacientes com mieloma múltiplo
@@ -518,25 +506,6 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 
-**NCT07489495**: (LITESPARK-034) Ensaio fase 3 randomizado e duplo-cego
-que compara belzutifan mais zanzalintinibe versus belzutifan mais
-placebo em pacientes com carcinoma renal avançado após terapias PD-1/L1
-e VEGF-TKI.
-
-Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 5
-
-- [**CNI**: Hope - Humanizacao Em Oncologia, Pesquisa E Ensino ( Site
-  0306), Ribeirão Preto, São
-  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07489495&location_id=HOPEHUMANIZACAOEMONCOLOGIAPESQUISAEENSINOSITE0306RIBEIRAOPRETOSAOPAULO14026610BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Hope%20-%20Humanizacao%20Em%20Oncologia%2C%20Pesquisa%20E%20Ensino%20%28%20Site%200306%29%2C%20Ribeir%C3%A3o%20Preto%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
-- <span style="color: #808080">ES: Cedoes - Pesquisa e Diagnóstico, —
-  Vitória</span>
-- <span style="color: #808080">PR: ICTR Instituto do Câncer e
-  Transplante de Curitiba, — Curitiba</span>
-- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
-  — Natal</span>
-- <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa, —
-  São José do Rio Preto</span>
-
 **NCT06525220**: Estudo de fase 3 aberto comparando petosemtamabe mais
 pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
 de carcinoma de células escamosas de cabeça e pescoço PD-L1+ recorrente
@@ -565,23 +534,6 @@ Patrocinador do Estudo: Merus B.V.. Número de Centros: 10
 - <span style="color: #808080">SP: OC Oncoclínicas Faria Lima, — São
   Paulo</span>
 
-**NCT06517758**: Ensaio de Fase III randomizado, duplo-cego e controlado
-por placebo que avalia a eficácia, segurança e tolerabilidade do
-iptacopan em pacientes com miastenia gravis generalizada AChR+ em
-tratamento SOC estável.
-
-Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 5
-
-- [**CNI**: Novartis Investigative Site, Joinville, Santa
-  Catarina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06517758&location_id=NOVARTISINVESTIGATIVESITEJOINVILLESANTACATARINA89202165BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Novartis%20Investigative%20Site%2C%20Joinville%2C%20Santa%20Catarina&form_type=Identificar%20Centro)
-- <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
-  — Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Moinhos de Vento, — Porto
-  Alegre</span>
-- <span style="color: #808080">SP: Hospital do Servidor Público Estadual
-  Francisco Morato de Oliveira, — São Paulo</span>
-- <span style="color: #808080">SP: PSEG, — São Paulo</span>
-
 **NCT06934967**: Estudo de fase 3, aberto, braço único e multicêntrico
 que avalia farmacocinética, segurança e tolerabilidade do iptacopan em
 pacientes pediátricos de 2 a menos de 18 anos com HPN.
@@ -594,11 +546,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
