@@ -128,8 +128,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 41
 - <span style="color: #808080">RS: Hospital Bruno Born, — Lajeado</span>
 - <span style="color: #808080">RS: Universidade Federal de Ciências da
   Saúde de Porto Alegre, — Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
-  Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, — Porto Alegre</span>
 - <span style="color: #808080">SC: Supera Oncologia, — Chapecó</span>
 - <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center, —
   São Paulo</span>
@@ -333,8 +333,8 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 5
 - <span style="color: #808080">GO: UFG, — Goiânia</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
-  Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, — Porto Alegre</span>
 - <span style="color: #808080">SP: Instituto do Câncer do Estado de São
   Paulo - ICESP Unidade São Paulo, — São Paulo</span>
 
@@ -575,6 +575,17 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz, — São
   Paulo</span>
 
+**NCT07266428**: Ensaio de Fase 1/2A que avalia a segurança,
+tolerabilidade, dose e atividade antitumoral do OTP-01, um anticorpo
+duplo paratópico PD-1/VEGFR2, em adultos com tumores sólidos avançados.
+
+Patrocinador do Estudo: Ottimo Pharma Limited. Número de Centros: 2
+
+- [**CNI**: Centro Gaucho Integrado, Porto Alegre,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07266428&location_id=CENTROGAUCHOINTEGRADOPORTOALEGRE90850170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Centro%20Gaucho%20Integrado%2C%20Porto%20Alegre%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, — Porto Alegre</span>
+
 **NCT06152575**: Estudo de fase 3, aberto, comparando monoterapia com
 elranatamab a EPd, PVd ou Kd em adultos com mieloma múltiplo
 recidivante/refratário após terapia anti-CD38.
@@ -586,8 +597,8 @@ Patrocinador do Estudo: Pfizer. Número de Centros: 13
 - <span style="color: #808080">N/A: Oncomed Niterói Icaraí, — NA</span>
 - <span style="color: #808080">RJ: Americas Centro de Oncologia
   Integrado, — Rio de Janeiro</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
-  Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, — Porto Alegre</span>
 - <span style="color: #808080">RS: Hospital Moinhos de Vento, — Porto
   Alegre</span>
 - <span style="color: #808080">SP: Hospital das Clínicas da Faculdade de
@@ -722,8 +733,8 @@ Patrocinador do Estudo: Stemline Therapeutics, Inc.. Número de Centros:
   Lajeado, — Lajeado</span>
 - <span style="color: #808080">RS: Hospital São Lucas da PUCRS, — Porto
   Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
-  Alegre</span>
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, — Porto Alegre</span>
 - <span style="color: #808080">SC: CEPON, — Florianópolis</span>
 - <span style="color: #808080">SC: Catarina Pesquisa Clínica, —
   Itajaí</span>
@@ -753,12 +764,12 @@ Patrocinador do Estudo: Takeda. Número de Centros: 8
 
 - [**CNI**: Instituto de Ensino e Pesquisas Sao Lucas, São Paulo,
   -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT05037760&location_id=INSTITUTODEENSINOEPESQUISASSAOLUCASSAOPAULOBRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Instituto%20de%20Ensino%20e%20Pesquisas%20Sao%20Lucas%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">RS: Hospital Mãe de Deus - Centro
+  Integrado de Oncologia, — Porto Alegre</span>
 - <span style="color: #808080">RS: IMV Pesquisa Cardiológica, — Porto
   Alegre</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
-- <span style="color: #808080">RS: Hospital Mãe de Deus, — Porto
-  Alegre</span>
 - <span style="color: #808080">SP: Sociedade Beneficente Israelita
   Brasileira Albert Einstei, — São Paulo</span>
 - <span style="color: #808080">SP: IEP - Instituto de Pesquisa São
