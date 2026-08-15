@@ -293,6 +293,20 @@ Patrocinador do Estudo: AstraZeneca. Número de Centros: 13
 - <span style="color: #808080">SP: Hospital Alemão Oswaldo Cruz, — São
   Paulo</span>
 
+**NCT07764978**: (DURGA-5) Estudo de fase III randomizado que compara
+consolidação com AZD0120 CAR-T versus terapia padrão contínua em
+pacientes com mieloma múltiplo recém-diagnosticado inelegíveis para TCTH
+autólogo.
+
+Patrocinador do Estudo: AstraZeneca. Número de Centros: 3
+
+- <span style="color: #808080">BA: Hospital São Rafael, —
+  Salvador</span>
+- [**CNI**: Research Site, São Paulo,
+  -](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07764978&location_id=RESEARCHSITESAOPAULO01525001BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Research%20Site%2C%20S%C3%A3o%20Paulo%2C%20%20-%20&form_type=Identificar%20Centro)
+- <span style="color: #808080">SP: Hospital Israelita Albert Einstein, —
+  São Paulo</span>
+
 **NCT04379596**: (DESTINY-Gastric-03) Estudo multicêntrico de Fase 1b/2
 avaliando segurança, tolerabilidade e atividade antitumoral de
 Trastuzumab Deruxtecan isolado ou com quimioterapia/imunoterapia em
@@ -506,6 +520,64 @@ Company. Número de Centros: 4
 - <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
   Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 
+**NCT06822543**: (TROPICAL-1) Estudo de fase 2, braço único, de
+Datopotamab Deruxtecan, Carboplatina e Pembrolizumabe em pacientes com
+CPNPC e metástases cerebrais não tratados previamente.
+
+Patrocinador do Estudo: Latin American Cooperative Oncology Group.
+Número de Centros: 14
+
+- <span style="color: #808080">CE: CRIO-Centro Regional Integrado de
+  Oncologia, — Fortaleza</span>
+- [**CNI**: CTTB - Centro de Tratamento de Tumores Botafogo
+  (Oncoclínicas), Rio de Janeiro, Rio de
+  Janeiro](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06822543&location_id=CTTBCENTRODETRATAMENTODETUMORESBOTAFOGOONCOCLINICASRIODEJANEIRORIODEJANEIRO22250905BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CTTB%20-%20Centro%20de%20Tratamento%20de%20Tumores%20Botafogo%20%28Oncocl%C3%ADnicas%29%2C%20Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro&form_type=Identificar%20Centro)
+- [**CNI**: Catarina Pesquisa Clínica - Clínica de Neoplasias Litoral,
+  Itajaí, South
+  Carolina](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06822543&location_id=CATARINAPESQUISACLINICACLINICADENEOPLASIASLITORALITAJAISOUTHCAROLINA88301220BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Catarina%20Pesquisa%20Cl%C3%ADnica%20-%20Cl%C3%ADnica%20de%20Neoplasias%20Litoral%2C%20Itaja%C3%AD%2C%20South%20Carolina&form_type=Identificar%20Centro)
+- [**CNI**: Santa Casa de Misericórdia da Bahia - Hospital Santa Izabel
+  (Oncoclínicas), Salvador, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06822543&location_id=SANTACASADEMISERICORDIADABAHIAHOSPITALSANTAIZABELONCOCLINICASSALVADORESTADODEBAHIA40050410BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Santa%20Casa%20de%20Miseric%C3%B3rdia%20da%20Bahia%20-%20Hospital%20Santa%20Izabel%20%28Oncocl%C3%ADnicas%29%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- [**CNI**: CPO - Centro Paulista de Oncologia (Oncoclínicas), São
+  Paulo, São
+  Paulo](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06822543&location_id=CPOCENTROPAULISTADEONCOLOGIAONCOCLINICASSAOPAULOSAOPAULO04538135BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20CPO%20-%20Centro%20Paulista%20de%20Oncologia%20%28Oncocl%C3%ADnicas%29%2C%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo&form_type=Identificar%20Centro)
+- [**CNI**: ISCMPA - Santa Casa de Porto Alegre, Porto Alegre, Rio
+  Grande do
+  Sul](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT06822543&location_id=ISCMPASANTACASADEPORTOALEGREPORTOALEGRERIOGRANDEDOSUL90050170BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20ISCMPA%20-%20Santa%20Casa%20de%20Porto%20Alegre%2C%20Porto%20Alegre%2C%20Rio%20Grande%20do%20Sul&form_type=Identificar%20Centro)
+- <span style="color: #808080">MG: Cancer Center Oncoclínicas - Belo
+  Horizonte, — Belo Horizonte</span>
+- <span style="color: #808080">PE: IMIP Instituto de Medicina Integral
+  Professor Fernando Figueira, — Recife</span>
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  — Natal</span>
+- <span style="color: #808080">RS: Santa Casa de Misericórdia de Porto
+  Alegre, — Porto Alegre</span>
+- <span style="color: #808080">RS: Centro de Pesquisa em Oncologia - CPO
+  HSL, — Porto Alegre</span>
+- <span style="color: #808080">SP: Hospital A.C.Camargo Cancer Center, —
+  São Paulo</span>
+- <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa, —
+  São José do Rio Preto</span>
+- <span style="color: #808080">SP: Hospital de Amor, — Barretos</span>
+
+**NCT07318558**: (TroFuse-021/ENGOTov85/GOG-3102) Estudo de fase 3
+randomizado que compara sacituzumabe tirumotecano com ou sem
+bevacizumabe versus tratamento padrão como manutenção em câncer de
+ovário avançado não-HRD positivo recém-diagnosticado.
+
+Patrocinador do Estudo: Merck Sharp & Dohme LLC. Número de Centros: 5
+
+- [**CNI**: Obras Sociais Irma Dulce ( Site 0427), Salvador, Estado de
+  Bahia](https://cancertrialsbr.shinyapps.io/formsapp?study_nct_id=NCT07318558&location_id=OBRASSOCIAISIRMADULCESITE0427SALVADORESTADODEBAHIA41680430BRAZIL&location_full_name=%28Centro%20N%C3%A3o-Identificado%29%2C%20Obras%20Sociais%20Irma%20Dulce%20%28%20Site%200427%29%2C%20Salvador%2C%20Estado%20de%20Bahia&form_type=Identificar%20Centro)
+- <span style="color: #808080">RN: Centro Avançado de Oncologia (CECAN),
+  — Natal</span>
+- <span style="color: #808080">RS: Hospital São Lucas da PUCRS, — Porto
+  Alegre</span>
+- <span style="color: #808080">SC: ANIMI - Unidade de Tratamento
+  Oncológico, — Lages</span>
+- <span style="color: #808080">SP: CIP - Centro Integrado de Pesquisa, —
+  São José do Rio Preto</span>
+
 **NCT06525220**: Estudo de fase 3 aberto comparando petosemtamabe mais
 pembrolizumabe versus pembrolizumabe para tratamento de primeira linha
 de carcinoma de células escamosas de cabeça e pescoço PD-L1+ recorrente
@@ -546,11 +618,11 @@ Patrocinador do Estudo: Novartis Pharmaceuticals. Número de Centros: 7
   HUOL/UFRN, — Natal</span>
 - <span style="color: #808080">RS: Hospital de Clínicas de Porto Alegre,
   — Porto Alegre</span>
+- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
+  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: PSEG, — São Paulo</span>
 - <span style="color: #808080">SP: Novartis Biociências S.A., — São
   Paulo</span>
-- <span style="color: #808080">SP: Instituto D’Or de Pesquisa e Ensino:
-  Faculdade, Pós-Graduação, MBA, São Paulo SP, — São Paulo</span>
 - <span style="color: #808080">SP: BP – A Beneficência Portuguesa de São
   Paulo, — São Paulo</span>
 
