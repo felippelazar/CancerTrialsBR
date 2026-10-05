@@ -1,318 +1,41 @@
 /*-- scss:defaults --*/
-// Fluent UI palette, matching the CancerTrialsBR shiny.fluent app
-$fluent-primary: #0078d4;
-$fluent-primary-dark: #005a9e;
-$fluent-secondary: #484644;
-$fluent-neutral-primary: #323130;
-$fluent-neutral-secondary: #605e5c;
-$fluent-neutral-tertiary: #8a8886;
-$fluent-neutral-light: #edebe9;
-$fluent-neutral-lighter: #f3f2f1;
-$fluent-recruiting: #2D9D78;
-$fluent-pending: #D55E00;
-$fluent-instruction: #fff4ce;
-
-$primary: $fluent-primary;
-$secondary: $fluent-secondary;
-$success: $fluent-recruiting;
-$warning: $fluent-pending;
-$body-bg: #f9f8f8; // rgba(225, 223, 221, 0.2) over white
-$body-color: $fluent-neutral-primary;
-$link-color: $fluent-primary;
-$link-decoration: none;
-$link-hover-decoration: underline;
-
-$font-family-sans-serif: "Segoe UI", "Segoe UI Web (West European)", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
-$font-family-monospace: "Cascadia Code", Consolas, "SF Mono", Menlo, monospace;
-$font-size-root: 16px;
-$headings-font-weight: 600;
-$headings-color: $fluent-neutral-primary;
-
-$border-radius: 2px;
-$border-radius-sm: 2px;
-$border-radius-lg: 4px;
-
-$navbar-bg: $fluent-primary-dark;
-$navbar-fg: #ffffff;
-$navbar-hl: #ffffff;
-$footer-bg: $fluent-neutral-lighter;
-$footer-fg: $fluent-neutral-secondary;
-
-$code-color: $fluent-primary-dark;
-$code-block-bg: $fluent-neutral-lighter;
-$code-block-border-color: $fluent-neutral-light;
-
-$callout-color-note: $fluent-primary;
-$callout-color-tip: $fluent-recruiting;
-$callout-color-warning: $fluent-pending;
+$grid-sidebar-width: 350px !default;
+$blue: #0078d4;
+$primary: $blue;
+$link-color: $blue;
+$navbar-bg: $blue;
 
 /*-- scss:rules --*/
-// Fluent elevation (depth 4 / 8)
-$fluent-depth-4: 0 1.6px 3.6px rgba(0, 0, 0, 0.132), 0 0.3px 0.9px rgba(0, 0, 0, 0.108);
-$fluent-depth-8: 0 3.2px 7.2px rgba(0, 0, 0, 0.132), 0 0.6px 1.8px rgba(0, 0, 0, 0.108);
-
 .navbar {
-  box-shadow: $fluent-depth-4;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding: 5px 0px;
+  height: 50px;
 }
 
-.navbar-title {
-  font-weight: 600;
-  letter-spacing: 1.2px;
-}
-
-.navbar .nav-link {
-  font-weight: 600;
-  font-size: 0.95em;
-}
-
-.navbar .nav-link.active {
-  box-shadow: inset 0 -2px 0 #ffffff;
-}
-
-// Main column sits on a white card, like the app's .card
-main.content {
-  min-width: 0;
-  background: #ffffff;
-  padding: 28px;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  border-radius: 2px;
-  box-shadow: $fluent-depth-4;
-}
-
-#title-block-header {
-  margin-bottom: 1.5rem;
-
-  .title {
-    font-weight: 600;
-    color: $fluent-secondary;
-    border-left: 5px solid $fluent-primary;
-    padding: 6px 0 6px 15px;
-    letter-spacing: 0.5px;
-  }
-
-  .subtitle {
-    color: $fluent-neutral-secondary;
-    font-size: 1.05em;
-    padding-left: 20px;
-  }
-}
-
-h2 {
-  font-size: 1.35rem;
-  margin-top: 2.25rem;
-  padding-bottom: 6px;
-  border-bottom: 1px solid $fluent-neutral-light;
-}
-
-h3 {
-  font-size: 1.1rem;
-  margin-top: 1.75rem;
-  color: $fluent-secondary;
-}
-
-a[target="_blank"]::after {
-  content: " ↗";
-}
-
-a.no-arrow::after,
-.navbar a[target="_blank"]::after {
-  content: none;
-}
-
-ul {
-  padding-left: 1.25rem;
-}
-
-li {
-  margin-bottom: 2px;
-}
-
-// Inline emphasis, same as the app's .text-highlight
-.text-highlight {
-  color: $fluent-primary;
-  border-bottom: 1px solid rgba(0, 120, 212, 0.4);
-  font-weight: 600;
-  padding-bottom: 1px;
-}
-
-// Card grid (home and data pages)
-.fluent-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 12px;
-  margin: 1rem 0 1.5rem;
-}
-
-.fluent-card {
-  background: #ffffff;
-  border: 1px solid $fluent-neutral-light;
-  border-radius: 2px;
-  padding: 18px 20px;
-  box-shadow: $fluent-depth-4;
-  transition: box-shadow 0.2s ease;
-
-  &:hover {
-    box-shadow: $fluent-depth-8;
-  }
-
-  .fluent-card-title {
-    font-size: 1.05em;
-    font-weight: 600;
-    color: $fluent-neutral-primary;
-    margin-bottom: 6px;
-  }
-
-  p {
-    margin-bottom: 0.75rem;
-    color: $fluent-neutral-secondary;
-    font-size: 0.95em;
-  }
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-}
-
-.fluent-card.accent {
-  border-top: 3px solid $fluent-primary;
-}
-
-// Buttons, same as the app's .adicionar_centro / .regular_button
-.btn-fluent {
-  display: inline-block;
-  padding: 5px 14px;
-  color: $fluent-primary;
-  border: 1px solid $fluent-primary;
-  border-radius: 2px;
-  font-size: 0.85em;
-  font-weight: 600;
-  white-space: nowrap;
-  text-decoration: none;
-  transition: background-color 0.15s ease, color 0.15s ease;
-
-  &:hover {
-    background-color: $fluent-primary;
-    color: #ffffff;
-    text-decoration: none;
-  }
-}
-
-.btn-fluent.primary {
-  background-color: $fluent-primary;
-  color: #ffffff;
-
-  &:hover {
-    background-color: $fluent-primary-dark;
-    border-color: $fluent-primary-dark;
-  }
-}
-
-// Pipeline step badge used in tutorial headings
-.step {
-  display: inline-block;
-  min-width: 2.1em;
-  padding: 1px 6px;
-  margin-right: 8px;
-  border-radius: 2px;
-  background: $fluent-primary;
-  color: #ffffff;
-  font-size: 0.8em;
-  font-weight: 600;
-  text-align: center;
-  vertical-align: 2px;
-}
-
-// Tags (input/output files, flags)
-.tag {
-  display: inline-block;
-  padding: 1px 6px;
-  margin: 0 4px 4px 0;
-  border: 1px solid $fluent-primary;
-  border-radius: 2px;
-  color: $fluent-primary;
-  font-size: 0.75em;
-  font-weight: 600;
-  white-space: nowrap;
-}
-
-.tag.llm {
-  border-color: $fluent-pending;
-  color: $fluent-pending;
-}
-
-.tag.api {
-  border-color: $fluent-recruiting;
-  color: $fluent-recruiting;
-}
-
-// Status dots, same as the app
-.status-dot {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  margin-right: 6px;
-  vertical-align: 0;
-
-  &.recruiting { background-color: $fluent-recruiting; }
-  &.pending { background-color: $fluent-pending; }
-  &.inactive { background-color: #333333; }
-}
-
-// Instruction box, same as the app's instruction background
-.instruction {
-  background: $fluent-instruction;
-  padding: 10px 14px;
-  border-radius: 2px;
-  margin: 1rem 0;
-  font-size: 0.95em;
-}
-
-// Tables
-.table {
-  font-size: 0.88em;
-
-  thead th {
-    background: $fluent-neutral-lighter;
-    color: $fluent-secondary;
-    font-weight: 600;
-    border-bottom: 1px solid $fluent-neutral-light;
-  }
-}
-
-// Wide tables and diagrams scroll inside the card instead of the page
-.cell-output-display,
-.table-responsive {
-  overflow-x: auto;
-}
-
-.cell-output-display svg,
-pre.mermaid svg {
+.navbar-brand-container {
   max-width: 100%;
-  height: auto;
 }
 
-div.sourceCode {
-  border-radius: 2px;
+hr {
+  border: none;
+  margin: 20px auto; // top and bottom margin, auto left/right centers it
 }
 
-.callout {
-  border-radius: 2px;
+.sidebar-item-text {
+  margin: 3px 0px
 }
 
-#TOC .nav-link.active,
-#TOC .nav-link:hover {
-  color: $fluent-primary;
+.sidebar-item-text:hover {
+  font-weight: bold;
 }
 
-@media (max-width: 768px) {
-  main.content {
-    padding: 18px 16px;
-    margin-top: 0;
-    border-radius: 0;
-    box-shadow: none;
+.callout-note .callout-body p {
+  margin-bottom: 0.3em;
+  line-height: 1.5em;
+}
+
+@media (max-width: 767px) {
+  .callout-note .callout-body {
+    padding-left: .5rem !important;
+    padding-right: .5rem !important;
   }
 }

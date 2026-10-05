@@ -7,6 +7,7 @@ on:
       - "index.Rmd"
       - "*.qmd"
       - "custom.scss"
+      - "assets/**"
       - "script.html"
       - "_quarto.yml"
       - "_variables.yml"

@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - .nojekyll
+    - assets/logo_header.svg
   render:
     - index.Rmd
     - tutorial.qmd
@@ -14,13 +14,15 @@ execute:
   warning: false
   message: false
 
+lang: pt
+
 website:
   title: "CancerTrialsBR"
-  description: "Plataforma Colaborativa de Estudos Clínicos em Oncologia"
-  site-url: "https://felippelazar.github.io/CancerTrialsBR"
-  repo-url: "https://github.com/felippelazar/CancerTrialsBR"
-  page-navigation: true
+  favicon: assets/favicon.ico
   navbar:
+    logo: "assets/logo_header.svg"
+    title: false
+    search: false
     left:
       - href: index.Rmd
         text: Início
@@ -31,23 +33,11 @@ website:
     right:
       - icon: github
         href: "https://github.com/felippelazar/CancerTrialsBR"
-        aria-label: GitHub
-      - text: "Aplicação"
-        href: "https://www.cancertrialsbr.com.br"
-        target: _blank
-  page-footer:
-    left: "CancerTrialsBR · dados baseados no ClinicalTrials.gov"
-    right: "Feito com [Quarto](https://quarto.org)"
-
-lang: pt
 
 format:
   html:
-    theme: [cosmo, custom.scss]
+    theme: [flatly, custom.scss]
     toc: true
     code-copy: true
-    code-overflow: wrap
-    highlight-style: github
-    smooth-scroll: true
     include-in-header:
       - file: script.html
