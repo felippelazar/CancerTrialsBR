@@ -9,34 +9,6 @@ Neste página você irá encontrar informações sobre o projeto, os scripts em 
 
 Caso tenha interesse em acessar diretamente o repositório do projeto (onde estão os arquivos), [clique aqui](https://github.com/felippelazar/CancerTrialsBR){target="_blank"}.
 
-::: {.fluent-grid}
-
-::: {.fluent-card .accent}
-[Projeto]{.fluent-card-title}
-
-O que é o CancerTrialsBR, como funciona e como ajudar.
-
-[Ler abaixo](#sobre-o-projeto){.btn-fluent}
-:::
-
-::: {.fluent-card .accent}
-[Tutorial]{.fluent-card-title}
-
-Passo a passo de cada script em R, com resultados de exemplo.
-
-[Abrir tutorial](tutorial.qmd){.btn-fluent}
-:::
-
-::: {.fluent-card .accent}
-[Dados]{.fluent-card-title}
-
-Dashboards com os dados atuais e com os acessos às páginas.
-
-[Abrir dashboards](data.qmd){.btn-fluent}
-:::
-
-:::
-
 ## Sobre o Projeto {#sobre-o-projeto}
 
 Este projeto têm como objetivo facilitar a busca de estudos clínicos disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
@@ -46,16 +18,6 @@ Este projeto têm como objetivo facilitar a busca de estudos clínicos disponív
 - **Independente**: O projeto não apresenta vínculo formal com nenhuma instituição e não prioriza centros ou estudos na disponibilização dos dados.
 
 ## Como Funciona {#como-funciona}
-
-```{mermaid}
-flowchart LR
-  A[API do ClinicalTrials.gov] --> B[Enriquecimento com LLM<br/>título · resumo · paciente ideal<br/>patrocinador · condições · biomarcadores]
-  A --> C[Localização dos centros<br/>Google Places + verificação com LLM]
-  B --> D[(Banco de dados)]
-  C --> D
-  D --> E[Aplicação web e dashboards]
-  F[Sugestões dos usuários] --> D
-```
 
 1. Os dados são baixados diariamente do *clinicaltrials.gov* (via API) com os filtros de estudos com **recrutamento ativo** e localidade no **Brasil**.
 2. Os dados são pré-processados com ferramentas de **grandes modelos de linguagem (*Large Language Models*)** para criar os textos em português com *prompts* otimizados.
@@ -72,8 +34,8 @@ A **qualidade desse banco de dados** depende da sua ajuda! 🙌 Muitos status de
 
 As duas principais formas de ajudar são:
 
-1. **Identificando Centros**: Muitos centros são difíceis de identificar pelas informações disponíveis. Nesses centros, disponibilizamos um ícone para sugestão de identificação. Caso você reconheça um centro participante pela descrição disponível, clique em [identificar centro]{.text-highlight} no próprio site.
-2. **Atualizando Status de Recrutamento**: Se você encontrar um centro de pesquisa com recrutamento desatualizado, clique em [reportar erro]{.text-highlight} ao lado do centro e sugira um novo status de recrutamento para esse centro.
+1. **Identificando Centros**: Muitos centros são difíceis de identificar pelas informações disponíveis. Nesses centros, disponibilizamos um ícone para sugestão de identificação. Caso você reconheça um centro participante pela descrição disponível, clique em **identificar centro** no próprio site.
+2. **Atualizando Status de Recrutamento**: Se você encontrar um centro de pesquisa com recrutamento desatualizado, clique em **reportar erro** ao lado do centro e sugira um novo status de recrutamento para esse centro.
 
 ## Estrutura do Repositório {#estrutura-do-repositorio}
 

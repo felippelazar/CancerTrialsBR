@@ -1,6 +1,5 @@
 ---
 title: "Tutorial"
-subtitle: "Passo a passo do pipeline do CancerTrialsBR · Step-by-step guide to the CancerTrialsBR pipeline"
 ---
 
 ```{r setup}
@@ -14,7 +13,7 @@ out <- function(file) fromJSON(file.path("R", "data", paste0(file, ".json")))
 # Encurta textos longos para caber na página
 clip <- function(x, n = 110) ifelse(!is.na(x) & nchar(x) > n, paste0(substr(x, 1, n), "..."), x)
 
-show <- function(df, cols, n = 5) {
+show <- function(df, cols, n = 3) {
   df %>%
     select(any_of(cols)) %>%
     head(n) %>%
@@ -27,387 +26,207 @@ gh <- "https://github.com/felippelazar/CancerTrialsBR/blob/main/R/"
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O *pipeline* é composto por dez scripts em R na pasta [`R/`](https://github.com/felippelazar/CancerTrialsBR/tree/main/R){target="_blank"}. Cada script lê o JSON da etapa anterior em `R/data/` e gera um novo `out_XX_*.json`, permitindo parar, inspecionar e retomar em qualquer etapa. Os resultados mostrados abaixo são os **arquivos de exemplo do repositório**, gerados a partir de 5 estudos.
+Aqui eu explico, script por script, como o banco de dados do CancerTrialsBR é montado. São dez scripts em R, na pasta [`R/`](https://github.com/felippelazar/CancerTrialsBR/tree/main/R){target="_blank"}, e cada um pega o resultado do anterior e salva um novo arquivo em `R/data/`. As tabelas que aparecem ao longo da página são desses arquivos, de um teste com 5 estudos.
 
 ### English
-The pipeline is ten R scripts in [`R/`](https://github.com/felippelazar/CancerTrialsBR/tree/main/R){target="_blank"}. Each one reads the previous step's JSON from `R/data/` and writes a new `out_XX_*.json`, so you can stop, inspect and resume at any step. The outputs shown below are the **sample files in the repository**, from a run on 5 trials.
+This page walks through how the CancerTrialsBR database is built, one script at a time. There are ten R scripts in [`R/`](https://github.com/felippelazar/CancerTrialsBR/tree/main/R){target="_blank"}, and each one takes the previous result and saves a new file in `R/data/`. The tables along the page come from those files, from a test run with 5 trials.
 :::
 
-```{mermaid}
-flowchart LR
-  S01[01 Download] --> S02[02 Título / Title] --> S03[03 Resumo / Summary] --> S04[04 Paciente ideal / Ideal patient] --> S05[05 Patrocinador / Sponsor] --> S06[06 Condições / Conditions] --> S07[07 Subcondições / Sub-conditions] --> S10[10 Banco de dados / Database]
-  S01 --> S08[08 ID do centro / Location ID] --> S09[09 Google Maps] --> S10
-```
-
-## Configuração · Setup
+## Antes de começar
 
 ::: {.panel-tabset group="lang"}
 ### Português
-**1. Baixe o código.** Clone o repositório e trabalhe a partir da pasta `R/` (todos os scripts usam caminhos relativos a ela).
-
-```bash
-git clone https://github.com/felippelazar/CancerTrialsBR.git
-cd CancerTrialsBR/R
-```
-
-**2. Instale os pacotes.**
+Clone o repositório, entre na pasta `R/` e instale os pacotes:
 
 ```r
 install.packages(c("httr", "jsonlite", "dplyr", "glue", "pbapply", "ellmer", "stringi"))
 ```
 
-**3. Adicione suas chaves.** Crie o arquivo `R/.Renviron` com:
+Depois, crie um arquivo `R/.Renviron` com o modelo de LLM que você vai usar e as suas chaves. A chave do Google só é necessária na etapa 9. Esse arquivo já está no `.gitignore`, então não vai parar no GitHub por engano.
 
 ```bash
-# Provedor e modelo no formato "provedor/modelo" (ver ?ellmer::chat)
 LLM_MODEL=openai/gpt-4.1-2025-04-14
-
-# Chave do provedor em LLM_MODEL (ex.: OPENAI_API_KEY, ANTHROPIC_API_KEY)
 OPENAI_API_KEY=sk-...
-
-# Necessária apenas na etapa 09
 GOOGLE_MAPS_API_KEY=...
 ```
 
-::: {.callout-warning title="Atenção"}
-O `.Renviron` contém chaves secretas. Ele está no `.gitignore` — nunca faça *commit* desse arquivo.
-:::
-
-**4. Execute os scripts em ordem.**
-
-```r
-for (f in sprintf("%02d", 1:10)) source(list.files(pattern = paste0("^", f, "_.*\\.R$")))
-```
-
-| Etapa | Usa | Custo |
-|---|---|---|
-| 01, 08, 10 | APIs gratuitas / local | nenhum |
-| 02–07 | LLM, uma chamada por estudo | `n_estudos` × 6 chamadas |
-| 09 | Google Places + LLM | uma chamada de cada por centro único |
-
-::: {.instruction}
-**Dica:** mantenha `n_studies <- 5` na etapa 01 enquanto testa. Use `NULL` apenas quando quiser todos os estudos recrutando (várias centenas).
-:::
+Para testar, recomendo deixar `n_studies <- 5` no primeiro script. Cada estudo gera algumas chamadas ao LLM, então rodar tudo de uma vez pode sair caro.
 
 ### English
-**1. Get the code.** Clone the repository and work from inside the `R/` folder (all scripts use paths relative to it).
-
-```bash
-git clone https://github.com/felippelazar/CancerTrialsBR.git
-cd CancerTrialsBR/R
-```
-
-**2. Install packages.**
+Clone the repository, go into the `R/` folder and install the packages:
 
 ```r
 install.packages(c("httr", "jsonlite", "dplyr", "glue", "pbapply", "ellmer", "stringi"))
 ```
 
-**3. Add your keys.** Create `R/.Renviron` with:
+Then create an `R/.Renviron` file with the LLM model you'll use and your keys. The Google key is only needed in step 9. This file is already in `.gitignore`, so it won't end up on GitHub by accident.
 
 ```bash
-# Provider and model as "provider/model" (see ?ellmer::chat)
 LLM_MODEL=openai/gpt-4.1-2025-04-14
-
-# Key for the provider in LLM_MODEL (e.g. OPENAI_API_KEY, ANTHROPIC_API_KEY)
 OPENAI_API_KEY=sk-...
-
-# Only needed for step 09
 GOOGLE_MAPS_API_KEY=...
 ```
 
-::: {.callout-warning title="Warning"}
-`.Renviron` holds secrets. It is listed in `.gitignore` — never commit it.
+For testing, I recommend keeping `n_studies <- 5` in the first script. Each trial makes a few LLM calls, so running everything at once can get expensive.
 :::
 
-**4. Run the scripts in order.**
-
-```r
-for (f in sprintf("%02d", 1:10)) source(list.files(pattern = paste0("^", f, "_.*\\.R$")))
-```
-
-| Step | Uses | Cost |
-|---|---|---|
-| 01, 08, 10 | Free APIs / local | none |
-| 02–07 | LLM, one call per trial | `n_trials` × 6 calls |
-| 09 | Google Places + LLM | one call each per unique site |
-
-::: {.instruction}
-**Tip:** keep `n_studies <- 5` in step 01 while testing. Set it to `NULL` only when you want every recruiting trial (several hundred).
-:::
-:::
-
-## [00]{.step} Funções compartilhadas · Shared functions
+## Funções compartilhadas
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`00_functions.R`](`r paste0(gh, "00_functions.R")`){target="_blank"} é carregado por todos os scripts. Ele carrega os pacotes, lê o `.Renviron`, cria a pasta `data/` e define a função **`chatLLM()`**, que envia um *prompt* para qualquer provedor suportado pelo [ellmer](https://ellmer.tidyverse.org){target="_blank"}, interpreta a resposta em JSON e tenta novamente em caso de falha.
-
-```r
-chatLLM(
-  data_info,                 # data frame de uma linha (o estudo)
-  intruction_prompt,         # prompt com {var_1}, {var_2}, {var_3}
-  var_1, var_2, var_3,       # valores inseridos no prompt
-  llm_model = Sys.getenv("LLM_MODEL"),
-  json_output = TRUE,        # interpreta a resposta como JSON
-  only_json_output = FALSE,  # TRUE: retorna só a resposta
-  max_calls = 5,             # tentativas antes de desistir
-  print_output = FALSE       # imprime a resposta bruta (debug)
-)
-```
-
-- A temperatura é fixa em `0` para reprodutibilidade.
-- Nos *prompts*, chaves literais devem ser escritas como `{{ }}` (passam pelo `glue()`).
-- Se falhar após `max_calls`, a linha é retornada sem alterações, então uma resposta ruim nunca interrompe a execução.
+O [`00_functions.R`](`r paste0(gh, "00_functions.R")`){target="_blank"} é chamado por todos os outros scripts. Ele carrega os pacotes, lê o `.Renviron` e define a `chatLLM()`, a função que conversa com o LLM. Ela usa o pacote [ellmer](https://ellmer.tidyverse.org){target="_blank"}, então funciona com OpenAI, Anthropic, Gemini ou um modelo local: basta trocar o `LLM_MODEL`. Se a resposta vier quebrada, ela tenta de novo até cinco vezes.
 
 ### English
-[`00_functions.R`](`r paste0(gh, "00_functions.R")`){target="_blank"} is sourced by every script. It loads the packages, reads `.Renviron`, creates `data/` and defines **`chatLLM()`**, a wrapper that sends a prompt to any provider supported by [ellmer](https://ellmer.tidyverse.org){target="_blank"}, parses the JSON answer and retries on failure.
-
-```r
-chatLLM(
-  data_info,                 # one-row data frame (the trial)
-  intruction_prompt,         # prompt with {var_1}, {var_2}, {var_3}
-  var_1, var_2, var_3,       # values glued into the prompt
-  llm_model = Sys.getenv("LLM_MODEL"),
-  json_output = TRUE,        # parse the answer as JSON
-  only_json_output = FALSE,  # TRUE: return only the parsed answer
-  max_calls = 5,             # retries before giving up
-  print_output = FALSE       # print raw answers for debugging
-)
-```
-
-- Temperature is fixed at `0` for reproducibility.
-- In prompts, write literal braces as `{{ }}` (they go through `glue()`).
-- On failure after `max_calls`, the row is returned unchanged, so one bad answer never stops a run.
+[`00_functions.R`](`r paste0(gh, "00_functions.R")`){target="_blank"} is sourced by all the other scripts. It loads the packages, reads `.Renviron` and defines `chatLLM()`, the function that talks to the LLM. It uses the [ellmer](https://ellmer.tidyverse.org){target="_blank"} package, so it works with OpenAI, Anthropic, Gemini or a local model: just change `LLM_MODEL`. If the answer comes back broken, it retries up to five times.
 :::
 
-## [01]{.step} Download dos estudos · Downloading trials
-
-[API]{.tag .api} [→ out_01_studies.json]{.tag} [→ out_01_locations.json]{.tag}
+## 1. Baixando os estudos
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`01_clinicaltrials_download.R`](`r paste0(gh, "01_clinicaltrials_download.R")`){target="_blank"} consulta a [API v2 do ClinicalTrials.gov](https://clinicaltrials.gov/data-api/api){target="_blank"}, percorre a paginação e separa cada estudo em uma linha de **estudo** e seus **centros no Brasil**.
+O [`01_clinicaltrials_download.R`](`r paste0(gh, "01_clinicaltrials_download.R")`){target="_blank"} busca na API do ClinicalTrials.gov os estudos de câncer que estão recrutando no Brasil. Ele separa os dados em duas tabelas, uma com os estudos e outra com os centros brasileiros de cada estudo. Para buscar outra doença ou outro status, é só mudar os argumentos:
 
 ```r
-n_studies <- 5   # NULL baixa todos os estudos recrutando
-
-search_list <- getClinicalTrialsStudies(
-  query_condition = "cancer",
-  location        = "Brazil",
-  status          = "RECRUITING",   # ex.: "NOT_YET_RECRUITING", "ACTIVE_NOT_RECRUITING"
-  n_studies       = n_studies
-)
-```
-
-Altere `query_condition` (ex.: `"breast cancer"`) ou `location` para gerar outras bases. Centros fora do Brasil são descartados. Abaixo, os estudos e os `r nrow(out("out_01_locations"))` centros baixados. Note quantos centros aparecem apenas como *"Research Site"*; as etapas 08–09 tratam disso.
-
-### English
-[`01_clinicaltrials_download.R`](`r paste0(gh, "01_clinicaltrials_download.R")`){target="_blank"} queries the [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-api/api){target="_blank"}, follows pagination and splits each trial into a **study** row and its **Brazilian sites**.
-
-```r
-n_studies <- 5   # NULL downloads all recruiting trials
-
-search_list <- getClinicalTrialsStudies(
-  query_condition = "cancer",
-  location        = "Brazil",
-  status          = "RECRUITING",   # e.g. "NOT_YET_RECRUITING", "ACTIVE_NOT_RECRUITING"
-  n_studies       = n_studies
-)
-```
-
-Change `query_condition` (e.g. `"breast cancer"`) or `location` to build other datasets. Sites outside Brazil are dropped. Below are the downloaded trials and their `r nrow(out("out_01_locations"))` sites. Note how many sites are listed only as *"Research Site"*; steps 08–09 deal with this.
-:::
-
-```{r}
-show(out("out_01_studies"), c("study_nct_id", "study_brief_title", "study_design_phase", "study_lead_sponsor_name"))
-```
-
-```{r}
-show(out("out_01_locations"), c("study_nct_id", "study_locations.facility", "study_locations.city", "study_locations.status"))
-```
-
-## [02]{.step} Título em uma frase · One-sentence title
-
-[LLM]{.tag .llm} [out_01_studies.json →]{.tag} [→ out_02_studies.json]{.tag}
-
-::: {.panel-tabset group="lang"}
-### Português
-O [`02_ai_sentence_title.R`](`r paste0(gh, "02_ai_sentence_title.R")`){target="_blank"} reescreve o título oficial como uma única frase (≤ 200 caracteres), com acrônimo, medicamentos e tipo de câncer, em inglês e português. Entradas: acrônimo + título oficial (`var_1`) e resumo (`var_2`).
-
-```{r}
-show(out("out_02_studies"), c("study_nct_id", "study_ai_sentence_portuguese"), n = 3)
+getClinicalTrialsStudies(query_condition = "cancer", location = "Brazil",
+                         status = "RECRUITING", n_studies = 5)
 ```
 
 ### English
-[`02_ai_sentence_title.R`](`r paste0(gh, "02_ai_sentence_title.R")`){target="_blank"} rewrites the official title as a single sentence (≤ 200 characters) with the acronym, drugs and cancer type, in English and Portuguese. Inputs: acronym + official title (`var_1`) and brief summary (`var_2`).
+[`01_clinicaltrials_download.R`](`r paste0(gh, "01_clinicaltrials_download.R")`){target="_blank"} queries the ClinicalTrials.gov API for cancer trials recruiting in Brazil. It splits the data into two tables, one with the trials and one with each trial's Brazilian sites. To search for another disease or status, just change the arguments:
 
-```{r}
-show(out("out_02_studies"), c("study_nct_id", "study_ai_sentence_english"), n = 3)
+```r
+getClinicalTrialsStudies(query_condition = "cancer", location = "Brazil",
+                         status = "RECRUITING", n_studies = 5)
 ```
 :::
 
-## [03]{.step} Resumo · Summary
+```{r}
+show(out("out_01_studies"), c("study_nct_id", "study_brief_title", "study_lead_sponsor_name"))
+```
 
-[LLM]{.tag .llm} [→ out_03_studies.json]{.tag}
+## 2. Título em uma frase
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`03_ai_summary.R`](`r paste0(gh, "03_ai_summary.R")`){target="_blank"} escreve um resumo de 3 frases sobre tratamentos, desfechos e população-alvo, mantendo explícitos os nomes de medicamentos e doenças.
+O [`02_ai_sentence_title.R`](`r paste0(gh, "02_ai_sentence_title.R")`){target="_blank"} pede ao LLM que reescreva o título oficial, que costuma ser enorme, em uma frase curta, em português e em inglês.
+
+```{r}
+show(out("out_02_studies"), c("study_nct_id", "study_ai_sentence_portuguese"))
+```
+
+### English
+[`02_ai_sentence_title.R`](`r paste0(gh, "02_ai_sentence_title.R")`){target="_blank"} asks the LLM to rewrite the official title, which is usually very long, as one short sentence, in Portuguese and English.
+
+```{r}
+show(out("out_02_studies"), c("study_nct_id", "study_ai_sentence_english"))
+```
+:::
+
+## 3. Resumo
+
+::: {.panel-tabset group="lang"}
+### Português
+O [`03_ai_summary.R`](`r paste0(gh, "03_ai_summary.R")`){target="_blank"} gera um resumo de três frases sobre o tratamento, os desfechos e quem pode participar.
 
 ```{r}
 out("out_03_studies") %>%
-  mutate(study_ai_summary_portuguese = clip(study_ai_summary_portuguese, 260)) %>%
-  select(study_nct_id, study_ai_summary_portuguese) %>%
+  transmute(study_nct_id, study_ai_summary_portuguese = clip(study_ai_summary_portuguese, 250)) %>%
   head(2) %>%
   kable()
 ```
 
 ### English
-[`03_ai_summary.R`](`r paste0(gh, "03_ai_summary.R")`){target="_blank"} writes a 3-sentence summary of treatments, outcomes and target population, keeping drug and disease names explicit.
+[`03_ai_summary.R`](`r paste0(gh, "03_ai_summary.R")`){target="_blank"} writes a three-sentence summary of the treatment, the outcomes and who can take part.
 
 ```{r}
 out("out_03_studies") %>%
-  mutate(study_ai_summary_english = clip(study_ai_summary_english, 260)) %>%
-  select(study_nct_id, study_ai_summary_english) %>%
+  transmute(study_nct_id, study_ai_summary_english = clip(study_ai_summary_english, 250)) %>%
   head(2) %>%
   kable()
 ```
 :::
 
-## [04]{.step} Paciente ideal · Ideal patient
-
-[LLM]{.tag .llm} [→ out_04_studies.json]{.tag}
+## 4. Paciente ideal
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`04_ai_ideal_patient.R`](`r paste0(gh, "04_ai_ideal_patient.R")`){target="_blank"} transforma os critérios de elegibilidade em um perfil de 5 frases do candidato ideal. O *prompt* pede ao modelo que concilie critérios de inclusão e exclusão sobre o mesmo tema (ex.: *"não células claras, excluindo papilífero"*) e ignore exames laboratoriais e contracepção de rotina.
+O [`04_ai_ideal_patient.R`](`r paste0(gh, "04_ai_ideal_patient.R")`){target="_blank"} lê os critérios de elegibilidade e descreve, em um parágrafo, o paciente que se encaixaria no estudo. É bem mais fácil de ler do que a lista de critérios original.
 
 ```{r}
 out("out_04_studies") %>%
-  mutate(ideal_patient_portuguese = clip(ideal_patient_portuguese, 300)) %>%
-  select(study_nct_id, ideal_patient_portuguese) %>%
+  transmute(study_nct_id, ideal_patient_portuguese = clip(ideal_patient_portuguese, 250)) %>%
   head(2) %>%
   kable()
 ```
 
 ### English
-[`04_ai_ideal_patient.R`](`r paste0(gh, "04_ai_ideal_patient.R")`){target="_blank"} turns the eligibility criteria into a 5-sentence profile of the ideal candidate. The prompt asks the model to reconcile inclusion and exclusion criteria on the same topic (e.g. *"non-clear cell, excluding papillary"*) and to drop routine lab and contraception requirements.
+[`04_ai_ideal_patient.R`](`r paste0(gh, "04_ai_ideal_patient.R")`){target="_blank"} reads the eligibility criteria and describes, in one paragraph, the patient who would fit the trial. It's much easier to read than the original list of criteria.
 
 ```{r}
 out("out_04_studies") %>%
-  mutate(ideal_patient_english = clip(ideal_patient_english, 300)) %>%
-  select(study_nct_id, ideal_patient_english) %>%
+  transmute(study_nct_id, ideal_patient_english = clip(ideal_patient_english, 250)) %>%
   head(2) %>%
   kable()
 ```
 :::
 
-## [05]{.step} Tipo de patrocinador · Sponsor type
-
-[LLM]{.tag .llm} [→ out_05_studies.json]{.tag}
+## 5. Tipo de patrocinador
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`05_ai_sponsor_type.R`](`r paste0(gh, "05_ai_sponsor_type.R")`){target="_blank"} classifica o patrocinador principal em um de quatro tipos (Grupo Cooperativo, Governo, Indústria Farmacêutica/Biotecnologia, Instituição de Pesquisa/Hospital), mais úteis que a classificação da própria API (`leadSponsor$class`).
+O [`05_ai_sponsor_type.R`](`r paste0(gh, "05_ai_sponsor_type.R")`){target="_blank"} classifica quem patrocina o estudo: grupo cooperativo, governo, indústria farmacêutica ou instituição de pesquisa.
 
 ```{r}
-show(out("out_05_studies"), c("study_nct_id", "study_lead_sponsor_name", "study_lead_sponsor_type", "study_ai_lead_sponsor_type_portuguese"))
+show(out("out_05_studies"), c("study_nct_id", "study_lead_sponsor_name", "study_ai_lead_sponsor_type_portuguese"))
 ```
 
 ### English
-[`05_ai_sponsor_type.R`](`r paste0(gh, "05_ai_sponsor_type.R")`){target="_blank"} classifies the lead sponsor into one of four types (Cooperative Group, Government, Pharmaceutical Industry/Biotech, Research Facility), which are more useful than the API's own `leadSponsor$class`.
+[`05_ai_sponsor_type.R`](`r paste0(gh, "05_ai_sponsor_type.R")`){target="_blank"} classifies who sponsors the trial: cooperative group, government, pharmaceutical industry or research facility.
 
 ```{r}
-show(out("out_05_studies"), c("study_nct_id", "study_lead_sponsor_name", "study_lead_sponsor_type", "study_ai_lead_sponsor_type"))
+show(out("out_05_studies"), c("study_nct_id", "study_lead_sponsor_name", "study_ai_lead_sponsor_type"))
 ```
 :::
 
-## [06]{.step} Tipos de câncer · Cancer conditions
-
-[LLM]{.tag .llm} [→ out_06_conditions_scores.json]{.tag} [→ out_06_studies.json]{.tag}
+## 6. Tipos de câncer
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`06_ai_conditions.R`](`r paste0(gh, "06_ai_conditions.R")`){target="_blank"} pontua cada estudo em relação a **39 códigos de tipos de câncer** (ex.: `NSCLC`, `BTNBC`, `ANYCA` para estudos *basket*), com justificativa e evidências citadas dos critérios de elegibilidade.
-
-- `out_06_conditions_scores.json`: formato longo, uma linha por estudo × código, com `ai_reasoning`, `ai_evidence_mapping` e `ai_condition_probability_score`. Útil para auditar o modelo.
-- `out_06_studies.json`: códigos com pontuação **≥ 0,80** são agrupados em `ai_conditions` (separados por `|`).
-
-Para mudar a sensibilidade, altere o limiar `>= 0.80` no final do script; o arquivo de pontuações permite reaplicar outro limiar sem chamar o LLM novamente.
+O [`06_ai_conditions.R`](`r paste0(gh, "06_ai_conditions.R")`){target="_blank"} dá uma nota de 0 a 1 para cada um dos 39 tipos de câncer que usamos (pulmão não pequenas células, mama triplo-negativo, etc.). Os tipos com nota a partir de 0,80 ficam no estudo. As notas e a justificativa do modelo são salvas em um arquivo à parte, o que ajuda a entender quando ele erra.
 
 ### English
-[`06_ai_conditions.R`](`r paste0(gh, "06_ai_conditions.R")`){target="_blank"} scores each trial against **39 cancer condition codes** (e.g. `NSCLC`, `BTNBC`, `ANYCA` for basket trials), with reasoning and evidence quoted from the eligibility criteria.
-
-- `out_06_conditions_scores.json`: long format, one row per trial × code, with `ai_reasoning`, `ai_evidence_mapping` and `ai_condition_probability_score`. Useful to audit the model.
-- `out_06_studies.json`: codes with score **≥ 0.80** are joined into `ai_conditions` (pipe-separated).
-
-To change sensitivity, edit the `>= 0.80` threshold at the end of the script; the scores file lets you re-threshold without calling the LLM again.
+[`06_ai_conditions.R`](`r paste0(gh, "06_ai_conditions.R")`){target="_blank"} gives a score from 0 to 1 for each of the 39 cancer types we use (non-small cell lung, triple-negative breast, etc.). Types scoring 0.80 or more are assigned to the trial. The scores and the model's reasoning are saved in a separate file, which helps to understand when it gets things wrong.
 :::
 
 ```{r}
-out("out_06_conditions_scores") %>%
-  mutate(ai_condition_probability_score = as.numeric(ai_condition_probability_score)) %>%
-  filter(ai_condition_probability_score >= 0.8) %>%
-  select(study_nct_id, condition_code, ai_condition_probability_score, ai_reasoning) %>%
-  mutate(ai_reasoning = clip(ai_reasoning, 140)) %>%
-  head(4) %>%
-  kable()
+show(out("out_06_studies"), c("study_nct_id", "study_conditions", "ai_conditions"), n = 5)
 ```
 
-```{r}
-show(out("out_06_studies"), c("study_nct_id", "study_conditions", "ai_conditions"))
-```
-
-## [07]{.step} Subcondições · Sub-conditions
-
-[LLM]{.tag .llm} [→ out_07_subconditions_scores.json]{.tag} [→ out_07_studies.json]{.tag}
+## 7. Cenário e biomarcadores
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`07_ai_subconditions.R`](`r paste0(gh, "07_ai_subconditions.R")`){target="_blank"} funciona como a etapa 06, mas para **cenário da doença, biomarcadores e tratamento prévio**. Esses códigos alimentam os filtros da aplicação web. Códigos com pontuação **≥ 0,51** são mantidos em `ai_subconditions`.
-
-| Grupo | Códigos |
-|---|---|
-| Cenário | `LOCAL` localizado · `METAS` metastático · `LINE1` 1ª linha · `LINEX` pré-tratado |
-| Próstata | `CASTR` resistente à castração · `CASTS` sensível à castração |
-| Biomarcadores | `PDL1P` `PDL1N` `ALKKP` `RETTT` `METTT` `NTRKK` `BRCAM` `PIK3C` `HRDDD` `DMMRR` `FGFRR` `HERLO` `HERHI` `HERMU` `IDHMM` `FRALP` `ROS1M` `KRASM` `MULTI` |
-| Tratamento prévio | `PIMUN` imunoterapia · `PPLAT` platina |
+O [`07_ai_subconditions.R`](`r paste0(gh, "07_ai_subconditions.R")`){target="_blank"} faz o mesmo para o cenário da doença (localizada, metastática, primeira linha), biomarcadores (PD-L1, ALK, HER2...) e tratamentos anteriores. São esses códigos que viram os filtros da aplicação.
 
 ### English
-[`07_ai_subconditions.R`](`r paste0(gh, "07_ai_subconditions.R")`){target="_blank"} works like step 06 for **disease setting, biomarkers and prior treatment**. These codes drive the filters in the web app. Codes with score **≥ 0.51** are kept in `ai_subconditions`.
-
-| Group | Codes |
-|---|---|
-| Setting | `LOCAL` localized · `METAS` metastatic · `LINE1` 1st line · `LINEX` pre-treated |
-| Prostate | `CASTR` castration-resistant · `CASTS` castration-sensitive |
-| Biomarkers | `PDL1P` `PDL1N` `ALKKP` `RETTT` `METTT` `NTRKK` `BRCAM` `PIK3C` `HRDDD` `DMMRR` `FGFRR` `HERLO` `HERHI` `HERMU` `IDHMM` `FRALP` `ROS1M` `KRASM` `MULTI` |
-| Prior treatment | `PIMUN` immunotherapy · `PPLAT` platinum |
+[`07_ai_subconditions.R`](`r paste0(gh, "07_ai_subconditions.R")`){target="_blank"} does the same for disease setting (localized, metastatic, first line), biomarkers (PD-L1, ALK, HER2...) and prior treatments. These codes become the filters in the app.
 :::
 
 ```{r}
-show(out("out_07_studies"), c("study_nct_id", "ai_conditions", "ai_subconditions"))
+show(out("out_07_studies"), c("study_nct_id", "ai_conditions", "ai_subconditions"), n = 5)
 ```
 
-## [08]{.step} Identificador do centro · Location ID
-
-[local]{.tag} [out_01_locations.json →]{.tag} [→ out_08_locations.json]{.tag}
+## 8. Identificando os centros
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`08_location_id.R`](`r paste0(gh, "08_location_id.R")`){target="_blank"} monta um `search_address` com nome, cidade, estado e CEP, e um `location_id` único (maiúsculas, sem acentos e pontuação). O mesmo centro em vários estudos recebe o mesmo ID, sendo geolocalizado uma única vez. Não usa APIs.
+O [`08_location_id.R`](`r paste0(gh, "08_location_id.R")`){target="_blank"} junta nome, cidade e CEP de cada centro em um endereço de busca e cria um identificador único. Assim, um centro que aparece em vários estudos é procurado no Google uma vez só.
 
 ### English
-[`08_location_id.R`](`r paste0(gh, "08_location_id.R")`){target="_blank"} builds a `search_address` from facility, city, state and ZIP, and a unique `location_id` (uppercase, accents and punctuation removed). The same site across many trials gets the same ID, so it is geocoded only once. No API calls.
+[`08_location_id.R`](`r paste0(gh, "08_location_id.R")`){target="_blank"} combines each site's name, city and ZIP code into a search address and creates a unique ID. That way, a site that shows up in several trials is searched on Google only once.
 :::
 
-```{r}
-show(out("out_08_locations"), c("location_id", "search_address"), n = 4)
-```
-
-## [09]{.step} Validação no Google Maps · Google Maps validation
-
-[API]{.tag .api} [LLM]{.tag .llm} [→ out_09_locations_matched.json]{.tag} [→ out_09_locations.json]{.tag}
+## 9. Localizando no Google Maps
 
 ```{r}
 m <- out("out_09_locations_matched")
@@ -415,67 +234,29 @@ m <- out("out_09_locations_matched")
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`09_google_maps_validation.R`](`r paste0(gh, "09_google_maps_validation.R")`){target="_blank"} envia cada `search_address` único para a **API do Google Places** (*Find Place from Text*) e mantém o primeiro candidato. Em seguida, um LLM pontua a `address_compatibility` (0–1) entre o endereço original e o candidato, penalizando candidatos que não sejam hospitais ou centros de pesquisa.
-
-- Pontuação **≥ 0,80** → `manual_check = "Y"`, e o nome do Google vira `location_name`.
-- Caso contrário → `location_name = "(Centro Não-Identificado)"`, enviado para revisão manual e para a comunidade ([como ajudar](index.Rmd#como-ajudar)).
-
-No exemplo, **`r sum(m$manual_check == "Y")` de `r nrow(m)`** centros foram identificados automaticamente, uma taxa típica dado o número de centros anonimizados como "Research Site".
+O [`09_google_maps_validation.R`](`r paste0(gh, "09_google_maps_validation.R")`){target="_blank"} procura cada endereço no Google Maps e pede ao LLM para dizer se o lugar encontrado é mesmo o centro do estudo. Quando não há segurança, o centro fica como "Centro Não-Identificado" e vai para revisão manual. Muitos centros aparecem no ClinicalTrials.gov só como "Research Site", então isso é comum: no teste, só `r sum(m$manual_check == "Y")` de `r nrow(m)` foram identificados automaticamente.
 
 ### English
-[`09_google_maps_validation.R`](`r paste0(gh, "09_google_maps_validation.R")`){target="_blank"} sends each unique `search_address` to the **Google Places API** (*Find Place from Text*) and keeps the first candidate. An LLM then scores `address_compatibility` (0–1) between the original and the candidate, penalizing candidates that are not hospitals or research facilities.
-
-- Score **≥ 0.80** → `manual_check = "Y"`, the Google name becomes `location_name`.
-- Otherwise → `location_name = "(Centro Não-Identificado)"`, sent to human review and to the community ([how to help](index.Rmd#como-ajudar)).
-
-In the sample, **`r sum(m$manual_check == "Y")` of `r nrow(m)`** sites were identified automatically, a typical rate given how many sites are anonymized as "Research Site".
+[`09_google_maps_validation.R`](`r paste0(gh, "09_google_maps_validation.R")`){target="_blank"} searches each address on Google Maps and asks the LLM whether the place found really is the trial site. When it isn't confident, the site is marked "Centro Não-Identificado" and goes to manual review. Many sites appear on ClinicalTrials.gov only as "Research Site", so this is common: in the test, only `r sum(m$manual_check == "Y")` of `r nrow(m)` were identified automatically.
 :::
 
 ```{r}
 m %>%
-  select(search_address, candidates.name, address_compatibility, manual_check) %>%
-  head(5) %>%
+  select(search_address, candidates.name, address_compatibility) %>%
+  head(4) %>%
   kable()
 ```
 
-## [10]{.step} Banco de dados enriquecido · Enriched database
-
-[local]{.tag} [→ out_10_database.json]{.tag}
-
-```{r}
-db <- out("out_10_database")
-```
+## 10. Banco de dados final
 
 ::: {.panel-tabset group="lang"}
 ### Português
-O [`10_enriched_database.R`](`r paste0(gh, "10_enriched_database.R")`){target="_blank"} junta os estudos enriquecidos (etapa 07) com os centros validados (etapa 09). A tabela final tem **uma linha por estudo e centro** (`r nrow(db)` linhas × `r ncol(db)` colunas no exemplo), com coordenadas prontas para mapas. Para ler no R:
-
-```r
-db <- jsonlite::fromJSON("data/out_10_database.json")
-```
+Por fim, o [`10_enriched_database.R`](`r paste0(gh, "10_enriched_database.R")`){target="_blank"} junta tudo em uma tabela com uma linha por estudo e centro. É esse arquivo, o `out_10_database.json`, que alimenta a aplicação e os dashboards.
 
 ### English
-[`10_enriched_database.R`](`r paste0(gh, "10_enriched_database.R")`){target="_blank"} joins the enriched studies (step 07) with the validated sites (step 09). The final table has **one row per trial and site** (`r nrow(db)` rows × `r ncol(db)` columns in the sample), with coordinates ready for mapping. Read it in R with:
-
-```r
-db <- jsonlite::fromJSON("data/out_10_database.json")
-```
+Finally, [`10_enriched_database.R`](`r paste0(gh, "10_enriched_database.R")`){target="_blank"} puts everything together in one table, with one row per trial and site. This file, `out_10_database.json`, is what feeds the app and the dashboards.
 :::
 
 ```{r}
-show(db, c("study_nct_id", "location_name", "ai_conditions", "study_locations.status", "candidates.geometry.location.lat", "candidates.geometry.location.lng"), n = 6)
+show(out("out_10_database"), c("study_nct_id", "location_name", "ai_conditions", "study_locations.status"), n = 5)
 ```
-
-## Adaptando o pipeline · Adapting the pipeline
-
-::: {.panel-tabset group="lang"}
-### Português
-- **Outro provedor de LLM:** altere `LLM_MODEL` (ex.: `anthropic/claude-sonnet-5-5`, `google_gemini/gemini-2.5-pro`, `ollama/llama3`) e defina a chave do provedor. Nenhuma mudança no código.
-- **Outro país ou doença:** altere `location` / `query_condition` na etapa 01.
-- **Reexecutar uma etapa:** cada script só precisa do `out_XX` anterior, então você pode ajustar um *prompt* e rodar apenas aquele script.
-
-### English
-- **Another LLM provider:** change `LLM_MODEL` (e.g. `anthropic/claude-sonnet-5-5`, `google_gemini/gemini-2.5-pro`, `ollama/llama3`) and set that provider's key. No code changes.
-- **Another country or disease:** change `location` / `query_condition` in step 01.
-- **Re-running one step:** each script only needs the previous `out_XX` file, so you can tweak a prompt and re-run just that script.
-:::

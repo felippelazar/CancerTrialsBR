@@ -1,45 +1,7 @@
 ---
 title: "Dados"
-subtitle: "Dashboards do banco de dados do CancerTrialsBR e dos acessos às páginas."
 toc: false
 ---
 
-::: {.fluent-grid}
-
-::: {.fluent-card .accent}
-[Dashboard dos dados]{.fluent-card-title}
-
-Banco de dados atual: estudos recrutando, centros, tipos de câncer, patrocinadores e status de recrutamento no Brasil.
-
-[Abrir dashboard]({{< var dashboards.data >}}){.btn-fluent .primary target="_blank"}
-:::
-
-::: {.fluent-card .accent}
-[Dashboard de acessos]{.fluent-card-title}
-
-Acessos às páginas da plataforma ao longo do tempo.
-
-[Abrir dashboard]({{< var dashboards.access >}}){.btn-fluent .primary target="_blank"}
-:::
-
-:::
-
-## Dados de exemplo
-
-A pasta [`R/data/`](https://github.com/felippelazar/CancerTrialsBR/tree/main/R/data){target="_blank"} contém o resultado de cada etapa do *pipeline* para 5 estudos. A tabela final é o [`out_10_database.json`](https://github.com/felippelazar/CancerTrialsBR/blob/main/R/data/out_10_database.json){target="_blank"}: uma linha por estudo e centro.
-
-| Grupo de variáveis | Exemplos |
-|---|---|
-| Identificação | `study_nct_id`, `location_id`, `location_name` |
-| ClinicalTrials.gov | `study_official_title`, `study_elegibility_criteria`, `study_design_phase`, `study_status` |
-| Textos gerados por IA (EN / PT) | `study_ai_sentence_*`, `study_ai_summary_*`, `ideal_patient_*` |
-| Classificações por IA | `study_ai_lead_sponsor_type`, `ai_conditions`, `ai_subconditions` |
-| Centro | `study_locations.status`, `candidates.formatted_address`, `candidates.geometry.location.lat` / `.lng`, `address_compatibility`, `manual_check` |
-
-Status de recrutamento (padrão do ClinicalTrials.gov): []{.status-dot .recruiting} `RECRUITING`, []{.status-dot .pending} `NOT_YET_RECRUITING` / `ACTIVE_NOT_RECRUITING`, []{.status-dot .inactive} `COMPLETED` / `TERMINATED` / `SUSPENDED` / `WITHDRAWN`.
-
-Veja o [Tutorial](tutorial.qmd) para entender como cada variável é gerada.
-
-::: {.callout-note title="Nota"}
-Campos gerados por IA podem conter erros. Sempre confirme a elegibilidade e o status do centro no [ClinicalTrials.gov](https://clinicaltrials.gov){target="_blank"} e com a equipe do estudo.
-:::
+- [Dashboard dos dados]({{< var dashboards.data >}}){target="_blank"}
+- [Dashboard de acessos]({{< var dashboards.access >}}){target="_blank"}
