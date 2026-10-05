@@ -1,0 +1,15 @@
+# Secrets (API keys)
+.Renviron
+**/.Renviron
+
+# Quarto
+/.quarto/
+**/*.quarto_ipynb
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
