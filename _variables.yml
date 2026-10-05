@@ -1,0 +1,4 @@
+# Dashboard links used on data.qmd
+dashboards:
+  data: "https://estudosclinicos.sboc.org.br/dados/dashboard"
+  access: "https://estudosclinicos.sboc.org.br/dados/dashboard_acessos_plataforma"

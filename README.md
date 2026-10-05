@@ -3,17 +3,20 @@
 🏠 Bem-vindo a página do repositório do projeto **CancerTrialsBR** -
 Plataforma Colaborativa de Estudos Clinicos em Oncologia.
 
-Neste página você irá encontrar informações sobre o projeto, o banco de
-dados (**aberto**), dicionário de dados, como ajudar, contatos, entre
-outras informações. Para acessar a aplicação web:
+Neste página você irá encontrar informações sobre o projeto, os scripts
+em R utilizados para gerar o banco de dados, dados de exemplo, como
+ajudar, entre outras informações. Para acessar a aplicação web:
 <https://www.cancertrialsbr.com.br>
+
+Para acessar o site do projeto, com o tutorial dos scripts e os
+dashboards: <https://felippelazar.github.io/CancerTrialsBR>
 
 ## 📑 **Índice**
 
 1.  [📋 Sobre o Projeto](#sobre-o-projeto)  
 2.  [🚀 Como Funciona](#como-funciona)
 3.  [🙌 Como Ajudar](#como-ajudar)
-4.  [📄 Relatórios Disponíveis](#relatórios-disponíveis)  
+4.  [📊 Dashboards](#dashboards)  
 5.  [📦 Estrutura do Repositório](#estrutura-do-repositório)  
 6.  [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas)  
 7.  [📝 Citação](#citação)
@@ -27,9 +30,9 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
   podem sugerir alterações de status de recrutamento dos estudos que são
   automaticamente atualizados no banco de dados.
 
-- **Transparente**: Todos as sugestões realizadas serão disponibilizadas
-  nesse repositório e atualizadas na base diariamente, assim como o
-  próprio banco de dados final para fins de pesquisa e consulta.
+- **Transparente**: O código utilizado para gerar o banco de dados e
+  dados de exemplo estão disponíveis nesse repositório, e os dados
+  atualizados podem ser consultados nos dashboards do projeto.
 
 - **Independente**: O projeto não apresenta vínculo formal com nenhuma
   instituição e não prioriza centros ou estudos na disponibilização dos
@@ -51,10 +54,11 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
     manualmente**.
 5.  Novos centros ou alterações de status de recrutamento são
     **atualizados diariamente conforme sugestão dos usuários**.
-6.  Um banco de dados formatado é então disponibilizado neste
-    repositório para uso de pesquisadores e médicos no Brasil.
-7.  São **criados PDFs** com os estudos e localidades diariamente para
-    facilitar o compartilhamento e acesso.
+6.  Um banco de dados formatado é então disponibilizado na aplicação web
+    e nos dashboards para uso de pesquisadores e médicos no Brasil.
+
+Para um passo a passo de cada etapa, acesse o
+[tutorial](https://felippelazar.github.io/CancerTrialsBR/tutorial.html).
 
 ## **Como Ajudar**
 
@@ -76,37 +80,36 @@ As duas principais formas de ajudar são:
     erro** ao lado do centro e sugira um novo status de recrutamento
     para esse centro.
 
-Para acessar uma lista de centros não identificados, [clique
-aqui](https://felippelazar.github.io/CancerTrialsBR/cni.html).
+## **Dashboards**
 
-## **Relatórios Disponíveis**
-
-- Você poderá consultar relatórios disponíveis na aba estatísticas (*em
-  produção ainda*).
+- O projeto disponibiliza dois dashboards: um com os **dados atuais**
+  dos estudos e outro com os **acessos às páginas**. Para acessá-los,
+  [clique aqui](https://felippelazar.github.io/CancerTrialsBR/data.html).
 
 ## **Estrutura do Repositório**
 
 O repositório é organizado da seguinte maneira:
 
-- Na pasta `user_input` estão os *logs* de sugestões dos usuários para
-  atualização dos dados. As sugestões são divididas em três grupos:
-  inclusão de centros (`locations_inclusion`), identificação de centros
-  (`locations_identification`) e atualização de status de recrutamento
-  (`locations_status`).
+- Na pasta `R` estão os scripts do *pipeline* (`00_functions.R` a
+  `10_enriched_database.R`), executados em ordem a partir dessa pasta.
 
-- Na pasta `data` encontra-se o banco de dados propriamente dito em
-  formato excel.
+- Na pasta `R/data` estão os dados de exemplo gerados por cada etapa
+  (`out_XX_*.json`) a partir de 5 estudos.
+
+- Os arquivos `index.Rmd`, `tutorial.qmd`, `data.qmd` e o `custom.scss`
+  são o código do site em **Quarto**, gerado na pasta `docs`.
 
 Para acessar o repositório, [clique
 aqui](https://github.com/felippelazar/CancerTrialsBR)
 
 ## **Tecnologias Utilizadas**
 
-- O site, todo o código de atualização dos dados e o código de geração
-  dos PDFs foi escrito na linguagem **R** com uso do **Rmarkdown** e
-  **RShiny**.
-- No momento, o código **não** se encontra disponível publicamente,
-  apenas os dados gerados por ele.
+- O site, todo o código de atualização dos dados e a aplicação web foram
+  escritos na linguagem **R** com uso do **Quarto** e **RShiny**.
+- Os scripts do *pipeline* estão disponíveis publicamente na pasta `R`.
+  Para usar o LLM e o Google Maps, é preciso criar o arquivo
+  `R/.Renviron` com as suas próprias chaves (veja o
+  [tutorial](https://felippelazar.github.io/CancerTrialsBR/tutorial.html)).
 
 ## **Citação**
 
@@ -114,7 +117,7 @@ Os dados desse projeto são baseados nos dados do *clinicaltrials.gov* e
 foram processados e disponibilizados por esse repositório após
 modificação e revisão, seguindo os termos de uso dos dados do
 *clinicaltrials.gov*, que podem ser encontrados
-[aqui](https://clinicaltrials.gov/ct2/about-site/terms-conditions).
+[aqui](https://clinicaltrials.gov/about-site/terms-conditions).
 
 Antes de utilizar os dados, leia os termos de uso do
 *clinicaltrials.gov* e certifique-se de que está de acordo com eles.
@@ -130,6 +133,6 @@ Para citar o repositório, utilize a seguinte citação:
 
 NOTA: Essa citação pode ser facilmente importada para programas de
 gerenciamento de referências (como Zotero, Mendeley ou EndNote) permite
-que você importe arquivos BibTeX. Copie o código abaixo, salve em uma
+que você importe arquivos BibTeX. Copie o código acima, salve em uma
 arquivo de texto com o final `.bib` e **importe** diretamente nos
 programa que utiliza.

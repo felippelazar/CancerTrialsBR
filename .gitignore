@@ -13,3 +13,7 @@
 
 # OS
 .DS_Store
+
+# Built site (deployed by GitHub Actions, not committed)
+/docs/
+/_site/

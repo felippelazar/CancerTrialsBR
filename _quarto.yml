@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+  render:
+    - index.Rmd
+    - tutorial.qmd
+    - data.qmd
+
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+  message: false
+
+website:
+  title: "CancerTrialsBR"
+  description: "Plataforma Colaborativa de Estudos Clínicos em Oncologia"
+  site-url: "https://felippelazar.github.io/CancerTrialsBR"
+  repo-url: "https://github.com/felippelazar/CancerTrialsBR"
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.Rmd
+        text: Início
+      - href: tutorial.qmd
+        text: Tutorial
+      - href: data.qmd
+        text: Dados
+    right:
+      - icon: github
+        href: "https://github.com/felippelazar/CancerTrialsBR"
+        aria-label: GitHub
+      - text: "Aplicação"
+        href: "https://www.cancertrialsbr.com.br"
+        target: _blank
+  page-footer:
+    left: "CancerTrialsBR · dados baseados no ClinicalTrials.gov"
+    right: "Feito com [Quarto](https://quarto.org)"
+
+lang: pt
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
+    smooth-scroll: true
+    include-in-header:
+      - file: script.html
