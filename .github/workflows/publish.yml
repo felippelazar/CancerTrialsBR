@@ -1,0 +1,65 @@
+name: Publicar site
+
+on:
+  push:
+    branches: main
+    paths:
+      - "index.Rmd"
+      - "*.qmd"
+      - "custom.scss"
+      - "script.html"
+      - "_quarto.yml"
+      - "_variables.yml"
+      - "_freeze/**"
+      - "R/data/**"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Instalar Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Instalar R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - name: Instalar pacotes R
+        run: Rscript -e 'install.packages(c("knitr", "rmarkdown", "jsonlite", "dplyr"))'
+
+      - name: Renderizar site
+        run: quarto render
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Enviar site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

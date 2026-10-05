@@ -1,0 +1,947 @@
+[
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "LOCAL",
+    "ai_reasoning": "The trial includes patients with unresectable, locally advanced, or metastatic gastric, GEJ, or esophageal adenocarcinoma, but the requirement for unresectable disease excludes patients with localized, resectable disease. Therefore, the trial does not enroll patients with truly localized disease.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic gastric, GEJ, or distal esophagus (distal third of the esophagus) adenocarcinoma\"",
+    "ai_subcondition_probability_score": 0.09
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "METAS",
+    "ai_reasoning": "The trial explicitly includes patients with metastatic and unresectable, locally advanced disease, which is considered incurable and thus classified as metastatic for the purposes of this schema.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic gastric, GEJ, or distal esophagus (distal third of the esophagus) adenocarcinoma\"",
+    "ai_subcondition_probability_score": 0.95
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "LINE1",
+    "ai_reasoning": "The inclusion criteria specify 'previously untreated' patients in the advanced/metastatic setting, indicating that only first-line patients are eligible.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic... adenocarcinoma\"",
+    "ai_subcondition_probability_score": 0.95
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "LINEX",
+    "ai_reasoning": "The trial excludes patients who have received prior treatment for advanced/metastatic disease, so patients with any prior therapy are not eligible.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic... adenocarcinoma\"",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "PDL1P",
+    "ai_reasoning": "The trial has two cohorts: one for PD-L1 positive and one for PD-L1 negative or ICI-ineligible patients. PD-L1 positivity is not required for all participants, only for one cohort.",
+    "ai_evidence_mapping": "\"Cohort 1: PD-L1 positive as determined by central IHC testing... Cohort 2: PD-L1 negative as determined by central IHC testing OR the participant is ICI ineligible\"",
+    "ai_subcondition_probability_score": 0.5
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "PDL1N",
+    "ai_reasoning": "The trial includes a cohort for PD-L1 negative patients or those ineligible for ICI, but PD-L1 negativity is not required for all participants, only for one cohort.",
+    "ai_evidence_mapping": "\"Cohort 2: PD-L1 negative as determined by central IHC testing OR the participant is ICI ineligible\"",
+    "ai_subcondition_probability_score": 0.5
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "ALKKP",
+    "ai_reasoning": "There is no mention of ALK gene rearrangements, fusions, or mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to ALK in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "RETTT",
+    "ai_reasoning": "There is no mention of RET gene alterations, fusions, or mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to RET in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "METTT",
+    "ai_reasoning": "There is no mention of MET gene alterations, amplifications, or exon 14 skipping in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to MET in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "NTRKK",
+    "ai_reasoning": "There is no mention of NTRK gene fusions in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to NTRK in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "BRCAM",
+    "ai_reasoning": "There is no mention of BRCA1 or BRCA2 mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to BRCA in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "PIK3C",
+    "ai_reasoning": "There is no mention of PIK3CA mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to PIK3CA in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "HRDDD",
+    "ai_reasoning": "There is no mention of homologous recombination deficiency in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to homologous recombination deficiency in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "DMMRR",
+    "ai_reasoning": "There is no mention of MSI-High or deficient mismatch repair in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to MSI or dMMR in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "FGFRR",
+    "ai_reasoning": "There is no mention of FGFR gene alterations, mutations, or fusions in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to FGFR in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "HERLO",
+    "ai_reasoning": "The trial requires HER2-negative status, but does not specifically require HER2-low (IHC 1+ or 2+/ISH-) expression; HER2-low is not explicitly mentioned.",
+    "ai_evidence_mapping": "\"Known HER2-positive status\" is an exclusion criterion; no mention of HER2-low.",
+    "ai_subcondition_probability_score": 0.1
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "HERHI",
+    "ai_reasoning": "HER2-positive patients are explicitly excluded from the trial.",
+    "ai_evidence_mapping": "\"Known HER2-positive status\" is an exclusion criterion.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "HERMU",
+    "ai_reasoning": "There is no mention of HER2 gene mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to HER2 mutations in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "IDHMM",
+    "ai_reasoning": "There is no mention of IDH1 or IDH2 mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to IDH1/2 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "FRALP",
+    "ai_reasoning": "There is no mention of folate receptor alpha expression in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to folate receptor alpha in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "ROS1M",
+    "ai_reasoning": "There is no mention of ROS1 gene rearrangements or fusions in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to ROS1 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "KRASM",
+    "ai_reasoning": "There is no mention of KRAS mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to KRAS in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "MULTI",
+    "ai_reasoning": "The trial requires CLDN18.2 positivity for all participants and stratifies by PD-L1 status, but does not require multiple biomarkers for enrollment; rather, it has biomarker-defined cohorts.",
+    "ai_evidence_mapping": "\"Positive CLDN18.2 expression, as determined prospectively by central IHC testing\"; \"Confirmed PD-L1 CPS status by central IHC testing and ICI eligibility per investigator judgement is required to determine cohort eligibility as described below\"",
+    "ai_subcondition_probability_score": 0.4
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "PIMUN",
+    "ai_reasoning": "The trial requires patients to be previously untreated in the advanced/metastatic setting, so prior immunotherapy is not required and would actually be an exclusion.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic... adenocarcinoma\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "PPLAT",
+    "ai_reasoning": "The trial requires patients to be previously untreated in the advanced/metastatic setting, so prior platinum-based chemotherapy is not required and would actually be an exclusion.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic... adenocarcinoma\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "CASTR",
+    "ai_reasoning": "The trial is not for prostate cancer and does not mention castration-resistant disease.",
+    "ai_evidence_mapping": "No reference to prostate cancer or castration resistance.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "subcondition_code": "CASTS",
+    "ai_reasoning": "The trial is not for prostate cancer and does not mention castration-sensitive disease.",
+    "ai_evidence_mapping": "No reference to prostate cancer or castration sensitivity.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "LOCAL",
+    "ai_reasoning": "The trial includes patients with prostate cancer scheduled for robotic prostatectomy, which is a treatment for localized disease. Exclusion of patients with recurrence or metastasis further supports that only localized/locally advanced, non-metastatic cases are eligible.",
+    "ai_evidence_mapping": "\"Patients with prostate cancer who will undergo robotic prostatectomy;\" and \"Patients with recurrence, metastasis and other existing neoplasms\" are excluded.",
+    "ai_subcondition_probability_score": 0.95
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "METAS",
+    "ai_reasoning": "Patients with metastasis or recurrence are explicitly excluded, indicating that metastatic disease is not allowed in this trial.",
+    "ai_evidence_mapping": "\"Patients with recurrence, metastasis and other existing neoplasms\" are excluded.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "LINE1",
+    "ai_reasoning": "Patients are newly diagnosed and scheduled for primary surgery, with no mention of prior systemic therapy, indicating a treatment-naïve, localized setting. However, since the trial is for localized disease, line of therapy in metastatic setting is not applicable.",
+    "ai_evidence_mapping": "\"Patients with prostate cancer who will undergo robotic prostatectomy;\" and exclusion of recurrence/metastasis.",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "LINEX",
+    "ai_reasoning": "There is no evidence that patients with prior systemic therapy or prior lines of treatment are included, and the trial is for localized disease, so this concept is not applicable.",
+    "ai_evidence_mapping": "\"Patients with prostate cancer who will undergo robotic prostatectomy;\" and exclusion of recurrence/metastasis.",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "PDL1P",
+    "ai_reasoning": "There is no mention of PD-L1 status or requirement for PD-L1 positivity in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to PD-L1 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "PDL1N",
+    "ai_reasoning": "There is no mention of PD-L1 status or requirement for PD-L1 negativity in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to PD-L1 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "ALKKP",
+    "ai_reasoning": "There is no mention of ALK gene status or requirement for ALK alterations.",
+    "ai_evidence_mapping": "No reference to ALK in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "RETTT",
+    "ai_reasoning": "There is no mention of RET gene status or requirement for RET alterations.",
+    "ai_evidence_mapping": "No reference to RET in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "METTT",
+    "ai_reasoning": "There is no mention of MET gene status or requirement for MET alterations.",
+    "ai_evidence_mapping": "No reference to MET in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "NTRKK",
+    "ai_reasoning": "There is no mention of NTRK gene status or requirement for NTRK fusions.",
+    "ai_evidence_mapping": "No reference to NTRK in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "BRCAM",
+    "ai_reasoning": "There is no mention of BRCA1/2 mutation status or requirement.",
+    "ai_evidence_mapping": "No reference to BRCA in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "PIK3C",
+    "ai_reasoning": "There is no mention of PIK3CA mutation status or requirement.",
+    "ai_evidence_mapping": "No reference to PIK3CA in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "HRDDD",
+    "ai_reasoning": "There is no mention of homologous recombination deficiency or related testing.",
+    "ai_evidence_mapping": "No reference to HRD in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "DMMRR",
+    "ai_reasoning": "There is no mention of MSI or mismatch repair status.",
+    "ai_evidence_mapping": "No reference to MSI or dMMR in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "FGFRR",
+    "ai_reasoning": "There is no mention of FGFR gene status or requirement.",
+    "ai_evidence_mapping": "No reference to FGFR in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "HERLO",
+    "ai_reasoning": "There is no mention of HER2 status, low or otherwise.",
+    "ai_evidence_mapping": "No reference to HER2 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "HERHI",
+    "ai_reasoning": "There is no mention of HER2 overexpression or positivity.",
+    "ai_evidence_mapping": "No reference to HER2 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "HERMU",
+    "ai_reasoning": "There is no mention of HER2 gene mutations.",
+    "ai_evidence_mapping": "No reference to HER2 mutations in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "IDHMM",
+    "ai_reasoning": "There is no mention of IDH1/2 mutation status or requirement.",
+    "ai_evidence_mapping": "No reference to IDH in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "FRALP",
+    "ai_reasoning": "There is no mention of folate receptor alpha status.",
+    "ai_evidence_mapping": "No reference to folate receptor alpha in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "ROS1M",
+    "ai_reasoning": "There is no mention of ROS1 gene status or requirement.",
+    "ai_evidence_mapping": "No reference to ROS1 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "KRASM",
+    "ai_reasoning": "There is no mention of KRAS mutation status or requirement.",
+    "ai_evidence_mapping": "No reference to KRAS in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "MULTI",
+    "ai_reasoning": "There are no multiple biomarker requirements or biomarker-driven arms in this trial.",
+    "ai_evidence_mapping": "No reference to multiple biomarkers or biomarker-driven arms in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "PIMUN",
+    "ai_reasoning": "There is no requirement for prior immunotherapy, and the trial is for localized disease.",
+    "ai_evidence_mapping": "No reference to prior immunotherapy in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "PPLAT",
+    "ai_reasoning": "There is no requirement for prior platinum-based chemotherapy, and the trial is for localized disease.",
+    "ai_evidence_mapping": "No reference to prior platinum-based chemotherapy in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "CASTR",
+    "ai_reasoning": "There is no mention of castration-resistant prostate cancer; the trial is for patients undergoing primary prostatectomy, which is not the standard for castration-resistant disease.",
+    "ai_evidence_mapping": "\"Patients with prostate cancer who will undergo robotic prostatectomy;\" and no mention of castration resistance.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "subcondition_code": "CASTS",
+    "ai_reasoning": "Patients are undergoing primary prostatectomy for localized disease, which is consistent with castration-sensitive prostate cancer, but castration sensitivity is not explicitly required or mentioned.",
+    "ai_evidence_mapping": "\"Patients with prostate cancer who will undergo robotic prostatectomy;\" and no mention of castration sensitivity.",
+    "ai_subcondition_probability_score": 0.1
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "LOCAL",
+    "ai_reasoning": "The trial includes only patients with NSCLC clinical staging IB, II, or IIIA, all of which are considered localized or locally advanced but still resectable disease, and explicitly excludes stages IIIB N3, IIIC, IVA, and IVB, as well as unresectable tumors.",
+    "ai_evidence_mapping": "\"Diagnosed with non-small cell lung cancer (NSCLC) with clinical staging IB, II, or IIIA.\"; \"Tumor is considered resectable upon initial assessment...\"; \"Exclusion: NSCLC clinical stages IA, IIIB N3, IIIC, IVA, and IVB.\"; \"Tumor deemed unresectable.\"",
+    "ai_subcondition_probability_score": 0.98
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "METAS",
+    "ai_reasoning": "Metastatic disease is explicitly excluded by the exclusion of stages IVA and IVB, and only resectable, non-metastatic stages are allowed.",
+    "ai_evidence_mapping": "\"Exclusion: NSCLC clinical stages IVA and IVB.\"; \"Tumor is considered resectable upon initial assessment...\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "LINE1",
+    "ai_reasoning": "Patients must not have received any prior systemic anticancer therapy for NSCLC, indicating a treatment-naïve population, but this is in the context of localized disease, not metastatic.",
+    "ai_evidence_mapping": "\"Exclusion: Prior systemic anticancer therapy for NSCLC, including chemotherapy, biologic therapy, immunotherapy, or any investigational drugs.\"",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "LINEX",
+    "ai_reasoning": "Any prior systemic therapy for NSCLC is an exclusion, so patients with previous treatment are not eligible; also, this is a localized setting.",
+    "ai_evidence_mapping": "\"Exclusion: Prior systemic anticancer therapy for NSCLC, including chemotherapy, biologic therapy, immunotherapy, or any investigational drugs.\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "PDL1P",
+    "ai_reasoning": "PD-L1 protein expression must be documented and assessable, but there is no requirement for positive expression; both positive and negative patients may be included.",
+    "ai_evidence_mapping": "\"PD-L1 protein expression documented and assessable.\"; \"No available data on PD-L1 protein expression\" is an exclusion, but no threshold or positivity requirement is stated.",
+    "ai_subcondition_probability_score": 0.1
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "PDL1N",
+    "ai_reasoning": "There is no requirement for PD-L1 negativity; only documentation and assessability are required, not a specific negative or low threshold.",
+    "ai_evidence_mapping": "\"PD-L1 protein expression documented and assessable.\"; \"No available data on PD-L1 protein expression\" is an exclusion.",
+    "ai_subcondition_probability_score": 0.1
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "ALKKP",
+    "ai_reasoning": "Patients must be negative for ALK protein expression; ALK positivity is an exclusion, so ALK rearrangement is not required but rather excluded.",
+    "ai_evidence_mapping": "\"Negative for ALK and ROS1 protein expression.\"; \"Exclusion: Positive for ALK protein expression.\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "RETTT",
+    "ai_reasoning": "RET gene alterations are not mentioned anywhere in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of RET gene alterations, fusions, or mutations.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "METTT",
+    "ai_reasoning": "MET gene alterations are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of MET gene alterations, amplifications, or exon 14 skipping.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "NTRKK",
+    "ai_reasoning": "NTRK gene fusions are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of NTRK1/2/3 gene fusions.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "BRCAM",
+    "ai_reasoning": "BRCA1/2 mutations are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of BRCA1 or BRCA2 mutations.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "PIK3C",
+    "ai_reasoning": "PIK3CA mutations are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of PIK3CA mutations.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "HRDDD",
+    "ai_reasoning": "Homologous recombination deficiency is not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of homologous recombination deficiency.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "DMMRR",
+    "ai_reasoning": "MSI-High or deficient mismatch repair is not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of MSI-High or dMMR.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "FGFRR",
+    "ai_reasoning": "FGFR gene alterations are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of FGFR gene alterations, mutations, or fusions.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "HERLO",
+    "ai_reasoning": "HER2 expression or mutation status is not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of HER2-low (IHC 1+ or 2+/ISH-) status.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "HERHI",
+    "ai_reasoning": "HER2 overexpression or amplification is not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of HER2-positive (IHC 3+ or 2+/ISH+) status.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "HERMU",
+    "ai_reasoning": "HER2 gene mutations are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of HER2 gene mutations.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "IDHMM",
+    "ai_reasoning": "IDH1/2 mutations are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of IDH1 or IDH2 mutations.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "FRALP",
+    "ai_reasoning": "Folate receptor alpha expression is not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of folate receptor alpha.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "ROS1M",
+    "ai_reasoning": "Patients must be negative for ROS1 protein expression; ROS1 positivity is an exclusion, so ROS1 rearrangement is not required but rather excluded.",
+    "ai_evidence_mapping": "\"Negative for ALK and ROS1 protein expression.\"; \"Exclusion: Positive for ROS1 protein expression.\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "KRASM",
+    "ai_reasoning": "KRAS mutations are not mentioned in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of KRAS mutations.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "MULTI",
+    "ai_reasoning": "Multiple biomarkers are not required for enrollment; only exclusion of EGFR, ALK, and ROS1 positivity, and documentation of PD-L1 status, but not as a requirement for positivity or negativity.",
+    "ai_evidence_mapping": "\"Negative for EGFR gene expression.\"; \"Negative for ALK and ROS1 protein expression.\"; \"PD-L1 protein expression documented and assessable.\"",
+    "ai_subcondition_probability_score": 0.15
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "PIMUN",
+    "ai_reasoning": "Prior immunotherapy is an exclusion, and the trial is in the localized setting, not metastatic.",
+    "ai_evidence_mapping": "\"Exclusion: Prior systemic anticancer therapy for NSCLC, including chemotherapy, biologic therapy, immunotherapy, or any investigational drugs.\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "PPLAT",
+    "ai_reasoning": "Prior platinum-based chemotherapy is an exclusion, and the trial is in the localized setting, not metastatic.",
+    "ai_evidence_mapping": "\"Exclusion: Prior systemic anticancer therapy for NSCLC, including chemotherapy, biologic therapy, immunotherapy, or any investigational drugs.\"",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "CASTR",
+    "ai_reasoning": "Castration-resistant prostate cancer is not relevant to NSCLC and is not mentioned.",
+    "ai_evidence_mapping": "No mention of prostate cancer or castration-resistant disease.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "subcondition_code": "CASTS",
+    "ai_reasoning": "Castration-sensitive prostate cancer is not relevant to NSCLC and is not mentioned.",
+    "ai_evidence_mapping": "No mention of prostate cancer or castration-sensitive disease.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "LOCAL",
+    "ai_reasoning": "The trial specifically enrolls patients with localized kidney tumors, as indicated by the title and the inclusion criterion of 'radiological diagnosis of renal tumor susceptible to active treatment or AS/WW,' which refers to localized disease amenable to surgery or surveillance.",
+    "ai_evidence_mapping": "\"International REgistry of COnservative or Radical Treatment of Localized Kidney Tumors (i-RECORd)\"; \"Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.\"",
+    "ai_subcondition_probability_score": 0.98
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "METAS",
+    "ai_reasoning": "There is no mention of metastatic or advanced disease; the focus is on localized kidney tumors, and metastatic patients are not referenced or implied as eligible.",
+    "ai_evidence_mapping": "\"Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.\"; Trial title specifies 'Localized Kidney Tumors.'",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "LINE1",
+    "ai_reasoning": "Line of therapy concepts (treatment-naïve or previously treated in metastatic setting) do not apply to this localized disease trial; no mention of prior systemic therapy or metastatic setting.",
+    "ai_evidence_mapping": "\"Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.\"; No mention of prior systemic therapy.",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "LINEX",
+    "ai_reasoning": "As with LINE1, line of therapy concepts are not relevant in a localized kidney tumor trial; there is no reference to prior systemic therapy or metastatic disease.",
+    "ai_evidence_mapping": "\"Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.\"; No mention of prior systemic therapy.",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "PDL1P",
+    "ai_reasoning": "There is no mention of PD-L1 status or requirement for PD-L1 positivity in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to PD-L1 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "PDL1N",
+    "ai_reasoning": "There is no mention of PD-L1 status or requirement for PD-L1 negativity in the eligibility criteria.",
+    "ai_evidence_mapping": "No reference to PD-L1 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "ALKKP",
+    "ai_reasoning": "ALK gene status is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to ALK in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "RETTT",
+    "ai_reasoning": "RET gene alterations are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to RET in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "METTT",
+    "ai_reasoning": "MET gene alterations are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to MET in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "NTRKK",
+    "ai_reasoning": "NTRK gene fusions are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to NTRK in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "BRCAM",
+    "ai_reasoning": "BRCA mutations are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to BRCA in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "PIK3C",
+    "ai_reasoning": "PIK3CA mutations are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to PIK3CA in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "HRDDD",
+    "ai_reasoning": "Homologous recombination deficiency is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to HRD in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "DMMRR",
+    "ai_reasoning": "MSI or mismatch repair status is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to MSI or dMMR in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "FGFRR",
+    "ai_reasoning": "FGFR gene alterations are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to FGFR in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "HERLO",
+    "ai_reasoning": "HER2 status (low, high, or mutated) is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to HER2 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "HERHI",
+    "ai_reasoning": "HER2 status (low, high, or mutated) is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to HER2 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "HERMU",
+    "ai_reasoning": "HER2 status (low, high, or mutated) is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to HER2 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "IDHMM",
+    "ai_reasoning": "IDH1/2 mutations are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to IDH in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "FRALP",
+    "ai_reasoning": "Folate receptor alpha status is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to folate receptor alpha in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "ROS1M",
+    "ai_reasoning": "ROS1 gene status is not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to ROS1 in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "KRASM",
+    "ai_reasoning": "KRAS mutations are not mentioned or required for enrollment in this trial.",
+    "ai_evidence_mapping": "No reference to KRAS in inclusion or exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "MULTI",
+    "ai_reasoning": "There are no multiple biomarker requirements or biomarker-driven arms in this trial; eligibility is based on radiological diagnosis of localized kidney tumor.",
+    "ai_evidence_mapping": "\"Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.\"; No mention of biomarker-driven arms.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "PIMUN",
+    "ai_reasoning": "Prior immunotherapy is not required; the trial is for localized disease and does not reference prior systemic therapy.",
+    "ai_evidence_mapping": "\"Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.\"; No mention of prior immunotherapy.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "PPLAT",
+    "ai_reasoning": "Prior platinum-based chemotherapy is not required; the trial is for localized disease and does not reference prior systemic therapy.",
+    "ai_evidence_mapping": "\"Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.\"; No mention of prior platinum therapy.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "CASTR",
+    "ai_reasoning": "Castration-resistant prostate cancer is not relevant to kidney tumor trials.",
+    "ai_evidence_mapping": "Trial is for kidney tumors, not prostate cancer.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "subcondition_code": "CASTS",
+    "ai_reasoning": "Castration-sensitive prostate cancer is not relevant to kidney tumor trials.",
+    "ai_evidence_mapping": "Trial is for kidney tumors, not prostate cancer.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "LOCAL",
+    "ai_reasoning": "The trial enrolls patients with relapsed/refractory B-cell ALL, DLBCL, and FL, all of which are hematological malignancies where the concept of localized disease does not apply.",
+    "ai_evidence_mapping": "\"relapsed/ refractory B-cell ALL diagnosis\", \"relapsed/ refractory Diffuse Large B-cell Lymphoma\"",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "METAS",
+    "ai_reasoning": "Staging as metastatic vs. localized is not applicable to hematological cancers such as ALL, DLBCL, and FL; the trial focuses on relapsed/refractory disease, not metastatic solid tumors.",
+    "ai_evidence_mapping": "\"relapsed/ refractory B-cell ALL diagnosis\", \"relapsed/ refractory Diffuse Large B-cell Lymphoma\"",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "LINE1",
+    "ai_reasoning": "There is no mention of treatment-naïve status; all patients must have relapsed/refractory disease, indicating prior therapy. Line of treatment concepts (LINE1) do not apply.",
+    "ai_evidence_mapping": "\"relapsed/ refractory B-cell ALL diagnosis\", \"relapsed/ refractory Diffuse Large B-cell Lymphoma\"",
+    "ai_subcondition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "LINEX",
+    "ai_reasoning": "Patients must have relapsed/refractory disease, which implies prior therapy. However, as this is a hematological malignancy, the LINEX concept is not directly applicable, but there is weak contextual relevance.",
+    "ai_evidence_mapping": "\"relapsed/ refractory B-cell ALL diagnosis\", \"relapsed/ refractory Diffuse Large B-cell Lymphoma\"",
+    "ai_subcondition_probability_score": 0.15
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "PDL1P",
+    "ai_reasoning": "There is no mention of PD-L1 status or requirement for PD-L1 positivity in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of PD-L1 in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "PDL1N",
+    "ai_reasoning": "There is no mention of PD-L1 status or requirement for PD-L1 negativity in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of PD-L1 in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "ALKKP",
+    "ai_reasoning": "There is no mention of ALK gene rearrangements, fusions, or mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of ALK in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "RETTT",
+    "ai_reasoning": "There is no mention of RET gene alterations, fusions, or mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of RET in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "METTT",
+    "ai_reasoning": "There is no mention of MET gene alterations, amplifications, or exon 14 skipping in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of MET in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "NTRKK",
+    "ai_reasoning": "There is no mention of NTRK gene fusions in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of NTRK in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "BRCAM",
+    "ai_reasoning": "There is no mention of BRCA1/2 mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of BRCA in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "PIK3C",
+    "ai_reasoning": "There is no mention of PIK3CA mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of PIK3CA in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "HRDDD",
+    "ai_reasoning": "There is no mention of homologous recombination deficiency in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of HRD in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "DMMRR",
+    "ai_reasoning": "There is no mention of MSI-High or deficient mismatch repair in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of MSI or dMMR in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "FGFRR",
+    "ai_reasoning": "There is no mention of FGFR gene alterations, mutations, or fusions in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of FGFR in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "HERLO",
+    "ai_reasoning": "There is no mention of HER2-low expression in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of HER2-low in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "HERHI",
+    "ai_reasoning": "There is no mention of HER2 overexpression or positivity in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of HER2 in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "HERMU",
+    "ai_reasoning": "There is no mention of HER2 gene mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of HER2 mutation in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "IDHMM",
+    "ai_reasoning": "There is no mention of IDH1 or IDH2 mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of IDH1/2 in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "FRALP",
+    "ai_reasoning": "There is no mention of folate receptor alpha expression in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of folate receptor alpha in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "ROS1M",
+    "ai_reasoning": "There is no mention of ROS1 gene rearrangements or fusions in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of ROS1 in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "KRASM",
+    "ai_reasoning": "There is no mention of KRAS mutations in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of KRAS in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "MULTI",
+    "ai_reasoning": "The trial includes three disease cohorts (B-cell ALL, DLBCL, FL), but there are no multiple biomarker-driven arms or requirements for multiple biomarkers.",
+    "ai_evidence_mapping": "\"three cohorts\" refers to disease type, not biomarker-driven arms.",
+    "ai_subcondition_probability_score": 0.1
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "PIMUN",
+    "ai_reasoning": "There is no requirement for prior immunotherapy; the only requirement is relapsed/refractory disease and receipt of tisagenlecleucel.",
+    "ai_evidence_mapping": "No mention of prior immunotherapy in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "PPLAT",
+    "ai_reasoning": "There is no requirement for prior platinum-based chemotherapy in the eligibility criteria.",
+    "ai_evidence_mapping": "No mention of platinum-based chemotherapy in inclusion/exclusion criteria.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "CASTR",
+    "ai_reasoning": "The trial does not enroll prostate cancer patients; castration-resistant status is not relevant.",
+    "ai_evidence_mapping": "No mention of prostate cancer or castration-resistant disease.",
+    "ai_subcondition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "subcondition_code": "CASTS",
+    "ai_reasoning": "The trial does not enroll prostate cancer patients; castration-sensitive status is not relevant.",
+    "ai_evidence_mapping": "No mention of prostate cancer or castration-sensitive disease.",
+    "ai_subcondition_probability_score": 0.01
+  }
+]

@@ -1,0 +1,16 @@
+Package: CancerTrialsBR
+Title: CancerTrialsBR Pipeline and Website
+Version: 0.2.0
+Description: R pipeline that downloads oncology clinical trials recruiting in
+    Brazil from ClinicalTrials.gov, enriches them with LLMs and geolocates
+    research sites, plus the Quarto website that documents it.
+Imports:
+    httr,
+    jsonlite,
+    dplyr,
+    glue,
+    pbapply,
+    ellmer,
+    stringi,
+    knitr,
+    rmarkdown

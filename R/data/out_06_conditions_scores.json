@@ -1,0 +1,1367 @@
+[
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "GASTC",
+    "ai_reasoning": "The trial is exclusively for patients with unresectable, locally advanced, or metastatic gastric, gastroesophageal junction (GEJ), or distal esophagus adenocarcinoma. The requirement for CLDN18.2 positivity and HER2-negativity further specifies the eligible population, but there is no more specific code for CLDN18.2-positive or HER2-negative gastric/GEJ/esophageal adenocarcinoma, so the most specific applicable category is GASTC.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic gastric, GEJ, or distal esophagus (distal third of the esophagus) adenocarcinoma\"; \"Positive CLDN18.2 expression, as determined prospectively by central IHC testing\"; \"Known HER2-positive status\" is an exclusion.",
+    "ai_condition_probability_score": 0.95
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "RECAL",
+    "ai_reasoning": "Renal cancer is not mentioned in the inclusion criteria and is not related to the anatomical sites specified (gastric, GEJ, esophagus).",
+    "ai_evidence_mapping": "No mention of renal cancer or kidney cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "SCLCC",
+    "ai_reasoning": "Small cell lung cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of small cell lung cancer or lung cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "NSCLC",
+    "ai_reasoning": "Non-small cell lung cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of non-small cell lung cancer or lung cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "LEGFR",
+    "ai_reasoning": "EGFR-mutated lung cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of EGFR or lung cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "THYRC",
+    "ai_reasoning": "Thyroid cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of thyroid cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "BREAC",
+    "ai_reasoning": "Breast cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of breast cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "BTNBC",
+    "ai_reasoning": "Triple-negative breast cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of triple-negative breast cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "BRHRP",
+    "ai_reasoning": "Hormone receptor-positive breast cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of hormone receptor-positive breast cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "BHER2",
+    "ai_reasoning": "HER2-positive breast cancer is not mentioned and is not related to the anatomical sites specified. HER2 status is only referenced as an exclusion for gastric/GEJ/esophageal adenocarcinoma.",
+    "ai_evidence_mapping": "No mention of HER2-positive breast cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "PROSC",
+    "ai_reasoning": "Prostate cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of prostate cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "BRATU",
+    "ai_reasoning": "Brain tumors are not mentioned and are not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of brain tumors in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "COLRC",
+    "ai_reasoning": "Colorectal cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of colorectal cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "PANCR",
+    "ai_reasoning": "Pancreatic cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of pancreatic cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "HEANC",
+    "ai_reasoning": "Head and neck cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of head and neck cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "OVARC",
+    "ai_reasoning": "Ovarian cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of ovarian cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "ENDOC",
+    "ai_reasoning": "Endometrial cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of endometrial cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "CERVC",
+    "ai_reasoning": "Cervical cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of cervical cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "HEPCC",
+    "ai_reasoning": "Hepatocellular carcinoma is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of hepatocellular carcinoma in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "BTCCC",
+    "ai_reasoning": "Biliary tract cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of biliary tract cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "BLADC",
+    "ai_reasoning": "Bladder cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of bladder cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "GYNCN",
+    "ai_reasoning": "Other gynecological cancers (vulvar, vaginal, fallopian tube, primary peritoneal) are not mentioned and are not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of other gynecological cancers in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "SFTTS",
+    "ai_reasoning": "Soft tissue sarcoma is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of soft tissue sarcoma in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "OSTES",
+    "ai_reasoning": "Osteosarcoma is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of osteosarcoma in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "GISTT",
+    "ai_reasoning": "Gastrointestinal stromal tumor is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of gastrointestinal stromal tumor in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "DESMO",
+    "ai_reasoning": "Desmoid tumor is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of desmoid tumor in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "MELAN",
+    "ai_reasoning": "Melanoma is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of melanoma in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "CUTNM",
+    "ai_reasoning": "Cutaneous non-melanoma is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of cutaneous non-melanoma in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "ANALC",
+    "ai_reasoning": "Anal cancer is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of anal cancer in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "ESOPC",
+    "ai_reasoning": "The trial includes patients with distal esophagus (distal third) adenocarcinoma, which falls under esophageal cancer. However, only adenocarcinoma histology is eligible, not squamous cell carcinoma or other histologies. There is no more specific code for esophageal adenocarcinoma, so ESOPC is scored high.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic gastric, GEJ, or distal esophagus (distal third of the esophagus) adenocarcinoma\"; \"Positive CLDN18.2 expression, as determined prospectively by central IHC testing\"; \"Known HER2-positive status\" is an exclusion.",
+    "ai_condition_probability_score": 0.9
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "SALGT",
+    "ai_reasoning": "Salivary gland tumors are not mentioned and are not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of salivary gland tumors in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "NEUTU",
+    "ai_reasoning": "Neuroendocrine tumors are not mentioned and are not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of neuroendocrine tumors in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "LEUKE",
+    "ai_reasoning": "Leukemia is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of leukemia in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "LYMPH",
+    "ai_reasoning": "Lymphoma is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of lymphoma in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "MYELO",
+    "ai_reasoning": "Multiple myeloma is not mentioned and is not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of multiple myeloma in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "OTHHT",
+    "ai_reasoning": "Other hematological tumors are not mentioned and are not related to the anatomical sites specified.",
+    "ai_evidence_mapping": "No mention of other hematological tumors in inclusion or exclusion criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "OTHSO",
+    "ai_reasoning": "Other solid tumors are not included; only gastric, GEJ, and distal esophagus adenocarcinoma are eligible.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic gastric, GEJ, or distal esophagus (distal third of the esophagus) adenocarcinoma\"; no mention of other solid tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "NTUMD",
+    "ai_reasoning": "This is a cancer trial, not a non-tumor or prevention study.",
+    "ai_evidence_mapping": "All eligibility criteria pertain to advanced/metastatic cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT07431281",
+    "condition_code": "ANYCA",
+    "ai_reasoning": "This is not a pan-cancer or basket trial; only specific cancer types (gastric, GEJ, distal esophagus adenocarcinoma) are eligible.",
+    "ai_evidence_mapping": "\"Previously untreated histologically documented unresectable, locally advanced, or metastatic gastric, GEJ, or distal esophagus (distal third of the esophagus) adenocarcinoma\"; no mention of multiple unrelated cancer types.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "GASTC",
+    "ai_reasoning": "Gastric cancer is not mentioned in the inclusion criteria and is not eligible. The trial is specific to prostate cancer and explicitly excludes patients with other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "RECAL",
+    "ai_reasoning": "Renal cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "SCLCC",
+    "ai_reasoning": "Small cell lung cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "NSCLC",
+    "ai_reasoning": "Non-small cell lung cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "LEGFR",
+    "ai_reasoning": "EGFR-mutated lung cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "THYRC",
+    "ai_reasoning": "Thyroid cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "BREAC",
+    "ai_reasoning": "Breast cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "BTNBC",
+    "ai_reasoning": "Triple-negative breast cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "BRHRP",
+    "ai_reasoning": "Hormone receptor-positive breast cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "BHER2",
+    "ai_reasoning": "HER2-positive breast cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "PROSC",
+    "ai_reasoning": "Prostate cancer is the only cancer type included, as specified in the inclusion criteria. No molecular or histological subtypes are specified, so all prostate cancer patients eligible for robotic prostatectomy are included.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy.'",
+    "ai_condition_probability_score": 0.98
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "BRATU",
+    "ai_reasoning": "Brain tumors are not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "COLRC",
+    "ai_reasoning": "Colorectal cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "PANCR",
+    "ai_reasoning": "Pancreatic cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "HEANC",
+    "ai_reasoning": "Head and neck cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "OVARC",
+    "ai_reasoning": "Ovarian cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "ENDOC",
+    "ai_reasoning": "Endometrial cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "CERVC",
+    "ai_reasoning": "Cervical cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "HEPCC",
+    "ai_reasoning": "Hepatocellular carcinoma is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "BTCCC",
+    "ai_reasoning": "Biliary tract cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "BLADC",
+    "ai_reasoning": "Bladder cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "GYNCN",
+    "ai_reasoning": "Other gynecological cancers (vulvar, vaginal, fallopian tube, primary peritoneal) are not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "SFTTS",
+    "ai_reasoning": "Soft tissue sarcoma is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "OSTES",
+    "ai_reasoning": "Osteosarcoma is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "GISTT",
+    "ai_reasoning": "Gastrointestinal stromal tumor is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "DESMO",
+    "ai_reasoning": "Desmoid tumor is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "MELAN",
+    "ai_reasoning": "Melanoma is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "CUTNM",
+    "ai_reasoning": "Cutaneous non-melanoma is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "ANALC",
+    "ai_reasoning": "Anal cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "ESOPC",
+    "ai_reasoning": "Esophageal cancer is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "SALGT",
+    "ai_reasoning": "Salivary gland tumors are not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "NEUTU",
+    "ai_reasoning": "Neuroendocrine tumors are not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "LEUKE",
+    "ai_reasoning": "Leukemia is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "LYMPH",
+    "ai_reasoning": "Lymphoma is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "MYELO",
+    "ai_reasoning": "Multiple myeloma is not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "OTHHT",
+    "ai_reasoning": "Other hematological tumors are not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "OTHSO",
+    "ai_reasoning": "Other solid tumors are not included. The trial is exclusive to prostate cancer and excludes other neoplasms.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "NTUMD",
+    "ai_reasoning": "This is not a non-tumor diagnosis or prevention study. The trial is for patients with prostate cancer.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06784986",
+    "condition_code": "ANYCA",
+    "ai_reasoning": "This is not a pan-cancer or basket trial. Only prostate cancer is included, and all other neoplasms are excluded.",
+    "ai_evidence_mapping": "Inclusion: 'Patients with prostate cancer who will undergo robotic prostatectomy'; Exclusion: 'other existing neoplasms.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "GASTC",
+    "ai_reasoning": "No evidence of gastric cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of gastric cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "RECAL",
+    "ai_reasoning": "No evidence of renal cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of renal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "SCLCC",
+    "ai_reasoning": "Small cell lung cancer is not included; only NSCLC is eligible.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of small cell lung cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "NSCLC",
+    "ai_reasoning": "Trial is exclusively for NSCLC (stages IB, II, IIIA), with explicit exclusion of other lung cancer types and other cancers.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC) with clinical staging IB, II, or IIIA.' Exclusion: 'NSCLC clinical stages IA, IIIB N3, IIIC, IVA, and IVB.'",
+    "ai_condition_probability_score": 0.95
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "LEGFR",
+    "ai_reasoning": "EGFR-mutated NSCLC is explicitly excluded; only EGFR wild-type NSCLC is eligible.",
+    "ai_evidence_mapping": "Inclusion: 'Negative for EGFR gene expression.' Exclusion: 'Positive for EGFR gene expression.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "THYRC",
+    "ai_reasoning": "No evidence of thyroid cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of thyroid cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "BREAC",
+    "ai_reasoning": "No evidence of breast cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "BTNBC",
+    "ai_reasoning": "No evidence of triple-negative breast cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of triple-negative breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "BRHRP",
+    "ai_reasoning": "No evidence of hormone receptor-positive breast cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of hormone receptor-positive breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "BHER2",
+    "ai_reasoning": "No evidence of HER2-positive breast cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of HER2-positive breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "PROSC",
+    "ai_reasoning": "No evidence of prostate cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of prostate cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "BRATU",
+    "ai_reasoning": "No evidence of brain tumor inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of brain tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "COLRC",
+    "ai_reasoning": "No evidence of colorectal cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of colorectal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "PANCR",
+    "ai_reasoning": "No evidence of pancreatic cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of pancreatic cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "HEANC",
+    "ai_reasoning": "No evidence of head and neck cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of head and neck cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "OVARC",
+    "ai_reasoning": "No evidence of ovarian cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of ovarian cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "ENDOC",
+    "ai_reasoning": "No evidence of endometrial cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of endometrial cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "CERVC",
+    "ai_reasoning": "No evidence of cervical cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of cervical cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "HEPCC",
+    "ai_reasoning": "No evidence of hepatocellular carcinoma inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of hepatocellular carcinoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "BTCCC",
+    "ai_reasoning": "No evidence of biliary tract cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of biliary tract cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "BLADC",
+    "ai_reasoning": "No evidence of bladder cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of bladder cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "GYNCN",
+    "ai_reasoning": "No evidence of other gynecological cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of vulvar, vaginal, fallopian tube, or primary peritoneal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "SFTTS",
+    "ai_reasoning": "No evidence of soft tissue sarcoma inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of soft tissue sarcoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "OSTES",
+    "ai_reasoning": "No evidence of osteosarcoma inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of osteosarcoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "GISTT",
+    "ai_reasoning": "No evidence of gastrointestinal stromal tumor inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of gastrointestinal stromal tumor.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "DESMO",
+    "ai_reasoning": "No evidence of desmoid tumor inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of desmoid tumor.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "MELAN",
+    "ai_reasoning": "No evidence of melanoma inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: 'Adequately treated non-melanoma skin cancer or lentigo maligna with no evidence of disease' allowed, but active melanoma not included.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "CUTNM",
+    "ai_reasoning": "No evidence of cutaneous non-melanoma inclusion; only adequately treated non-melanoma skin cancer with no evidence of disease is allowed as a prior malignancy.",
+    "ai_evidence_mapping": "Exclusion: 'Adequately treated non-melanoma skin cancer or lentigo maligna with no evidence of disease' allowed as prior malignancy, not as current diagnosis.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "ANALC",
+    "ai_reasoning": "No evidence of anal cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of anal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "ESOPC",
+    "ai_reasoning": "No evidence of esophageal cancer inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of esophageal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "SALGT",
+    "ai_reasoning": "No evidence of salivary gland tumor inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of salivary gland tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "NEUTU",
+    "ai_reasoning": "No evidence of neuroendocrine tumor inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of neuroendocrine tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "LEUKE",
+    "ai_reasoning": "No evidence of leukemia inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of leukemia.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "LYMPH",
+    "ai_reasoning": "No evidence of lymphoma inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of lymphoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "MYELO",
+    "ai_reasoning": "No evidence of multiple myeloma inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of multiple myeloma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "OTHHT",
+    "ai_reasoning": "No evidence of other hematological tumor inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of other hematological tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "OTHSO",
+    "ai_reasoning": "No evidence of other solid tumor inclusion; trial is specific to NSCLC.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of other solid tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "NTUMD",
+    "ai_reasoning": "This is a cancer trial, not a non-tumor diagnosis or prevention study.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of benign or non-cancer conditions.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT06667154",
+    "condition_code": "ANYCA",
+    "ai_reasoning": "This is not a pan-cancer or basket trial; only NSCLC is eligible.",
+    "ai_evidence_mapping": "Inclusion: 'Diagnosed with non-small cell lung cancer (NSCLC)'; Exclusion: No mention of multiple cancer types.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "GASTC",
+    "ai_reasoning": "No mention of gastric cancer in inclusion criteria. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of gastric cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "RECAL",
+    "ai_reasoning": "The trial is focused on patients with a radiological diagnosis of renal tumor, which directly corresponds to renal cancer. Urothelial renal carcinoma is excluded, but all other renal tumors are included.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor susceptible to active treatment or AS/WW.' Exclusion: 'Urothelial renal carcinoma.'",
+    "ai_condition_probability_score": 0.98
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "SCLCC",
+    "ai_reasoning": "No mention of small cell lung cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of lung cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "NSCLC",
+    "ai_reasoning": "No mention of non-small cell lung cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of lung cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "LEGFR",
+    "ai_reasoning": "No mention of EGFR-mutated lung cancer or any biomarker requirement. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of EGFR or lung cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "THYRC",
+    "ai_reasoning": "No mention of thyroid cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of thyroid cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "BREAC",
+    "ai_reasoning": "No mention of breast cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "BTNBC",
+    "ai_reasoning": "No mention of triple-negative breast cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "BRHRP",
+    "ai_reasoning": "No mention of hormone receptor-positive breast cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "BHER2",
+    "ai_reasoning": "No mention of HER2-positive breast cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of breast cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "PROSC",
+    "ai_reasoning": "No mention of prostate cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of prostate cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "BRATU",
+    "ai_reasoning": "No mention of brain tumors. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of brain tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "COLRC",
+    "ai_reasoning": "No mention of colorectal cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of colorectal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "PANCR",
+    "ai_reasoning": "No mention of pancreatic cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of pancreatic cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "HEANC",
+    "ai_reasoning": "No mention of head and neck cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of head and neck cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "OVARC",
+    "ai_reasoning": "No mention of ovarian cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of ovarian cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "ENDOC",
+    "ai_reasoning": "No mention of endometrial cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of endometrial cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "CERVC",
+    "ai_reasoning": "No mention of cervical cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of cervical cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "HEPCC",
+    "ai_reasoning": "No mention of hepatocellular carcinoma. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of hepatocellular carcinoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "BTCCC",
+    "ai_reasoning": "No mention of biliary tract cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of biliary tract cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "BLADC",
+    "ai_reasoning": "Bladder cancer is not mentioned. The trial is specific to renal tumors. Urothelial renal carcinoma is excluded, which is a urothelial cancer of the renal pelvis, not bladder.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: 'Urothelial renal carcinoma.'",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "GYNCN",
+    "ai_reasoning": "No mention of other gynecological cancers. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of gynecological cancers.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "SFTTS",
+    "ai_reasoning": "No mention of soft tissue sarcoma. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of sarcoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "OSTES",
+    "ai_reasoning": "No mention of osteosarcoma. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of osteosarcoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "GISTT",
+    "ai_reasoning": "No mention of gastrointestinal stromal tumor. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of GIST.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "DESMO",
+    "ai_reasoning": "No mention of desmoid tumor. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of desmoid tumor.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "MELAN",
+    "ai_reasoning": "No mention of melanoma. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of melanoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "CUTNM",
+    "ai_reasoning": "No mention of cutaneous non-melanoma. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of cutaneous tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "ANALC",
+    "ai_reasoning": "No mention of anal cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of anal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "ESOPC",
+    "ai_reasoning": "No mention of esophageal cancer. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of esophageal cancer.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "SALGT",
+    "ai_reasoning": "No mention of salivary gland tumors. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of salivary gland tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "NEUTU",
+    "ai_reasoning": "No mention of neuroendocrine tumors. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of neuroendocrine tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "LEUKE",
+    "ai_reasoning": "No mention of leukemia. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of leukemia.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "LYMPH",
+    "ai_reasoning": "No mention of lymphoma. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of lymphoma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "MYELO",
+    "ai_reasoning": "No mention of multiple myeloma. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of myeloma.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "OTHHT",
+    "ai_reasoning": "No mention of other hematological tumors. The trial is specific to renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of hematological tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "OTHSO",
+    "ai_reasoning": "The trial is specific to renal tumors, which are already captured by the RECAL category. No evidence for other solid tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of other solid tumors.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "NTUMD",
+    "ai_reasoning": "This is not a non-tumor or benign condition trial. It is focused on renal tumors.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of non-tumor diagnoses.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05363657",
+    "condition_code": "ANYCA",
+    "ai_reasoning": "This is not a pan-cancer or basket trial. Only renal tumors are included.",
+    "ai_evidence_mapping": "Inclusion: 'Radiological diagnosis of renal tumor...' Exclusion: No mention of multiple cancer types.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "GASTC",
+    "ai_reasoning": "No mention of gastric cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to gastric, stomach, or gastrointestinal cancers in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "RECAL",
+    "ai_reasoning": "No mention of renal cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to renal or kidney cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "SCLCC",
+    "ai_reasoning": "No mention of small cell lung cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to small cell lung cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "NSCLC",
+    "ai_reasoning": "No mention of non-small cell lung cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to non-small cell lung cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "LEGFR",
+    "ai_reasoning": "No mention of EGFR-mutated lung cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to EGFR or lung cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "THYRC",
+    "ai_reasoning": "No mention of thyroid cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to thyroid cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "BREAC",
+    "ai_reasoning": "No mention of breast cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to breast cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "BTNBC",
+    "ai_reasoning": "No mention of triple-negative breast cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to triple-negative breast cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "BRHRP",
+    "ai_reasoning": "No mention of hormone receptor-positive breast cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to hormone receptor-positive breast cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "BHER2",
+    "ai_reasoning": "No mention of HER2-positive breast cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to HER2-positive breast cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "PROSC",
+    "ai_reasoning": "No mention of prostate cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to prostate cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "BRATU",
+    "ai_reasoning": "No mention of brain tumors or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to brain tumors in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "COLRC",
+    "ai_reasoning": "No mention of colorectal cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to colorectal cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "PANCR",
+    "ai_reasoning": "No mention of pancreatic cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to pancreatic cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "HEANC",
+    "ai_reasoning": "No mention of head and neck cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to head and neck cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "OVARC",
+    "ai_reasoning": "No mention of ovarian cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to ovarian cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "ENDOC",
+    "ai_reasoning": "No mention of endometrial cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to endometrial cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "CERVC",
+    "ai_reasoning": "No mention of cervical cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to cervical cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "HEPCC",
+    "ai_reasoning": "No mention of hepatocellular carcinoma or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to hepatocellular carcinoma in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "BTCCC",
+    "ai_reasoning": "No mention of biliary tract cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to biliary tract cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "BLADC",
+    "ai_reasoning": "No mention of bladder cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to bladder cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "GYNCN",
+    "ai_reasoning": "No mention of other gynecological cancers (vulvar, vaginal, fallopian tube, primary peritoneal) in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to gynecological cancers in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "SFTTS",
+    "ai_reasoning": "No mention of soft tissue sarcoma or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to soft tissue sarcoma in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "OSTES",
+    "ai_reasoning": "No mention of osteosarcoma or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to osteosarcoma in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "GISTT",
+    "ai_reasoning": "No mention of gastrointestinal stromal tumor or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to gastrointestinal stromal tumor in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "DESMO",
+    "ai_reasoning": "No mention of desmoid tumor or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to desmoid tumor in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "MELAN",
+    "ai_reasoning": "No mention of melanoma or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to melanoma in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "CUTNM",
+    "ai_reasoning": "No mention of cutaneous non-melanoma or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to cutaneous non-melanoma in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "ANALC",
+    "ai_reasoning": "No mention of anal cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to anal cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "ESOPC",
+    "ai_reasoning": "No mention of esophageal cancer or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to esophageal cancer in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "SALGT",
+    "ai_reasoning": "No mention of salivary gland tumors or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to salivary gland tumors in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "NEUTU",
+    "ai_reasoning": "No mention of neuroendocrine tumors or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to neuroendocrine tumors in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "LEUKE",
+    "ai_reasoning": "The trial includes patients with relapsed/refractory B-cell acute lymphoblastic leukemia (ALL), which is a leukemia subtype. This is explicitly stated in the inclusion criteria for both pediatric and young adult cohorts.",
+    "ai_evidence_mapping": "Inclusion criteria: 'Patients of any gender aged 0-17 years (named as pediatric) with relapsed/ refractory B-cell ALL diagnosis that received tisagenlecleucel infusion' and 'Patients of any gender, aged 18-25 years (named as adults) - with relapsed/ refractory B-cell ALL diagnosis that received tisagenlecleucel infusion.'",
+    "ai_condition_probability_score": 0.98
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "LYMPH",
+    "ai_reasoning": "The trial includes patients with relapsed/refractory Diffuse Large B-cell Lymphoma (DLBCL) and Follicular Lymphoma (FL), both of which are lymphomas. This is explicitly stated in the inclusion criteria for adult patients.",
+    "ai_evidence_mapping": "Inclusion criteria: 'Patients of any gender aged 18 years or older, who have been diagnosed with relapsed/ refractory Diffuse Large B-cell Lymphoma and received tisagenlecleucel infusion.' The trial title also references 'B-lymphocyte malignancies.'",
+    "ai_condition_probability_score": 0.98
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "MYELO",
+    "ai_reasoning": "No mention of multiple myeloma or related terminology in inclusion criteria. The trial is specific to B-cell ALL, DLBCL, and FL.",
+    "ai_evidence_mapping": "No reference to multiple myeloma in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "OTHHT",
+    "ai_reasoning": "No mention of other hematological tumors (besides B-cell ALL, DLBCL, and FL) in inclusion criteria. The trial is specific to these three B-lymphocyte malignancies.",
+    "ai_evidence_mapping": "No reference to other hematological tumors in eligibility criteria.",
+    "ai_condition_probability_score": 0.05
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "OTHSO",
+    "ai_reasoning": "No mention of other solid tumors or related terminology in inclusion criteria. The trial is specific to hematological malignancies (B-cell ALL, DLBCL, FL).",
+    "ai_evidence_mapping": "No reference to solid tumors in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "NTUMD",
+    "ai_reasoning": "This is not a non-tumor or benign condition trial. All included conditions are malignant hematological cancers.",
+    "ai_evidence_mapping": "No reference to benign or non-cancer conditions in eligibility criteria.",
+    "ai_condition_probability_score": 0.01
+  },
+  {
+    "study_nct_id": "NCT05541341",
+    "condition_code": "ANYCA",
+    "ai_reasoning": "This is not a pan-cancer or basket trial. Only specific B-cell hematological malignancies (B-cell ALL, DLBCL, FL) are included.",
+    "ai_evidence_mapping": "Eligibility criteria specify only B-cell ALL, DLBCL, and FL. No mention of multiple unrelated cancer types or 'any cancer.'",
+    "ai_condition_probability_score": 0.01
+  }
+]
