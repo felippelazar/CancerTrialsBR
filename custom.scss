@@ -11,28 +11,6 @@ $navbar-bg: $blue;
   height: 50px;
 }
 
-// Bandeiras no canto superior direito (assets/flags, flag-icons, MIT).
-// O texto continua no HTML para leitores de tela, mas fica escondido na tela.
-.navbar-nav.ms-auto > .nav-item:nth-child(1) .menu-text,
-.navbar-nav.ms-auto > .nav-item:nth-child(2) .menu-text {
-  display: inline-block;
-  width: 24px;
-  height: 18px;
-  overflow: hidden;
-  text-indent: -9999px;
-  background-size: cover;
-  border-radius: 2px;
-  vertical-align: middle;
-}
-
-.navbar-nav.ms-auto > .nav-item:nth-child(1) .menu-text {
-  background-image: url("assets/flags/br.svg");
-}
-
-.navbar-nav.ms-auto > .nav-item:nth-child(2) .menu-text {
-  background-image: url("assets/flags/us.svg");
-}
-
 .navbar-brand-container {
   max-width: 100%;
 }

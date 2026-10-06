@@ -27,9 +27,9 @@ website:
     search: false
     right:
       - href: index.Rmd
-        text: "Português"
+        text: "PT"
       - href: eng/index.qmd
-        text: "English"
+        text: "EN"
       - icon: github
         href: "https://github.com/felippelazar/CancerTrialsBR"
   page-navigation: true
