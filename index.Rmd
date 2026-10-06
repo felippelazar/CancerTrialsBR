@@ -1,6 +1,8 @@
 ---
 title: "CancerTrialsBR"
 subtitle: "Plataforma Colaborativa de Estudos Clínicos em Oncologia"
+aliases:
+  - por/index.html
 ---
 
 🏠 Bem-vindo a página do projeto **CancerTrialsBR** - Plataforma Colaborativa de Estudos Clinicos em Oncologia.
@@ -14,7 +16,7 @@ Caso tenha interesse em acessar diretamente o repositório do projeto (onde est�
 Este projeto têm como objetivo facilitar a busca de estudos clínicos disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
 
 - **Colaborativa**: Pesquisadores ou médicos dos centros participantes podem sugerir alterações de status de recrutamento dos estudos que são automaticamente atualizados no banco de dados.
-- **Transparente**: O código utilizado para gerar o banco de dados e dados de exemplo estão disponíveis no repositório, e os dados atualizados podem ser consultados nos [dashboards](dados.qmd).
+- **Transparente**: O código utilizado para gerar o banco de dados e dados de exemplo estão disponíveis no repositório, e os dados atualizados podem ser consultados nos [dashboards](por/dados.qmd).
 - **Independente**: O projeto não apresenta vínculo formal com nenhuma instituição e não prioriza centros ou estudos na disponibilização dos dados.
 
 ## Como Funciona {#como-funciona}
@@ -26,7 +28,7 @@ Este projeto têm como objetivo facilitar a busca de estudos clínicos disponív
 5. Novos centros ou alterações de status de recrutamento são **atualizados diariamente conforme sugestão dos usuários**.
 6. Um banco de dados formatado é então disponibilizado na aplicação web e nos dashboards para uso de pesquisadores e médicos no Brasil.
 
-Para um passo a passo de cada etapa, acesse o [Tutorial](tutorial/index.qmd).
+Para um passo a passo de cada etapa, acesse o [Tutorial](por/tutorial/index.qmd).
 
 ## Como Ajudar {#como-ajudar}
 
@@ -45,7 +47,7 @@ As duas principais formas de ajudar são:
 | `R/01_…` a `R/10_…` | Scripts do *pipeline*, executados em ordem |
 | `R/data/` | Dados de exemplo gerados por cada etapa (`out_XX_*.json`), a partir de 5 estudos |
 | `R/.Renviron` | Suas chaves de API (nunca enviado ao repositório) |
-| `index.qmd`, `por/`, `eng/`, `custom.scss` | Código deste site em Quarto |
+| `index.Rmd`, `por/`, `eng/`, `custom.scss` | Código deste site em Quarto |
 
 ## Tecnologias Utilizadas
 

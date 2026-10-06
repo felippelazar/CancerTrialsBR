@@ -96,7 +96,7 @@ O repositório é organizado da seguinte maneira:
 - Na pasta `R/data` estão os dados de exemplo gerados por cada etapa
   (`out_XX_*.json`) a partir de 5 estudos.
 
-- O arquivo `index.qmd`, as pastas `por` e `eng` e o `custom.scss`
+- O arquivo `index.Rmd`, as pastas `por` e `eng` e o `custom.scss`
   são o código do site em **Quarto**, gerado na pasta `docs`.
 
 Para acessar o repositório, [clique

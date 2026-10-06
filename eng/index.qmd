@@ -45,7 +45,7 @@ The two main ways to help are:
 | `R/01_…` to `R/10_…` | Pipeline scripts, run in order |
 | `R/data/` | Sample data produced by each step (`out_XX_*.json`), from 5 trials |
 | `R/.Renviron` | Your API keys (never sent to the repository) |
-| `index.qmd`, `por/`, `eng/`, `custom.scss` | This Quarto website's code |
+| `index.Rmd`, `por/`, `eng/`, `custom.scss` | This Quarto website's code |
 
 ## Technologies Used
 

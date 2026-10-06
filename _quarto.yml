@@ -4,8 +4,7 @@ project:
   resources:
     - assets/logo_header.svg
   render:
-    - index.qmd
-    - por/index.Rmd
+    - index.Rmd
     - por/*.qmd
     - por/tutorial/*.qmd
     - eng/*.qmd
@@ -27,10 +26,10 @@ website:
     title: false
     search: false
     right:
-      - href: por/index.Rmd
-        text: "🇧🇷 Português"
+      - href: index.Rmd
+        text: "Português"
       - href: eng/index.qmd
-        text: "🇺🇸 English"
+        text: "English"
       - icon: github
         href: "https://github.com/felippelazar/CancerTrialsBR"
   page-navigation: true
@@ -38,7 +37,7 @@ website:
     - id: por
       style: docked
       contents:
-        - href: por/index.Rmd
+        - href: index.Rmd
           text: Início
         - section: "Tutorial"
           contents:
