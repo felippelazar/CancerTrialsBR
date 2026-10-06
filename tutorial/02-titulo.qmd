@@ -1,0 +1,98 @@
+---
+title: "2. Título em uma frase"
+---
+
+```{r}
+source("_setup.R")
+df <- out("out_02_studies")
+```
+
+::: {.panel-tabset group="lang"}
+### Português
+Os títulos oficiais dos estudos costumam ser longos e técnicos. O [`02_ai_sentence_title.R`](`r gh("02_ai_sentence_title.R")`){target="_blank"} pede ao LLM que reescreva cada título em uma única frase, em português e em inglês. É essa frase que aparece como título na aplicação.
+
+### English
+Official trial titles are usually long and technical. [`02_ai_sentence_title.R`](`r gh("02_ai_sentence_title.R")`){target="_blank"} asks the LLM to rewrite each title as a single sentence, in Portuguese and English. This sentence is what shows up as the title in the app.
+:::
+
+## O *prompt*
+
+::: {.panel-tabset group="lang"}
+### Português
+O *prompt* pede uma frase de até 200 caracteres, com o acrônimo do estudo no começo (quando existir), os nomes dos medicamentos e o tipo de câncer. Ele também mostra um exemplo e o formato exato do JSON esperado, com as chaves dobradas por causa do `glue()`. No fim, `{var_1}` recebe o título e `{var_2}` o resumo do estudo.
+
+### English
+The prompt asks for a sentence of up to 200 characters, with the trial's acronym at the start (when there is one), the drug names and the cancer type. It also shows an example and the exact JSON format expected, with doubled braces because of `glue()`. At the end, `{var_1}` receives the title and `{var_2}` the trial's summary.
+:::
+
+```r
+studySentencePrompt <- 'You will receive a studys title and description, and your task is to re-write the official title as a very concise, flowing sentence describing the study. The single sentence title must:
+
+- Resembles a title and do not begin with "This study".
+- Be written in both English and Portuguese.
+- Contain 1 sentence of 200 characters maximum and cover the essence of the study methodology and targeted-population so the reader can understand the study at a glance.
+- Include names of intervetions drugs and cancer conditions if applicable.
+- If an acronym name of the study is present, include it in the beggining of the sentence. If not available, skip the acronym.
+- Return the result in JSON format with two variables: "study_ai_sentence_english" and "study_ai_sentence_portuguese".
+
+# ... (exemplos)
+
+{{
+"study_ai_sentence_english" : "string"
+"study_ai_sentence_portuguese" : "string"
+}}
+
+The study title is: {var_1}
+The study description is: {var_2}'
+```
+
+## Aplicando a cada estudo
+
+::: {.panel-tabset group="lang"}
+### Português
+O script lê o resultado da etapa 1 e passa cada estudo pela `chatLLM()`. O título enviado é o acrônimo seguido do título oficial; quando o estudo não tem acrônimo, vai só o título.
+
+### English
+The script reads the result of step 1 and passes each trial through `chatLLM()`. The title sent is the acronym followed by the official title; when the trial has no acronym, only the title is sent.
+:::
+
+```r
+df_studies <- fromJSON('data/out_01_studies.json')
+
+df_studies %>%
+      split(1:nrow(.)) %>%
+      pblapply(function(x) chatLLM(x, intruction_prompt = studySentencePrompt,
+                                   var_1 = trimws(paste(ifelse(is.na(x[['study_acronym']]), '', x[['study_acronym']]), x[['study_official_title']])),
+                                   var_2 = x[['study_brief_summary']])) %>%
+      do.call(dplyr::bind_rows, .) %>%
+      toJSON(pretty = TRUE) %>%
+      write(file = 'data/out_02_studies.json')
+```
+
+## Resultado
+
+::: {.panel-tabset group="lang"}
+### Português
+Compare o título original com a frase gerada:
+
+```{r}
+df %>%
+  transmute(study_nct_id,
+            study_official_title = clip(study_official_title, 140),
+            study_ai_sentence_portuguese) %>%
+  head(5) %>%
+  kable()
+```
+
+### English
+Compare the original title with the generated sentence:
+
+```{r}
+df %>%
+  transmute(study_nct_id,
+            study_official_title = clip(study_official_title, 140),
+            study_ai_sentence_english) %>%
+  head(5) %>%
+  kable()
+```
+:::

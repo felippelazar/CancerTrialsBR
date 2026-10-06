@@ -1,0 +1,72 @@
+---
+title: "10. Banco de dados final"
+---
+
+```{r}
+source("_setup.R")
+db <- out("out_10_database")
+```
+
+::: {.panel-tabset group="lang"}
+### Português
+Chegamos ao fim. O [`10_enriched_database.R`](`r gh("10_enriched_database.R")`){target="_blank"} junta os dois caminhos do *pipeline*: os estudos enriquecidos pelo LLM (etapas 2 a 7) e os centros localizados (etapas 8 e 9).
+
+### English
+We've reached the end. [`10_enriched_database.R`](`r gh("10_enriched_database.R")`){target="_blank"} brings together the two paths of the pipeline: the trials enriched by the LLM (steps 2 to 7) and the located sites (steps 8 and 9).
+:::
+
+## Juntando estudos e centros
+
+::: {.panel-tabset group="lang"}
+### Português
+O script lê as duas tabelas e faz um `left_join()` pelo NCT. Como cada estudo tem vários centros, a relação é de um para muitos: a tabela final tem uma linha por estudo e centro. Dos centros, só as colunas úteis são mantidas: identificador, nome, status de recrutamento, endereço, coordenadas e o resultado da validação.
+
+### English
+The script reads both tables and does a `left_join()` on the NCT ID. Since each trial has several sites, the relationship is one-to-many: the final table has one row per trial and site. From the sites, only the useful columns are kept: ID, name, recruitment status, address, coordinates and the validation result.
+:::
+
+```r
+df_studies <- fromJSON('data/out_07_studies.json')
+df_locations <- fromJSON('data/out_09_locations.json')
+
+df_database <- df_studies %>%
+      dplyr::left_join(df_locations %>%
+                             dplyr::select(study_nct_id, location_id, search_address, study_locations.status,
+                                           location_name, candidates.formatted_address,
+                                           candidates.geometry.location.lat, candidates.geometry.location.lng,
+                                           address_compatibility, manual_check),
+                       by = 'study_nct_id', relationship = 'one-to-many') %>%
+      dplyr::relocate(location_id, location_name, .after = study_nct_id)
+
+write(toJSON(df_database, pretty = TRUE), file = 'data/out_10_database.json')
+```
+
+## Resultado
+
+::: {.panel-tabset group="lang"}
+### Português
+O `out_10_database.json` tem `r nrow(db)` linhas e `r ncol(db)` colunas no exemplo. É esse arquivo que alimenta a aplicação e os dashboards. Algumas colunas:
+
+```{r}
+show(db, c("study_nct_id", "location_name", "ai_conditions", "ai_subconditions", "study_locations.status"), n = 6, width = 60)
+```
+
+Para abrir no R:
+
+```r
+db <- jsonlite::fromJSON("data/out_10_database.json")
+```
+
+### English
+`out_10_database.json` has `r nrow(db)` rows and `r ncol(db)` columns in the sample. This file is what feeds the app and the dashboards. Some of the columns:
+
+```{r}
+show(db, c("study_nct_id", "location_name", "ai_conditions", "ai_subconditions", "study_locations.status"), n = 6, width = 60)
+```
+
+To open it in R:
+
+```r
+db <- jsonlite::fromJSON("data/out_10_database.json")
+```
+:::

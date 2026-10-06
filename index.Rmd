@@ -26,7 +26,7 @@ Este projeto têm como objetivo facilitar a busca de estudos clínicos disponív
 5. Novos centros ou alterações de status de recrutamento são **atualizados diariamente conforme sugestão dos usuários**.
 6. Um banco de dados formatado é então disponibilizado na aplicação web e nos dashboards para uso de pesquisadores e médicos no Brasil.
 
-Para um passo a passo de cada etapa, acesse o [Tutorial](tutorial.qmd).
+Para um passo a passo de cada etapa, acesse o [Tutorial](tutorial/index.qmd).
 
 ## Como Ajudar {#como-ajudar}
 

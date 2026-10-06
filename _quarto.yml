@@ -5,7 +5,7 @@ project:
     - assets/logo_header.svg
   render:
     - index.Rmd
-    - tutorial.qmd
+    - tutorial/*.qmd
     - data.qmd
 
 execute:
@@ -26,13 +26,30 @@ website:
     left:
       - href: index.Rmd
         text: Início
-      - href: tutorial.qmd
+      - href: tutorial/index.qmd
         text: Tutorial
       - href: data.qmd
         text: Dados
     right:
       - icon: github
         href: "https://github.com/felippelazar/CancerTrialsBR"
+  page-navigation: true
+  sidebar:
+    - title: "Tutorial"
+      style: docked
+      contents:
+        - tutorial/index.qmd
+        - tutorial/00-funcoes.qmd
+        - tutorial/01-download.qmd
+        - tutorial/02-titulo.qmd
+        - tutorial/03-resumo.qmd
+        - tutorial/04-paciente-ideal.qmd
+        - tutorial/05-patrocinador.qmd
+        - tutorial/06-tipos-de-cancer.qmd
+        - tutorial/07-subcondicoes.qmd
+        - tutorial/08-identificador.qmd
+        - tutorial/09-google-maps.qmd
+        - tutorial/10-banco-de-dados.qmd
 
 format:
   html:
