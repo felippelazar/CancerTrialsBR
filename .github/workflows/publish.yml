@@ -4,9 +4,10 @@ on:
   push:
     branches: main
     paths:
-      - "index.Rmd"
-      - "*.qmd"
-      - "tutorial/**"
+      - "index.qmd"
+      - "por/**"
+      - "eng/**"
+      - "_setup.R"
       - "custom.scss"
       - "assets/**"
       - "script.html"

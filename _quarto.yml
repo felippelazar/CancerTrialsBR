@@ -4,9 +4,12 @@ project:
   resources:
     - assets/logo_header.svg
   render:
-    - index.Rmd
-    - tutorial/*.qmd
-    - data.qmd
+    - index.qmd
+    - por/index.Rmd
+    - por/*.qmd
+    - por/tutorial/*.qmd
+    - eng/*.qmd
+    - eng/tutorial/*.qmd
 
 execute:
   freeze: auto
@@ -23,33 +26,55 @@ website:
     logo: "assets/logo_header.svg"
     title: false
     search: false
-    left:
-      - href: index.Rmd
-        text: Início
-      - href: tutorial/index.qmd
-        text: Tutorial
-      - href: data.qmd
-        text: Dados
     right:
+      - href: por/index.Rmd
+        text: "🇧🇷 Português"
+      - href: eng/index.qmd
+        text: "🇺🇸 English"
       - icon: github
         href: "https://github.com/felippelazar/CancerTrialsBR"
   page-navigation: true
   sidebar:
-    - title: "Tutorial"
+    - id: por
       style: docked
       contents:
-        - tutorial/index.qmd
-        - tutorial/00-funcoes.qmd
-        - tutorial/01-download.qmd
-        - tutorial/02-titulo.qmd
-        - tutorial/03-resumo.qmd
-        - tutorial/04-paciente-ideal.qmd
-        - tutorial/05-patrocinador.qmd
-        - tutorial/06-tipos-de-cancer.qmd
-        - tutorial/07-subcondicoes.qmd
-        - tutorial/08-identificador.qmd
-        - tutorial/09-google-maps.qmd
-        - tutorial/10-banco-de-dados.qmd
+        - href: por/index.Rmd
+          text: Início
+        - section: "Tutorial"
+          contents:
+            - por/tutorial/index.qmd
+            - por/tutorial/00-funcoes.qmd
+            - por/tutorial/01-download.qmd
+            - por/tutorial/02-titulo.qmd
+            - por/tutorial/03-resumo.qmd
+            - por/tutorial/04-paciente-ideal.qmd
+            - por/tutorial/05-patrocinador.qmd
+            - por/tutorial/06-tipos-de-cancer.qmd
+            - por/tutorial/07-subcondicoes.qmd
+            - por/tutorial/08-identificador.qmd
+            - por/tutorial/09-google-maps.qmd
+            - por/tutorial/10-banco-de-dados.qmd
+        - por/dados.qmd
+    - id: eng
+      style: docked
+      contents:
+        - href: eng/index.qmd
+          text: Home
+        - section: "Tutorial"
+          contents:
+            - eng/tutorial/index.qmd
+            - eng/tutorial/00-helpers.qmd
+            - eng/tutorial/01-download.qmd
+            - eng/tutorial/02-title.qmd
+            - eng/tutorial/03-summary.qmd
+            - eng/tutorial/04-ideal-patient.qmd
+            - eng/tutorial/05-sponsor.qmd
+            - eng/tutorial/06-cancer-types.qmd
+            - eng/tutorial/07-setting-biomarkers.qmd
+            - eng/tutorial/08-location-id.qmd
+            - eng/tutorial/09-google-maps.qmd
+            - eng/tutorial/10-final-database.qmd
+        - eng/data.qmd
 
 format:
   html:

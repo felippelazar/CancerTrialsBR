@@ -1,0 +1,72 @@
+---
+title: "CancerTrialsBR"
+subtitle: "Collaborative Platform of Oncology Clinical Trials"
+---
+
+🏠 Welcome to the **CancerTrialsBR** project page - Collaborative Platform of Oncology Clinical Trials.
+
+On this page you will find information about the project, the R scripts used to build the database, sample data, how to help, and more. To open the web app: <https://www.cancertrialsbr.com.br>{target="_blank"}.
+
+If you'd like to go straight to the project repository (where the files are), [click here](https://github.com/felippelazar/CancerTrialsBR){target="_blank"}.
+
+## About the Project {#about-the-project}
+
+This project aims to make it easier to find oncology clinical trials available in Brazil. The idea is for this platform to be:
+
+- **Collaborative**: Researchers or physicians at participating sites can suggest recruitment status changes, which are automatically updated in the database.
+- **Transparent**: The code used to build the database and sample data are available in the repository, and the updated data can be viewed on the [dashboards](data.qmd).
+- **Independent**: The project has no formal ties to any institution and does not prioritize sites or trials when making the data available.
+
+## How It Works {#how-it-works}
+
+1. The data are downloaded daily from *clinicaltrials.gov* (via API), filtering for trials with **active recruitment** and sites in **Brazil**.
+2. The data are pre-processed with **large language models** to write the texts in Portuguese with optimized prompts.
+3. The sites are **located on Google** and returned with their most precise location. The location found is checked against the described site, again using LLMs.
+4. Data with mismatches or doubts are **reviewed manually**.
+5. New sites or recruitment status changes are **updated daily based on user suggestions**.
+6. A formatted database is then made available in the web app and dashboards for researchers and physicians in Brazil.
+
+For a step-by-step guide to each stage, see the [Tutorial](tutorial/index.qmd).
+
+## How to Help {#how-to-help}
+
+The **quality of this database** depends on your help! 🙌 Many recruitment statuses and site identifications are outdated on *clinicaltrials.gov*, and keeping this information up to date is key to the quality of the data.
+
+The two main ways to help are:
+
+1. **Identifying Sites**: Many sites are hard to identify from the information available. For these sites, we provide an icon to suggest an identification. If you recognize a participating site from its description, click **identificar centro** (identify site) in the app.
+2. **Updating Recruitment Status**: If you find a research site with outdated recruitment, click **reportar erro** (report error) next to the site and suggest a new recruitment status for it.
+
+## Repository Structure {#repository-structure}
+
+| Path | Contents |
+|---|---|
+| `R/00_functions.R` | Packages and the `chatLLM()` function, used by every script |
+| `R/01_…` to `R/10_…` | Pipeline scripts, run in order |
+| `R/data/` | Sample data produced by each step (`out_XX_*.json`), from 5 trials |
+| `R/.Renviron` | Your API keys (never sent to the repository) |
+| `index.qmd`, `por/`, `eng/`, `custom.scss` | This Quarto website's code |
+
+## Technologies Used
+
+- The website, all the data update code and the web app were written in **R**, using **Quarto** and **RShiny**.
+- The pipeline scripts are publicly available in the repository's `R` folder.
+
+## Citation
+
+The data in this project are based on *clinicaltrials.gov* data and were processed and made available by this repository after modification and review, following the *clinicaltrials.gov* terms of use, which can be found [here](https://clinicaltrials.gov/about-site/terms-conditions){target="_blank"}.
+
+Before using the data, read the *clinicaltrials.gov* terms of use and make sure you agree with them.
+
+To cite the repository, use the following citation:
+
+```bibtex
+@misc{cancertrialsBR,
+  author       = {CancerTrialsBR},
+  title        = {Plataforma Colaborativa de Estudos Clínicos em Oncologia Baseado no ClinicalTrials.gov},
+  howpublished = {\url{https://github.com/felippelazar/CancerTrialsBR}},
+  year         = {2024}
+}
+```
+
+**NOTE**: This citation can be easily imported into reference managers (such as Zotero, Mendeley or EndNote). Copy the code above, save it in a text file ending in `.bib` and **import** it directly into the program you use.

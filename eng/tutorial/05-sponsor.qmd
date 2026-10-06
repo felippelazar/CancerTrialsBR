@@ -1,0 +1,62 @@
+---
+title: "5. Sponsor type"
+---
+
+```{r}
+source("../../_setup.R")
+df <- out("out_05_studies")
+```
+
+ClinicalTrials.gov already reports a sponsor category (`INDUSTRY`, `OTHER`, `NIH`...), but it isn't very useful: hospitals, universities and cooperative groups all fall under `OTHER`. [`05_ai_sponsor_type.R`](`r gh("05_ai_sponsor_type.R")`){target="_blank"} reclassifies the sponsor into four types.
+
+## The prompt
+
+The prompt defines the four categories with examples and gives naming hints: terms like "Inc.", "Pharmaceuticals" or "GmbH" point to industry; "Group" or "Network", to a cooperative group; hospital and university names, to a research facility. The model must always pick a category, even when unsure, and also return the standardized Portuguese translation.
+
+```r
+newSponsorClassificationPrompt <- '# Clinical Trial Sponsor Type Classification
+
+## Sponsor Type Categories
+
+- **Cooperative Group**: Multi-institutional research networks/consortia (e.g., NRG Oncology, SWOG, EORTC).
+- **Government**: National or governmental health/research bodies (e.g., National Cancer Institute, NIH).
+- **Pharmaceutical Industry/Biotech**: For-profit pharmaceutical, biotechnology, or medical device companies.
+- **Research Facility**: Individual academic medical centers, universities, hospitals, or cancer centers.
+
+# ... (classification and translation rules)
+
+{{
+  "study_ai_lead_sponsor_type": "Cooperative Group | Government | Pharmaceutical Industry/Biotech | Research Facility",
+  "study_ai_lead_sponsor_type_portuguese": "Grupo Cooperativo | Governo | Indústria Farmacêutica/Biotecnologia | Instituição de Pesquisa/Hospital"
+}}
+
+**NCT ID**: {var_1}
+**Trial Title**: {var_2}
+**Lead Sponsor Name**: {var_3}'
+```
+
+## Applying it to each trial
+
+This is the only step that uses all three variables: the NCT ID, the title and the sponsor's name. The title helps when the sponsor's name is ambiguous.
+
+```r
+df_studies <- fromJSON('data/out_04_studies.json')
+
+df_studies %>%
+      split(1:nrow(.)) %>%
+      pblapply(function(x) chatLLM(x, intruction_prompt = newSponsorClassificationPrompt,
+                                   var_1 = x[['study_nct_id']],
+                                   var_2 = x[['study_brief_title']],
+                                   var_3 = x[['study_lead_sponsor_name']])) %>%
+      do.call(dplyr::bind_rows, .) %>%
+      toJSON(pretty = TRUE) %>%
+      write(file = 'data/out_05_studies.json')
+```
+
+## Result
+
+Notice how sponsors that ClinicalTrials.gov marks as `OTHER` now get a clear category:
+
+```{r}
+show(df, c("study_lead_sponsor_name", "study_lead_sponsor_type", "study_ai_lead_sponsor_type"), n = 5)
+```

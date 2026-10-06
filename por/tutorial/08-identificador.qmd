@@ -1,0 +1,43 @@
+---
+title: "8. Identificando os centros"
+---
+
+```{r}
+source("../../_setup.R")
+df <- out("out_08_locations")
+```
+
+A partir daqui, o foco sai dos estudos e vai para os centros. O [`08_location_id.R`](`r gh("08_location_id.R")`){target="_blank"} prepara cada centro para ser procurado no Google Maps na próxima etapa. Não usa LLM nem API.
+
+## Montando o endereço de busca
+
+Primeiro, o script junta nome, cidade, estado, CEP e país em um único texto, o `search_address`. Como muitos centros não têm todos esses campos, os `NA` são removidos e as vírgulas e espaços repetidos são limpos.
+
+```r
+df_locations <- fromJSON('data/out_01_locations.json')
+
+df_locations <- df_locations %>%
+      dplyr::mutate(search_address = glue('{study_locations.facility}, {study_locations.city}, {study_locations.state}, {study_locations.zip}, {study_locations.country}')) %>%
+      dplyr::mutate(search_address = gsub(' NA$', '', search_address)) %>%
+      dplyr::mutate(search_address = gsub('NA[, ]', '', search_address)) %>%
+      dplyr::mutate(search_address = trimws(gsub('[,] +', ', ', search_address))) %>%
+```
+
+## Criando o identificador
+
+Depois, o endereço vira um identificador: tudo em maiúsculas, sem acentos e sem espaços ou pontuação. Um mesmo centro que aparece em vários estudos fica com o mesmo `location_id`, então é procurado no Google uma vez só, o que economiza chamadas pagas da API.
+
+```r
+      dplyr::mutate(location_id = toupper(gsub('\\W', '', stringi::stri_trans_general(search_address, 'Latin-ASCII')))) %>%
+      dplyr::relocate(location_id, .after = study_nct_id)
+
+write(toJSON(df_locations, pretty = TRUE), file = 'data/out_08_locations.json')
+```
+
+## Resultado
+
+No exemplo, com só 5 estudos, cada um dos `r nrow(df)` centros tem um identificador diferente. Com todos os estudos, a repetição é grande, porque os centros maiores participam de muitos estudos ao mesmo tempo.
+
+```{r}
+show(df, c("search_address", "location_id"), n = 6)
+```

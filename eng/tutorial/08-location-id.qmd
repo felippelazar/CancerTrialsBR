@@ -1,0 +1,43 @@
+---
+title: "8. Identifying the sites"
+---
+
+```{r}
+source("../../_setup.R")
+df <- out("out_08_locations")
+```
+
+From here on, the focus moves from trials to sites. [`08_location_id.R`](`r gh("08_location_id.R")`){target="_blank"} prepares each site to be searched on Google Maps in the next step. It uses no LLM or API.
+
+## Building the search address
+
+First, the script joins name, city, state, ZIP code and country into a single text, `search_address`. Since many sites lack some of these fields, the `NA` values are removed and repeated commas and spaces are cleaned up.
+
+```r
+df_locations <- fromJSON('data/out_01_locations.json')
+
+df_locations <- df_locations %>%
+      dplyr::mutate(search_address = glue('{study_locations.facility}, {study_locations.city}, {study_locations.state}, {study_locations.zip}, {study_locations.country}')) %>%
+      dplyr::mutate(search_address = gsub(' NA$', '', search_address)) %>%
+      dplyr::mutate(search_address = gsub('NA[, ]', '', search_address)) %>%
+      dplyr::mutate(search_address = trimws(gsub('[,] +', ', ', search_address))) %>%
+```
+
+## Creating the ID
+
+Then the address becomes an ID: all uppercase, no accents, no spaces or punctuation. The same site appearing in several trials gets the same `location_id`, so it's searched on Google only once, which saves paid API calls.
+
+```r
+      dplyr::mutate(location_id = toupper(gsub('\\W', '', stringi::stri_trans_general(search_address, 'Latin-ASCII')))) %>%
+      dplyr::relocate(location_id, .after = study_nct_id)
+
+write(toJSON(df_locations, pretty = TRUE), file = 'data/out_08_locations.json')
+```
+
+## Result
+
+In the sample, with only 5 trials, each of the `r nrow(df)` sites has a different ID. With every trial, there's a lot of repetition, because the larger sites take part in many trials at the same time.
+
+```{r}
+show(df, c("search_address", "location_id"), n = 6)
+```

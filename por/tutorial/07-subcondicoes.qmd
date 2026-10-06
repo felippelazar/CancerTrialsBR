@@ -1,0 +1,95 @@
+---
+title: "7. Cenário e biomarcadores"
+---
+
+```{r}
+source("../../_setup.R")
+scores <- out("out_07_subconditions_scores") %>%
+  mutate(ai_subcondition_probability_score = as.numeric(ai_subcondition_probability_score))
+df <- out("out_07_studies")
+```
+
+Saber o tipo de câncer não basta: um estudo para câncer de pulmão metastático em primeira linha não serve para um paciente com doença localizada. O [`07_ai_subconditions.R`](`r gh("07_ai_subconditions.R")`){target="_blank"} classifica cada estudo pelo cenário da doença, pelos biomarcadores exigidos e pelos tratamentos anteriores. São esses códigos que viram os filtros da aplicação.
+
+O funcionamento é igual ao da etapa 6: uma nota para cada código, salva em formato longo, e depois um corte.
+
+## O *prompt*
+
+São 27 códigos, em quatro grupos:
+
+- **Cenário:** `LOCAL` (doença localizada), `METAS` (metastática), `LINE1` (primeira linha) e `LINEX` (já tratada).
+- **Próstata:** `CASTR` (resistente à castração) e `CASTS` (sensível à castração).
+- **Biomarcadores:** PD-L1 positivo ou negativo, ALK, RET, MET, NTRK, BRCA, PIK3CA, HRD, MSI/dMMR, FGFR, HER2 (baixo, positivo ou mutado), IDH, receptor de folato alfa, ROS1, KRAS e `MULTI` (vários biomarcadores).
+- **Tratamento prévio:** `PIMUN` (imunoterapia) e `PPLAT` (platina).
+
+O *prompt* também tem regras de dependência: `LINE1` e `LINEX` só fazem sentido quando o estudo é para doença metastática, e os códigos de cenário não se aplicam a tumores hematológicos.
+
+```r
+subconditionsClassificationPrompt <- '# Clinical Trial Classification Prompt
+
+You are a medical oncology specialist with expertise in clinical trial design and patient selection criteria.
+
+## Subcondition Definitions
+**LOCAL**: Localized/locally advanced disease without distant metastases (NOT applicable to hematological cancers)
+**METAS**: Metastatic/advanced disease with distant metastases present (NOT applicable to hematological cancers)
+**LINE1**: Treatment-naïve patients in metastatic setting (subset of METAS, ONLY applicable when METAS applies)
+**LINEX**: Patients that may have received some previous treatment (broader than LINE1, ONLY applicable when METAS applies)
+# ... (27 códigos no total)
+
+**Trial Title**: {var_1}
+**Trial Eligibility Criteria**: {var_2}'
+```
+
+## Aplicando a cada estudo
+
+O código é o mesmo da etapa 6, trocando o *prompt* e os nomes das colunas.
+
+```r
+df_studies <- fromJSON('data/out_06_studies.json')
+
+ai_subconditions <- df_studies %>%
+      split(1:nrow(.)) %>%
+      pblapply(function(x) {
+            answer <- chatLLM(x, intruction_prompt = subconditionsClassificationPrompt,
+                              var_1 = x[['study_official_title']],
+                              var_2 = x[['study_elegibility_criteria']],
+                              only_json_output = TRUE)
+            lapply(names(answer), function(code) data.frame(study_nct_id = x$study_nct_id, subcondition_code = code, answer[[code]])) %>%
+                  do.call(dplyr::bind_rows, .)
+      }) %>%
+      do.call(dplyr::bind_rows, .)
+
+write(toJSON(ai_subconditions, pretty = TRUE), file = 'data/out_07_subconditions_scores.json')
+```
+
+No primeiro estudo, o modelo identificou com segurança que é para doença metastática em primeira linha. Para PD-L1, ficou em 0,50: o estudo aceita pacientes com qualquer resultado e separa por coortes, então nenhum dos dois é exigido.
+
+```{r}
+scores %>%
+  filter(study_nct_id == first(study_nct_id)) %>%
+  arrange(desc(ai_subcondition_probability_score)) %>%
+  head(4) %>%
+  transmute(subcondition_code, ai_subcondition_probability_score, ai_reasoning = clip(ai_reasoning, 200)) %>%
+  kable()
+```
+
+## Escolhendo os códigos de cada estudo
+
+O corte aqui é mais baixo, a partir de 0,51. Por isso o PD-L1 do exemplo acima, com 0,50, fica de fora.
+
+```r
+df_studies %>%
+      dplyr::left_join(ai_subconditions %>%
+                             dplyr::filter(as.numeric(ai_subcondition_probability_score) >= 0.51) %>%
+                             dplyr::group_by(study_nct_id) %>%
+                             dplyr::summarise(ai_subconditions = paste0(subcondition_code, collapse = '|')),
+                       by = 'study_nct_id') %>%
+      toJSON(pretty = TRUE) %>%
+      write(file = 'data/out_07_studies.json')
+```
+
+## Resultado
+
+```{r}
+show(df, c("study_nct_id", "ai_conditions", "ai_subconditions"), n = 5)
+```

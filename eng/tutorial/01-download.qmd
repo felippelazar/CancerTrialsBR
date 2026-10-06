@@ -1,0 +1,128 @@
+---
+title: "1. Downloading the trials"
+---
+
+```{r}
+source("../../_setup.R")
+studies <- out("out_01_studies")
+locations <- out("out_01_locations")
+```
+
+[`01_clinicaltrials_download.R`](`r gh("01_clinicaltrials_download.R")`){target="_blank"} fetches the trials from the [ClinicalTrials.gov](https://clinicaltrials.gov/data-api/api){target="_blank"} API v2. It's the only step that doesn't use an LLM: it just downloads, tidies and saves.
+
+## How many trials to download
+
+The first line sets how many trials to download. With `5`, the test is quick. With `NULL`, the script downloads every recruiting trial.
+
+```r
+n_studies <- 5
+```
+
+## Tidying a trial
+
+The API returns each trial as a huge nested list. `tidyClinTrialsStudy()` picks only what matters and turns it into two tables: one row with the trial's information and one row per site.
+
+The helper `collapseField()` handles two common problems: empty fields become `NA`, and fields with more than one value (like phases "PHASE2|PHASE3") become text separated by `|`.
+
+```r
+tidyClinTrialsStudy <- function(study){
+
+      protocol <- study$protocolSection
+      collapseField <- function(x) if(length(x) == 0) NA_character_ else paste0(unlist(x), collapse = '|')
+
+      studyInfo <- data.frame(
+            study_nct_id = protocol$identificationModule$nctId,
+            study_acronym = collapseField(protocol$identificationModule$acronym),
+            study_brief_title = collapseField(protocol$identificationModule$briefTitle),
+            study_official_title = collapseField(protocol$identificationModule$officialTitle),
+            study_brief_summary = collapseField(protocol$descriptionModule$briefSummary),
+            study_elegibility_criteria = collapseField(protocol$eligibilityModule$eligibilityCriteria),
+            study_design_phase = collapseField(protocol$designModule$phases),
+            # ... (other columns: description, conditions, status, design, sponsor type)
+            study_lead_sponsor_name = collapseField(protocol$sponsorCollaboratorsModule$leadSponsor$name)
+      )
+```
+
+The sites are in `contactsLocationsModule$locations`. Each one becomes a row, and at the end only the Brazilian sites are kept. International trials often have hundreds of sites worldwide.
+
+```r
+      studyLocations <- protocol$contactsLocationsModule$locations %>%
+            lapply(function(x) data.frame(
+                  study_nct_id = studyInfo$study_nct_id,
+                  study_locations.facility = collapseField(x$facility),
+                  study_locations.city = collapseField(x$city),
+                  study_locations.state = collapseField(x$state),
+                  study_locations.zip = collapseField(x$zip),
+                  study_locations.country = collapseField(x$country),
+                  study_locations.status = collapseField(x$status)
+            )) %>%
+            dplyr::bind_rows()
+
+      if(nrow(studyLocations) > 0) studyLocations <- studyLocations %>% dplyr::filter(study_locations.country == 'Brazil')
+
+      return(list(study = studyInfo, locations = studyLocations))
+}
+```
+
+## Querying the API
+
+`getClinicalTrialsStudies()` builds the query with the condition, country and recruitment status. The API returns at most 100 trials per page, plus a `nextPageToken` when there are more. Hence the `while` loop: as long as there's a next page, the script keeps asking. When `n_studies` is a number, it stops after the first page.
+
+```r
+getClinicalTrialsStudies <- function(query_condition = 'cancer', location = 'Brazil', status = 'RECRUITING', n_studies = NULL){
+
+      query_search <- list(
+            format = 'json',
+            query.cond = query_condition,
+            query.locn = location,
+            filter.overallStatus = status,
+            pageSize = ifelse(is.null(n_studies), 100, n_studies)
+      )
+
+      search_list <- list()
+      has_next_page <- TRUE
+
+      while(has_next_page){
+
+            response <- GET(url = 'https://clinicaltrials.gov/api/v2/studies', query = query_search)
+            stop_for_status(response)
+            data <- fromJSON(content(response, 'text', encoding = 'UTF-8'), simplifyVector = FALSE)
+
+            search_list <- c(search_list, lapply(data$studies, tidyClinTrialsStudy))
+            message(glue('Downloaded Studies: {length(search_list)}'))
+
+            has_next_page <- !is.null(data$nextPageToken) && is.null(n_studies)
+            query_search$pageToken <- data$nextPageToken
+      }
+
+      return(search_list)
+}
+```
+
+## Running and saving
+
+Finally, the script calls the function, binds the tables from every trial and saves two files. To build another dataset, for example breast cancer only, just change `query_condition`.
+
+```r
+search_list <- getClinicalTrialsStudies(query_condition = 'cancer', location = 'Brazil', status = 'RECRUITING', n_studies = n_studies)
+
+df_studies <- lapply(search_list, function(x) x$study) %>% do.call(dplyr::bind_rows, .)
+df_locations <- lapply(search_list, function(x) x$locations) %>% do.call(dplyr::bind_rows, .)
+
+write(toJSON(df_studies, pretty = TRUE), file = 'data/out_01_studies.json')
+write(toJSON(df_locations, pretty = TRUE), file = 'data/out_01_locations.json')
+```
+
+## Result
+
+`out_01_studies.json` has one row per trial (`r nrow(studies)` in the sample):
+
+```{r}
+show(studies, c("study_nct_id", "study_brief_title", "study_design_phase", "study_lead_sponsor_name"), n = 5)
+```
+
+And `out_01_locations.json` has one row per trial and site (`r nrow(locations)` in the sample). Notice how many appear only as "Research Site": steps 8 and 9 try to figure out which sites these are.
+
+```{r}
+show(locations, c("study_nct_id", "study_locations.facility", "study_locations.city", "study_locations.status"), n = 6)
+```

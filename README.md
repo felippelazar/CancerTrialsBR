@@ -58,7 +58,7 @@ disponíveis em oncologia no Brasil. A ideia é que esta plataforma seja:
     e nos dashboards para uso de pesquisadores e médicos no Brasil.
 
 Para um passo a passo de cada etapa, acesse o
-[tutorial](https://felippelazar.github.io/CancerTrialsBR/tutorial/).
+[tutorial](https://felippelazar.github.io/CancerTrialsBR/por/tutorial/).
 
 ## **Como Ajudar**
 
@@ -84,7 +84,7 @@ As duas principais formas de ajudar são:
 
 - O projeto disponibiliza dois dashboards: um com os **dados atuais**
   dos estudos e outro com os **acessos às páginas**. Para acessá-los,
-  [clique aqui](https://felippelazar.github.io/CancerTrialsBR/data.html).
+  [clique aqui](https://felippelazar.github.io/CancerTrialsBR/por/dados.html).
 
 ## **Estrutura do Repositório**
 
@@ -96,7 +96,7 @@ O repositório é organizado da seguinte maneira:
 - Na pasta `R/data` estão os dados de exemplo gerados por cada etapa
   (`out_XX_*.json`) a partir de 5 estudos.
 
-- Os arquivos `index.Rmd`, `data.qmd`, `custom.scss` e a pasta `tutorial`
+- O arquivo `index.qmd`, as pastas `por` e `eng` e o `custom.scss`
   são o código do site em **Quarto**, gerado na pasta `docs`.
 
 Para acessar o repositório, [clique
@@ -109,7 +109,7 @@ aqui](https://github.com/felippelazar/CancerTrialsBR)
 - Os scripts do *pipeline* estão disponíveis publicamente na pasta `R`.
   Para usar o LLM e o Google Maps, é preciso criar o arquivo
   `R/.Renviron` com as suas próprias chaves (veja o
-  [tutorial](https://felippelazar.github.io/CancerTrialsBR/tutorial/)).
+  [tutorial](https://felippelazar.github.io/CancerTrialsBR/por/tutorial/)).
 
 ## **Citação**
 

@@ -1,0 +1,101 @@
+---
+title: "6. Cancer types"
+---
+
+```{r}
+source("../../_setup.R")
+scores <- out("out_06_conditions_scores") %>%
+  mutate(ai_condition_probability_score = as.numeric(ai_condition_probability_score))
+df <- out("out_06_studies")
+```
+
+The ClinicalTrials.gov conditions field is free text: each trial describes the disease its own way, which makes filtering by cancer type impossible. [`06_ai_conditions.R`](`r gh("06_ai_conditions.R")`){target="_blank"} classifies each trial into a fixed list of 39 cancer types.
+
+This step is different from the previous ones. Instead of asking for a direct answer, the script asks for a score from 0 to 1 for each type, along with the reasoning. That makes it possible to audit the model and adjust the cutoff later.
+
+## The prompt
+
+The prompt lists the 39 codes, grouped by area (gastrointestinal, thoracic, breast...). Some are general, like `BREAC` (breast), and others specific, like `BTNBC` (triple-negative breast). There are rules for this: if the trial accepts any breast cancer, both get a high score; if it's only for triple-negative, only the specific one does. There is also a code for basket trials with several cancer types (`ANYCA`), and one for non-cancer trials (`NTUMD`).
+
+For each code, the model returns three fields: the reasoning, the excerpt from the criteria supporting it, and the score.
+
+```r
+newConditionsClassificationPrompt <- '# Clinical Trial Cancer Condition Classification System
+
+## Cancer Condition Codes Reference
+
+### Solid Tumors - Gastrointestinal
+- **GASTC**: Gastric Cancer (stomach cancer)
+- **COLRC**: Colorectal Cancer
+- **PANCR**: Pancreatic Cancer
+# ... (39 codes in total)
+
+## Required JSON Output
+{{
+  "GASTC": {{
+    "ai_reasoning": "...",
+    "ai_evidence_mapping": "...",
+    "ai_condition_probability_score": 0.00
+  }},
+  # ... (one block per code)
+}}
+
+**Trial Title**: {var_1}
+**Trial Eligibility Criteria**: {var_2}'
+```
+
+## Applying it to each trial
+
+Here `chatLLM()` is called with `only_json_output = TRUE`, because the answer doesn't fit in one row: it's 39 blocks. The script turns each block into a row, with the NCT ID and the code, producing a "long" table with 39 rows per trial. This table is saved in full.
+
+```r
+df_studies <- fromJSON('data/out_05_studies.json')
+
+ai_conditions <- df_studies %>%
+      split(1:nrow(.)) %>%
+      pblapply(function(x) {
+            answer <- chatLLM(x, intruction_prompt = newConditionsClassificationPrompt,
+                              var_1 = x[['study_official_title']],
+                              var_2 = x[['study_elegibility_criteria']],
+                              only_json_output = TRUE)
+            lapply(names(answer), function(code) data.frame(study_nct_id = x$study_nct_id, condition_code = code, answer[[code]])) %>%
+                  do.call(dplyr::bind_rows, .)
+      }) %>%
+      do.call(dplyr::bind_rows, .)
+
+write(toJSON(ai_conditions, pretty = TRUE), file = 'data/out_06_conditions_scores.json')
+```
+
+Here are the highest scores for the first trial, a gastric and gastroesophageal junction cancer trial. The other 37 codes got low scores.
+
+```{r}
+scores %>%
+  filter(study_nct_id == first(study_nct_id)) %>%
+  arrange(desc(ai_condition_probability_score)) %>%
+  head(4) %>%
+  transmute(condition_code, ai_condition_probability_score, ai_reasoning = clip(ai_reasoning, 200)) %>%
+  kable()
+```
+
+## Choosing each trial's types
+
+Finally, codes scoring 0.80 or more are joined into an `ai_conditions` column, separated by `|`, and added to the trials table. For a stricter or looser cutoff, just change `0.80` and re-run this part using the saved scores file, without calling the LLM again.
+
+```r
+df_studies %>%
+      dplyr::left_join(ai_conditions %>%
+                             dplyr::filter(as.numeric(ai_condition_probability_score) >= 0.80) %>%
+                             dplyr::group_by(study_nct_id) %>%
+                             dplyr::summarise(ai_conditions = paste0(condition_code, collapse = '|')),
+                       by = 'study_nct_id') %>%
+      toJSON(pretty = TRUE) %>%
+      write(file = 'data/out_06_studies.json')
+```
+
+## Result
+
+Compare the conditions as listed on ClinicalTrials.gov with the assigned codes:
+
+```{r}
+show(df, c("study_nct_id", "study_conditions", "ai_conditions"), n = 5)
+```

@@ -1,0 +1,7 @@
+---
+title: "Data"
+toc: false
+---
+
+- [Data dashboard]({{< var dashboards.data >}}){target="_blank"}
+- [Access dashboard]({{< var dashboards.access >}}){target="_blank"}

@@ -1,0 +1,44 @@
+---
+title: "10. Banco de dados final"
+---
+
+```{r}
+source("../../_setup.R")
+db <- out("out_10_database")
+```
+
+Chegamos ao fim. O [`10_enriched_database.R`](`r gh("10_enriched_database.R")`){target="_blank"} junta os dois caminhos do *pipeline*: os estudos enriquecidos pelo LLM (etapas 2 a 7) e os centros localizados (etapas 8 e 9).
+
+## Juntando estudos e centros
+
+O script lê as duas tabelas e faz um `left_join()` pelo NCT. Como cada estudo tem vários centros, a relação é de um para muitos: a tabela final tem uma linha por estudo e centro. Dos centros, só as colunas úteis são mantidas: identificador, nome, status de recrutamento, endereço, coordenadas e o resultado da validação.
+
+```r
+df_studies <- fromJSON('data/out_07_studies.json')
+df_locations <- fromJSON('data/out_09_locations.json')
+
+df_database <- df_studies %>%
+      dplyr::left_join(df_locations %>%
+                             dplyr::select(study_nct_id, location_id, search_address, study_locations.status,
+                                           location_name, candidates.formatted_address,
+                                           candidates.geometry.location.lat, candidates.geometry.location.lng,
+                                           address_compatibility, manual_check),
+                       by = 'study_nct_id', relationship = 'one-to-many') %>%
+      dplyr::relocate(location_id, location_name, .after = study_nct_id)
+
+write(toJSON(df_database, pretty = TRUE), file = 'data/out_10_database.json')
+```
+
+## Resultado
+
+O `out_10_database.json` tem `r nrow(db)` linhas e `r ncol(db)` colunas no exemplo. É esse arquivo que alimenta a aplicação e os dashboards. Algumas colunas:
+
+```{r}
+show(db, c("study_nct_id", "location_name", "ai_conditions", "ai_subconditions", "study_locations.status"), n = 6, width = 60)
+```
+
+Para abrir no R:
+
+```r
+db <- jsonlite::fromJSON("data/out_10_database.json")
+```

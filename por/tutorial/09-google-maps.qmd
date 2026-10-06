@@ -1,0 +1,121 @@
+---
+title: "9. Localizando no Google Maps"
+---
+
+```{r}
+source("../../_setup.R")
+matched <- out("out_09_locations_matched")
+locs <- out("out_09_locations")
+```
+
+Muitos centros aparecem no ClinicalTrials.gov com nomes genéricos, como "Research Site" ou "Novartis Investigative Site". O [`09_google_maps_validation.R`](`r gh("09_google_maps_validation.R")`){target="_blank"} tenta descobrir qual é o centro real: procura o endereço no Google Maps e pede ao LLM para conferir se o lugar encontrado faz sentido.
+
+É a única etapa que usa a chave do Google (`GOOGLE_MAPS_API_KEY`).
+
+## Buscando no Google Places
+
+A função `getPlacesAPI()` usa o serviço *Find Place from Text* do Google Places. Ela envia o endereço (sem o que estiver entre parênteses, que costuma atrapalhar a busca) e pede de volta o nome, o endereço formatado e as coordenadas. O `Sys.sleep(0.1)` evita passar do limite de chamadas por segundo.
+
+```r
+getPlacesAPI <- function(search_address, api_key = Sys.getenv('GOOGLE_MAPS_API_KEY')){
+
+      resultPlacesAPI <- GET(
+            url = 'https://maps.googleapis.com/maps/api/place/findplacefromtext/json',
+            query = list(
+                  fields = 'name,formatted_address,geometry',
+                  input = gsub('\\(.*?\\)', '', search_address),
+                  inputtype = 'textquery',
+                  language = 'pt',
+                  key = api_key
+            )
+      )
+
+      Sys.sleep(0.1)
+      return(content(resultPlacesAPI, 'parsed'))
+}
+```
+
+O script chama a função uma vez para cada `location_id` único e guarda só o primeiro candidato. Quando o Google não encontra nada, a linha fica só com o endereço.
+
+```r
+df_locations <- fromJSON('data/out_08_locations.json')
+
+google_candidates <- df_locations %>%
+      dplyr::distinct(location_id, search_address) %>%
+      split(1:nrow(.)) %>%
+      pblapply(function(x) {
+            candidates <- getPlacesAPI(x$search_address)$candidates
+            if(length(candidates) == 0) return(data.frame(location_id = x$location_id, search_address = x$search_address))
+            candidate <- candidates[[1]]
+            data.frame(location_id = x$location_id,
+                       search_address = x$search_address,
+                       candidates.name = candidate$name,
+                       candidates.formatted_address = candidate$formatted_address,
+                       candidates.geometry.location.lat = candidate$geometry$location$lat,
+                       candidates.geometry.location.lng = candidate$geometry$location$lng)
+      }) %>%
+      do.call(dplyr::bind_rows, .)
+```
+
+## Conferindo com o LLM
+
+O Google sempre devolve alguma coisa, mesmo quando a busca é ruim. Para "Research Site, Porto Alegre", por exemplo, ele pode devolver qualquer instituto de pesquisa da cidade. Por isso, o LLM compara o endereço original com o candidato e dá uma nota de 0 a 1 para a chance de serem o mesmo lugar. O *prompt* pede que ele seja rigoroso e dê nota baixa quando o candidato não for um hospital ou centro de pesquisa.
+
+```r
+compareAddressPrompt <- 'Your task is to evaluate the two provided addresses and return in JSON format the probability that they refer to the same place.
+Be very strict in your evaluation and account for any uncertainties or ambiguities in the address details.
+In addition, this address comes from ClinicalTrials.Gov, and therefore it should correspond to a hospital or clinic or anything that resembles a research facility that recruit patients.
+# ...
+If the Google Maps API result is not a research facility or hospital, return a low probability irrespective of the address.
+
+Address 1: {var_1} (ClinicalTrials.Gov)
+Address 2: {var_2} (Google Places API)
+
+{{
+  "address_compatibility": {{float}}
+}}'
+```
+
+Centros sem candidato do Google não passam pelo LLM e ficam com nota 0. Com nota a partir de 0,80, o centro é considerado identificado (`manual_check = "Y"`).
+
+```r
+locations_matched <- google_candidates %>%
+      split(1:nrow(.)) %>%
+      pblapply(function(x) {
+            if(is.null(x$candidates.name) || is.na(x$candidates.name)) return(x)
+            chatLLM(x, intruction_prompt = compareAddressPrompt,
+                    var_1 = x[['search_address']],
+                    var_2 = glue('{x[["candidates.name"]]}, {x[["candidates.formatted_address"]]}'))
+      }) %>%
+      do.call(dplyr::bind_rows, .) %>%
+      dplyr::mutate(address_compatibility = ifelse(is.na(address_compatibility), 0, as.numeric(address_compatibility))) %>%
+      dplyr::mutate(manual_check = ifelse(address_compatibility >= 0.8, 'Y', 'N'))
+
+write(toJSON(locations_matched, pretty = TRUE), file = 'data/out_09_locations_matched.json')
+```
+
+Veja alguns casos do exemplo. Em Barretos, o CEP bate com o Hospital de Amor e a nota é alta. Em Porto Alegre, o Google sugeriu o Instituto do Cérebro, que não tem relação com o estudo, e o LLM deu nota baixa.
+
+```{r}
+show(matched, c("search_address", "candidates.name", "address_compatibility", "manual_check"), n = 5, width = 70)
+```
+
+## Juntando aos centros
+
+Por fim, o resultado volta para a tabela de centros. Os identificados recebem o nome do Google; os outros ficam como "(Centro Não-Identificado)". Esses são revisados manualmente e aparecem na aplicação com o botão "identificar centro", para que qualquer pessoa que reconheça o centro possa ajudar.
+
+```r
+df_locations %>%
+      dplyr::left_join(locations_matched %>% dplyr::select(-search_address), by = 'location_id') %>%
+      dplyr::mutate(location_name = ifelse(manual_check == 'Y', candidates.name, '(Centro Não-Identificado)')) %>%
+      toJSON(pretty = TRUE) %>%
+      write(file = 'data/out_09_locations.json')
+```
+
+## Resultado
+
+No exemplo, `r sum(locs$manual_check == "Y")` dos `r nrow(locs)` centros foram identificados automaticamente. Parece pouco, mas é o esperado: a maioria dos centros deste exemplo aparece só como "Research Site".
+
+```{r}
+show(locs, c("study_nct_id", "study_locations.facility", "study_locations.city", "location_name"), n = 6, width = 70)
+```

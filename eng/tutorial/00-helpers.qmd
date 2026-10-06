@@ -1,0 +1,126 @@
+---
+title: "Helper functions"
+---
+
+```{r}
+source("../../_setup.R")
+```
+
+Before the scripts, it's worth understanding [`00_functions.R`](`r gh("00_functions.R")`){target="_blank"}. Every other script starts with `source('00_functions.R')`, so everything defined here is available in every step.
+
+## Packages and keys
+
+The file starts by loading the packages. `httr` and `jsonlite` talk to the APIs, `dplyr` and `glue` handle data and text, `pbapply` shows a progress bar and `ellmer` talks to the LLM. Then it reads `.Renviron` (if it exists) and creates the `data/` folder, where every result is saved.
+
+```r
+library(httr)
+library(jsonlite)
+library(dplyr)
+library(glue)
+library(pbapply)
+library(ellmer)
+
+if(file.exists('.Renviron')) readRenviron('.Renviron')
+
+if(!dir.exists('data')) dir.create('data')
+```
+
+## The `chatLLM()` function
+
+This is the most important function in the project: steps 2 to 7 and step 9 use it. It takes one row of the table (`data_info`), a prompt and up to three variables, which are inserted in the prompt at `{var_1}`, `{var_2}` and `{var_3}`.
+
+The model comes from `LLM_MODEL` in `.Renviron`. The other arguments control what to do with the answer: whether to parse it as JSON, whether to return it alone or joined to the original row, and how many attempts to make before giving up.
+
+```r
+chatLLM <- function(data_info, intruction_prompt, var_1 = NULL, var_2 = NULL, var_3 = NULL,
+                    llm_model = Sys.getenv("LLM_MODEL", "openai/gpt-4.1-2025-04-14"),
+                    json_output = TRUE, only_json_output = FALSE, max_calls = 5,
+                    print_output = FALSE){
+```
+
+### Building the prompt
+
+`glue()` replaces `{var_1}`, `{var_2}` and `{var_3}` with the values passed in. That's why, when the prompt needs to show real braces (for example, the expected JSON format), they are written doubled: `{{ }}`.
+
+```r
+      aiFailed <- TRUE
+      count_fail <- 0
+
+      instructionLLM <- glue(intruction_prompt)
+```
+
+### Calling the LLM
+
+The call sits inside a `while` loop. ellmer's `chat()` starts a conversation with the chosen model, always at temperature 0, so the same question gets answers that are as similar as possible. If the call fails, `tryCatch()` returns `NULL` instead of stopping the script.
+
+When the answer should be JSON, the function strips the code fences (```` ```json ````) that some models add and tries to parse the result. If it can't, it also returns `NULL`.
+
+```r
+      while(aiFailed){
+
+            answerLLM <- tryCatch({
+                  chat(llm_model, params = params(temperature = 0))$chat(instructionLLM, echo = 'none')
+            }, error = function(cond) NULL)
+
+            if(print_output) print(answerLLM)
+            if (json_output && !is.null(answerLLM)) {
+                  clean_json <- gsub("(^```json|```$)", "", trimws(answerLLM))
+                  answerLLM <- tryCatch(jsonlite::fromJSON(clean_json, simplifyVector = TRUE),
+                                        error = function(e) {
+                                              message("JSON parsing failed: ", e$message)
+                                              return(NULL)
+                                        })
+            }
+```
+
+### Trying again
+
+If the answer came back `NULL`, the function waits one second and tries again, up to `max_calls`. This handles most temporary API failures and badly formatted answers.
+
+```r
+            if(!is.null(answerLLM) | count_fail == max_calls) {
+                  aiFailed <- FALSE
+            } else {
+                  print(glue('Error While Chatting/Parsing with LLM'))
+                  Sys.sleep(1)
+                  count_fail <- count_fail + 1
+            }
+      }
+```
+
+### Returning the result
+
+At the end, there are three possibilities. With `only_json_output = TRUE`, the function returns only the model's answer (steps 6 and 7 use it this way). By default, it binds the answer's columns to the original row with `cbind()`. And if every attempt fails, the row comes back unchanged, so one problematic trial never brings down the whole run.
+
+```r
+      if (!is.null(answerLLM)) {
+            if (only_json_output == TRUE) {
+                  return(answerLLM)
+            } else {
+                  return(cbind(data_info, answerLLM))
+            }
+      } else {
+            return(data_info)
+      }
+}
+```
+
+## How the steps use it
+
+On the next pages you'll always see the same pattern: the table is split into rows, each row goes through `chatLLM()` with a progress bar, and the rows are bound back together and saved as JSON.
+
+```r
+df_studies %>%
+      split(1:nrow(.)) %>%                                   # one row per trial
+      pblapply(function(x) chatLLM(x, intruction_prompt = myPrompt,
+                                   var_1 = x[['study_official_title']])) %>%
+      do.call(dplyr::bind_rows, .) %>%                       # bind the rows
+      toJSON(pretty = TRUE) %>%
+      write(file = 'data/out_XX_studies.json')
+```
+
+Because the answer is bound to the original row, each step only adds columns. For example, after step 2, each trial gets two new columns:
+
+```{r}
+show(out("out_02_studies"), c("study_nct_id", "study_ai_sentence_english"), n = 2)
+```
